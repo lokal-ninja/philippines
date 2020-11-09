@@ -1,0 +1,15 @@
+baseURL = "https://ph.shoogle.net/philippines"
+languageCode = "en"
+title = "Philippines"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "philippines"

@@ -1,0 +1,4 @@
+---
+title: "Merly Store"
+url: /quezon-city/merly-store/
+---

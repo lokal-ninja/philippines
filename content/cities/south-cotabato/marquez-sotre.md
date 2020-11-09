@@ -1,0 +1,4 @@
+---
+title: "Marquez Sotre"
+url: /south-cotabato/marquez-sotre/
+---
