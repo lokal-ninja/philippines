@@ -1,6 +1,6 @@
 ---
 title: Valenzuela
 url: /valenzuela/
-latitude: 14.5711849
-longitude: 121.02411950000001
+latitude: 14.707735000000001
+longitude: 120.9461718
 ---

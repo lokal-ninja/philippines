@@ -1,4 +1,4 @@
 ---
-title: "Saver's Appliances"
+title: "Savers Appliances"
 url: /quezon-city/savers-appliances/
 ---

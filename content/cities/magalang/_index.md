@@ -1,6 +1,6 @@
 ---
 title: Magalang
 url: /magalang/
-latitude: 15.2139307
-longitude: 120.66180800000001
+latitude: 14.900055900000002
+longitude: 120.51669340000001
 ---
