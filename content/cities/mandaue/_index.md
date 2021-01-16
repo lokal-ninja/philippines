@@ -1,6 +1,6 @@
 ---
 title: Mandaue
 url: /mandaue/
-latitude: 10.343706800000001
-longitude: 123.9422789
+latitude: 10.3269049
+longitude: 123.94272950000001
 ---
