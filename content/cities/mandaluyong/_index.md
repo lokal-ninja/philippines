@@ -1,6 +1,6 @@
 ---
 title: Mandaluyong
 url: /mandaluyong/
-latitude: 14.577780700000002
-longitude: 121.0332295
+latitude: 14.5776485
+longitude: 121.0337001
 ---

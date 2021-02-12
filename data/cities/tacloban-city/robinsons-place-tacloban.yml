@@ -1,11 +1,10 @@
-id: 3836775984
-type: node
-shop: mall
-latitude: 11.2078599
-longitude: 125.008064
-postcode: ""
+id: 119984693
+type: way
+latitude: 11.2071731
+longitude: 125.0082929
+postcode: "6500"
 city: Tacloban City
-street: ""
+street: "Tacloban - Palo Road"
 housenumber: 
 phone: ""
 opening_hours: "Su-Th 10:00-20:00; Fr-Sa 10:00-21:00"

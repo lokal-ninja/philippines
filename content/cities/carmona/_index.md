@@ -1,6 +1,6 @@
 ---
 title: Carmona
 url: /carmona/
-latitude: 14.3137024
-longitude: 121.05726680000001
+latitude: 12.0989667
+longitude: 124.77833770000001
 ---

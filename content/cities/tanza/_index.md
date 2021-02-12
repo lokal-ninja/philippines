@@ -1,6 +1,6 @@
 ---
 title: Tanza
 url: /tanza/
-latitude: 14.400295600000002
-longitude: 120.8575598
+latitude: 14.4006617
+longitude: 120.85728220000001
 ---

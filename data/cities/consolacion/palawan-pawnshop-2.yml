@@ -1,6 +1,5 @@
 id: 7545028668
 type: node
-shop: pawnbroker
 latitude: 10.373715
 longitude: 123.95482630000001
 postcode: "6001"
@@ -8,5 +7,5 @@ city: Consolacion
 street: "Cebu North Road"
 housenumber: 
 phone: ""
-opening_hours: "Su-Sat 08:00-17:00"
+opening_hours: "Su-Sa 08:00-17:00"
 website: ""
