@@ -1,6 +1,6 @@
 ---
 title: Noveleta
 url: /noveleta/
-latitude: 14.427506200000002
-longitude: 120.8808166
+latitude: 14.427701
+longitude: 120.880594
 ---
