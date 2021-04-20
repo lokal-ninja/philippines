@@ -1,6 +1,6 @@
 ---
 title: Maasin
 url: /maasin/
-latitude: 10.4304748
-longitude: 124.74982910000001
+latitude: 12.258453000000001
+longitude: 121.38491200000001
 ---

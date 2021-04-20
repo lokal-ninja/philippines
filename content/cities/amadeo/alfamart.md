@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /amadeo/alfamart/
-shop: supermarket
+shop: convenience
 ---
