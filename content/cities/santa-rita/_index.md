@@ -1,6 +1,6 @@
 ---
 title: Santa Rita
 url: /santa-rita/
-latitude: 14.8645791
-longitude: 120.86320010000001
+latitude: 12.5290786
+longitude: 124.29684270000001
 ---

@@ -1,6 +1,6 @@
 ---
 title: San Marcelino
 url: /san-marcelino/
-latitude: 15.7314059
-longitude: 120.76698660000001
+latitude: 11.152118600000001
+longitude: 124.4922324
 ---

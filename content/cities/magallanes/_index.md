@@ -1,6 +1,6 @@
 ---
 title: Magallanes
 url: /magallanes/
-latitude: 14.187693600000001
-longitude: 120.75692590000001
+latitude: 14.1878489
+longitude: 120.75721080000001
 ---

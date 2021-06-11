@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /san-juan-greenhills/abenson/
-shop: appliance
+shop: electronics
 ---
