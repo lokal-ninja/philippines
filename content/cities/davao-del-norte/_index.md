@@ -1,6 +1,6 @@
 ---
 title: Davao del Norte
 url: /davao-del-norte/
-latitude: 7.617949100000001
-longitude: 125.68346100000001
+latitude: 7.6179228000000005
+longitude: 125.68326870000001
 ---

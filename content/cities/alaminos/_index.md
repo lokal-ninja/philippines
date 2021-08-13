@@ -1,6 +1,6 @@
 ---
 title: Alaminos
 url: /alaminos/
-latitude: 16.1565721
-longitude: 119.9804539
+latitude: 16.1553857
+longitude: 119.9792201
 ---

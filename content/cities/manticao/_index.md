@@ -1,6 +1,6 @@
 ---
 title: Manticao
 url: /manticao/
-latitude: 8.3938912
-longitude: 124.29237260000001
+latitude: 8.401413
+longitude: 124.29112640000001
 ---

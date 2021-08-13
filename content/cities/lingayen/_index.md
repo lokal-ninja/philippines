@@ -1,6 +1,6 @@
 ---
 title: Lingayen
 url: /lingayen/
-latitude: 16.0206431
-longitude: 120.23060710000001
+latitude: 16.0206363
+longitude: 120.2307093
 ---

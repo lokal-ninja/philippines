@@ -1,6 +1,6 @@
 ---
 title: Anao
 url: /anao/
-latitude: 15.726202400000002
-longitude: 120.62181000000001
+latitude: 9.6041615
+longitude: 123.34945710000001
 ---

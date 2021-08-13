@@ -1,6 +1,6 @@
 ---
 title: Angono
 url: /angono/
-latitude: 14.525133
-longitude: 121.1539805
+latitude: 14.525848300000002
+longitude: 121.152968
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paombong
 url: /paombong/
-latitude: 14.836224300000001
-longitude: 120.7868318
+latitude: 14.8363954
+longitude: 120.78749970000001
 ---

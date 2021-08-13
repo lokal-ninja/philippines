@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /pasig/alfamart/
-shop: convenience
+shop: supermarket
 ---
