@@ -1,6 +1,6 @@
 ---
 title: Talavera
 url: /talavera/
-latitude: 10.411546300000001
-longitude: 123.66606780000001
+latitude: 10.410082300000001
+longitude: 123.6634281
 ---

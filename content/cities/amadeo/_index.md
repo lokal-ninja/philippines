@@ -1,6 +1,6 @@
 ---
 title: Amadeo
 url: /amadeo/
-latitude: 
-longitude: 
+latitude: 14.1702165
+longitude: 120.922037
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dagupan
 url: /dagupan/
-latitude: 16.0424848
-longitude: 120.33756880000001
+latitude: 16.043021
+longitude: 120.33376270000001
 ---

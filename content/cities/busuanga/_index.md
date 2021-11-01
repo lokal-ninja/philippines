@@ -1,6 +1,6 @@
 ---
 title: Busuanga
 url: /busuanga/
-latitude: 12.1332076
-longitude: 119.93613570000001
+latitude: 12.1335691
+longitude: 119.9396851
 ---

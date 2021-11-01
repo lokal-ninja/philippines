@@ -1,6 +1,6 @@
 ---
 title: Tayug
 url: /tayug/
-latitude: 16.027817900000002
-longitude: 120.7447204
+latitude: 16.0275524
+longitude: 120.74436370000001
 ---

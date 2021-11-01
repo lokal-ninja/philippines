@@ -1,6 +1,6 @@
 ---
 title: Sibonga
 url: /sibonga/
-latitude: 10.0214064
-longitude: 123.6173418
+latitude: 10.0172343
+longitude: 123.62068620000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SAI-SAI GENERAL MERCHANDISE"
+title: "Sai-Sai General Merchandise"
 url: /tarlac-city/sai-sai-general-merchandise/
 shop: general
 ---

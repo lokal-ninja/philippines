@@ -1,6 +1,6 @@
 ---
 title: Tagaytay
 url: /tagaytay/
-latitude: 14.115259100000001
-longitude: 120.96199270000001
+latitude: 14.1033348
+longitude: 120.9320914
 ---

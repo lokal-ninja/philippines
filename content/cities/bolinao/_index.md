@@ -1,6 +1,6 @@
 ---
 title: Bolinao
 url: /bolinao/
-latitude: 16.3856951
-longitude: 119.89451790000001
+latitude: 16.3886595
+longitude: 119.89321170000001
 ---

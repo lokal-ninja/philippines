@@ -1,6 +1,6 @@
 ---
 title: Balayan
 url: /balayan/
-latitude: 13.9503625
-longitude: 120.73348440000001
+latitude: 13.9382014
+longitude: 120.72948380000001
 ---

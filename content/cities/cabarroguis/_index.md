@@ -1,6 +1,6 @@
 ---
 title: Cabarroguis
 url: /cabarroguis/
-latitude: 16.5112794
-longitude: 121.523392
+latitude: 16.510207
+longitude: 121.5222842
 ---

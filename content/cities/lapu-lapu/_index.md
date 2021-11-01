@@ -1,6 +1,6 @@
 ---
-title: Lapu-lapu
+title: Lapu-Lapu
 url: /lapu-lapu/
-latitude: 7.81428
-longitude: 123.45118120000001
+latitude: 10.310278
+longitude: 123.94944400000001
 ---
