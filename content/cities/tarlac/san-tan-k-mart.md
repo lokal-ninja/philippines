@@ -1,5 +1,5 @@
 ---
-title: "SAN- TAN K-MART"
+title: "San-Tan K-Mart"
 url: /tarlac/san-tan-k-mart/
-shop: supermarket
+shop: convenience
 ---

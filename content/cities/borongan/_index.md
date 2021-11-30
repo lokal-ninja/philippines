@@ -1,6 +1,6 @@
 ---
-title: Boroᶇgan
+title: Borongan
 url: /borongan/
-latitude: 
-longitude: 
+latitude: 11.6085788
+longitude: 125.43532800000001
 ---

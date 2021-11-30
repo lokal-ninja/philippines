@@ -1,6 +1,6 @@
 ---
 title: Boljoon
 url: /boljoon/
-latitude: 9.6262257
-longitude: 123.47867140000001
+latitude: 9.628938900000001
+longitude: 123.4800179
 ---
