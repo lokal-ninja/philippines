@@ -1,5 +1,5 @@
 ---
-title: "Marilor store"
+title: "Marilor Store"
 url: /digos-city/marilor-store/
 shop: convenience
 ---
