@@ -1,6 +1,6 @@
 ---
 title: Pasay
 url: /pasay/
-latitude: 
-longitude: 
+latitude: 14.535
+longitude: 120.993
 ---

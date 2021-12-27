@@ -1,6 +1,6 @@
 ---
 title: Malilipot, Albay
 url: /malilipot-albay/
-latitude: 
-longitude: 
+latitude: 13.319
+longitude: 123.74
 ---

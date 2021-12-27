@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /tacloban-city/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

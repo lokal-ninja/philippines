@@ -1,5 +1,5 @@
 ---
 title: "Index"
 url: /lucena/index/
-shop: hairdresser
+shop: Friseur
 ---

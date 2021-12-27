@@ -1,6 +1,6 @@
 ---
 title: Pulanglupa Uno, Las Piñas
 url: /pulanglupa-uno-las-pinas/
-latitude: 
-longitude: 
+latitude: 14.471
+longitude: 120.978
 ---

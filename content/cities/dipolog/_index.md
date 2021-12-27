@@ -1,6 +1,6 @@
 ---
 title: Dipolog
 url: /dipolog/
-latitude: 8.5864062
-longitude: 123.34493710000001
+latitude: 8.585
+longitude: 123.342
 ---

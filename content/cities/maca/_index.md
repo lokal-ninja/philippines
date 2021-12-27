@@ -1,6 +1,6 @@
 ---
 title: MACA
 url: /maca/
-latitude: 
-longitude: 
+latitude: 15.488
+longitude: 121.088
 ---

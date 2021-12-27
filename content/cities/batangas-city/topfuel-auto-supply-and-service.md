@@ -1,5 +1,5 @@
 ---
 title: "Topfuel Auto Supply and Service"
 url: /batangas-city/topfuel-auto-supply-and-service/
-shop: car parts
+shop: Autoteile
 ---

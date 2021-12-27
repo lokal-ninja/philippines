@@ -1,5 +1,5 @@
 ---
 title: "RUSI"
 url: /bangued/rusi/
-shop: motorcycle
+shop: Motorrad
 ---

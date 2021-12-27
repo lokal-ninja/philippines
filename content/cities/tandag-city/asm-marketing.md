@@ -1,5 +1,5 @@
 ---
 title: "ASM Marketing"
 url: /tandag-city/asm-marketing/
-shop: hardware
+shop: Eisenwaren
 ---

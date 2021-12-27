@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
 url: /mandaluyong/lawson/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Caloocan
 url: /caloocan/
-latitude: 14.651322500000001
-longitude: 120.9722957
+latitude: 14.658
+longitude: 120.972
 ---

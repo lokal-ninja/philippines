@@ -1,6 +1,6 @@
 ---
 title: Arayat
 url: /arayat/
-latitude: 15.1515014
-longitude: 120.76956380000001
+latitude: 15.149
+longitude: 120.769
 ---

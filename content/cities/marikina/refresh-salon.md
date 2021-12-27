@@ -1,5 +1,5 @@
 ---
 title: "Refresh Salon"
 url: /marikina/refresh-salon/
-shop: hairdresser
+shop: Friseur
 ---

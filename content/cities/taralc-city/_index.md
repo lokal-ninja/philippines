@@ -1,6 +1,6 @@
 ---
 title: Taralc City
 url: /taralc-city/
-latitude: 
-longitude: 
+latitude: 15.475
+longitude: 120.59
 ---

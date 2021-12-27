@@ -1,5 +1,5 @@
 ---
 title: "Pandayan"
 url: /angono/pandayan/
-shop: books
+shop: Bücher
 ---

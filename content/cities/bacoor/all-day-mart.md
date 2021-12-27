@@ -1,5 +1,5 @@
 ---
 title: "All Day Mart"
 url: /bacoor/all-day-mart/
-shop: supermarket
+shop: Supermarkt
 ---

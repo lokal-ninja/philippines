@@ -1,5 +1,5 @@
 ---
 title: "Hardware"
 url: /pagsanjan/hardware/
-shop: doityourself
+shop: Baumarkt
 ---

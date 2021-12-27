@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /lemery/ministop/
-shop: convenience
+shop: Lebensmittel
 ---

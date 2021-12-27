@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /pasay/bose/
-shop: hifi
+shop: Hifi
 ---

@@ -1,6 +1,6 @@
 ---
 title: Isabel
 url: /isabel/
-latitude: 10.9250542
-longitude: 124.43831490000001
+latitude: 10.927
+longitude: 124.438
 ---

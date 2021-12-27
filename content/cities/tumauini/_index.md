@@ -1,6 +1,6 @@
 ---
 title: Tumauini
 url: /tumauini/
-latitude: 17.2740459
-longitude: 121.809876
+latitude: 17.281
+longitude: 121.807
 ---

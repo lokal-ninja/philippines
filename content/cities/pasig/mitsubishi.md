@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /pasig/mitsubishi/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Davao
 url: /davao/
-latitude: 
-longitude: 
+latitude: 7.081
+longitude: 125.583
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cabanatuan
 url: /cabanatuan/
-latitude: 15.4905045
-longitude: 120.96842640000001
+latitude: 15.493
+longitude: 120.976
 ---

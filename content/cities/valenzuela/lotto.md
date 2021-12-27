@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
 url: /valenzuela/lotto/
-shop: lottery
+shop: Lotterie
 ---

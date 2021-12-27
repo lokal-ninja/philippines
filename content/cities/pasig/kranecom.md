@@ -1,5 +1,5 @@
 ---
 title: "Kranecom"
 url: /pasig/kranecom/
-shop: computer
+shop: Computer
 ---

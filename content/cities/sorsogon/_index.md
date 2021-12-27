@@ -1,6 +1,6 @@
 ---
 title: Sorsogon
 url: /sorsogon/
-latitude: 12.833333000000001
-longitude: 123.916667
+latitude: 12.974
+longitude: 124.025
 ---

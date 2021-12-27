@@ -1,5 +1,5 @@
 ---
 title: "Suds Professional Laundry"
 url: /antipolo/suds-professional-laundry/
-shop: laundry
+shop: Wäscherei
 ---

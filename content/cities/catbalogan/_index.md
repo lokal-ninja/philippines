@@ -1,6 +1,6 @@
 ---
 title: Catbalogan
 url: /catbalogan/
-latitude: 11.775319900000001
-longitude: 124.8829549
+latitude: 11.775
+longitude: 124.882
 ---

@@ -1,6 +1,6 @@
 ---
 title: Calamba City
 url: /calamba-city/
-latitude: 
-longitude: 
+latitude: 14.216
+longitude: 121.119
 ---

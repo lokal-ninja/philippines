@@ -1,5 +1,5 @@
 ---
 title: "Salud Bakery"
 url: /santa-rosa/salud-bakery/
-shop: bakery
+shop: Bäckerei
 ---

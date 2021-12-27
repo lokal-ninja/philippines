@@ -1,6 +1,6 @@
 ---
 title: Ibaan
 url: /ibaan/
-latitude: 13.8185254
-longitude: 121.13209750000001
+latitude: 13.858
+longitude: 121.094
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
 url: /imus/red-ribbon/
-shop: pastry
+shop: Konditorei
 ---

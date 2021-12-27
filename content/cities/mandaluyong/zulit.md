@@ -1,5 +1,5 @@
 ---
 title: "Zulit"
 url: /mandaluyong/zulit/
-shop: clothes
+shop: Kleidung
 ---

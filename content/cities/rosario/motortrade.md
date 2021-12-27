@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /rosario/motortrade/
-shop: motorcycle
+shop: Motorrad
 ---

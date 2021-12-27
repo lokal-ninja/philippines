@@ -1,6 +1,6 @@
 ---
 title: science city of muñoz
 url: /science-city-of-munoz/
-latitude: 
-longitude: 
+latitude: 15.728
+longitude: 120.931
 ---

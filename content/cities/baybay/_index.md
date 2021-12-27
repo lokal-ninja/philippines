@@ -1,6 +1,6 @@
 ---
 title: Baybay
 url: /baybay/
-latitude: 9.8697251
-longitude: 125.5463397
+latitude: 10.677
+longitude: 124.801
 ---

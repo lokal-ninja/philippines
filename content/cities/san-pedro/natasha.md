@@ -1,5 +1,5 @@
 ---
 title: "Natasha"
 url: /san-pedro/natasha/
-shop: clothes
+shop: Kleidung
 ---

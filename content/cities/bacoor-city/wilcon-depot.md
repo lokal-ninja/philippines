@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Depot"
 url: /bacoor-city/wilcon-depot/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Supermarket"
 url: /malabon/robinsons-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

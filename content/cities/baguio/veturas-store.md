@@ -1,5 +1,5 @@
 ---
 title: "vetura's store"
 url: /baguio/veturas-store/
-shop: convenience
+shop: Lebensmittel
 ---

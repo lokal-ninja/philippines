@@ -1,6 +1,6 @@
 ---
 title: Balanga City
 url: /balanga-city/
-latitude: 
-longitude: 
+latitude: 14.697
+longitude: 120.517
 ---

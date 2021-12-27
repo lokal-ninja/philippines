@@ -1,6 +1,6 @@
 ---
 title: Malolos City
 url: /malolos-city/
-latitude: 
-longitude: 
+latitude: 14.853
+longitude: 120.807
 ---

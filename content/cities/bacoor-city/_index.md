@@ -1,6 +1,6 @@
 ---
 title: Bacoor city
 url: /bacoor-city/
-latitude: 
-longitude: 
+latitude: 14.396
+longitude: 120.968
 ---

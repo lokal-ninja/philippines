@@ -1,6 +1,6 @@
 ---
 title: Zaragoza
 url: /zaragoza/
-latitude: 7.1753758
-longitude: 126.5234394
+latitude: 15.448
+longitude: 120.809
 ---

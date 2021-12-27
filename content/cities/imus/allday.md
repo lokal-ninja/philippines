@@ -1,5 +1,5 @@
 ---
 title: "AllDay"
 url: /imus/allday/
-shop: convenience
+shop: Lebensmittel
 ---

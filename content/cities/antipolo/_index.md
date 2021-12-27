@@ -1,6 +1,6 @@
 ---
 title: Antipolo
 url: /antipolo/
-latitude: 14.5870262
-longitude: 121.1758611
+latitude: 14.581
+longitude: 121.176
 ---

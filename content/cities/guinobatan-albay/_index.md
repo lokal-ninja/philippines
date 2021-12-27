@@ -1,6 +1,6 @@
 ---
 title: Guinobatan, Albay
 url: /guinobatan-albay/
-latitude: 
-longitude: 
+latitude: 13.193
+longitude: 123.599
 ---

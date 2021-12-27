@@ -1,6 +1,6 @@
 ---
 title: Córdova
 url: /cordova/
-latitude: 
-longitude: 
+latitude: 10.251
+longitude: 123.949
 ---

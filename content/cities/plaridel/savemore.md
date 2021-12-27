@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /plaridel/savemore/
-shop: supermarket
+shop: Supermarkt
 ---

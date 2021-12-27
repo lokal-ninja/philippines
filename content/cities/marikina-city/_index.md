@@ -1,6 +1,6 @@
 ---
 title: Marikina City
 url: /marikina-city/
-latitude: 
-longitude: 
+latitude: 14.649
+longitude: 121.093
 ---

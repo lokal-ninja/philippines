@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /malolos/waltermart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isuzu"
 url: /general-santos/isuzu/
-shop: car
+shop: Autohaus
 ---

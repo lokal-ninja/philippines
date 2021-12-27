@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /malolos/motortrade/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet Carmona"
 url: /carmona/chevrolet-carmona/
-shop: car
+shop: Autohaus
 ---

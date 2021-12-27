@@ -1,5 +1,5 @@
 ---
 title: "Berea Bike Shop"
 url: /marikina/berea-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

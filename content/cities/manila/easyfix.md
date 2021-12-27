@@ -1,5 +1,5 @@
 ---
 title: "Easyfix"
 url: /manila/easyfix/
-shop: hardware
+shop: Eisenwaren
 ---

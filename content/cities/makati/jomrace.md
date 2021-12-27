@@ -1,5 +1,5 @@
 ---
 title: "Jomrace"
 url: /makati/jomrace/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /pasig/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

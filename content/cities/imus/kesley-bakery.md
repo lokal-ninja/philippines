@@ -1,5 +1,5 @@
 ---
 title: "Kesley Bakery"
 url: /imus/kesley-bakery/
-shop: bakery
+shop: Bäckerei
 ---

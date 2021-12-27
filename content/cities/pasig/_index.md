@@ -1,6 +1,6 @@
 ---
 title: Pasig
 url: /pasig/
-latitude: 
-longitude: 
+latitude: 14.58
+longitude: 121.063
 ---

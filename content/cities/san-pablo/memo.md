@@ -1,5 +1,5 @@
 ---
 title: "Memo"
 url: /san-pablo/memo/
-shop: clothes
+shop: Kleidung
 ---

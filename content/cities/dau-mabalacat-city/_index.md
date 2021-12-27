@@ -1,6 +1,6 @@
 ---
 title: Dau, Mabalacat City
 url: /dau-mabalacat-city/
-latitude: 
-longitude: 
+latitude: 15.179
+longitude: 120.59
 ---

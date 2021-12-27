@@ -1,5 +1,5 @@
 ---
 title: "Marie Store"
 url: /san-jose/marie-store/
-shop: convenience
+shop: Lebensmittel
 ---

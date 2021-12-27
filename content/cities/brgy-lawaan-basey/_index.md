@@ -1,6 +1,6 @@
 ---
 title: Brgy. Lawaan, Basey
 url: /brgy-lawaan-basey/
-latitude: 
-longitude: 
+latitude: 11.283
+longitude: 125.069
 ---

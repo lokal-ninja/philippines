@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /tanauan/waltermart/
-shop: supermarket
+shop: Supermarkt
 ---

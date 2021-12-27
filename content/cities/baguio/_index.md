@@ -1,6 +1,6 @@
 ---
 title: Baguio
 url: /baguio/
-latitude: 
-longitude: 
+latitude: 16.422
+longitude: 120.626
 ---

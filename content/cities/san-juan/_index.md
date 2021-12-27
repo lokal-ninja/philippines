@@ -1,6 +1,6 @@
 ---
 title: San Juan
 url: /san-juan/
-latitude: 10.2629046
-longitude: 125.1729016
+latitude: 14.608
+longitude: 121.027
 ---

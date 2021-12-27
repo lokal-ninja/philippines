@@ -1,6 +1,6 @@
 ---
 title: Santa Ana
 url: /santa-ana/
-latitude: 10.925775100000001
-longitude: 124.92851540000001
+latitude: 14.58
+longitude: 121.011
 ---

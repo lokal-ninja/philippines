@@ -1,5 +1,5 @@
 ---
 title: "Wash-N-Go"
 url: /los-banos/wash-n-go/
-shop: laundry
+shop: Wäscherei
 ---

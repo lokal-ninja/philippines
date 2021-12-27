@@ -1,5 +1,5 @@
 ---
 title: "Tribal"
 url: /imus/tribal/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SYM Motorcycles"
 url: /pateros/sym-motorcycles/
-shop: car
+shop: Autohaus
 ---

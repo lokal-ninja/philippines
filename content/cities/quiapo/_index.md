@@ -1,6 +1,6 @@
 ---
 title: Quiapo
 url: /quiapo/
-latitude: 14.5982613
-longitude: 120.98360810000001
+latitude: 14.601
+longitude: 120.982
 ---

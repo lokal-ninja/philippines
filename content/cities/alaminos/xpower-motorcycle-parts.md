@@ -1,5 +1,5 @@
 ---
 title: "XPower Motorcycle Parts"
 url: /alaminos/xpower-motorcycle-parts/
-shop: shop
+shop: Allgemein
 ---

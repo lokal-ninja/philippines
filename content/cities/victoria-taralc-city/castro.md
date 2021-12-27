@@ -1,5 +1,5 @@
 ---
 title: "Castro"
 url: /victoria-taralc-city/castro/
-shop: general
+shop: Dorfladen
 ---

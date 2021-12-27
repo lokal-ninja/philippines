@@ -1,5 +1,5 @@
 ---
 title: "Megabytes"
 url: /gandara/megabytes/
-shop: computer
+shop: Computer
 ---

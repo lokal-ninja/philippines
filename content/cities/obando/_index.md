@@ -1,6 +1,6 @@
 ---
 title: Obando
 url: /obando/
-latitude: 14.709927
-longitude: 120.93654310000001
+latitude: 14.695
+longitude: 120.949
 ---

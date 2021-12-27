@@ -1,6 +1,6 @@
 ---
 title: Magdiwang
 url: /magdiwang/
-latitude: 12.490972200000002
-longitude: 122.51092650000001
+latitude: 12.491
+longitude: 122.513
 ---

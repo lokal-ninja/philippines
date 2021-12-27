@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /tanza/ministop/
-shop: convenience
+shop: Lebensmittel
 ---

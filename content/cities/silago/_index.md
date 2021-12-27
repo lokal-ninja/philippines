@@ -1,6 +1,6 @@
 ---
 title: Silago
 url: /silago/
-latitude: 10.5285405
-longitude: 125.1623205
+latitude: 10.529
+longitude: 125.162
 ---

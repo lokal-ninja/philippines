@@ -1,6 +1,6 @@
 ---
 title: Mabalacat
 url: /mabalacat/
-latitude: 
-longitude: 
+latitude: 15.178
+longitude: 120.588
 ---

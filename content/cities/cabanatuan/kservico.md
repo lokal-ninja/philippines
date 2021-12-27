@@ -1,5 +1,5 @@
 ---
 title: "KServico"
 url: /cabanatuan/kservico/
-shop: motorcycle
+shop: Motorrad
 ---

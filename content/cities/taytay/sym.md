@@ -1,5 +1,5 @@
 ---
 title: "SYM"
 url: /taytay/sym/
-shop: motorcycle
+shop: Motorrad
 ---

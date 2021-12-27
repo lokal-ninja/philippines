@@ -1,5 +1,5 @@
 ---
 title: "Zoril Store"
 url: /baguio/zoril-store/
-shop: convenience
+shop: Lebensmittel
 ---

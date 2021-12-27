@@ -1,6 +1,6 @@
 ---
 title: Hilongos
 url: /hilongos/
-latitude: 
-longitude: 
+latitude: 10.374
+longitude: 124.749
 ---

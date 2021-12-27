@@ -1,6 +1,6 @@
 ---
 title: Ormoc City Proper
 url: /ormoc-city-proper/
-latitude: 
-longitude: 
+latitude: 11.008
+longitude: 124.604
 ---

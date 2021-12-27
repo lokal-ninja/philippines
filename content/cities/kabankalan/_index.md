@@ -1,6 +1,6 @@
 ---
 title: Kabankalan
 url: /kabankalan/
-latitude: 9.9889153
-longitude: 122.8134802
+latitude: 9.995
+longitude: 122.815
 ---

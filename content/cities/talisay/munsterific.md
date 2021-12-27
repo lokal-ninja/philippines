@@ -1,5 +1,5 @@
 ---
 title: "Munsterific"
 url: /talisay/munsterific/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newport Electronics"
 url: /manila/newport-electronics/
-shop: electronics
+shop: Elektronik
 ---

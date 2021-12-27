@@ -1,5 +1,5 @@
 ---
 title: "Skyrah"
 url: /gerona/skyrah/
-shop: bakery
+shop: Bäckerei
 ---

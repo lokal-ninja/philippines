@@ -1,5 +1,5 @@
 ---
 title: "Espraket"
 url: /marikina/espraket/
-shop: motorcycle
+shop: Motorrad
 ---

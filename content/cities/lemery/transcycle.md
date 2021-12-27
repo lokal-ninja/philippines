@@ -1,5 +1,5 @@
 ---
 title: "TransCycle"
 url: /lemery/transcycle/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muntinlupa City
 url: /muntinlupa-city/
-latitude: 
-longitude: 
+latitude: 14.428
+longitude: 121.023
 ---

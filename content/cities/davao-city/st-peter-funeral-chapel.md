@@ -1,5 +1,5 @@
 ---
 title: "St. Peter Funeral Chapel"
 url: /davao-city/st-peter-funeral-chapel/
-shop: funeral directors
+shop: Bestattungen
 ---

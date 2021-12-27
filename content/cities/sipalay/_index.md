@@ -1,6 +1,6 @@
 ---
 title: Sipalay
 url: /sipalay/
-latitude: 9.7491266
-longitude: 122.4040602
+latitude: 9.749
+longitude: 122.409
 ---

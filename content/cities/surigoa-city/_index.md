@@ -1,6 +1,6 @@
 ---
 title: Surigoa City
 url: /surigoa-city/
-latitude: 
-longitude: 
+latitude: 9.79
+longitude: 125.489
 ---

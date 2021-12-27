@@ -1,5 +1,5 @@
 ---
 title: "ZEPH"
 url: /talisay/zeph/
-shop: copyshop
+shop: Kopieren
 ---

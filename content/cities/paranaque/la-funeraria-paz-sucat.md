@@ -1,5 +1,5 @@
 ---
 title: "La Funeraria Paz Sucat"
 url: /paranaque/la-funeraria-paz-sucat/
-shop: funeral directors
+shop: Bestattungen
 ---

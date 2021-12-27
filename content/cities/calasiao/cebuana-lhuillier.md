@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /calasiao/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

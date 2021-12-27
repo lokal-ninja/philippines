@@ -1,6 +1,6 @@
 ---
 title: Lubao
 url: /lubao/
-latitude: 14.9378136
-longitude: 120.600497
+latitude: 14.934
+longitude: 120.59
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Tint"
 url: /silang/car-tint/
-shop: car repair
+shop: Autowerkstatt
 ---

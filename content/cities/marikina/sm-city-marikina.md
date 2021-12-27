@@ -1,5 +1,5 @@
 ---
 title: "SM City Marikina"
 url: /marikina/sm-city-marikina/
-shop: mall
+shop: Einkaufszentrum
 ---

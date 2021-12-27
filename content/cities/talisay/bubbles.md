@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /talisay/bubbles/
-shop: laundry
+shop: Wäscherei
 ---

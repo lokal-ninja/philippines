@@ -1,5 +1,5 @@
 ---
 title: "CVAMPCO"
 url: /cagdianao/cvampco/
-shop: hardware
+shop: Eisenwaren
 ---

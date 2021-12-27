@@ -1,5 +1,5 @@
 ---
 title: "CUT"
 url: /los-banos/cut/
-shop: hairdresser
+shop: Friseur
 ---

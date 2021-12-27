@@ -1,6 +1,6 @@
 ---
 title: Paoay
 url: /paoay/
-latitude: 18.0617813
-longitude: 120.51950930000001
+latitude: 18.114
+longitude: 120.523
 ---

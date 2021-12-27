@@ -1,6 +1,6 @@
 ---
 title: Oroquieta
 url: /oroquieta/
-latitude: 8.4858864
-longitude: 123.8077767
+latitude: 8.481
+longitude: 123.805
 ---

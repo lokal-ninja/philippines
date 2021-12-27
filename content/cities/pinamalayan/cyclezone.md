@@ -1,5 +1,5 @@
 ---
 title: "CycleZone"
 url: /pinamalayan/cyclezone/
-shop: hardware
+shop: Eisenwaren
 ---

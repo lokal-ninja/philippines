@@ -1,6 +1,6 @@
 ---
 title: Teresa
 url: /teresa/
-latitude: 14.558828400000001
-longitude: 121.2073048
+latitude: 14.559
+longitude: 121.209
 ---

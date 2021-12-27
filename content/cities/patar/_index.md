@@ -1,6 +1,6 @@
 ---
 title: Patar
 url: /patar/
-latitude: 16.3197926
-longitude: 119.7860414
+latitude: 16.343
+longitude: 119.799
 ---

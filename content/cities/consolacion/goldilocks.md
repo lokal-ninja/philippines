@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /consolacion/goldilocks/
-shop: bakery
+shop: Bäckerei
 ---

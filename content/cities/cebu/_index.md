@@ -1,6 +1,6 @@
 ---
 title: Cebu
 url: /cebu/
-latitude: 10.450000000000001
-longitude: 123.84
+latitude: 10.31
+longitude: 123.895
 ---

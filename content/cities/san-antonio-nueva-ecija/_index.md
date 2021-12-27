@@ -1,6 +1,6 @@
 ---
 title: San Antonio, Nueva Ecija
 url: /san-antonio-nueva-ecija/
-latitude: 
-longitude: 
+latitude: 15.366
+longitude: 120.85
 ---

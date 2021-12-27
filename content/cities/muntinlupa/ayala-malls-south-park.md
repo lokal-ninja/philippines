@@ -1,5 +1,5 @@
 ---
 title: "Ayala Malls South Park"
 url: /muntinlupa/ayala-malls-south-park/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kamuning, Quezon City
 url: /kamuning-quezon-city/
-latitude: 
-longitude: 
+latitude: 14.627
+longitude: 121.036
 ---

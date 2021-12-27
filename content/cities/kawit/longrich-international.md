@@ -1,5 +1,5 @@
 ---
 title: "Longrich International"
 url: /kawit/longrich-international/
-shop: beauty
+shop: Kosmetik
 ---

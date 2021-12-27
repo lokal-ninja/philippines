@@ -1,5 +1,5 @@
 ---
 title: "Hydrogem"
 url: /tarlac/hydrogem/
-shop: water
+shop: Wasser
 ---

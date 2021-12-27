@@ -1,5 +1,5 @@
 ---
 title: "Joji"
 url: /imus/joji/
-shop: supermarket
+shop: Supermarkt
 ---

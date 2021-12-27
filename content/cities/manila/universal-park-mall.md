@@ -1,5 +1,5 @@
 ---
 title: "Universal Park Mall"
 url: /manila/universal-park-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

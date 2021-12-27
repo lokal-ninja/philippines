@@ -1,6 +1,6 @@
 ---
 title: n/a
 url: /n-a/
-latitude: 
-longitude: 
+latitude: 13.887
+longitude: 120.938
 ---

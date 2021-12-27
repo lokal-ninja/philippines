@@ -1,6 +1,6 @@
 ---
 title: Ozamiz City
 url: /ozamiz-city/
-latitude: 
-longitude: 
+latitude: 8.161
+longitude: 123.829
 ---

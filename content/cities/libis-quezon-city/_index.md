@@ -1,6 +1,6 @@
 ---
 title: Libis, Quezon City
 url: /libis-quezon-city/
-latitude: 
-longitude: 
+latitude: 14.604
+longitude: 121.079
 ---

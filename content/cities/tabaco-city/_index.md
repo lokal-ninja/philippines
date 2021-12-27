@@ -1,6 +1,6 @@
 ---
 title: Tabaco City
 url: /tabaco-city/
-latitude: 
-longitude: 
+latitude: 13.358
+longitude: 123.731
 ---

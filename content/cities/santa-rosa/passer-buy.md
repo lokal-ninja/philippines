@@ -1,5 +1,5 @@
 ---
 title: "Passer Buy"
 url: /santa-rosa/passer-buy/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aguila Glass"
 url: /lipa/aguila-glass/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cavite
 url: /cavite/
-latitude: 15.6783028
-longitude: 120.76971710000001
+latitude: 14.465
+longitude: 120.884
 ---

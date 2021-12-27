@@ -1,6 +1,6 @@
 ---
 title: Camiling
 url: /camiling/
-latitude: 15.686378000000001
-longitude: 120.41467720000001
+latitude: 15.687
+longitude: 120.412
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vigan City, Ilocos Sur
 url: /vigan-city-ilocos-sur/
-latitude: 
-longitude: 
+latitude: 17.573
+longitude: 120.388
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweetfields"
 url: /imus/sweetfields/
-shop: chocolate
+shop: Schokolade
 ---

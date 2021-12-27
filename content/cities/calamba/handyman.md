@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /calamba/handyman/
-shop: doityourself
+shop: Baumarkt
 ---

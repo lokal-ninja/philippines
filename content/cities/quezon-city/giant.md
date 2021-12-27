@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /quezon-city/giant/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

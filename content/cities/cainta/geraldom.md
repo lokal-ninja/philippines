@@ -1,5 +1,5 @@
 ---
 title: "Geraldom"
 url: /cainta/geraldom/
-shop: hardware
+shop: Eisenwaren
 ---

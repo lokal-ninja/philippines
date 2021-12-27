@@ -1,6 +1,6 @@
 ---
 title: Digos City
 url: /digos-city/
-latitude: 
-longitude: 
+latitude: 6.753
+longitude: 125.356
 ---

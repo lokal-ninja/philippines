@@ -1,5 +1,5 @@
 ---
 title: "MLhuillier"
 url: /quezon-city/mlhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

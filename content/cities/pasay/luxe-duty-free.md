@@ -1,5 +1,5 @@
 ---
 title: "Luxe Duty Free"
 url: /pasay/luxe-duty-free/
-shop: shop
+shop: Allgemein
 ---

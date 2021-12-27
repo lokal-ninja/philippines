@@ -1,5 +1,5 @@
 ---
 title: "Water Market"
 url: /dasmarinas/water-market/
-shop: water
+shop: Wasser
 ---

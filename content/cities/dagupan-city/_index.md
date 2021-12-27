@@ -1,6 +1,6 @@
 ---
 title: Dagupan City
 url: /dagupan-city/
-latitude: 
-longitude: 
+latitude: 16.029
+longitude: 120.329
 ---

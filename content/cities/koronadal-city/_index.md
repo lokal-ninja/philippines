@@ -1,6 +1,6 @@
 ---
 title: Koronadal City
 url: /koronadal-city/
-latitude: 
-longitude: 
+latitude: 6.506
+longitude: 124.837
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TECHNO G"
 url: /calbayog/techno-g/
-shop: computer
+shop: Computer
 ---

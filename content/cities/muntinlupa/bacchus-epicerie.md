@@ -1,5 +1,5 @@
 ---
 title: "Bacchus Épicerie"
 url: /muntinlupa/bacchus-epicerie/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

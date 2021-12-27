@@ -1,6 +1,6 @@
 ---
 title: Sinait
 url: /sinait/
-latitude: 17.8657434
-longitude: 120.4571865
+latitude: 17.851
+longitude: 120.455
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valdez Store"
 url: /el-nido/valdez-store/
-shop: convenience
+shop: Lebensmittel
 ---

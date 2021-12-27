@@ -1,5 +1,5 @@
 ---
 title: "AllDay"
 url: /las-pinas/allday-5/
-shop: convenience
+shop: Lebensmittel
 ---

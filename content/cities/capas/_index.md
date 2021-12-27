@@ -1,6 +1,6 @@
 ---
 title: Capas
 url: /capas/
-latitude: 15.336112000000002
-longitude: 120.58990890000001
+latitude: 15.383
+longitude: 120.595
 ---

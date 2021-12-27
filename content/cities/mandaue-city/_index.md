@@ -1,6 +1,6 @@
 ---
 title: Mandaue City
 url: /mandaue-city/
-latitude: 
-longitude: 
+latitude: 10.336
+longitude: 123.945
 ---

@@ -1,6 +1,6 @@
 ---
 title: Talisay
 url: /talisay/
-latitude: 9.4509697
-longitude: 123.30513870000001
+latitude: 14.095
+longitude: 121.046
 ---

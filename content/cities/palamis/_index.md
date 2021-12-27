@@ -1,6 +1,6 @@
 ---
 title: Palamis
 url: /palamis/
-latitude: 
-longitude: 
+latitude: 16.144
+longitude: 119.975
 ---

@@ -1,6 +1,6 @@
 ---
 title: Prosperidad
 url: /prosperidad/
-latitude: 10.512195700000001
-longitude: 123.27798410000001
+latitude: 8.605
+longitude: 125.913
 ---

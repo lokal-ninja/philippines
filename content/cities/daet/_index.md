@@ -1,6 +1,6 @@
 ---
 title: Daet
 url: /daet/
-latitude: 14.112333000000001
-longitude: 122.9556967
+latitude: 14.117
+longitude: 122.955
 ---

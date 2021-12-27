@@ -1,6 +1,6 @@
 ---
 title: El Nido
 url: /el-nido/
-latitude: 
-longitude: 
+latitude: 11.18
+longitude: 119.388
 ---

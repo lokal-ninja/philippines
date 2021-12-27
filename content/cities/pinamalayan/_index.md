@@ -1,6 +1,6 @@
 ---
 title: Pinamalayan
 url: /pinamalayan/
-latitude: 13.038669100000002
-longitude: 121.4801563
+latitude: 13.039
+longitude: 121.48
 ---

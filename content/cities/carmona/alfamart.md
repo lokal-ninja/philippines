@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /carmona/alfamart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lacson Store"
 url: /san-jose/lacson-store/
-shop: convenience
+shop: Lebensmittel
 ---

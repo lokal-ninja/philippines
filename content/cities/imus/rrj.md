@@ -1,5 +1,5 @@
 ---
 title: "RRJ"
 url: /imus/rrj/
-shop: clothes
+shop: Kleidung
 ---

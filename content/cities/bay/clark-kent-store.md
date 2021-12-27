@@ -1,5 +1,5 @@
 ---
 title: "Clark Kent Store"
 url: /bay/clark-kent-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Toledo City
 url: /toledo-city/
-latitude: 
-longitude: 
+latitude: 10.376
+longitude: 123.635
 ---

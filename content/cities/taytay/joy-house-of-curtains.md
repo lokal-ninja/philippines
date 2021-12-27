@@ -1,5 +1,5 @@
 ---
 title: "Joy House of Curtains"
 url: /taytay/joy-house-of-curtains/
-shop: curtain
+shop: Gardinen
 ---

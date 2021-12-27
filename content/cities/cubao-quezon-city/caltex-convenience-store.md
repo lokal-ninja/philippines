@@ -1,5 +1,5 @@
 ---
 title: "Caltex convenience store"
 url: /cubao-quezon-city/caltex-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

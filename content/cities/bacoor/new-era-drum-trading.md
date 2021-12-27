@@ -1,5 +1,5 @@
 ---
 title: "New Era Drum Trading"
 url: /bacoor/new-era-drum-trading/
-shop: hardware
+shop: Eisenwaren
 ---

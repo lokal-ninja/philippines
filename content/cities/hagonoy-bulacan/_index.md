@@ -1,6 +1,6 @@
 ---
 title: Hagonoy Bulacan
 url: /hagonoy-bulacan/
-latitude: 
-longitude: 
+latitude: 14.841
+longitude: 120.74
 ---

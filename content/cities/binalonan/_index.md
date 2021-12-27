@@ -1,6 +1,6 @@
 ---
 title: Binalonan
 url: /binalonan/
-latitude: 16.0444475
-longitude: 120.59177070000001
+latitude: 16.047
+longitude: 120.587
 ---

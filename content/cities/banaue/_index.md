@@ -1,6 +1,6 @@
 ---
 title: Banaue
 url: /banaue/
-latitude: 16.9117913
-longitude: 121.06140680000001
+latitude: 16.912
+longitude: 121.062
 ---

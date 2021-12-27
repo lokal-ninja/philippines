@@ -1,5 +1,5 @@
 ---
 title: "Natasha Bldg."
 url: /san-nicolas/natasha-bldg/
-shop: clothes
+shop: Kleidung
 ---

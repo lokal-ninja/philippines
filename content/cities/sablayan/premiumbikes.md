@@ -1,5 +1,5 @@
 ---
 title: "Premiumbikes"
 url: /sablayan/premiumbikes/
-shop: motorcycle
+shop: Motorrad
 ---

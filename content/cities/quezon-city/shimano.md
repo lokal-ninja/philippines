@@ -1,5 +1,5 @@
 ---
 title: "Shimano"
 url: /quezon-city/shimano/
-shop: bicycle
+shop: Fahrrad
 ---

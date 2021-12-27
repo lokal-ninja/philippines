@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /meycauayan/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

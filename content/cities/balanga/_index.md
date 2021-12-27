@@ -1,6 +1,6 @@
 ---
 title: Balanga
 url: /balanga/
-latitude: 13.807903000000001
-longitude: 121.1399858
+latitude: 14.68
+longitude: 120.542
 ---

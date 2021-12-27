@@ -1,5 +1,5 @@
 ---
 title: "Gemmaglenn"
 url: /daet/gemmaglenn/
-shop: supermarket
+shop: Supermarkt
 ---

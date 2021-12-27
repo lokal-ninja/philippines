@@ -1,6 +1,6 @@
 ---
 title: Poblacion
 url: /poblacion/
-latitude: 16.4620237
-longitude: 120.5874639
+latitude: 17.09
+longitude: 120.977
 ---

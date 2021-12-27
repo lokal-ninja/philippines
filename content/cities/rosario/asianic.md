@@ -1,5 +1,5 @@
 ---
 title: "Asianic"
 url: /rosario/asianic/
-shop: hifi
+shop: Hifi
 ---

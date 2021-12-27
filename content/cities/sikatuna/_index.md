@@ -1,6 +1,6 @@
 ---
 title: Sikatuna
 url: /sikatuna/
-latitude: 10.1879159
-longitude: 123.1286323
+latitude: 14.639
+longitude: 121.058
 ---

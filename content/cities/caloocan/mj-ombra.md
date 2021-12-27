@@ -1,5 +1,5 @@
 ---
 title: "MJ-OMBRA"
 url: /caloocan/mj-ombra/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Santa Maria, Ilocos Sur
 url: /santa-maria-ilocos-sur/
-latitude: 
-longitude: 
+latitude: 17.368
+longitude: 120.481
 ---

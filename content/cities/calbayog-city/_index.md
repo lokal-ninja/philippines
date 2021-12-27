@@ -1,6 +1,6 @@
 ---
 title: Calbayog City
 url: /calbayog-city/
-latitude: 
-longitude: 
+latitude: 12.067
+longitude: 124.587
 ---

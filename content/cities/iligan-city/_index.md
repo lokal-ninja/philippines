@@ -1,6 +1,6 @@
 ---
 title: Iligan city
 url: /iligan-city/
-latitude: 
-longitude: 
+latitude: 8.227
+longitude: 124.239
 ---

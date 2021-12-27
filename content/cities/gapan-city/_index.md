@@ -1,6 +1,6 @@
 ---
 title: Gapan City
 url: /gapan-city/
-latitude: 
-longitude: 
+latitude: 15.304
+longitude: 120.945
 ---

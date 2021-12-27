@@ -1,5 +1,5 @@
 ---
 title: "Primark Town Center"
 url: /plaridel/primark-town-center/
-shop: mall
+shop: Einkaufszentrum
 ---

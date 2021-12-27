@@ -1,5 +1,5 @@
 ---
 title: "Lyric"
 url: /manila/lyric/
-shop: music
+shop: Musik
 ---

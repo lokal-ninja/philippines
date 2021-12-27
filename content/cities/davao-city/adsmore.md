@@ -1,5 +1,5 @@
 ---
 title: "adsmore"
 url: /davao-city/adsmore/
-shop: shop
+shop: Allgemein
 ---

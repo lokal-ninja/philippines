@@ -1,6 +1,6 @@
 ---
 title: Tondo
 url: /tondo/
-latitude: 14.618909500000001
-longitude: 120.9660386
+latitude: 14.606
+longitude: 120.968
 ---

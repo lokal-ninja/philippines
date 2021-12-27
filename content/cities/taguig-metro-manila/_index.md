@@ -1,6 +1,6 @@
 ---
 title: Taguig, Metro Manila
 url: /taguig-metro-manila/
-latitude: 
-longitude: 
+latitude: 14.551
+longitude: 121.059
 ---

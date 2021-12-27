@@ -1,6 +1,6 @@
 ---
 title: Siniloan
 url: /siniloan/
-latitude: 14.421528400000001
-longitude: 121.44441200000001
+latitude: 14.422
+longitude: 121.446
 ---

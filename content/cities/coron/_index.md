@@ -1,6 +1,6 @@
 ---
 title: Coron
 url: /coron/
-latitude: 11.9986058
-longitude: 120.20517450000001
+latitude: 11.998
+longitude: 120.204
 ---

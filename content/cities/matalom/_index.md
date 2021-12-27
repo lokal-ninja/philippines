@@ -1,6 +1,6 @@
 ---
 title: Matalom
 url: /matalom/
-latitude: 10.283167800000001
-longitude: 124.78779080000001
+latitude: 10.28
+longitude: 124.786
 ---

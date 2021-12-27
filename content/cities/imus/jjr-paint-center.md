@@ -1,5 +1,5 @@
 ---
 title: "JJR Paint Center"
 url: /imus/jjr-paint-center/
-shop: paint
+shop: Farben
 ---

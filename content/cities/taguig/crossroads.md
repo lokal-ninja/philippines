@@ -1,5 +1,5 @@
 ---
 title: "Crossroads"
 url: /taguig/crossroads/
-shop: mall
+shop: Einkaufszentrum
 ---

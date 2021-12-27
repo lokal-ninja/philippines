@@ -1,6 +1,6 @@
 ---
 title: Hermosa
 url: /hermosa/
-latitude: 14.8302478
-longitude: 120.5086406
+latitude: 14.83
+longitude: 120.509
 ---

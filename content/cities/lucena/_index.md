@@ -1,6 +1,6 @@
 ---
 title: Lucena
 url: /lucena/
-latitude: 13.9260427
-longitude: 121.6141793
+latitude: 13.938
+longitude: 121.613
 ---

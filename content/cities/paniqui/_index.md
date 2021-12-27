@@ -1,6 +1,6 @@
 ---
 title: Paniqui
 url: /paniqui/
-latitude: 15.668654400000001
-longitude: 120.5858177
+latitude: 15.672
+longitude: 120.585
 ---

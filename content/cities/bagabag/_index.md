@@ -1,6 +1,6 @@
 ---
 title: Bagabag
 url: /bagabag/
-latitude: 16.6055376
-longitude: 121.25330790000001
+latitude: 16.584
+longitude: 121.249
 ---

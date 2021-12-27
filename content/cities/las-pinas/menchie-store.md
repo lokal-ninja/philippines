@@ -1,5 +1,5 @@
 ---
 title: "Menchie Store"
 url: /las-pinas/menchie-store/
-shop: convenience
+shop: Lebensmittel
 ---

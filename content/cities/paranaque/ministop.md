@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /paranaque/ministop/
-shop: convenience
+shop: Lebensmittel
 ---

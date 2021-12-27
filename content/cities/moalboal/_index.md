@@ -1,6 +1,6 @@
 ---
 title: Moalboal
 url: /moalboal/
-latitude: 9.9372185
-longitude: 123.39218960000001
+latitude: 9.949
+longitude: 123.366
 ---

@@ -1,6 +1,6 @@
 ---
 title: Labo
 url: /labo/
-latitude: 8.1827786
-longitude: 123.82986890000001
+latitude: 14.154
+longitude: 122.83
 ---

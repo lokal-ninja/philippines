@@ -1,5 +1,5 @@
 ---
 title: "David's Salon"
 url: /tagaytay/davids-salon/
-shop: hairdresser
+shop: Friseur
 ---

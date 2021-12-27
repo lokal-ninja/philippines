@@ -1,5 +1,5 @@
 ---
 title: "Pandayan Bookshop"
 url: /talavera/pandayan-bookshop/
-shop: books
+shop: Bücher
 ---

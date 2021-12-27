@@ -1,6 +1,6 @@
 ---
 title: Tanjay
 url: /tanjay/
-latitude: 9.5164507
-longitude: 123.1566353
+latitude: 9.514
+longitude: 123.153
 ---

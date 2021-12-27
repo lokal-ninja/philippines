@@ -1,5 +1,5 @@
 ---
 title: "Gaisano Grand Digos"
 url: /digos-city/gaisano-grand-digos/
-shop: mall
+shop: Einkaufszentrum
 ---

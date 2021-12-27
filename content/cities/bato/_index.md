@@ -1,6 +1,6 @@
 ---
 title: Bato
 url: /bato/
-latitude: 11.8084959
-longitude: 124.34617970000001
+latitude: 10.33
+longitude: 124.789
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rufino Barbershop"
 url: /bacoor/rufino-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopwise"
 url: /manila/shopwise/
-shop: supermarket
+shop: Supermarkt
 ---

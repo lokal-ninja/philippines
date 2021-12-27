@@ -1,6 +1,6 @@
 ---
 title: Tandag City
 url: /tandag-city/
-latitude: 
-longitude: 
+latitude: 9.079
+longitude: 126.198
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mightee Mart"
 url: /pasig/mightee-mart/
-shop: supermarket
+shop: Supermarkt
 ---

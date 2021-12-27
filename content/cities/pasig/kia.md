@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /pasig/kia/
-shop: car
+shop: Autohaus
 ---

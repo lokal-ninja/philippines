@@ -1,5 +1,5 @@
 ---
 title: "Light Ace Enterprises"
 url: /jolo-sulu/light-ace-enterprises/
-shop: hardware
+shop: Eisenwaren
 ---

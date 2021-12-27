@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /pateros/avon/
-shop: beauty
+shop: Kosmetik
 ---

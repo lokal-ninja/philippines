@@ -1,5 +1,5 @@
 ---
 title: "Solane"
 url: /san-pablo/solane/
-shop: gas
+shop: Gasflaschen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Esperanza
 url: /esperanza/
-latitude: 9.9758604
-longitude: 125.27332740000001
+latitude: 6.72
+longitude: 124.519
 ---

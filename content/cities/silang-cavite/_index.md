@@ -1,6 +1,6 @@
 ---
 title: Silang, Cavite
 url: /silang-cavite/
-latitude: 
-longitude: 
+latitude: 14.143
+longitude: 120.973
 ---

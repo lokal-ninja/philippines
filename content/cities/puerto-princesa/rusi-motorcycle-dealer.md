@@ -1,5 +1,5 @@
 ---
 title: "RUSI Motorcycle Dealer"
 url: /puerto-princesa/rusi-motorcycle-dealer/
-shop: motorcycle
+shop: Motorrad
 ---

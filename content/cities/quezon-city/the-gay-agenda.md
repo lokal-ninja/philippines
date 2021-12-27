@@ -1,5 +1,5 @@
 ---
 title: "The Gay Agenda"
 url: /quezon-city/the-gay-agenda/
-shop: shop
+shop: Allgemein
 ---

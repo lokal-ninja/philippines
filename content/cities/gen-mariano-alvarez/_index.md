@@ -1,6 +1,6 @@
 ---
 title: Gen. Mariano Alvarez
 url: /gen-mariano-alvarez/
-latitude: 
-longitude: 
+latitude: 14.285
+longitude: 120.996
 ---

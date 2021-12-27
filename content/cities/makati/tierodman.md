@@ -1,5 +1,5 @@
 ---
 title: "Tierodman"
 url: /makati/tierodman/
-shop: car repair
+shop: Autowerkstatt
 ---

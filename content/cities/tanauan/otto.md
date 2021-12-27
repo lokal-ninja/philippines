@@ -1,5 +1,5 @@
 ---
 title: "Otto"
 url: /tanauan/otto/
-shop: shoes
+shop: Schuhe
 ---

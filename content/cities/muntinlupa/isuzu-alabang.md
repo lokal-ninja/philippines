@@ -1,5 +1,5 @@
 ---
 title: "Isuzu Alabang"
 url: /muntinlupa/isuzu-alabang/
-shop: car
+shop: Autohaus
 ---

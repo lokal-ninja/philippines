@@ -1,6 +1,6 @@
 ---
 title: Bautista
 url: /bautista/
-latitude: 15.810433900000001
-longitude: 120.4761471
+latitude: 15.811
+longitude: 120.476
 ---

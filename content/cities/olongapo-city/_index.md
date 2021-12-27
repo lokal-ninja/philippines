@@ -1,6 +1,6 @@
 ---
 title: Olongapo City
 url: /olongapo-city/
-latitude: 
-longitude: 
+latitude: 14.826
+longitude: 120.284
 ---

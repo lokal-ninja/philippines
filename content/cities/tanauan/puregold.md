@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /tanauan/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

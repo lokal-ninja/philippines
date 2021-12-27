@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier Lucerne"
 url: /taguig/latelier-lucerne/
-shop: watches
+shop: Uhren
 ---

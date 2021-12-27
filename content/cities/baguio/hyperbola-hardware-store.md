@@ -1,5 +1,5 @@
 ---
 title: "Hyperbola Hardware Store"
 url: /baguio/hyperbola-hardware-store/
-shop: hardware
+shop: Eisenwaren
 ---

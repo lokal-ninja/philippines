@@ -1,6 +1,6 @@
 ---
 title: Indanan, Sulu
 url: /indanan-sulu/
-latitude: 
-longitude: 
+latitude: 5.972
+longitude: 120.97
 ---

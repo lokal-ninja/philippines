@@ -1,6 +1,6 @@
 ---
 title: Candon City
 url: /candon-city/
-latitude: 
-longitude: 
+latitude: 17.192
+longitude: 120.447
 ---

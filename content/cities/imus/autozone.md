@@ -1,5 +1,5 @@
 ---
 title: "Autozone"
 url: /imus/autozone/
-shop: car
+shop: Autohaus
 ---

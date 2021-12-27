@@ -1,5 +1,5 @@
 ---
 title: "Rayvill Electrical Construction Coorperation"
 url: /meycauayan/rayvill-electrical-construction-coorperation/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

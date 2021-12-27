@@ -1,6 +1,6 @@
 ---
 title: Makati
 url: /makati/
-latitude: 
-longitude: 
+latitude: 14.556
+longitude: 121.013
 ---

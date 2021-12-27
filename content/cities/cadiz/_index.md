@@ -1,6 +1,6 @@
 ---
 title: Cádiz
 url: /cadiz/
-latitude: 
-longitude: 
+latitude: 10.959
+longitude: 123.297
 ---

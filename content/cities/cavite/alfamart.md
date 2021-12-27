@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /cavite/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

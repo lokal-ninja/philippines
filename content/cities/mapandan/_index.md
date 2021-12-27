@@ -1,6 +1,6 @@
 ---
 title: Mapandan
 url: /mapandan/
-latitude: 16.0262888
-longitude: 120.4536293
+latitude: 16.026
+longitude: 120.452
 ---

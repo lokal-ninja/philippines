@@ -1,5 +1,5 @@
 ---
 title: "Skygo"
 url: /lucena/skygo/
-shop: motorcycle
+shop: Motorrad
 ---

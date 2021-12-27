@@ -1,5 +1,5 @@
 ---
 title: "Pina Store"
 url: /san-jose/pina-store/
-shop: convenience
+shop: Lebensmittel
 ---

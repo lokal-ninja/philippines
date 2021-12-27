@@ -1,5 +1,5 @@
 ---
 title: "Nakopia"
 url: /tacloban/nakopia/
-shop: copyshop
+shop: Kopieren
 ---

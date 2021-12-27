@@ -1,6 +1,6 @@
 ---
 title: Tuy
 url: /tuy/
-latitude: 14.110827400000002
-longitude: 121.40079300000001
+latitude: 14.02
+longitude: 120.729
 ---

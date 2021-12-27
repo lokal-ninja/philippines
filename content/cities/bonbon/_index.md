@@ -1,6 +1,6 @@
 ---
 title: Bonbon
 url: /bonbon/
-latitude: 10.3666031
-longitude: 123.8277144
+latitude: 9.202
+longitude: 124.635
 ---

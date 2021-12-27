@@ -1,6 +1,6 @@
 ---
 title: Cagdianao
 url: /cagdianao/
-latitude: 9.5298906
-longitude: 125.8613409
+latitude: 10.165
+longitude: 125.658
 ---

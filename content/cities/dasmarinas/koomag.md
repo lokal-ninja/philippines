@@ -1,5 +1,5 @@
 ---
 title: "Koomag"
 url: /dasmarinas/koomag/
-shop: general
+shop: Dorfladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bogo City
 url: /bogo-city/
-latitude: 
-longitude: 
+latitude: 11
+longitude: 124.041
 ---

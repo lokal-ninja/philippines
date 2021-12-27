@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /lucena/ministop/
-shop: convenience
+shop: Lebensmittel
 ---

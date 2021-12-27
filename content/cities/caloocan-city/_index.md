@@ -1,6 +1,6 @@
 ---
 title: Caloocan City
 url: /caloocan-city/
-latitude: 
-longitude: 
+latitude: 14.752
+longitude: 121.053
 ---

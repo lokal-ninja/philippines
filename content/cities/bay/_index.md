@@ -1,6 +1,6 @@
 ---
 title: Bay
 url: /bay/
-latitude: 
-longitude: 
+latitude: 14.181
+longitude: 121.283
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /baguio/nike/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rodriguez
 url: /rodriguez/
-latitude: 
-longitude: 
+latitude: 14.729
+longitude: 121.144
 ---

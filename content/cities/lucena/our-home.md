@@ -1,5 +1,5 @@
 ---
 title: "Our Home"
 url: /lucena/our-home/
-shop: furniture
+shop: Möbel
 ---

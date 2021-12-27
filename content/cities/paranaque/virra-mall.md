@@ -1,5 +1,5 @@
 ---
 title: "Virra Mall"
 url: /paranaque/virra-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

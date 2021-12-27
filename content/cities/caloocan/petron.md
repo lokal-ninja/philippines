@@ -1,5 +1,5 @@
 ---
 title: "Petron"
 url: /caloocan/petron/
-shop: shop
+shop: Allgemein
 ---

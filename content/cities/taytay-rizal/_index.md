@@ -1,6 +1,6 @@
 ---
 title: Taytay, Rizal
 url: /taytay-rizal/
-latitude: 
-longitude: 
+latitude: 14.576
+longitude: 121.134
 ---

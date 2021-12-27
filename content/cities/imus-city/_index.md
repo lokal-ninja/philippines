@@ -1,6 +1,6 @@
 ---
 title: Imus City
 url: /imus-city/
-latitude: 
-longitude: 
+latitude: 14.392
+longitude: 120.94
 ---

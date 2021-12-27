@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Supermarket"
 url: /iloilo/robinsons-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

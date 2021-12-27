@@ -1,6 +1,6 @@
 ---
 title: Alegria
 url: /alegria/
-latitude: 10.0550771
-longitude: 126.06918460000001
+latitude: 9.712
+longitude: 123.382
 ---

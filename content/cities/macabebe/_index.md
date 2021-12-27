@@ -1,6 +1,6 @@
 ---
 title: Macabebe
 url: /macabebe/
-latitude: 14.909613
-longitude: 120.7155154
+latitude: 14.911
+longitude: 120.711
 ---

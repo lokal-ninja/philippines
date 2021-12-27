@@ -1,6 +1,6 @@
 ---
 title: Masbate
 url: /masbate/
-latitude: 12.166667
-longitude: 123.58333300000001
+latitude: 12.364
+longitude: 123.626
 ---

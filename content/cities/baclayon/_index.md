@@ -1,6 +1,6 @@
 ---
 title: Baclayon
 url: /baclayon/
-latitude: 9.622135
-longitude: 123.9130444
+latitude: 9.628
+longitude: 123.879
 ---

@@ -1,6 +1,6 @@
 ---
 title: Calasiao
 url: /calasiao/
-latitude: 16.0089487
-longitude: 120.35719390000001
+latitude: 16.022
+longitude: 120.36
 ---

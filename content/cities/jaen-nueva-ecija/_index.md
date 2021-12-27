@@ -1,6 +1,6 @@
 ---
 title: Jaen, Nueva Ecija
 url: /jaen-nueva-ecija/
-latitude: 
-longitude: 
+latitude: 15.374
+longitude: 120.857
 ---

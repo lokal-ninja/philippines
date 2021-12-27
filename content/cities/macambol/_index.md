@@ -1,6 +1,6 @@
 ---
 title: Macambol
 url: /macambol/
-latitude: 6.8341231
-longitude: 126.1945242
+latitude: 6.834
+longitude: 126.195
 ---

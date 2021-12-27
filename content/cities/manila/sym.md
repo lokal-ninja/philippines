@@ -1,5 +1,5 @@
 ---
 title: "SYM"
 url: /manila/sym/
-shop: motorcycle
+shop: Motorrad
 ---

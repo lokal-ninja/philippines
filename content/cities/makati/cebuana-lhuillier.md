@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /makati/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

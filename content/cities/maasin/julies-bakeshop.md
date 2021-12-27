@@ -1,5 +1,5 @@
 ---
 title: "Julie's Bakeshop"
 url: /maasin/julies-bakeshop/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anson's"
 url: /manila/ansons/
-shop: appliance
+shop: Haushaltsgeräte
 ---

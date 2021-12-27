@@ -1,5 +1,5 @@
 ---
 title: "Prince Town Tandag"
 url: /tandag-city/prince-town-tandag/
-shop: supermarket
+shop: Supermarkt
 ---

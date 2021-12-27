@@ -1,5 +1,5 @@
 ---
 title: "MerryMart"
 url: /imus/merrymart/
-shop: supermarket
+shop: Supermarkt
 ---

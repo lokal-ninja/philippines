@@ -1,5 +1,5 @@
 ---
 title: "UNIQLO"
 url: /cagayan-de-oro/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

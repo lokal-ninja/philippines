@@ -1,5 +1,5 @@
 ---
 title: "Aqua Health Alkaline Ionized Water"
 url: /taytay/aqua-health-alkaline-ionized-water/
-shop: water
+shop: Wasser
 ---

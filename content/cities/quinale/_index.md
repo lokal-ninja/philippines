@@ -1,6 +1,6 @@
 ---
 title: Quinale
 url: /quinale/
-latitude: 14.3609957
-longitude: 121.4833468
+latitude: 14.36
+longitude: 121.483
 ---

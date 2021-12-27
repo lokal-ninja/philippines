@@ -1,6 +1,6 @@
 ---
 title: Barangay Bayanihan
 url: /barangay-bayanihan/
-latitude: 
-longitude: 
+latitude: 8.943
+longitude: 125.523
 ---

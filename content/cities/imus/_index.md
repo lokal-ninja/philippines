@@ -1,6 +1,6 @@
 ---
 title: Imus
 url: /imus/
-latitude: 14.4290116
-longitude: 120.9365911
+latitude: 14.431
+longitude: 120.946
 ---

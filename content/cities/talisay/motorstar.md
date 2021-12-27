@@ -1,5 +1,5 @@
 ---
 title: "Motorstar"
 url: /talisay/motorstar/
-shop: motorcycle
+shop: Motorrad
 ---

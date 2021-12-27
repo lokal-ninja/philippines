@@ -1,6 +1,6 @@
 ---
 title: Bacolod
 url: /bacolod/
-latitude: 10.676283600000001
-longitude: 122.95137860000001
+latitude: 10.665
+longitude: 122.967
 ---

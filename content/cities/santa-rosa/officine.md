@@ -1,5 +1,5 @@
 ---
 title: "Officine"
 url: /santa-rosa/officine/
-shop: shoes
+shop: Schuhe
 ---

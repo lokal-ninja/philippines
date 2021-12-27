@@ -1,5 +1,5 @@
 ---
 title: "Siomai House"
 url: /meycauayan/siomai-house/
-shop: kiosk
+shop: Kiosk
 ---

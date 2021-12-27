@@ -1,5 +1,5 @@
 ---
 title: "Echo Store"
 url: /quezon-city/echo-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

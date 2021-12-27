@@ -1,5 +1,5 @@
 ---
 title: "Honda Cars Calamba"
 url: /calamba/honda-cars-calamba/
-shop: car
+shop: Autohaus
 ---

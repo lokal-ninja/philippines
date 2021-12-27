@@ -1,6 +1,6 @@
 ---
 title: Lupao
 url: /lupao/
-latitude: 10.4957537
-longitude: 123.2529978
+latitude: 15.879
+longitude: 120.899
 ---

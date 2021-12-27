@@ -1,5 +1,5 @@
 ---
 title: "T. R. Pimentel Store"
 url: /baguio/t-r-pimentel-store/
-shop: convenience
+shop: Lebensmittel
 ---

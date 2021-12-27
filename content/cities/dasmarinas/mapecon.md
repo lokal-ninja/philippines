@@ -1,5 +1,5 @@
 ---
 title: "Mapecon"
 url: /dasmarinas/mapecon/
-shop: shop
+shop: Allgemein
 ---

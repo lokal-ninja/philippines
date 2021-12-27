@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /alaminos/m-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

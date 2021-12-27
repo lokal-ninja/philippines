@@ -1,5 +1,5 @@
 ---
 title: "Wenger"
 url: /pasay/wenger/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meycauyan Bulacan
 url: /meycauyan-bulacan/
-latitude: 
-longitude: 
+latitude: 14.73
+longitude: 120.978
 ---

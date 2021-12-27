@@ -1,5 +1,5 @@
 ---
 title: "Villarica Pawnshop"
 url: /pateros/villarica-pawnshop/
-shop: pawnbroker
+shop: Leiher
 ---

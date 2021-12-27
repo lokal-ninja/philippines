@@ -1,6 +1,6 @@
 ---
 title: Liloan
 url: /liloan/
-latitude: 11.0405941
-longitude: 124.5501517
+latitude: 10.389
+longitude: 123.981
 ---

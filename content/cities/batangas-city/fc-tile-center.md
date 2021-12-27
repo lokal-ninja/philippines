@@ -1,5 +1,5 @@
 ---
 title: "FC Tile Center"
 url: /batangas-city/fc-tile-center/
-shop: trade
+shop: Baustoffe
 ---

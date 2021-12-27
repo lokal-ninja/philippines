@@ -1,5 +1,5 @@
 ---
 title: "Sanctuario Spa"
 url: /alaminos/sanctuario-spa/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rizal
 url: /rizal/
-latitude: 16.8357973
-longitude: 121.6769153
+latitude: 14.559
+longitude: 121.195
 ---

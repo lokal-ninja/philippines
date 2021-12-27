@@ -1,6 +1,6 @@
 ---
 title: Dumaguete
 url: /dumaguete/
-latitude: 9.3054777
-longitude: 123.3080446
+latitude: 9.299
+longitude: 123.304
 ---

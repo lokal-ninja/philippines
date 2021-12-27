@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /mandaluyong/nissan/
-shop: car
+shop: Autohaus
 ---

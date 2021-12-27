@@ -1,6 +1,6 @@
 ---
 title: Currimao
 url: /currimao/
-latitude: 18.0194482
-longitude: 120.48682810000001
+latitude: 18.02
+longitude: 120.486
 ---

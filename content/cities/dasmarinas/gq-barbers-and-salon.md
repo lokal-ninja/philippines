@@ -1,5 +1,5 @@
 ---
 title: "GQ Barbers and Salon"
 url: /dasmarinas/gq-barbers-and-salon/
-shop: hairdresser
+shop: Friseur
 ---

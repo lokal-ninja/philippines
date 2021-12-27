@@ -1,6 +1,6 @@
 ---
 title: Tagbilaran
 url: /tagbilaran/
-latitude: 9.6402611
-longitude: 123.8559809
+latitude: 9.651
+longitude: 123.855
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /las-pinas/motortrade/
-shop: motorcycle
+shop: Motorrad
 ---

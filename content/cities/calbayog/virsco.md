@@ -1,5 +1,5 @@
 ---
 title: "VIRSCO"
 url: /calbayog/virsco/
-shop: hardware
+shop: Eisenwaren
 ---

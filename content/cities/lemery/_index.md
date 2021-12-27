@@ -1,6 +1,6 @@
 ---
 title: Lemery
 url: /lemery/
-latitude: 11.225827
-longitude: 122.92743050000001
+latitude: 13.881
+longitude: 120.916
 ---

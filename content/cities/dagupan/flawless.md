@@ -1,5 +1,5 @@
 ---
 title: "Flawless"
 url: /dagupan/flawless/
-shop: hairdresser
+shop: Friseur
 ---

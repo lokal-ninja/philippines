@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /lipa/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

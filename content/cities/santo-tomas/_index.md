@@ -1,6 +1,6 @@
 ---
 title: Santo Tomas
 url: /santo-tomas/
-latitude: 7.529941300000001
-longitude: 125.62102850000001
+latitude: 14.137
+longitude: 121.135
 ---

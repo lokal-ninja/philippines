@@ -1,5 +1,5 @@
 ---
 title: "Penshoppe"
 url: /surigao-city/penshoppe/
-shop: clothes
+shop: Kleidung
 ---

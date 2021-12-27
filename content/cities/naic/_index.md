@@ -1,6 +1,6 @@
 ---
 title: Naic
 url: /naic/
-latitude: 14.3193877
-longitude: 120.7641212
+latitude: 14.319
+longitude: 120.765
 ---

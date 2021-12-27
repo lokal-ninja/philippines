@@ -1,6 +1,6 @@
 ---
 title: Roxas
 url: /roxas/
-latitude: 9.5382335
-longitude: 125.5430893
+latitude: 11.577
+longitude: 122.753
 ---

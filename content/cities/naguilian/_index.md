@@ -1,6 +1,6 @@
 ---
 title: Naguilian
 url: /naguilian/
-latitude: 17.0231211
-longitude: 121.83560000000001
+latitude: 16.531
+longitude: 120.393
 ---

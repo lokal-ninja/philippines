@@ -1,5 +1,5 @@
 ---
 title: "Res Toe Run"
 url: /santa-rosa/res-toe-run/
-shop: shoes
+shop: Schuhe
 ---

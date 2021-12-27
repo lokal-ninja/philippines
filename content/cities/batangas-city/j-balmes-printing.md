@@ -1,5 +1,5 @@
 ---
 title: "J. Balmes Printing"
 url: /batangas-city/j-balmes-printing/
-shop: copyshop
+shop: Kopieren
 ---

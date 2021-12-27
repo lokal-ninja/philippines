@@ -1,6 +1,6 @@
 ---
 title: Las Piñas
 url: /las-pinas/
-latitude: 14.480608900000002
-longitude: 120.9819099
+latitude: 14.464
+longitude: 120.967
 ---

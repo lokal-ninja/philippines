@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /marikina/ministop/
-shop: convenience
+shop: Lebensmittel
 ---

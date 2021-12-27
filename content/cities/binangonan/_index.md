@@ -1,6 +1,6 @@
 ---
 title: Binangonan
 url: /binangonan/
-latitude: 14.465142
-longitude: 121.1921185
+latitude: 14.517
+longitude: 121.159
 ---

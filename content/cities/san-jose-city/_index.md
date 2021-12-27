@@ -1,6 +1,6 @@
 ---
 title: San Jose City
 url: /san-jose-city/
-latitude: 
-longitude: 
+latitude: 15.789
+longitude: 120.984
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RUSI"
 url: /san-pablo/rusi/
-shop: motorcycle
+shop: Motorrad
 ---

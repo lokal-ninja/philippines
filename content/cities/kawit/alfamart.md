@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /kawit/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

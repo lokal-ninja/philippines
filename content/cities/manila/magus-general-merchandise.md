@@ -1,5 +1,5 @@
 ---
 title: "Magus General Merchandise"
 url: /manila/magus-general-merchandise/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Fast Cars"
 url: /muntinlupa/all-fast-cars/
-shop: car
+shop: Autohaus
 ---

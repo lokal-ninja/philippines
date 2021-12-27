@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /meycauayan/goldilocks/
-shop: bakery
+shop: Bäckerei
 ---

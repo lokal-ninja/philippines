@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /paniqui/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

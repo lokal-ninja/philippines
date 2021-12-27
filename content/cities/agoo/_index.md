@@ -1,6 +1,6 @@
 ---
 title: Agoo
 url: /agoo/
-latitude: 16.3222744
-longitude: 120.3669553
+latitude: 16.323
+longitude: 120.366
 ---

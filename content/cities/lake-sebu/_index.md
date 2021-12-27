@@ -1,6 +1,6 @@
 ---
 title: Lake Sebu
 url: /lake-sebu/
-latitude: 6.225999600000001
-longitude: 124.71156880000001
+latitude: 6.22
+longitude: 124.724
 ---

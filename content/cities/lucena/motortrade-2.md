@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /lucena/motortrade-2/
-shop: motorcycle
+shop: Motorrad
 ---

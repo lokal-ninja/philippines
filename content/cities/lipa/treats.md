@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /lipa/treats/
-shop: convenience
+shop: Lebensmittel
 ---

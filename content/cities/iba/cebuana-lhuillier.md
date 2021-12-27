@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /iba/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

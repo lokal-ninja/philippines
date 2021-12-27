@@ -1,5 +1,5 @@
 ---
 title: "Bridgeway"
 url: /cainta/bridgeway/
-shop: mall
+shop: Einkaufszentrum
 ---

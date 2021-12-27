@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /paranaque/subaru/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /taguig/promod/
-shop: clothes
+shop: Kleidung
 ---

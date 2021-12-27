@@ -1,5 +1,5 @@
 ---
 title: "Wawawin"
 url: /alaminos/wawawin/
-shop: variety store
+shop: Kramladen
 ---

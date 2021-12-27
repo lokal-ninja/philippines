@@ -1,6 +1,6 @@
 ---
 title: Polomolok
 url: /polomolok/
-latitude: 6.2202374
-longitude: 125.06281010000001
+latitude: 6.225
+longitude: 125.06
 ---

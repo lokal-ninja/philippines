@@ -1,5 +1,5 @@
 ---
 title: "Queenie"
 url: /davao/queenie/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldevinco"
 url: /davao-city/aldevinco/
-shop: mall
+shop: Einkaufszentrum
 ---

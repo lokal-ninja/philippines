@@ -1,5 +1,5 @@
 ---
 title: "PCPro"
 url: /san-pablo/pcpro/
-shop: shop
+shop: Allgemein
 ---

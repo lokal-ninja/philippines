@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /lucena/watsons/
-shop: chemist
+shop: Drogerie
 ---

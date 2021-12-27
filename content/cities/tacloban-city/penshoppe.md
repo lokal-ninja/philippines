@@ -1,5 +1,5 @@
 ---
 title: "Penshoppe"
 url: /tacloban-city/penshoppe/
-shop: clothes
+shop: Kleidung
 ---

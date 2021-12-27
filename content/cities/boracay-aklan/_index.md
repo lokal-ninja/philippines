@@ -1,6 +1,6 @@
 ---
 title: Boracay, Aklan
 url: /boracay-aklan/
-latitude: 
-longitude: 
+latitude: 11.952
+longitude: 121.93
 ---

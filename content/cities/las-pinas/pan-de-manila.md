@@ -1,5 +1,5 @@
 ---
 title: "Pan de Manila"
 url: /las-pinas/pan-de-manila/
-shop: bakery
+shop: Bäckerei
 ---

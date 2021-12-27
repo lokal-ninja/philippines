@@ -1,6 +1,6 @@
 ---
 title: Magsingal
 url: /magsingal/
-latitude: 17.6851901
-longitude: 120.4257345
+latitude: 17.686
+longitude: 120.425
 ---

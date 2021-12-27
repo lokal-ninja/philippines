@@ -1,5 +1,5 @@
 ---
 title: "Puregold Mangatarem"
 url: /mangatarem/puregold-mangatarem/
-shop: supermarket
+shop: Supermarkt
 ---

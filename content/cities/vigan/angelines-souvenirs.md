@@ -1,5 +1,5 @@
 ---
 title: "Angeline's Souvenirs"
 url: /vigan/angelines-souvenirs/
-shop: gift
+shop: Andenken
 ---

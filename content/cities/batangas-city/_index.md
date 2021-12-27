@@ -1,6 +1,6 @@
 ---
 title: Batangas City
 url: /batangas-city/
-latitude: 
-longitude: 
+latitude: 13.778
+longitude: 121.067
 ---

@@ -1,6 +1,6 @@
 ---
 title: Guevarra
 url: /guevarra/
-latitude: 15.477251
-longitude: 120.7179081
+latitude: 15.476
+longitude: 120.717
 ---

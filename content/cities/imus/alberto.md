@@ -1,5 +1,5 @@
 ---
 title: "Alberto"
 url: /imus/alberto/
-shop: department store
+shop: Warenhaus
 ---

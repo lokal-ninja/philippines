@@ -1,6 +1,6 @@
 ---
 title: Victory Norte, Santiago City
 url: /victory-norte-santiago-city/
-latitude: 
-longitude: 
+latitude: 16.686
+longitude: 121.546
 ---

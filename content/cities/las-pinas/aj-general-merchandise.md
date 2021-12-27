@@ -1,5 +1,5 @@
 ---
 title: "AJ General Merchandise"
 url: /las-pinas/aj-general-merchandise/
-shop: convenience
+shop: Lebensmittel
 ---

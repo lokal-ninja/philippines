@@ -1,5 +1,5 @@
 ---
 title: "Livingwater"
 url: /quezon-city/livingwater/
-shop: water
+shop: Wasser
 ---

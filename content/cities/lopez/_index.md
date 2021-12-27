@@ -1,6 +1,6 @@
 ---
 title: Lopez
 url: /lopez/
-latitude: 13.882511500000001
-longitude: 122.2611114
+latitude: 13.885
+longitude: 122.26
 ---

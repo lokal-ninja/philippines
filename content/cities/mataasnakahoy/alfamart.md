@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /mataasnakahoy/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

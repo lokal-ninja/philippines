@@ -1,5 +1,5 @@
 ---
 title: "Enterprises"
 url: /borongan/enterprises/
-shop: electronics
+shop: Elektronik
 ---

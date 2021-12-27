@@ -1,6 +1,6 @@
 ---
 title: Paranaque City
 url: /paranaque-city/
-latitude: 
-longitude: 
+latitude: 14.452
+longitude: 121.018
 ---

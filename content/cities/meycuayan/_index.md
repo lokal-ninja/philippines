@@ -1,6 +1,6 @@
 ---
 title: meycuayan
 url: /meycuayan/
-latitude: 
-longitude: 
+latitude: 14.733
+longitude: 120.977
 ---

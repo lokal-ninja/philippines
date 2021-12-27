@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /cagayan-de-oro/samsung/
-shop: electronics
+shop: Elektronik
 ---

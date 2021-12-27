@@ -1,6 +1,6 @@
 ---
 title: Tayabas
 url: /tayabas/
-latitude: 14.0263471
-longitude: 121.5918364
+latitude: 14.028
+longitude: 121.591
 ---

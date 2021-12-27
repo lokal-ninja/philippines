@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /makati/goldilocks-2/
-shop: bakery
+shop: Bäckerei
 ---

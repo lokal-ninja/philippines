@@ -1,6 +1,6 @@
 ---
 title: Adela Heights, Gandara
 url: /adela-heights-gandara/
-latitude: 
-longitude: 
+latitude: 12.015
+longitude: 124.811
 ---

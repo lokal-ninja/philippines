@@ -1,5 +1,5 @@
 ---
 title: "Chocolat"
 url: /pasay/chocolat/
-shop: bakery
+shop: Bäckerei
 ---

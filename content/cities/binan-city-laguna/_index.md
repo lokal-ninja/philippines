@@ -1,6 +1,6 @@
 ---
 title: Biñan City, Laguna
 url: /binan-city-laguna/
-latitude: 
-longitude: 
+latitude: 14.323
+longitude: 121.096
 ---

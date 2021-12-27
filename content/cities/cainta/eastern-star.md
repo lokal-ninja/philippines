@@ -1,5 +1,5 @@
 ---
 title: "Eastern Star"
 url: /cainta/eastern-star/
-shop: clothes
+shop: Kleidung
 ---

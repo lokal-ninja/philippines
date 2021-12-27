@@ -1,6 +1,6 @@
 ---
 title: Tiaong
 url: /tiaong/
-latitude: 13.959370600000002
-longitude: 121.3228608
+latitude: 13.983
+longitude: 121.327
 ---

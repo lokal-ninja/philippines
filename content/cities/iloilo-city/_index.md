@@ -1,6 +1,6 @@
 ---
 title: Iloilo City
 url: /iloilo-city/
-latitude: 
-longitude: 
+latitude: 10.703
+longitude: 122.553
 ---

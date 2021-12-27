@@ -1,6 +1,6 @@
 ---
 title: Bulacan
 url: /bulacan/
-latitude: 15.000000000000002
-longitude: 121.08333300000001
+latitude: 14.731
+longitude: 120.922
 ---

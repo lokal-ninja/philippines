@@ -1,5 +1,5 @@
 ---
 title: "Rose Meat Shop"
 url: /santo-tomas/rose-meat-shop/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarabia"
 url: /pasig/sarabia/
-shop: optician
+shop: Optiker
 ---

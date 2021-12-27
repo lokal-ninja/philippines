@@ -1,5 +1,5 @@
 ---
 title: "Glow Spa"
 url: /santo-tomas/glow-spa/
-shop: beauty
+shop: Kosmetik
 ---

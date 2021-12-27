@@ -1,5 +1,5 @@
 ---
 title: "Emcor"
 url: /san-francisco/emcor/
-shop: motorcycle
+shop: Motorrad
 ---

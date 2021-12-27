@@ -1,6 +1,6 @@
 ---
 title: Danao
 url: /danao/
-latitude: 9.3109809
-longitude: 122.9212725
+latitude: 9.548
+longitude: 123.77
 ---

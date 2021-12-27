@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /bacoor/savemore/
-shop: supermarket
+shop: Supermarkt
 ---

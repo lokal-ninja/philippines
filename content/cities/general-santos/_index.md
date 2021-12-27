@@ -1,6 +1,6 @@
 ---
 title: General Santos
 url: /general-santos/
-latitude: 
-longitude: 
+latitude: 6.112
+longitude: 125.181
 ---

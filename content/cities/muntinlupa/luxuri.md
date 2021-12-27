@@ -1,5 +1,5 @@
 ---
 title: "Luxuri"
 url: /muntinlupa/luxuri/
-shop: bag
+shop: Taschen & Koffer
 ---

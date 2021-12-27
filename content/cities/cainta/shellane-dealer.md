@@ -1,5 +1,5 @@
 ---
 title: "Shellane Dealer"
 url: /cainta/shellane-dealer/
-shop: general
+shop: Dorfladen
 ---

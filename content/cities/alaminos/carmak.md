@@ -1,5 +1,5 @@
 ---
 title: "Carmak"
 url: /alaminos/carmak/
-shop: motorcycle
+shop: Motorrad
 ---

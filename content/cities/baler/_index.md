@@ -1,6 +1,6 @@
 ---
 title: Baler
 url: /baler/
-latitude: 15.759086000000002
-longitude: 121.5627247
+latitude: 15.763
+longitude: 121.568
 ---

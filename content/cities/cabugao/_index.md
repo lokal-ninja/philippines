@@ -1,6 +1,6 @@
 ---
 title: Cabugao
 url: /cabugao/
-latitude: 11.750842500000001
-longitude: 122.1983974
+latitude: 17.792
+longitude: 120.456
 ---

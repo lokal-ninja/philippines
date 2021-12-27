@@ -1,6 +1,6 @@
 ---
 title: Surigao City
 url: /surigao-city/
-latitude: 
-longitude: 
+latitude: 9.786
+longitude: 125.491
 ---

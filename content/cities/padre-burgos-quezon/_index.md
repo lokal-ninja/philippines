@@ -1,6 +1,6 @@
 ---
 title: padre burgos quezon
 url: /padre-burgos-quezon/
-latitude: 
-longitude: 
+latitude: 13.905
+longitude: 121.868
 ---

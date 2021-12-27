@@ -1,5 +1,5 @@
 ---
 title: "Focus Advertising"
 url: /san-pablo/focus-advertising/
-shop: shop
+shop: Allgemein
 ---

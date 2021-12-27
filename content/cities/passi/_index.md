@@ -1,6 +1,6 @@
 ---
 title: Passi
 url: /passi/
-latitude: 11.1173503
-longitude: 122.64687060000001
+latitude: 11.106
+longitude: 122.645
 ---

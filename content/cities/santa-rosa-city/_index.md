@@ -1,6 +1,6 @@
 ---
 title: Santa Rosa City
 url: /santa-rosa-city/
-latitude: 
-longitude: 
+latitude: 14.312
+longitude: 121.116
 ---

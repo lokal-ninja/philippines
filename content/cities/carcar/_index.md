@@ -1,6 +1,6 @@
 ---
 title: Carcar
 url: /carcar/
-latitude: 10.1062939
-longitude: 123.6393625
+latitude: 10.102
+longitude: 123.639
 ---
