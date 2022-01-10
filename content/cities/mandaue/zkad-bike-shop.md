@@ -1,5 +1,5 @@
 ---
 title: "Zkad Bike Shop"
 url: /mandaue/zkad-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

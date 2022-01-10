@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /naga/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

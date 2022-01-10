@@ -1,5 +1,5 @@
 ---
 title: "Aaron Charles Barbershop"
 url: /bacoor/aaron-charles-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

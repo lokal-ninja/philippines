@@ -1,5 +1,5 @@
 ---
 title: "Perseus Spa"
 url: /quezon-city/perseus-spa/
-shop: Kosmetik
+shop: beauty
 ---

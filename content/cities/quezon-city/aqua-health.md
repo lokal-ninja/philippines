@@ -1,5 +1,5 @@
 ---
 title: "Aqua Health"
 url: /quezon-city/aqua-health/
-shop: Wasser
+shop: water
 ---

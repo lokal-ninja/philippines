@@ -1,5 +1,5 @@
 ---
 title: "Grab N Go"
 url: /nasugbu/grab-n-go/
-shop: Lebensmittel
+shop: convenience
 ---

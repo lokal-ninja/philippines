@@ -1,5 +1,5 @@
 ---
 title: "BreadTalk"
 url: /makati/breadtalk/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rruchelle Computers"
 url: /tagbilaran-city/rruchelle-computers/
-shop: Computer
+shop: computer
 ---

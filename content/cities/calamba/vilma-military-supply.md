@@ -1,5 +1,5 @@
 ---
 title: "Vilma Military Supply"
 url: /calamba/vilma-military-supply/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ER Salon"
 url: /bacoor/er-salon/
-shop: Friseur
+shop: hairdresser
 ---

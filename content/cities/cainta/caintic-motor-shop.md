@@ -1,5 +1,5 @@
 ---
 title: "Caintic Motor Shop"
 url: /cainta/caintic-motor-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

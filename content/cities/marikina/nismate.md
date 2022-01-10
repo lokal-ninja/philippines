@@ -1,5 +1,5 @@
 ---
 title: "Nismate"
 url: /marikina/nismate/
-shop: Autoteile
+shop: car parts
 ---

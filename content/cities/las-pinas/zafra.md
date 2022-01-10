@@ -1,5 +1,5 @@
 ---
 title: "Zafra"
 url: /las-pinas/zafra/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Airam Store"
 url: /baguio/airam-store/
-shop: Lebensmittel
+shop: convenience
 ---

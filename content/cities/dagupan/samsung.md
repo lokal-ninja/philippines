@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /dagupan/samsung/
-shop: Elektronik
+shop: electronics
 ---

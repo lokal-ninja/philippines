@@ -1,5 +1,5 @@
 ---
 title: "Buckingham Embroidery"
 url: /manila/buckingham-embroidery/
-shop: Allgemein
+shop: shop
 ---

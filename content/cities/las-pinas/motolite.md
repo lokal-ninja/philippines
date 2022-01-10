@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /las-pinas/motolite/
-shop: Autowerkstatt
+shop: car repair
 ---

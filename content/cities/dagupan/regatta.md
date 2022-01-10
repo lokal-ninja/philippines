@@ -1,5 +1,5 @@
 ---
 title: "Regatta"
 url: /dagupan/regatta/
-shop: Kleidung
+shop: clothes
 ---

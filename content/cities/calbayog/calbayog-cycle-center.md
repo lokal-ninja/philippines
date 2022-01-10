@@ -1,5 +1,5 @@
 ---
 title: "Calbayog Cycle Center"
 url: /calbayog/calbayog-cycle-center/
-shop: Fahrrad
+shop: bicycle
 ---

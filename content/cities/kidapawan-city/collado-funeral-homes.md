@@ -1,5 +1,5 @@
 ---
 title: "Collado Funeral Homes"
 url: /kidapawan-city/collado-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Liempo"
 url: /san-pedro/mr-liempo/
-shop: Lebensmittel
+shop: convenience
 ---

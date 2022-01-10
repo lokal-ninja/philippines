@@ -1,5 +1,5 @@
 ---
 title: "Jeska Fashion Boutique"
 url: /imus/jeska-fashion-boutique/
-shop: Kleidung
+shop: clothes
 ---

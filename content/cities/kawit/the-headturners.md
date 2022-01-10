@@ -1,5 +1,5 @@
 ---
 title: "The Headturners"
 url: /kawit/the-headturners/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EZA General Merchandise"
 url: /hilongos/eza-general-merchandise/
-shop: Dorfladen
+shop: general
 ---

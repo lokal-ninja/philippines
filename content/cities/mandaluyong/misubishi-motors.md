@@ -1,5 +1,5 @@
 ---
 title: "Misubishi Motors"
 url: /mandaluyong/misubishi-motors/
-shop: Autohaus
+shop: car
 ---

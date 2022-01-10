@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /muntinlupa-city/subaru/
-shop: Autohaus
+shop: car
 ---

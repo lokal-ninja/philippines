@@ -1,5 +1,5 @@
 ---
 title: "Tokis Water Haus"
 url: /imus/tokis-water-haus/
-shop: Getränke
+shop: beverages
 ---

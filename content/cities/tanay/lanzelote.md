@@ -1,5 +1,5 @@
 ---
 title: "Lanzelote"
 url: /tanay/lanzelote/
-shop: Lebensmittel
+shop: convenience
 ---

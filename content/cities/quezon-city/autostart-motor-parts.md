@@ -1,5 +1,5 @@
 ---
 title: "Autostart Motor Parts"
 url: /quezon-city/autostart-motor-parts/
-shop: Autoteile
+shop: car parts
 ---

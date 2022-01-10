@@ -1,5 +1,5 @@
 ---
 title: "Mulawin"
 url: /gerona/mulawin/
-shop: Bäckerei
+shop: bakery
 ---

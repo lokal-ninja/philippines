@@ -1,5 +1,5 @@
 ---
 title: "Metro Gaisano Alabang"
 url: /muntinlupa/metro-gaisano-alabang/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bioessence"
 url: /quezon-city/bioessence/
-shop: Allgemein
+shop: shop
 ---

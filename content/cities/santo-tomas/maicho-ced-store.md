@@ -1,5 +1,5 @@
 ---
 title: "Maicho Ced Store"
 url: /santo-tomas/maicho-ced-store/
-shop: Lebensmittel
+shop: convenience
 ---

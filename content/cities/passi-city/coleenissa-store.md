@@ -1,5 +1,5 @@
 ---
 title: "Coleenissa Store"
 url: /passi-city/coleenissa-store/
-shop: Lebensmittel
+shop: convenience
 ---

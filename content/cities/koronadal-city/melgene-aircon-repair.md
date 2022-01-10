@@ -1,5 +1,5 @@
 ---
 title: "Melgene Aircon Repair"
 url: /koronadal-city/melgene-aircon-repair/
-shop: Allgemein
+shop: shop
 ---

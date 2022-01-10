@@ -1,5 +1,5 @@
 ---
 title: "Mobile Craze"
 url: /san-pablo/mobile-craze/
-shop: Handy
+shop: mobile phone
 ---

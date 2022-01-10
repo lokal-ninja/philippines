@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /quezon-city/gap/
-shop: Kleidung
+shop: clothes
 ---

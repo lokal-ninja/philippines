@@ -1,5 +1,5 @@
 ---
 title: "Melendez Store"
 url: /calasiao/melendez-store/
-shop: Kramladen
+shop: variety store
 ---

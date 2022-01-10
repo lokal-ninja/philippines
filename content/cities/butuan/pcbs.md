@@ -1,5 +1,5 @@
 ---
 title: "PCBS"
 url: /butuan/pcbs/
-shop: Bücher
+shop: books
 ---

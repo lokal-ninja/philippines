@@ -1,5 +1,5 @@
 ---
 title: "San Roque Abattoir"
 url: /zamboanga/san-roque-abattoir/
-shop: Metzgerei
+shop: butcher
 ---

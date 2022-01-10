@@ -1,5 +1,5 @@
 ---
 title: "American Premium Outlet"
 url: /olongapo/american-premium-outlet/
-shop: Einkaufszentrum
+shop: mall
 ---

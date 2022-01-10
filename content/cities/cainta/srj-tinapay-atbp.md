@@ -1,5 +1,5 @@
 ---
 title: "SRJ Tinapay ATBP"
 url: /cainta/srj-tinapay-atbp/
-shop: Bäckerei
+shop: bakery
 ---

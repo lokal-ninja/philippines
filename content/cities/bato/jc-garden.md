@@ -1,5 +1,5 @@
 ---
 title: "JC Garden"
 url: /bato/jc-garden/
-shop: Garten-Center
+shop: garden centre
 ---

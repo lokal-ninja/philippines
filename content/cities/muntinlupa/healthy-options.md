@@ -1,5 +1,5 @@
 ---
 title: "Healthy Options"
 url: /muntinlupa/healthy-options/
-shop: Bioladen
+shop: health food
 ---

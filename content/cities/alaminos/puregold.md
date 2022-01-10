@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /alaminos/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

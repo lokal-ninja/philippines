@@ -1,5 +1,5 @@
 ---
 title: "Headzone"
 url: /dagupan/headzone/
-shop: Warenhaus
+shop: department store
 ---

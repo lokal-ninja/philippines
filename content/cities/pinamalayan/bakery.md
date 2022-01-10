@@ -1,5 +1,5 @@
 ---
 title: "Bakery"
 url: /pinamalayan/bakery/
-shop: Bäckerei
+shop: bakery
 ---

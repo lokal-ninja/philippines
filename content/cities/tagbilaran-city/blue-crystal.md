@@ -1,5 +1,5 @@
 ---
 title: "Blue Crystal"
 url: /tagbilaran-city/blue-crystal/
-shop: Kosmetik
+shop: beauty
 ---

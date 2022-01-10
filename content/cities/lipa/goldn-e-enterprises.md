@@ -1,5 +1,5 @@
 ---
 title: "Gold’N E Enterprises"
 url: /lipa/goldn-e-enterprises/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /pasig/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

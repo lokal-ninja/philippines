@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /manila/ministop-4/
-shop: Lebensmittel
+shop: convenience
 ---

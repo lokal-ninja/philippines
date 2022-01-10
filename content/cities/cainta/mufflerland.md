@@ -1,5 +1,5 @@
 ---
 title: "Mufflerland"
 url: /cainta/mufflerland/
-shop: Autowerkstatt
+shop: car repair
 ---

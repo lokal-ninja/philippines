@@ -1,5 +1,5 @@
 ---
 title: "Desmark"
 url: /iligan/desmark/
-shop: Elektronik
+shop: electronics
 ---

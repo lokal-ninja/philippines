@@ -1,5 +1,5 @@
 ---
 title: "Corong Galeri"
 url: /coron/corong-galeri/
-shop: Reisebüro
+shop: travel agency
 ---

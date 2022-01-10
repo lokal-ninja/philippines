@@ -1,5 +1,5 @@
 ---
 title: "Dinnes Store"
 url: /macambol/dinnes-store/
-shop: Supermarkt
+shop: supermarket
 ---

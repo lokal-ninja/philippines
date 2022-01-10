@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /sampaloc/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

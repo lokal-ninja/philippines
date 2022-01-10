@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /malaybalay/citi-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Thirty"
 url: /imus/salon-thirty/
-shop: Friseur
+shop: hairdresser
 ---

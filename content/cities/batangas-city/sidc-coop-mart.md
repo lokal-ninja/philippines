@@ -1,5 +1,5 @@
 ---
 title: "SIDC Coop Mart"
 url: /batangas-city/sidc-coop-mart/
-shop: Lebensmittel
+shop: convenience
 ---

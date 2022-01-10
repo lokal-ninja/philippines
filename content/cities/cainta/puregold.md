@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /cainta/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

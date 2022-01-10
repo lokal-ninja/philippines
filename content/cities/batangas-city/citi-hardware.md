@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /batangas-city/citi-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

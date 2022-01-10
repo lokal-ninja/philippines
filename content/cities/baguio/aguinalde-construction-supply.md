@@ -1,5 +1,5 @@
 ---
 title: "Aguinalde Construction Supply"
 url: /baguio/aguinalde-construction-supply/
-shop: Baustoffe
+shop: trade
 ---

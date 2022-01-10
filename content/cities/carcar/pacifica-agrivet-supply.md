@@ -1,5 +1,5 @@
 ---
 title: "Pacifica Agrivet Supply"
 url: /carcar/pacifica-agrivet-supply/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

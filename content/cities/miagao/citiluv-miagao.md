@@ -1,5 +1,5 @@
 ---
 title: "Citiluv - Miagao"
 url: /miagao/citiluv-miagao/
-shop: Kramladen
+shop: variety store
 ---

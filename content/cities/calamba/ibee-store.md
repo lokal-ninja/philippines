@@ -1,5 +1,5 @@
 ---
 title: "Ibee Store"
 url: /calamba/ibee-store/
-shop: Babysachen
+shop: baby goods
 ---

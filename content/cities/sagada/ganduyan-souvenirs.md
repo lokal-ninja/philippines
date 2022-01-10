@@ -1,5 +1,5 @@
 ---
 title: "Ganduyan Souvenirs"
 url: /sagada/ganduyan-souvenirs/
-shop: Warenhaus
+shop: department store
 ---

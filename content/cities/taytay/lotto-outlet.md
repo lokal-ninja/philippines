@@ -1,5 +1,5 @@
 ---
 title: "Lotto Outlet"
 url: /taytay/lotto-outlet/
-shop: Lotterie
+shop: lottery
 ---

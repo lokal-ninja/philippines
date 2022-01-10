@@ -1,5 +1,5 @@
 ---
 title: "Samson Funeral Homes"
 url: /general-trias/samson-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

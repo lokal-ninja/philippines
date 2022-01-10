@@ -1,5 +1,5 @@
 ---
 title: "Prince Hyper Mart"
 url: /bislig/prince-hyper-mart/
-shop: Supermarkt
+shop: supermarket
 ---

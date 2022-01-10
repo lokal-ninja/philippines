@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /bacoor/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

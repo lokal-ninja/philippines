@@ -1,5 +1,5 @@
 ---
 title: "Puregold Southgate"
 url: /makati/puregold-southgate/
-shop: Supermarkt
+shop: supermarket
 ---

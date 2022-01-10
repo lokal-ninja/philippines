@@ -1,5 +1,5 @@
 ---
 title: "The Wine Club"
 url: /makati/the-wine-club/
-shop: Wein
+shop: wine
 ---

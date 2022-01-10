@@ -1,5 +1,5 @@
 ---
 title: "Cruven"
 url: /makati/cruven/
-shop: Autowerkstatt
+shop: car repair
 ---

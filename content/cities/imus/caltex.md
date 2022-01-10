@@ -1,5 +1,5 @@
 ---
 title: "Caltex"
 url: /imus/caltex/
-shop: Allgemein
+shop: shop
 ---

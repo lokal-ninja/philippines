@@ -1,5 +1,5 @@
 ---
 title: "Henry Lhuillier Pawnshop"
 url: /las-pinas/henry-lhuillier-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powerbooks"
 url: /muntinlupa/powerbooks/
-shop: Bücher
+shop: books
 ---

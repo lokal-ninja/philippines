@@ -1,5 +1,5 @@
 ---
 title: "Filscan"
 url: /kawit/filscan/
-shop: Möbel
+shop: furniture
 ---

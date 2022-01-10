@@ -1,5 +1,5 @@
 ---
 title: "SM Supermarket"
 url: /cagayan-de-oro-city/sm-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

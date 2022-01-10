@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Forum"
 url: /mandaluyong/robinsons-forum/
-shop: Einkaufszentrum
+shop: mall
 ---

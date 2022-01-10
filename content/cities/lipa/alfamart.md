@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /lipa/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

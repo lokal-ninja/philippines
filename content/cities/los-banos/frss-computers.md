@@ -1,5 +1,5 @@
 ---
 title: "FRSS Computers"
 url: /los-banos/frss-computers/
-shop: Computer
+shop: computer
 ---

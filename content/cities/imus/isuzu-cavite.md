@@ -1,5 +1,5 @@
 ---
 title: "Isuzu Cavite"
 url: /imus/isuzu-cavite/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Senador Lumber"
 url: /davao-city/senador-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

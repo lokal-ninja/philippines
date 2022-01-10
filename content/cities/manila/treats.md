@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /manila/treats/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MCJV Sari Sari Store"
 url: /rosario/mcjv-sari-sari-store/
-shop: Kramladen
+shop: variety store
 ---

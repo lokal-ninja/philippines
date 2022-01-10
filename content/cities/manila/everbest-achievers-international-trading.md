@@ -1,5 +1,5 @@
 ---
 title: "Everbest Achievers International Trading"
 url: /manila/everbest-achievers-international-trading/
-shop: Eisenwaren
+shop: hardware
 ---

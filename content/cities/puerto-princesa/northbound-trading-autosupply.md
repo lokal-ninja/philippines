@@ -1,5 +1,5 @@
 ---
 title: "Northbound Trading (autosupply)"
 url: /puerto-princesa/northbound-trading-autosupply/
-shop: Autowerkstatt
+shop: car repair
 ---

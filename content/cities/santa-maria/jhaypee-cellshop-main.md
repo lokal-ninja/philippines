@@ -1,5 +1,5 @@
 ---
 title: "Jhaypee Cellshop Main"
 url: /santa-maria/jhaypee-cellshop-main/
-shop: Handy
+shop: mobile phone
 ---

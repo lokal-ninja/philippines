@@ -1,5 +1,5 @@
 ---
 title: "Silicon Valley"
 url: /san-pablo/silicon-valley/
-shop: Computer
+shop: computer
 ---

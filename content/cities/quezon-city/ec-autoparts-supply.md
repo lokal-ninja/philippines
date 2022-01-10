@@ -1,5 +1,5 @@
 ---
 title: "EC Autoparts Supply"
 url: /quezon-city/ec-autoparts-supply/
-shop: Autoteile
+shop: car parts
 ---

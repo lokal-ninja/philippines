@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /angeles/alfamart/
-shop: Supermarkt
+shop: supermarket
 ---

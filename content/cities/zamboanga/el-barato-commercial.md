@@ -1,5 +1,5 @@
 ---
 title: "El Barato Commercial"
 url: /zamboanga/el-barato-commercial/
-shop: Warenhaus
+shop: department store
 ---

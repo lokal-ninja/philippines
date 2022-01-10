@@ -1,5 +1,5 @@
 ---
 title: "Mini Greenhills"
 url: /san-juan/mini-greenhills/
-shop: Autohaus
+shop: car
 ---

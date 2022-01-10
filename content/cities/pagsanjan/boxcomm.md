@@ -1,5 +1,5 @@
 ---
 title: "BoxComm"
 url: /pagsanjan/boxcomm/
-shop: Handy
+shop: mobile phone
 ---

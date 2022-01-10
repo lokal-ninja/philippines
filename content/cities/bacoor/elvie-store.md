@@ -1,5 +1,5 @@
 ---
 title: "Elvie Store"
 url: /bacoor/elvie-store/
-shop: Kramladen
+shop: variety store
 ---

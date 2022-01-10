@@ -1,5 +1,5 @@
 ---
 title: "Oppo"
 url: /san-juan/oppo/
-shop: Handy
+shop: mobile phone
 ---

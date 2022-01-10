@@ -1,5 +1,5 @@
 ---
 title: "Niknok's Store"
 url: /cainta/niknoks-store/
-shop: Lebensmittel
+shop: convenience
 ---

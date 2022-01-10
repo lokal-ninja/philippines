@@ -1,5 +1,5 @@
 ---
 title: "Validosa"
 url: /kawit/validosa/
-shop: Friseur
+shop: hairdresser
 ---

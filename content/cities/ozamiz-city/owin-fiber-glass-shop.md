@@ -1,5 +1,5 @@
 ---
 title: "Owin Fiber Glass Shop"
 url: /ozamiz-city/owin-fiber-glass-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

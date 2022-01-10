@@ -1,5 +1,5 @@
 ---
 title: "Carzone Service Center"
 url: /quezon-city/carzone-service-center/
-shop: Autoteile
+shop: car parts
 ---

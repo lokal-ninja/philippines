@@ -1,5 +1,5 @@
 ---
 title: "MyMG Convenience Store"
 url: /alfonso/mymg-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Odchayak's Store"
 url: /bontoc/odchayaks-store/
-shop: Lebensmittel
+shop: convenience
 ---

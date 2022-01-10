@@ -1,5 +1,5 @@
 ---
 title: "Store"
 url: /imus-city/store/
-shop: Kramladen
+shop: variety store
 ---

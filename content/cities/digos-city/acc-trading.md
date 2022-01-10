@@ -1,5 +1,5 @@
 ---
 title: "Acc trading"
 url: /digos-city/acc-trading/
-shop: Lebensmittel
+shop: convenience
 ---

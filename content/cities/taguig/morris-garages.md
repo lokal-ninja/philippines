@@ -1,5 +1,5 @@
 ---
 title: "Morris Garages"
 url: /taguig/morris-garages/
-shop: Autohaus
+shop: car
 ---

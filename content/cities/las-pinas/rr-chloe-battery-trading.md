@@ -1,5 +1,5 @@
 ---
 title: "RR Chloe Battery Trading"
 url: /las-pinas/rr-chloe-battery-trading/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'executive's"
 url: /alaminos/dexecutives/
-shop: Kleidung
+shop: clothes
 ---

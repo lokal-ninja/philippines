@@ -1,5 +1,5 @@
 ---
 title: "Prince Hypermart Talisay"
 url: /talisay/prince-hypermart-talisay/
-shop: Supermarkt
+shop: supermarket
 ---

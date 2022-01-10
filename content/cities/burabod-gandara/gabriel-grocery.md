@@ -1,5 +1,5 @@
 ---
 title: "Gabriel Grocery"
 url: /burabod-gandara/gabriel-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

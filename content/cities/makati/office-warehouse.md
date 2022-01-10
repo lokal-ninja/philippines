@@ -1,5 +1,5 @@
 ---
 title: "Office Warehouse"
 url: /makati/office-warehouse/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Japan Surplus"
 url: /los-banos/japan-surplus/
-shop: Elektronik
+shop: electronics
 ---

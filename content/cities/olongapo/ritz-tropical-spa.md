@@ -1,5 +1,5 @@
 ---
 title: "Ritz Tropical Spa"
 url: /olongapo/ritz-tropical-spa/
-shop: Massage
+shop: massage
 ---

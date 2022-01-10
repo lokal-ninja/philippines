@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /dasmarinas/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

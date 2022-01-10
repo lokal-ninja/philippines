@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /santa-rosa/geox/
-shop: Modehaus
+shop: boutique
 ---

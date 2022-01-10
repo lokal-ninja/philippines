@@ -1,5 +1,5 @@
 ---
 title: "Audi Global City"
 url: /taguig/audi-global-city/
-shop: Autohaus
+shop: car
 ---

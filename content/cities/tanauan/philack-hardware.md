@@ -1,5 +1,5 @@
 ---
 title: "Philack Hardware"
 url: /tanauan/philack-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

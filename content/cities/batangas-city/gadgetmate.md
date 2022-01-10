@@ -1,5 +1,5 @@
 ---
 title: "Gadgetmate"
 url: /batangas-city/gadgetmate/
-shop: Handy
+shop: mobile phone
 ---

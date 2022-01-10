@@ -1,5 +1,5 @@
 ---
 title: "Feel Avenue"
 url: /imus/feel-avenue/
-shop: Kleidung
+shop: clothes
 ---

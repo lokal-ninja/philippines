@@ -1,5 +1,5 @@
 ---
 title: "Pan de Manila"
 url: /bacoor/pan-de-manila/
-shop: Bäckerei
+shop: bakery
 ---

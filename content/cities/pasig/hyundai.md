@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /pasig/hyundai/
-shop: Autohaus
+shop: car
 ---

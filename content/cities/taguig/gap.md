@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /taguig/gap/
-shop: Modehaus
+shop: boutique
 ---

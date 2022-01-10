@@ -1,5 +1,5 @@
 ---
 title: "AVON Cosmetics"
 url: /tandag-city/avon-cosmetics-2/
-shop: Kosmetik
+shop: beauty
 ---

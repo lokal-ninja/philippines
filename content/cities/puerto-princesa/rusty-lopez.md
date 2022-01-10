@@ -1,5 +1,5 @@
 ---
 title: "Rusty Lopez"
 url: /puerto-princesa/rusty-lopez/
-shop: Schuhe
+shop: shoes
 ---

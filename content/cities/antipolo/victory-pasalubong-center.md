@@ -1,5 +1,5 @@
 ---
 title: "Victory Pasalubong Center"
 url: /antipolo/victory-pasalubong-center/
-shop: Andenken
+shop: gift
 ---

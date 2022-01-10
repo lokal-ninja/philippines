@@ -1,5 +1,5 @@
 ---
 title: "Oro Optical"
 url: /san-pablo/oro-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "St. Peter’s Chapels"
 url: /dumaguete/st-peters-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

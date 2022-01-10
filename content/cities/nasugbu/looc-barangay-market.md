@@ -1,5 +1,5 @@
 ---
 title: "Looc Barangay Market"
 url: /nasugbu/looc-barangay-market/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /cebu/metro/
-shop: Einkaufszentrum
+shop: mall
 ---

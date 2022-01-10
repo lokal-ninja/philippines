@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen Alabang"
 url: /muntinlupa/volkswagen-alabang/
-shop: Autohaus
+shop: car
 ---

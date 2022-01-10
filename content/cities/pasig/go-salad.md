@@ -1,5 +1,5 @@
 ---
 title: "Go Salad"
 url: /pasig/go-salad/
-shop: Bioladen
+shop: health food
 ---

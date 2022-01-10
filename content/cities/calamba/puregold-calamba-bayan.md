@@ -1,5 +1,5 @@
 ---
 title: "Puregold Calamba-Bayan"
 url: /calamba/puregold-calamba-bayan/
-shop: Supermarkt
+shop: supermarket
 ---

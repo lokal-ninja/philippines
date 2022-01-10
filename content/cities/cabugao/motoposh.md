@@ -1,5 +1,5 @@
 ---
 title: "Motoposh"
 url: /cabugao/motoposh/
-shop: Motorrad
+shop: motorcycle
 ---

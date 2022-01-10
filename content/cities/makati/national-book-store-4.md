@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
 url: /makati/national-book-store-4/
-shop: Schreibwaren
+shop: office supplies
 ---

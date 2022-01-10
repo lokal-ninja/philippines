@@ -1,5 +1,5 @@
 ---
 title: "Balingit Furniture"
 url: /baguio/balingit-furniture/
-shop: Möbel
+shop: furniture
 ---

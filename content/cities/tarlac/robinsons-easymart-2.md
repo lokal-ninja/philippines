@@ -1,5 +1,5 @@
 ---
 title: "Robinson's Easymart"
 url: /tarlac/robinsons-easymart-2/
-shop: Lebensmittel
+shop: convenience
 ---

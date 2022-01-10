@@ -1,5 +1,5 @@
 ---
 title: "PC Club"
 url: /san-pablo/pc-club/
-shop: Computer
+shop: computer
 ---

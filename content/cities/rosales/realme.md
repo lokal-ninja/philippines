@@ -1,5 +1,5 @@
 ---
 title: "Realme"
 url: /rosales/realme/
-shop: Handy
+shop: mobile phone
 ---

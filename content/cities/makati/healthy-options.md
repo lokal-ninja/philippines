@@ -1,5 +1,5 @@
 ---
 title: "Healthy Options"
 url: /makati/healthy-options/
-shop: Bioladen
+shop: health food
 ---

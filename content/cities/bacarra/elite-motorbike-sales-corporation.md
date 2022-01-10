@@ -1,5 +1,5 @@
 ---
 title: "Elite Motorbike Sales Corporation"
 url: /bacarra/elite-motorbike-sales-corporation/
-shop: Motorrad
+shop: motorcycle
 ---

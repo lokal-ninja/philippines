@@ -1,5 +1,5 @@
 ---
 title: "BHF Pawnshop Magalang"
 url: /magalang/bhf-pawnshop-magalang/
-shop: Leiher
+shop: pawnbroker
 ---

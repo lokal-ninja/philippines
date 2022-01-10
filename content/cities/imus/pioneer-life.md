@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Life"
 url: /imus/pioneer-life/
-shop: Allgemein
+shop: shop
 ---

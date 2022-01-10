@@ -1,5 +1,5 @@
 ---
 title: "Shell Store"
 url: /bacoor/shell-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spirulina Filipina Foundation"
 url: /subic/spirulina-filipina-foundation/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

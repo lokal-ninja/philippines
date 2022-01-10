@@ -1,5 +1,5 @@
 ---
 title: "Abygail Store"
 url: /meycauayan/abygail-store/
-shop: Lebensmittel
+shop: convenience
 ---

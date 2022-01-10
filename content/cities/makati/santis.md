@@ -1,5 +1,5 @@
 ---
 title: "Santis"
 url: /makati/santis/
-shop: Allgemein
+shop: shop
 ---

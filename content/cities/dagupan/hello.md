@@ -1,5 +1,5 @@
 ---
 title: "Hello"
 url: /dagupan/hello/
-shop: Handy
+shop: mobile phone
 ---

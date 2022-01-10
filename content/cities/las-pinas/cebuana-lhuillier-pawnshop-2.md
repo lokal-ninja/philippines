@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier Pawnshop"
 url: /las-pinas/cebuana-lhuillier-pawnshop-2/
-shop: Leiher
+shop: pawnbroker
 ---

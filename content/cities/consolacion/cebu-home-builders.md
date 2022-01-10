@@ -1,5 +1,5 @@
 ---
 title: "Cebu Home Builders"
 url: /consolacion/cebu-home-builders/
-shop: Eisenwaren
+shop: hardware
 ---

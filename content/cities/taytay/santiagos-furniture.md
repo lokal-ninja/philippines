@@ -1,5 +1,5 @@
 ---
 title: "Santiago's Furniture"
 url: /taytay/santiagos-furniture/
-shop: Möbel
+shop: furniture
 ---

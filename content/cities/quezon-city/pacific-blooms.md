@@ -1,5 +1,5 @@
 ---
 title: "Pacific Blooms"
 url: /quezon-city/pacific-blooms/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /calamba/waltermart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Philippine Charity Sweepstakes Office"
 url: /meycauayan/philippine-charity-sweepstakes-office/
-shop: Lotterie
+shop: lottery
 ---

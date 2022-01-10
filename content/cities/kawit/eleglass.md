@@ -1,5 +1,5 @@
 ---
 title: "Eleglass"
 url: /kawit/eleglass/
-shop: Eisenwaren
+shop: hardware
 ---

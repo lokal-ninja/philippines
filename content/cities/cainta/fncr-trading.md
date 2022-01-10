@@ -1,5 +1,5 @@
 ---
 title: "FNCR Trading"
 url: /cainta/fncr-trading/
-shop: Baustoffe
+shop: trade
 ---

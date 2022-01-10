@@ -1,5 +1,5 @@
 ---
 title: "Mona's Bakeshop"
 url: /quezon-city/monas-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

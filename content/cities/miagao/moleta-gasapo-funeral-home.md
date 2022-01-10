@@ -1,5 +1,5 @@
 ---
 title: "Moleta-Gasapo Funeral Home"
 url: /miagao/moleta-gasapo-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

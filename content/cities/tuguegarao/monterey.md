@@ -1,5 +1,5 @@
 ---
 title: "Monterey"
 url: /tuguegarao/monterey/
-shop: Metzgerei
+shop: butcher
 ---

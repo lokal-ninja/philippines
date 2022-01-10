@@ -1,5 +1,5 @@
 ---
 title: "Tire Shop"
 url: /miagao/tire-shop/
-shop: Reifen
+shop: tyres
 ---

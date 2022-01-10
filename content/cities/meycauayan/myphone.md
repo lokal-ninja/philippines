@@ -1,5 +1,5 @@
 ---
 title: "myPhone"
 url: /meycauayan/myphone/
-shop: Handy
+shop: mobile phone
 ---

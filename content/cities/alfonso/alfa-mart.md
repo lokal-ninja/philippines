@@ -1,5 +1,5 @@
 ---
 title: "Alfa Mart"
 url: /alfonso/alfa-mart/
-shop: Lebensmittel
+shop: convenience
 ---

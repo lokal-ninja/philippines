@@ -1,5 +1,5 @@
 ---
 title: "AutoCraft"
 url: /quezon-city/autocraft/
-shop: Autowerkstatt
+shop: car repair
 ---

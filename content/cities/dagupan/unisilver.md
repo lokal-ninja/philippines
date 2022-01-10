@@ -1,5 +1,5 @@
 ---
 title: "Unisilver"
 url: /dagupan/unisilver/
-shop: Schmuck
+shop: jewelry
 ---

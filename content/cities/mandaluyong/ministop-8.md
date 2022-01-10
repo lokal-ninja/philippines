@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /mandaluyong/ministop-8/
-shop: Lebensmittel
+shop: convenience
 ---

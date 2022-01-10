@@ -1,5 +1,5 @@
 ---
 title: "Caparal Furniture"
 url: /dasmarinas/caparal-furniture/
-shop: Hifi
+shop: hifi
 ---

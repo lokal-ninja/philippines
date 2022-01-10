@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /meycauyan/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

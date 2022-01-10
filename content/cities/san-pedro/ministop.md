@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /san-pedro/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

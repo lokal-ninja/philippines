@@ -1,5 +1,5 @@
 ---
 title: "Godspeed Motorparts"
 url: /tanjay/godspeed-motorparts/
-shop: Motorrad
+shop: motorcycle
 ---

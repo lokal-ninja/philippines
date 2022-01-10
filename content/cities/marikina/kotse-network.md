@@ -1,5 +1,5 @@
 ---
 title: "Kotse Network"
 url: /marikina/kotse-network/
-shop: Autohaus
+shop: car
 ---

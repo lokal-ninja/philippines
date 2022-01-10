@@ -1,5 +1,5 @@
 ---
 title: "Optimax Motorcycle"
 url: /imus/optimax-motorcycle/
-shop: Motorrad
+shop: motorcycle
 ---

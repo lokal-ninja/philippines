@@ -1,5 +1,5 @@
 ---
 title: "TOYOTA"
 url: /cabanatuan/toyota/
-shop: Autowerkstatt
+shop: car repair
 ---

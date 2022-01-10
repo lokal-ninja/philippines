@@ -1,5 +1,5 @@
 ---
 title: "Sta. Lucia Mall"
 url: /cainta/sta-lucia-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

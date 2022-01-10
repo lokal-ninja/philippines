@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /zamboanga/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

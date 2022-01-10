@@ -1,5 +1,5 @@
 ---
 title: "Fuji"
 url: /pasay/fuji/
-shop: Computer
+shop: computer
 ---

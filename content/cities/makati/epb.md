@@ -1,5 +1,5 @@
 ---
 title: "EPB"
 url: /makati/epb/
-shop: Autowerkstatt
+shop: car repair
 ---

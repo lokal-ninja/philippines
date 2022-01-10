@@ -1,5 +1,5 @@
 ---
 title: "Kien Store"
 url: /marikina/kien-store/
-shop: Kramladen
+shop: variety store
 ---

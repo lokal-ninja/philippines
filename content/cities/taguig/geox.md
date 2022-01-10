@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /taguig/geox/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilcon"
 url: /davao-city/wilcon/
-shop: Baumarkt
+shop: doityourself
 ---

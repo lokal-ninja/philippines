@@ -1,5 +1,5 @@
 ---
 title: "Cindy's Bakeshop"
 url: /mexico/cindys-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

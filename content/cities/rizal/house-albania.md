@@ -1,5 +1,5 @@
 ---
 title: "House Albania"
 url: /rizal/house-albania/
-shop: Haushaltsartikel
+shop: houseware
 ---

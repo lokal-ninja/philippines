@@ -1,5 +1,5 @@
 ---
 title: "ABE"
 url: /paniqui/abe/
-shop: Fahrrad
+shop: bicycle
 ---

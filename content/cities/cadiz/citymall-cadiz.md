@@ -1,5 +1,5 @@
 ---
 title: "CityMall Cadiz"
 url: /cadiz/citymall-cadiz/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lite N' Bubbly"
 url: /cainta/lite-n-bubbly/
-shop: Wasser
+shop: water
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autozentrum BMW"
 url: /muntinlupa/autozentrum-bmw/
-shop: Autohaus
+shop: car
 ---

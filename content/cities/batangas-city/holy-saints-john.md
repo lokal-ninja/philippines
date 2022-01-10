@@ -1,5 +1,5 @@
 ---
 title: "Holy Saints John"
 url: /batangas-city/holy-saints-john/
-shop: Bestattungen
+shop: funeral directors
 ---

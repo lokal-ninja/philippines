@@ -1,5 +1,5 @@
 ---
 title: "Lufu Design Center"
 url: /makati/lufu-design-center/
-shop: Möbel
+shop: furniture
 ---

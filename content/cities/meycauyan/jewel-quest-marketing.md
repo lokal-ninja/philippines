@@ -1,5 +1,5 @@
 ---
 title: "Jewel Quest Marketing"
 url: /meycauyan/jewel-quest-marketing/
-shop: Schmuck
+shop: jewelry
 ---

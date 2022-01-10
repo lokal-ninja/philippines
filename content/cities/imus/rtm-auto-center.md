@@ -1,5 +1,5 @@
 ---
 title: "RTM Auto Center"
 url: /imus/rtm-auto-center/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto-CAD Plotting"
 url: /taytay/auto-cad-plotting/
-shop: Kopieren
+shop: copyshop
 ---

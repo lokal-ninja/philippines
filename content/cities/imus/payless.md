@@ -1,5 +1,5 @@
 ---
 title: "Payless"
 url: /imus/payless/
-shop: Schuhe
+shop: shoes
 ---

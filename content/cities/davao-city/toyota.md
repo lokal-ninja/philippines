@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /davao-city/toyota/
-shop: Autohaus
+shop: car
 ---

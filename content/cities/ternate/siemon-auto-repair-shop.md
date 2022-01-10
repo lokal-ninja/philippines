@@ -1,5 +1,5 @@
 ---
 title: "Siemon Auto Repair Shop"
 url: /ternate/siemon-auto-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

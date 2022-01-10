@@ -1,5 +1,5 @@
 ---
 title: "Ticket Express"
 url: /taguig/ticket-express/
-shop: Reisebüro
+shop: travel agency
 ---

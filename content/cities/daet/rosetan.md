@@ -1,5 +1,5 @@
 ---
 title: "Rosetan"
 url: /daet/rosetan/
-shop: Warenhaus
+shop: department store
 ---

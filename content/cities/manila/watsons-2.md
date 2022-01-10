@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /manila/watsons-2/
-shop: Drogerie
+shop: chemist
 ---

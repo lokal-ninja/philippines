@@ -1,5 +1,5 @@
 ---
 title: "Magallanes Funeral Home"
 url: /odiongan/magallanes-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

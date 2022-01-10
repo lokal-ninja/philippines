@@ -1,5 +1,5 @@
 ---
 title: "Crismar Pawnshop"
 url: /san-pablo/crismar-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

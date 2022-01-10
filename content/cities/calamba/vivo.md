@@ -1,5 +1,5 @@
 ---
 title: "Vivo"
 url: /calamba/vivo/
-shop: Handy
+shop: mobile phone
 ---

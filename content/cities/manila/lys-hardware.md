@@ -1,5 +1,5 @@
 ---
 title: "LYS Hardware"
 url: /manila/lys-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

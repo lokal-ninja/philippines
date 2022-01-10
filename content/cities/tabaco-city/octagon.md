@@ -1,5 +1,5 @@
 ---
 title: "Octagon"
 url: /tabaco-city/octagon/
-shop: Computer
+shop: computer
 ---

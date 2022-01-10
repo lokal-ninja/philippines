@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /manila/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

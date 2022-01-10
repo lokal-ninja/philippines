@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /tiaong/expressions/
-shop: Bücher
+shop: books
 ---

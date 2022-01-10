@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-antonio-nueva-ecija/shell/
-shop: Lebensmittel
+shop: convenience
 ---

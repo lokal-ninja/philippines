@@ -1,5 +1,5 @@
 ---
 title: "Tailg E-Bike"
 url: /mabalacat/tailg-e-bike/
-shop: Fahrrad
+shop: bicycle
 ---

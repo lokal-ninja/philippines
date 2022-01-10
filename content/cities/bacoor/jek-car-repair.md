@@ -1,5 +1,5 @@
 ---
 title: "Jek Car Repair"
 url: /bacoor/jek-car-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

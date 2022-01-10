@@ -1,5 +1,5 @@
 ---
 title: "Royal Star"
 url: /sariaya/royal-star/
-shop: Elektronik
+shop: electronics
 ---

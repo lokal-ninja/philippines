@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /valenzuela/alfamart/
-shop: Supermarkt
+shop: supermarket
 ---

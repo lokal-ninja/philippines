@@ -1,5 +1,5 @@
 ---
 title: "Lilia Store"
 url: /tarlac/lilia-store/
-shop: Lebensmittel
+shop: convenience
 ---

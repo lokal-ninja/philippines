@@ -1,5 +1,5 @@
 ---
 title: "Copytrade"
 url: /tarlac/copytrade/
-shop: Kopieren
+shop: copyshop
 ---

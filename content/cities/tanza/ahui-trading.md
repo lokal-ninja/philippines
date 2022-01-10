@@ -1,5 +1,5 @@
 ---
 title: "AHUI Trading"
 url: /tanza/ahui-trading/
-shop: Autoteile
+shop: car parts
 ---

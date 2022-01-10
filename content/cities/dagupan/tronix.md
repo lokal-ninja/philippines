@@ -1,5 +1,5 @@
 ---
 title: "Tronix"
 url: /dagupan/tronix/
-shop: Elektronik
+shop: electronics
 ---

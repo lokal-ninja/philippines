@@ -1,5 +1,5 @@
 ---
 title: "Ka Mely Bibingka atbp."
 url: /cainta/ka-mely-bibingka-atbp/
-shop: Süßwaren
+shop: confectionery
 ---

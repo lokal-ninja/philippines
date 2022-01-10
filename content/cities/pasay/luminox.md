@@ -1,5 +1,5 @@
 ---
 title: "Luminox"
 url: /pasay/luminox/
-shop: Schmuck
+shop: jewelry
 ---

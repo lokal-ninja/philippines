@@ -1,5 +1,5 @@
 ---
 title: "Tambuting"
 url: /gerona/tambuting/
-shop: Leiher
+shop: pawnbroker
 ---

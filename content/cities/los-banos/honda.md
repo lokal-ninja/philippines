@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /los-banos/honda/
-shop: Autohaus
+shop: car
 ---

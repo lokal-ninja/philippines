@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
 url: /miagao/rusi/
-shop: Motorrad
+shop: motorcycle
 ---

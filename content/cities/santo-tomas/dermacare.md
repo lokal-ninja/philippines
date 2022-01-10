@@ -1,5 +1,5 @@
 ---
 title: "Dermacare"
 url: /santo-tomas/dermacare/
-shop: Kosmetik
+shop: beauty
 ---

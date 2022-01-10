@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /pasay/sony/
-shop: Elektronik
+shop: electronics
 ---

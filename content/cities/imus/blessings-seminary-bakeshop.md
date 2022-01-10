@@ -1,5 +1,5 @@
 ---
 title: "Blessings Seminary Bakeshop"
 url: /imus/blessings-seminary-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

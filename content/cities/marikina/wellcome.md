@@ -1,5 +1,5 @@
 ---
 title: "Wellcome"
 url: /marikina/wellcome/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Classic Audio Works"
 url: /davao-city/classic-audio-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /lipa/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

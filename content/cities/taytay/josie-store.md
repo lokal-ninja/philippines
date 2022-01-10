@@ -1,5 +1,5 @@
 ---
 title: "JOSIE STORE"
 url: /taytay/josie-store/
-shop: Kramladen
+shop: variety store
 ---

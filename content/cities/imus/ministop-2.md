@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /imus/ministop-2/
-shop: Lebensmittel
+shop: convenience
 ---

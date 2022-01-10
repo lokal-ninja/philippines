@@ -1,5 +1,5 @@
 ---
 title: "Forme"
 url: /dagupan/forme/
-shop: Kleidung
+shop: clothes
 ---

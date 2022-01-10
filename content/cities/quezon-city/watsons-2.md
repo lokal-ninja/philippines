@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /quezon-city/watsons-2/
-shop: Drogerie
+shop: chemist
 ---

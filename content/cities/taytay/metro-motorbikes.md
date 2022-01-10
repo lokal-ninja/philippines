@@ -1,5 +1,5 @@
 ---
 title: "Metro Motorbikes"
 url: /taytay/metro-motorbikes/
-shop: Motorrad
+shop: motorcycle
 ---

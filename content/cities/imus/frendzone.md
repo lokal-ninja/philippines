@@ -1,5 +1,5 @@
 ---
 title: "Frendzone"
 url: /imus/frendzone/
-shop: Handy
+shop: mobile phone
 ---

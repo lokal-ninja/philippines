@@ -1,5 +1,5 @@
 ---
 title: "Edgar Store"
 url: /mandaluyong/edgar-store/
-shop: Lebensmittel
+shop: convenience
 ---

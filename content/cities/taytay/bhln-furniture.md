@@ -1,5 +1,5 @@
 ---
 title: "BHLN Furniture"
 url: /taytay/bhln-furniture/
-shop: Möbel
+shop: furniture
 ---

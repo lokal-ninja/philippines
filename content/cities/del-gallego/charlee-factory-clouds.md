@@ -1,5 +1,5 @@
 ---
 title: "Charlee Factory Clouds"
 url: /del-gallego/charlee-factory-clouds/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gigahertz Main Office"
 url: /manila/gigahertz-main-office/
-shop: Computer
+shop: computer
 ---

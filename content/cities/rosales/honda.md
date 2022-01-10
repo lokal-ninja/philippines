@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /rosales/honda/
-shop: Motorrad
+shop: motorcycle
 ---

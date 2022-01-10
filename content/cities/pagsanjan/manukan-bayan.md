@@ -1,5 +1,5 @@
 ---
 title: "Manukan Bayan"
 url: /pagsanjan/manukan-bayan/
-shop: Metzgerei
+shop: butcher
 ---

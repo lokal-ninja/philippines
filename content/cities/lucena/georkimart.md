@@ -1,5 +1,5 @@
 ---
 title: "Georkimart"
 url: /lucena/georkimart/
-shop: Supermarkt
+shop: supermarket
 ---

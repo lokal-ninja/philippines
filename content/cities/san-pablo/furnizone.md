@@ -1,5 +1,5 @@
 ---
 title: "Furnizone"
 url: /san-pablo/furnizone/
-shop: Möbel
+shop: furniture
 ---

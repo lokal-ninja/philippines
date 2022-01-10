@@ -1,5 +1,5 @@
 ---
 title: "Tagaytay-East Terminal"
 url: /tagaytay/tagaytay-east-terminal/
-shop: Einkaufszentrum
+shop: mall
 ---

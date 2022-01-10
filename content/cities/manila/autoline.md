@@ -1,5 +1,5 @@
 ---
 title: "Autoline"
 url: /manila/autoline/
-shop: Autowerkstatt
+shop: car repair
 ---

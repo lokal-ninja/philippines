@@ -1,5 +1,5 @@
 ---
 title: "Energy Packed Marketing"
 url: /marikina/energy-packed-marketing/
-shop: Autoteile
+shop: car parts
 ---

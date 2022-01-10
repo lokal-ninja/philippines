@@ -1,5 +1,5 @@
 ---
 title: "Levin Automotive Parts"
 url: /quezon-city/levin-automotive-parts/
-shop: Autoteile
+shop: car parts
 ---

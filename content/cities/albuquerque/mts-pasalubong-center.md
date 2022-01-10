@@ -1,5 +1,5 @@
 ---
 title: "MTS Pasalubong Center"
 url: /albuquerque/mts-pasalubong-center/
-shop: Warenhaus
+shop: department store
 ---

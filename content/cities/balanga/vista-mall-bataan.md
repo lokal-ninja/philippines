@@ -1,5 +1,5 @@
 ---
 title: "Vista Mall Bataan"
 url: /balanga/vista-mall-bataan/
-shop: Einkaufszentrum
+shop: mall
 ---

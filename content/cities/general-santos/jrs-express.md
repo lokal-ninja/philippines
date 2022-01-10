@@ -1,5 +1,5 @@
 ---
 title: "JRS Express"
 url: /general-santos/jrs-express/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zab Digital Gifts"
 url: /calamba/zab-digital-gifts/
-shop: Andenken
+shop: gift
 ---

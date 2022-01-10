@@ -1,5 +1,5 @@
 ---
 title: "Del Mundo Store"
 url: /san-jose/del-mundo-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Sauna"
 url: /quezon-city/happy-sauna/
-shop: Massage
+shop: massage
 ---

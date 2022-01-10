@@ -1,5 +1,5 @@
 ---
 title: "SHOES NG BAYAN"
 url: /angono/shoes-ng-bayan/
-shop: Schuhe
+shop: shoes
 ---

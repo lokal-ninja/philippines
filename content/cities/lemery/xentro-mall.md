@@ -1,5 +1,5 @@
 ---
 title: "Xentro Mall"
 url: /lemery/xentro-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

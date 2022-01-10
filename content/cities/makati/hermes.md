@@ -1,5 +1,5 @@
 ---
 title: "Hermes"
 url: /makati/hermes/
-shop: Kleidung
+shop: clothes
 ---

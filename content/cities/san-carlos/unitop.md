@@ -1,5 +1,5 @@
 ---
 title: "Unitop"
 url: /san-carlos/unitop/
-shop: Warenhaus
+shop: department store
 ---

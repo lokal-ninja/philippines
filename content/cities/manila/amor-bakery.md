@@ -1,5 +1,5 @@
 ---
 title: "Amor Bakery"
 url: /manila/amor-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ynan Motorcycle Shop"
 url: /san-juan/ynan-motorcycle-shop/
-shop: Motorrad
+shop: motorcycle
 ---

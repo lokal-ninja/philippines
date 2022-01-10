@@ -1,5 +1,5 @@
 ---
 title: "Laundrybest"
 url: /san-pablo/laundrybest/
-shop: Wäscherei
+shop: laundry
 ---

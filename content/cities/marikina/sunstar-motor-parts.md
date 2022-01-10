@@ -1,5 +1,5 @@
 ---
 title: "Sunstar Motor Parts"
 url: /marikina/sunstar-motor-parts/
-shop: Autoteile
+shop: car parts
 ---

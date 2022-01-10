@@ -1,5 +1,5 @@
 ---
 title: "Callaway Pro Golf Shop"
 url: /muntinlupa/callaway-pro-golf-shop/
-shop: Sport
+shop: sports
 ---

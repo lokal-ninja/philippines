@@ -1,5 +1,5 @@
 ---
 title: "Cris-Eric Vulcanizing"
 url: /panabo-city/cris-eric-vulcanizing/
-shop: Reifen
+shop: tyres
 ---

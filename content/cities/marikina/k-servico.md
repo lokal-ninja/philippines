@@ -1,5 +1,5 @@
 ---
 title: "K Servico"
 url: /marikina/k-servico/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Addessa"
 url: /alaminos/addessa/
-shop: Haushaltsgeräte
+shop: appliance
 ---

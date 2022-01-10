@@ -1,5 +1,5 @@
 ---
 title: "Ascor Motor Works"
 url: /antipolo/ascor-motor-works/
-shop: Autowerkstatt
+shop: car repair
 ---

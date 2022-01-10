@@ -1,5 +1,5 @@
 ---
 title: "Honda Cars Greenhills"
 url: /mandaluyong/honda-cars-greenhills/
-shop: Autohaus
+shop: car
 ---

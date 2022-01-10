@@ -1,5 +1,5 @@
 ---
 title: "ARCA"
 url: /baclayon/arca/
-shop: Tickets
+shop: ticket
 ---

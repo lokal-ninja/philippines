@@ -1,5 +1,5 @@
 ---
 title: "AlfaMart"
 url: /taguig/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evangelines Emboidery"
 url: /lumban/evangelines-emboidery/
-shop: Kleidung
+shop: clothes
 ---

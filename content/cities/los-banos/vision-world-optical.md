@@ -1,5 +1,5 @@
 ---
 title: "Vision World Optical"
 url: /los-banos/vision-world-optical/
-shop: Optiker
+shop: optician
 ---

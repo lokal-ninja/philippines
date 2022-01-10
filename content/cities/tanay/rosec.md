@@ -1,5 +1,5 @@
 ---
 title: "Rosec"
 url: /tanay/rosec/
-shop: Andenken
+shop: gift
 ---

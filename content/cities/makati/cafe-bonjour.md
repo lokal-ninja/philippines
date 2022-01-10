@@ -1,5 +1,5 @@
 ---
 title: "Café Bonjour"
 url: /makati/cafe-bonjour/
-shop: Lebensmittel
+shop: convenience
 ---

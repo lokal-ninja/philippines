@@ -1,5 +1,5 @@
 ---
 title: "Uniworld Furniture"
 url: /dagupan-city/uniworld-furniture/
-shop: Möbel
+shop: furniture
 ---

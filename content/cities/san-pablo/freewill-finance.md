@@ -1,5 +1,5 @@
 ---
 title: "Freewill Finance"
 url: /san-pablo/freewill-finance/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mang Tinapay"
 url: /passi-city/mang-tinapay/
-shop: Bäckerei
+shop: bakery
 ---

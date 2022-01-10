@@ -1,5 +1,5 @@
 ---
 title: "Amaryllis Spa"
 url: /san-pablo/amaryllis-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /bacnotan/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

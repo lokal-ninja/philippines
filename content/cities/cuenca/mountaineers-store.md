@@ -1,5 +1,5 @@
 ---
 title: "Mountaineer's Store"
 url: /cuenca/mountaineers-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Generika"
 url: /angono/generika/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Mart"
 url: /manila/family-mart/
-shop: Lebensmittel
+shop: convenience
 ---

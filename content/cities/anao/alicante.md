@@ -1,5 +1,5 @@
 ---
 title: "Alicante"
 url: /anao/alicante/
-shop: Dorfladen
+shop: general
 ---

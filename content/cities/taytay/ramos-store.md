@@ -1,5 +1,5 @@
 ---
 title: "Ramos Store"
 url: /taytay/ramos-store/
-shop: Lebensmittel
+shop: convenience
 ---

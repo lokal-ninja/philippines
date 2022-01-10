@@ -1,5 +1,5 @@
 ---
 title: "Shell car service bay"
 url: /quezon-city/shell-car-service-bay/
-shop: Autowerkstatt
+shop: car repair
 ---

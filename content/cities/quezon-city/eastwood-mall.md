@@ -1,5 +1,5 @@
 ---
 title: "Eastwood Mall"
 url: /quezon-city/eastwood-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

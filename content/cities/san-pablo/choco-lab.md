@@ -1,5 +1,5 @@
 ---
 title: "Choco Lab"
 url: /san-pablo/choco-lab/
-shop: Süßwaren
+shop: confectionery
 ---

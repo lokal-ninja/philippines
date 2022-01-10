@@ -1,5 +1,5 @@
 ---
 title: "Rina Optical"
 url: /san-pablo/rina-optical/
-shop: Optiker
+shop: optician
 ---

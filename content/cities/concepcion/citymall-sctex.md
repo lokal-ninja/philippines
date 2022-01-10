@@ -1,5 +1,5 @@
 ---
 title: "CityMall SCTEX"
 url: /concepcion/citymall-sctex/
-shop: Einkaufszentrum
+shop: mall
 ---

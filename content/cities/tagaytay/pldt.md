@@ -1,5 +1,5 @@
 ---
 title: "PLDT"
 url: /tagaytay/pldt/
-shop: Handy
+shop: mobile phone
 ---

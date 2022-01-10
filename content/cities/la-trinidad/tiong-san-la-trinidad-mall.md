@@ -1,5 +1,5 @@
 ---
 title: "Tiong San La Trinidad Mall"
 url: /la-trinidad/tiong-san-la-trinidad-mall/
-shop: Warenhaus
+shop: department store
 ---

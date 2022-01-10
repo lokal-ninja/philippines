@@ -1,5 +1,5 @@
 ---
 title: "Robinson's Place"
 url: /general-santos/robinsons-place/
-shop: Supermarkt
+shop: supermarket
 ---

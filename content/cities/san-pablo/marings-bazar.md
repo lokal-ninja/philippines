@@ -1,5 +1,5 @@
 ---
 title: "Maring's Bazar"
 url: /san-pablo/marings-bazar/
-shop: Foto
+shop: photo
 ---

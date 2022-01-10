@@ -1,5 +1,5 @@
 ---
 title: "Fanny Serrano"
 url: /san-juan/fanny-serrano/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Battery World"
 url: /puerto-princesa/battery-world/
-shop: Autowerkstatt
+shop: car repair
 ---

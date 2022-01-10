@@ -1,5 +1,5 @@
 ---
 title: "Z Onofre Pawnshop"
 url: /bacoor/z-onofre-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

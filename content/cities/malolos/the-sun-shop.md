@@ -1,5 +1,5 @@
 ---
 title: "The Sun Shop"
 url: /malolos/the-sun-shop/
-shop: Handy
+shop: mobile phone
 ---

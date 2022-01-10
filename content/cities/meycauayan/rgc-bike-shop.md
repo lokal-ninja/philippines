@@ -1,5 +1,5 @@
 ---
 title: "RGC Bike Shop"
 url: /meycauayan/rgc-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

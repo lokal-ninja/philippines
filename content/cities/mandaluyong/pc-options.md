@@ -1,5 +1,5 @@
 ---
 title: "Pc Options"
 url: /mandaluyong/pc-options/
-shop: Computer
+shop: computer
 ---

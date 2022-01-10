@@ -1,5 +1,5 @@
 ---
 title: "Hardlight Massage"
 url: /baguio/hardlight-massage/
-shop: Massage
+shop: massage
 ---

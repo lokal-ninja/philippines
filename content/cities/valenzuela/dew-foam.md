@@ -1,5 +1,5 @@
 ---
 title: "Dew Foam"
 url: /valenzuela/dew-foam/
-shop: Betten
+shop: bed
 ---

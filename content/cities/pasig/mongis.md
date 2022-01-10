@@ -1,5 +1,5 @@
 ---
 title: "Mongis"
 url: /pasig/mongis/
-shop: Fahrrad
+shop: bicycle
 ---

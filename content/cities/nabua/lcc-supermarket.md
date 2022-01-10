@@ -1,5 +1,5 @@
 ---
 title: "LCC Supermarket"
 url: /nabua/lcc-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

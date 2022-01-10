@@ -1,5 +1,5 @@
 ---
 title: "Home Design"
 url: /koronadal/home-design/
-shop: Eisenwaren
+shop: hardware
 ---

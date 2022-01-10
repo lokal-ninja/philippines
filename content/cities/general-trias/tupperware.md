@@ -1,5 +1,5 @@
 ---
 title: "Tupperware"
 url: /general-trias/tupperware/
-shop: Warenhaus
+shop: department store
 ---

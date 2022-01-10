@@ -1,5 +1,5 @@
 ---
 title: "Tapawan Store"
 url: /imus/tapawan-store/
-shop: Kramladen
+shop: variety store
 ---

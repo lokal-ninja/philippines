@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /gabaldon/mobil/
-shop: Autoteile
+shop: car parts
 ---

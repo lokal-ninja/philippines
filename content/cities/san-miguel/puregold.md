@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /san-miguel/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Ribbon Minimart"
 url: /miagao/green-ribbon-minimart/
-shop: Kramladen
+shop: variety store
 ---

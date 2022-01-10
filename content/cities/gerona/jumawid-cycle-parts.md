@@ -1,5 +1,5 @@
 ---
 title: "Jumawid Cycle Parts"
 url: /gerona/jumawid-cycle-parts/
-shop: Fahrrad
+shop: bicycle
 ---

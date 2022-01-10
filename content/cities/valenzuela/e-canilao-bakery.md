@@ -1,5 +1,5 @@
 ---
 title: "E. Canilao Bakery"
 url: /valenzuela/e-canilao-bakery/
-shop: Bäckerei
+shop: bakery
 ---

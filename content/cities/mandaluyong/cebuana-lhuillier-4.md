@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /mandaluyong/cebuana-lhuillier-4/
-shop: Leiher
+shop: pawnbroker
 ---

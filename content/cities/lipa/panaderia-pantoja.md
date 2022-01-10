@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Pantoja"
 url: /lipa/panaderia-pantoja/
-shop: Bäckerei
+shop: bakery
 ---

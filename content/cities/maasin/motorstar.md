@@ -1,5 +1,5 @@
 ---
 title: "Motorstar"
 url: /maasin/motorstar/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loyola Memorial Chapels"
 url: /taytay/loyola-memorial-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

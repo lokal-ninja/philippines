@@ -1,5 +1,5 @@
 ---
 title: "Paperworld"
 url: /tacloban-city/paperworld/
-shop: Bücher
+shop: books
 ---

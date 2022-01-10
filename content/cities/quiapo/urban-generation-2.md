@@ -1,5 +1,5 @@
 ---
 title: "Urban Generation"
 url: /quiapo/urban-generation-2/
-shop: Warenhaus
+shop: department store
 ---

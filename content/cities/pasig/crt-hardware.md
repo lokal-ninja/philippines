@@ -1,5 +1,5 @@
 ---
 title: "CRT Hardware"
 url: /pasig/crt-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

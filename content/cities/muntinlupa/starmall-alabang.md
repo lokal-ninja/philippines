@@ -1,5 +1,5 @@
 ---
 title: "Starmall Alabang"
 url: /muntinlupa/starmall-alabang/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /tacloban/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

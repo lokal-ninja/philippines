@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /quezon-city/ministop-7/
-shop: Lebensmittel
+shop: convenience
 ---

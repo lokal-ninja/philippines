@@ -1,5 +1,5 @@
 ---
 title: "Wells Trading"
 url: /taytay/wells-trading/
-shop: Eisenwaren
+shop: hardware
 ---

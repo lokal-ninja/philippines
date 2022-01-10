@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /dinalupihan/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

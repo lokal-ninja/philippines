@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /taytay/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

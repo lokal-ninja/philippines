@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /laoag/m-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

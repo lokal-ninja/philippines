@@ -1,5 +1,5 @@
 ---
 title: "Savemore Market"
 url: /san-jose/savemore-market/
-shop: Supermarkt
+shop: supermarket
 ---

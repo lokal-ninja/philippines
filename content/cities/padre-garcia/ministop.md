@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /padre-garcia/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

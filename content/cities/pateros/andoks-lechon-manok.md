@@ -1,5 +1,5 @@
 ---
 title: "Andok's Lechon Manok"
 url: /pateros/andoks-lechon-manok/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katrina's Store"
 url: /angono/katrinas-store/
-shop: Lebensmittel
+shop: convenience
 ---

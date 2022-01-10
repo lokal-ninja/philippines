@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /bacoor/motolite/
-shop: Autowerkstatt
+shop: car repair
 ---

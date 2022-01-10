@@ -1,5 +1,5 @@
 ---
 title: "Anson Supermarket"
 url: /quezon-city/anson-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ES Desamito"
 url: /laur/es-desamito/
-shop: Lebensmittel
+shop: convenience
 ---

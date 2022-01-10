@@ -1,5 +1,5 @@
 ---
 title: "Dongwon Korean Grocery"
 url: /dasmarinas/dongwon-korean-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

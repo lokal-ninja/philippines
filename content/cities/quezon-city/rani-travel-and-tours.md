@@ -1,5 +1,5 @@
 ---
 title: "Rani Travel And Tours"
 url: /quezon-city/rani-travel-and-tours/
-shop: Reisebüro
+shop: travel agency
 ---

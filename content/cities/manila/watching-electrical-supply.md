@@ -1,5 +1,5 @@
 ---
 title: "Watching Electrical Supply"
 url: /manila/watching-electrical-supply/
-shop: Eisenwaren
+shop: hardware
 ---

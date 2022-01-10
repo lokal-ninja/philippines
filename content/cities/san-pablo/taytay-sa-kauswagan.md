@@ -1,5 +1,5 @@
 ---
 title: "Taytay sa Kauswagan"
 url: /san-pablo/taytay-sa-kauswagan/
-shop: Leiher
+shop: pawnbroker
 ---

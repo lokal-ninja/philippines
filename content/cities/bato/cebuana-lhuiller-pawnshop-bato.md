@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuiller Pawnshop-Bato"
 url: /bato/cebuana-lhuiller-pawnshop-bato/
-shop: Leiher
+shop: pawnbroker
 ---

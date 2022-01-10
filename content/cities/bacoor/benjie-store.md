@@ -1,5 +1,5 @@
 ---
 title: "Benjie Store"
 url: /bacoor/benjie-store/
-shop: Kramladen
+shop: variety store
 ---

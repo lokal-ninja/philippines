@@ -1,5 +1,5 @@
 ---
 title: "Stampa Grafica"
 url: /padre-garcia/stampa-grafica/
-shop: Kopieren
+shop: copyshop
 ---

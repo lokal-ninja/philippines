@@ -1,5 +1,5 @@
 ---
 title: "Mini Mart"
 url: /pasig/mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

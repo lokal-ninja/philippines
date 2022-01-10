@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Servitek"
 url: /makati/goodyear-servitek/
-shop: Autowerkstatt
+shop: car repair
 ---

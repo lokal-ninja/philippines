@@ -1,5 +1,5 @@
 ---
 title: "Aldemita's Drug"
 url: /bay/aldemitas-drug/
-shop: Drogerie
+shop: chemist
 ---

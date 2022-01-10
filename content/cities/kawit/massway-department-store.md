@@ -1,5 +1,5 @@
 ---
 title: "Massway Department Store"
 url: /kawit/massway-department-store/
-shop: Warenhaus
+shop: department store
 ---

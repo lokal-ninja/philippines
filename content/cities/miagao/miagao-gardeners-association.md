@@ -1,5 +1,5 @@
 ---
 title: "Miagao Gardener's Association"
 url: /miagao/miagao-gardeners-association/
-shop: Garten-Center
+shop: garden centre
 ---

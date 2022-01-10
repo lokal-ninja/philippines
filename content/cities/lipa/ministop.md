@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /lipa/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

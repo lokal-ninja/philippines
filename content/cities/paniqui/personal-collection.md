@@ -1,5 +1,5 @@
 ---
 title: "Personal Collection"
 url: /paniqui/personal-collection/
-shop: Allgemein
+shop: shop
 ---

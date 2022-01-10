@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /digos-city/shell/
-shop: Allgemein
+shop: shop
 ---

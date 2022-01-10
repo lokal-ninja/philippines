@@ -1,5 +1,5 @@
 ---
 title: "Sun Xi Mini-Store"
 url: /alegria/sun-xi-mini-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D. Umali Store"
 url: /tagaytay/d-umali-store/
-shop: Lebensmittel
+shop: convenience
 ---

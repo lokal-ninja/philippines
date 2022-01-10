@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Department Store"
 url: /las-pinas/robinsons-department-store/
-shop: Warenhaus
+shop: department store
 ---

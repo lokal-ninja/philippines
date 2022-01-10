@@ -1,5 +1,5 @@
 ---
 title: "Gingersnaps"
 url: /laoag/gingersnaps/
-shop: Kleidung
+shop: clothes
 ---

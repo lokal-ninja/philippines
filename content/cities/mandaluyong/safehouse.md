@@ -1,5 +1,5 @@
 ---
 title: "Safehouse"
 url: /mandaluyong/safehouse/
-shop: Mieten
+shop: storage rental
 ---

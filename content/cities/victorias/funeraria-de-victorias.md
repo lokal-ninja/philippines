@@ -1,5 +1,5 @@
 ---
 title: "Funeraria de Victorias"
 url: /victorias/funeraria-de-victorias/
-shop: Bestattungen
+shop: funeral directors
 ---

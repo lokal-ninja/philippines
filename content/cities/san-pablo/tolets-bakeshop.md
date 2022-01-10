@@ -1,5 +1,5 @@
 ---
 title: "Tolet's Bakeshop"
 url: /san-pablo/tolets-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenhills Wine Shop"
 url: /san-juan/greenhills-wine-shop/
-shop: Wein
+shop: wine
 ---

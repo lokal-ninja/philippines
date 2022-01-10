@@ -1,5 +1,5 @@
 ---
 title: "Tubby"
 url: /dagupan/tubby/
-shop: Warenhaus
+shop: department store
 ---

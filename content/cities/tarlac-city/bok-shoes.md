@@ -1,5 +1,5 @@
 ---
 title: "bok SHOES"
 url: /tarlac-city/bok-shoes/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uling Roasters"
 url: /san-pablo/uling-roasters/
-shop: Lebensmittel
+shop: convenience
 ---

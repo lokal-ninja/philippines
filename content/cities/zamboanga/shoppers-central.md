@@ -1,5 +1,5 @@
 ---
 title: "Shopper's Central"
 url: /zamboanga/shoppers-central/
-shop: Warenhaus
+shop: department store
 ---

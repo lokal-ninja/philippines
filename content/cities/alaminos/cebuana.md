@@ -1,5 +1,5 @@
 ---
 title: "Cebuana"
 url: /alaminos/cebuana/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olanis Ceramic Trading"
 url: /kawit/olanis-ceramic-trading/
-shop: Eisenwaren
+shop: hardware
 ---

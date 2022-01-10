@@ -1,5 +1,5 @@
 ---
 title: "DVP Marketing"
 url: /cainta/dvp-marketing/
-shop: Autoteile
+shop: car parts
 ---

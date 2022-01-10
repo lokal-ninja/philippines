@@ -1,5 +1,5 @@
 ---
 title: "Villarica Pawnshop"
 url: /taytay/villarica-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

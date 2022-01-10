@@ -1,5 +1,5 @@
 ---
 title: "Novo"
 url: /batangas-city/novo/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /pasay/chery/
-shop: Autohaus
+shop: car
 ---

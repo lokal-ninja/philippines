@@ -1,5 +1,5 @@
 ---
 title: "Audio Maxx Trading"
 url: /manila/audio-maxx-trading/
-shop: Elektronik
+shop: electronics
 ---

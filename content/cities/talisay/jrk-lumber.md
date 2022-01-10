@@ -1,5 +1,5 @@
 ---
 title: "JRK Lumber"
 url: /talisay/jrk-lumber/
-shop: Dorfladen
+shop: general
 ---

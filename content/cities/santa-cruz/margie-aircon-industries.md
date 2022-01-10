@@ -1,5 +1,5 @@
 ---
 title: "Margie Aircon Industries"
 url: /santa-cruz/margie-aircon-industries/
-shop: Elektronik
+shop: electronics
 ---

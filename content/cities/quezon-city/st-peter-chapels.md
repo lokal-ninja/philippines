@@ -1,5 +1,5 @@
 ---
 title: "St. Peter Chapels"
 url: /quezon-city/st-peter-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

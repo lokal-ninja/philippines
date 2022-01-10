@@ -1,5 +1,5 @@
 ---
 title: "Servitek"
 url: /tuguegarao/servitek/
-shop: Autowerkstatt
+shop: car repair
 ---

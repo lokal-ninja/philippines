@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /tiaong/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

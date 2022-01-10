@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /tanauan/bench/
-shop: Kleidung
+shop: clothes
 ---

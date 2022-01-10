@@ -1,5 +1,5 @@
 ---
 title: "Quiver Archery Supply"
 url: /san-pedro/quiver-archery-supply/
-shop: Sport
+shop: sports
 ---

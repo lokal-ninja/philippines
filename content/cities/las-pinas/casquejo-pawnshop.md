@@ -1,5 +1,5 @@
 ---
 title: "Casquejo Pawnshop"
 url: /las-pinas/casquejo-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

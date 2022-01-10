@@ -1,5 +1,5 @@
 ---
 title: "Dalisay"
 url: /victoria-taralc-city/dalisay/
-shop: Lebensmittel
+shop: convenience
 ---

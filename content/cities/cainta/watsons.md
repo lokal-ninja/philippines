@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /cainta/watsons/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Buddies Bike Shop"
 url: /quezon-city/good-buddies-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copylandia"
 url: /dumaguete/copylandia/
-shop: Kopieren
+shop: copyshop
 ---

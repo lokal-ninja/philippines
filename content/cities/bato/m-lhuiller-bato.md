@@ -1,5 +1,5 @@
 ---
 title: "M Lhuiller-Bato"
 url: /bato/m-lhuiller-bato/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welmar Motor Works"
 url: /quezon-city/welmar-motor-works/
-shop: Autoteile
+shop: car parts
 ---

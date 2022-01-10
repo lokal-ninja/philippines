@@ -1,5 +1,5 @@
 ---
 title: "Puregold Tanzang Luma"
 url: /imus/puregold-tanzang-luma/
-shop: Supermarkt
+shop: supermarket
 ---

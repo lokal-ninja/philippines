@@ -1,5 +1,5 @@
 ---
 title: "Toyota Mandaue South Cebu"
 url: /mandaue/toyota-mandaue-south-cebu/
-shop: Autohaus
+shop: car
 ---

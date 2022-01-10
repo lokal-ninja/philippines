@@ -1,5 +1,5 @@
 ---
 title: "Unimart"
 url: /pasig/unimart/
-shop: Supermarkt
+shop: supermarket
 ---

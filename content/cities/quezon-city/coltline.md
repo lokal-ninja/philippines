@@ -1,5 +1,5 @@
 ---
 title: "Coltline"
 url: /quezon-city/coltline/
-shop: Autoteile
+shop: car parts
 ---

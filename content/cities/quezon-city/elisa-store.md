@@ -1,5 +1,5 @@
 ---
 title: "Elisa Store"
 url: /quezon-city/elisa-store/
-shop: Lebensmittel
+shop: convenience
 ---

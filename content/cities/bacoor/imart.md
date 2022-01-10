@@ -1,5 +1,5 @@
 ---
 title: "IMart"
 url: /bacoor/imart/
-shop: Warenhaus
+shop: department store
 ---

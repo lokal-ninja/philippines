@@ -1,5 +1,5 @@
 ---
 title: "NAVARRO OPTICAL"
 url: /tarlac-city/navarro-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Fixtures"
 url: /san-pablo/warehouse-fixtures/
-shop: Möbel
+shop: furniture
 ---

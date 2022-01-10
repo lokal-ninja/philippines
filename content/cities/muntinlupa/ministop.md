@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /muntinlupa/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

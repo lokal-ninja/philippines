@@ -1,5 +1,5 @@
 ---
 title: "Dumoy Rice Trader"
 url: /davao-city/dumoy-rice-trader/
-shop: Großhandel
+shop: wholesale
 ---

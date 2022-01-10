@@ -1,5 +1,5 @@
 ---
 title: "EVY Hardware"
 url: /dasmarinas/evy-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

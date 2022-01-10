@@ -1,5 +1,5 @@
 ---
 title: "GOSAGO"
 url: /gerona/gosago/
-shop: Getränke
+shop: beverages
 ---

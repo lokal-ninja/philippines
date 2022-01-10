@@ -1,5 +1,5 @@
 ---
 title: "Guanzon"
 url: /dagupan/guanzon/
-shop: Warenhaus
+shop: department store
 ---

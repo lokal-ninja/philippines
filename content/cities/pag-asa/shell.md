@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pag-asa/shell/
-shop: Lebensmittel
+shop: convenience
 ---

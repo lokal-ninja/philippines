@@ -1,5 +1,5 @@
 ---
 title: "Quickloan"
 url: /san-pablo/quickloan/
-shop: Leiher
+shop: pawnbroker
 ---

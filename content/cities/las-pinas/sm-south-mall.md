@@ -1,5 +1,5 @@
 ---
 title: "SM South Mall"
 url: /las-pinas/sm-south-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

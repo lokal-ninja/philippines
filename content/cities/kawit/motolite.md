@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /kawit/motolite/
-shop: Autowerkstatt
+shop: car repair
 ---

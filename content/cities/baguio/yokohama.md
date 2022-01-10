@@ -1,5 +1,5 @@
 ---
 title: "Yokohama"
 url: /baguio/yokohama/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budget BIKES Cavite"
 url: /imus/budget-bikes-cavite/
-shop: Fahrrad
+shop: bicycle
 ---

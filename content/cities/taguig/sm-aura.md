@@ -1,5 +1,5 @@
 ---
 title: "SM Aura"
 url: /taguig/sm-aura/
-shop: Einkaufszentrum
+shop: mall
 ---

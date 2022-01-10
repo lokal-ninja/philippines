@@ -1,5 +1,5 @@
 ---
 title: "Crystal Rice Center"
 url: /quezon-city/crystal-rice-center/
-shop: Lebensmittel
+shop: convenience
 ---

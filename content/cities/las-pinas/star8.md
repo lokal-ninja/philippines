@@ -1,5 +1,5 @@
 ---
 title: "Star8"
 url: /las-pinas/star8/
-shop: Autohaus
+shop: car
 ---

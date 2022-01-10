@@ -1,5 +1,5 @@
 ---
 title: "BFF Street Style"
 url: /los-banos/bff-street-style/
-shop: Kleidung
+shop: clothes
 ---

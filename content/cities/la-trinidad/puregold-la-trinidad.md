@@ -1,5 +1,5 @@
 ---
 title: "Puregold La Trinidad"
 url: /la-trinidad/puregold-la-trinidad/
-shop: Supermarkt
+shop: supermarket
 ---

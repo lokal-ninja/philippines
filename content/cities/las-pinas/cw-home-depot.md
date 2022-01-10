@@ -1,5 +1,5 @@
 ---
 title: "CW Home Depot"
 url: /las-pinas/cw-home-depot/
-shop: Eisenwaren
+shop: hardware
 ---

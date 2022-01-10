@@ -1,5 +1,5 @@
 ---
 title: "Belmont Hardware Depot"
 url: /mandaue-city/belmont-hardware-depot/
-shop: Eisenwaren
+shop: hardware
 ---

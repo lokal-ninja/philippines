@@ -1,5 +1,5 @@
 ---
 title: "Muffler Repair"
 url: /bacoor/muffler-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariton Grocery"
 url: /tuguegarao/mariton-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

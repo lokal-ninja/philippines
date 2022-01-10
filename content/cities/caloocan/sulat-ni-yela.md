@@ -1,5 +1,5 @@
 ---
 title: "Sulat ni Yela"
 url: /caloocan/sulat-ni-yela/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M. Lhuillier Pawnshop"
 url: /san-mateo/m-lhuillier-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

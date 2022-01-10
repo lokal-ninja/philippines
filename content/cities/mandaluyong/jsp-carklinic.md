@@ -1,5 +1,5 @@
 ---
 title: "JSP CarKlinic"
 url: /mandaluyong/jsp-carklinic/
-shop: Autowerkstatt
+shop: car repair
 ---

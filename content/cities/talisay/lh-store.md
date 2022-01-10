@@ -1,5 +1,5 @@
 ---
 title: "LH Store"
 url: /talisay/lh-store/
-shop: Kramladen
+shop: variety store
 ---

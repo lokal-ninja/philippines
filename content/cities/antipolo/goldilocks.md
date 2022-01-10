@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /antipolo/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

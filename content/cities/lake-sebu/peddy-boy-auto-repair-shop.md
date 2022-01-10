@@ -1,5 +1,5 @@
 ---
 title: "Peddy Boy Auto Repair Shop"
 url: /lake-sebu/peddy-boy-auto-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

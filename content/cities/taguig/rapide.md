@@ -1,5 +1,5 @@
 ---
 title: "Rapidé"
 url: /taguig/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

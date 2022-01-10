@@ -1,5 +1,5 @@
 ---
 title: "Cyber and Fashion Mall"
 url: /quezon-city/cyber-and-fashion-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

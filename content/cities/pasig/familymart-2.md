@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /pasig/familymart-2/
-shop: Lebensmittel
+shop: convenience
 ---

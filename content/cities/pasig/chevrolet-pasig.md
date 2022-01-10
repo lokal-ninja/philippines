@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet Pasig"
 url: /pasig/chevrolet-pasig/
-shop: Autohaus
+shop: car
 ---

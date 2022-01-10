@@ -1,5 +1,5 @@
 ---
 title: "Worlds of Fun"
 url: /dagupan/worlds-of-fun/
-shop: Warenhaus
+shop: department store
 ---

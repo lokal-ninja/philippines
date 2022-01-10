@@ -1,5 +1,5 @@
 ---
 title: "SM Department Store"
 url: /marikina/sm-department-store/
-shop: Warenhaus
+shop: department store
 ---

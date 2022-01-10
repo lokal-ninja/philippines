@@ -1,5 +1,5 @@
 ---
 title: "Garcia's Furniture"
 url: /vigan/garcias-furniture/
-shop: Möbel
+shop: furniture
 ---

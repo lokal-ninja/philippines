@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
 url: /taguig-city/ministop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remy Store"
 url: /meycauayan/remy-store/
-shop: Kramladen
+shop: variety store
 ---

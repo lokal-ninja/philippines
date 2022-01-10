@@ -1,5 +1,5 @@
 ---
 title: "The SM Store"
 url: /paranaque/the-sm-store/
-shop: Warenhaus
+shop: department store
 ---

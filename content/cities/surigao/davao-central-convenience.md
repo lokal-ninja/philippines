@@ -1,5 +1,5 @@
 ---
 title: "Davao Central Convenience"
 url: /surigao/davao-central-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

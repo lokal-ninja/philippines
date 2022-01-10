@@ -1,5 +1,5 @@
 ---
 title: "National Bookstore"
 url: /quezon-city/national-bookstore/
-shop: Bücher
+shop: books
 ---

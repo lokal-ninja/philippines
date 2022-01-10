@@ -1,5 +1,5 @@
 ---
 title: "BIG BUTCHI's"
 url: /bay/big-butchis/
-shop: Tee
+shop: tea
 ---

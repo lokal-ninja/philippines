@@ -1,5 +1,5 @@
 ---
 title: "Tach Motion"
 url: /quezon-city/tach-motion/
-shop: Autoteile
+shop: car parts
 ---

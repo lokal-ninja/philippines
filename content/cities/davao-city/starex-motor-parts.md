@@ -1,5 +1,5 @@
 ---
 title: "Starex Motor Parts"
 url: /davao-city/starex-motor-parts/
-shop: Autoteile
+shop: car parts
 ---

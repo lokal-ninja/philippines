@@ -1,5 +1,5 @@
 ---
 title: "Marcella"
 url: /dagupan/marcella/
-shop: Schuhe
+shop: shoes
 ---

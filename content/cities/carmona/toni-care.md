@@ -1,5 +1,5 @@
 ---
 title: "Toni Care"
 url: /carmona/toni-care/
-shop: Wasser
+shop: water
 ---

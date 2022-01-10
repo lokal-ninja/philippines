@@ -1,5 +1,5 @@
 ---
 title: "Fruitas"
 url: /calasiao/fruitas/
-shop: Getränke
+shop: beverages
 ---

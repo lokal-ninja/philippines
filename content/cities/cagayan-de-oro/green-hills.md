@@ -1,5 +1,5 @@
 ---
 title: "Green Hills"
 url: /cagayan-de-oro/green-hills/
-shop: Bestattungen
+shop: funeral directors
 ---

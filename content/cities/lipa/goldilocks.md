@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /lipa/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Wheat"
 url: /los-banos/golden-wheat/
-shop: Bäckerei
+shop: bakery
 ---

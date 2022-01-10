@@ -1,5 +1,5 @@
 ---
 title: "Motech"
 url: /lucena/motech/
-shop: Autowerkstatt
+shop: car repair
 ---

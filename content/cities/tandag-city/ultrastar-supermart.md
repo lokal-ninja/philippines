@@ -1,5 +1,5 @@
 ---
 title: "Ultrastar Supermart"
 url: /tandag-city/ultrastar-supermart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /pasay/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

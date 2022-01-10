@@ -1,5 +1,5 @@
 ---
 title: "Winnsboro Store"
 url: /catbalogan-city/winnsboro-store/
-shop: Kramladen
+shop: variety store
 ---

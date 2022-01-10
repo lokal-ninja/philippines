@@ -1,5 +1,5 @@
 ---
 title: "Motorcentral"
 url: /calamba/motorcentral/
-shop: Motorrad
+shop: motorcycle
 ---

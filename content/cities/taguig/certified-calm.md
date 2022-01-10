@@ -1,5 +1,5 @@
 ---
 title: "Certified Calm"
 url: /taguig/certified-calm/
-shop: Kramladen
+shop: variety store
 ---

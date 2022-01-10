@@ -1,5 +1,5 @@
 ---
 title: "Yuan's Barbershop"
 url: /las-pinas/yuans-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

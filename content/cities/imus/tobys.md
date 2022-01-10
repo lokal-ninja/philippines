@@ -1,5 +1,5 @@
 ---
 title: "Tobys"
 url: /imus/tobys/
-shop: Sport
+shop: sports
 ---

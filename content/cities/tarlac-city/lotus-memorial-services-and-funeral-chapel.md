@@ -1,5 +1,5 @@
 ---
 title: "Lotus Memorial Services And Funeral Chapel"
 url: /tarlac-city/lotus-memorial-services-and-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

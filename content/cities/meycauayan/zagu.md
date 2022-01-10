@@ -1,5 +1,5 @@
 ---
 title: "Zagu"
 url: /meycauayan/zagu/
-shop: Tee
+shop: tea
 ---

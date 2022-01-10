@@ -1,5 +1,5 @@
 ---
 title: "Good Shepherd Convent"
 url: /baguio/good-shepherd-convent/
-shop: Süßwaren
+shop: confectionery
 ---

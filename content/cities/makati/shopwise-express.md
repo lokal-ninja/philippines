@@ -1,5 +1,5 @@
 ---
 title: "Shopwise Express"
 url: /makati/shopwise-express/
-shop: Supermarkt
+shop: supermarket
 ---

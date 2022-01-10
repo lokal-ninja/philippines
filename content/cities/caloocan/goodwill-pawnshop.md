@@ -1,5 +1,5 @@
 ---
 title: "Goodwill Pawnshop"
 url: /caloocan/goodwill-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

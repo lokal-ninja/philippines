@@ -1,5 +1,5 @@
 ---
 title: "Tryon Marketing"
 url: /makati/tryon-marketing/
-shop: Fahrrad
+shop: bicycle
 ---

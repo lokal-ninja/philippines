@@ -1,5 +1,5 @@
 ---
 title: "HIA's RTW"
 url: /looc/hias-rtw/
-shop: Kleidung
+shop: clothes
 ---

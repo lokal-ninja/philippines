@@ -1,5 +1,5 @@
 ---
 title: "Petron Gasul"
 url: /alaminos/petron-gasul/
-shop: Gasflaschen
+shop: gas
 ---

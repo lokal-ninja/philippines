@@ -1,5 +1,5 @@
 ---
 title: "Tony Albrando"
 url: /quezon-city/tony-albrando/
-shop: Modehaus
+shop: boutique
 ---

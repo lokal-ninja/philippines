@@ -1,5 +1,5 @@
 ---
 title: "Castillote Store"
 url: /gandara/castillote-store/
-shop: Kramladen
+shop: variety store
 ---

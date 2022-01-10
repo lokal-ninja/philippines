@@ -1,5 +1,5 @@
 ---
 title: "Cartel Deli"
 url: /makati/cartel-deli/
-shop: Feinkost
+shop: deli
 ---

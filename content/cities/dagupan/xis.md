@@ -1,5 +1,5 @@
 ---
 title: "Xi's"
 url: /dagupan/xis/
-shop: Warenhaus
+shop: department store
 ---

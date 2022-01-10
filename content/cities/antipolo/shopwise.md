@@ -1,5 +1,5 @@
 ---
 title: "Shopwise"
 url: /antipolo/shopwise/
-shop: Supermarkt
+shop: supermarket
 ---

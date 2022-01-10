@@ -1,5 +1,5 @@
 ---
 title: "Electronics Repair"
 url: /kawit/electronics-repair/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Validosa"
 url: /meycauayan/validosa/
-shop: Kosmetik
+shop: beauty
 ---

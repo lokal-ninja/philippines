@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /rosario/puregold-2/
-shop: Supermarkt
+shop: supermarket
 ---

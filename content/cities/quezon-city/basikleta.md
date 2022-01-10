@@ -1,5 +1,5 @@
 ---
 title: "Basikleta"
 url: /quezon-city/basikleta/
-shop: Fahrrad
+shop: bicycle
 ---

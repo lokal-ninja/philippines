@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /malolos/avon/
-shop: Allgemein
+shop: shop
 ---

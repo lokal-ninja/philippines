@@ -1,5 +1,5 @@
 ---
 title: "Lheans Bakery"
 url: /lumban/lheans-bakery/
-shop: Bäckerei
+shop: bakery
 ---

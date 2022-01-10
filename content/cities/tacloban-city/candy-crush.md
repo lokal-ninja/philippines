@@ -1,5 +1,5 @@
 ---
 title: "Candy Crush"
 url: /tacloban-city/candy-crush/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KMM Barong"
 url: /pagsanjan/kmm-barong/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bethany store"
 url: /digos-city/bethany-store/
-shop: Lebensmittel
+shop: convenience
 ---

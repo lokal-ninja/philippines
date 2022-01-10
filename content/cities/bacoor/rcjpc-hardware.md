@@ -1,5 +1,5 @@
 ---
 title: "RCJPC Hardware"
 url: /bacoor/rcjpc-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /imus/savemore/
-shop: Supermarkt
+shop: supermarket
 ---

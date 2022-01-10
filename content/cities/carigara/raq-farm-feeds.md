@@ -1,5 +1,5 @@
 ---
 title: "Raq Farm Feeds"
 url: /carigara/raq-farm-feeds/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

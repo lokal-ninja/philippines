@@ -1,5 +1,5 @@
 ---
 title: "Onesimus"
 url: /pasay/onesimus/
-shop: Kleidung
+shop: clothes
 ---

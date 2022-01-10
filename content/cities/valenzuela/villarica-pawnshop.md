@@ -1,5 +1,5 @@
 ---
 title: "Villarica Pawnshop"
 url: /valenzuela/villarica-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

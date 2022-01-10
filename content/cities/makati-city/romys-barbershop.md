@@ -1,5 +1,5 @@
 ---
 title: "Romy's Barbershop"
 url: /makati-city/romys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

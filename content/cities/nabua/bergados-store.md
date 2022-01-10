@@ -1,5 +1,5 @@
 ---
 title: "Bergado's Store"
 url: /nabua/bergados-store/
-shop: Allgemein
+shop: shop
 ---

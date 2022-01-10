@@ -1,5 +1,5 @@
 ---
 title: "Bsx"
 url: /dagupan/bsx/
-shop: Kleidung
+shop: clothes
 ---

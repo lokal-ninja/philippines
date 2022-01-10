@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /general-trias/abenson/
-shop: Elektronik
+shop: electronics
 ---

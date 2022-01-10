@@ -1,5 +1,5 @@
 ---
 title: "CJJ"
 url: /tabuk/cjj/
-shop: Autoteile
+shop: car parts
 ---

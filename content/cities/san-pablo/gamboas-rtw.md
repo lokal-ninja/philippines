@@ -1,5 +1,5 @@
 ---
 title: "Gamboa's RTW"
 url: /san-pablo/gamboas-rtw/
-shop: Schuhe
+shop: shoes
 ---

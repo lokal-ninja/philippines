@@ -1,5 +1,5 @@
 ---
 title: "Natasha"
 url: /pasig/natasha/
-shop: Kleidung
+shop: clothes
 ---

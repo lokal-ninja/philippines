@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizing Shop"
 url: /san-agustin/vulcanizing-shop/
-shop: Reifen
+shop: tyres
 ---

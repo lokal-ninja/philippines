@@ -1,5 +1,5 @@
 ---
 title: "eShopping"
 url: /tagaytay/eshopping/
-shop: Kleidung
+shop: clothes
 ---

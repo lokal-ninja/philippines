@@ -1,5 +1,5 @@
 ---
 title: "Jaeger Sporting Supply"
 url: /batangas-city/jaeger-sporting-supply/
-shop: Waffen
+shop: weapons
 ---

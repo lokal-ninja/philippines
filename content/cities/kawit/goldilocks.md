@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /kawit/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

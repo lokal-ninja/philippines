@@ -1,5 +1,5 @@
 ---
 title: "Budong Malunggay Pandesal"
 url: /davao-city/budong-malunggay-pandesal/
-shop: Bäckerei
+shop: bakery
 ---

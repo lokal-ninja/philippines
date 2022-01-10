@@ -1,5 +1,5 @@
 ---
 title: "AllHome"
 url: /santa-rosa/allhome/
-shop: Warenhaus
+shop: department store
 ---

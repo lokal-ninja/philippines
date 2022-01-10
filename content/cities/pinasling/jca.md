@@ -1,5 +1,5 @@
 ---
 title: "JCA"
 url: /pinasling/jca/
-shop: Farben
+shop: paint
 ---

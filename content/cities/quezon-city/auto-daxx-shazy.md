@@ -1,5 +1,5 @@
 ---
 title: "Auto Daxx Shazy"
 url: /quezon-city/auto-daxx-shazy/
-shop: Autoteile
+shop: car parts
 ---

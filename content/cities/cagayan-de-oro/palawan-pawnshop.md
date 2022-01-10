@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /cagayan-de-oro/palawan-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walter Mart Department Store"
 url: /tanauan/walter-mart-department-store/
-shop: Warenhaus
+shop: department store
 ---

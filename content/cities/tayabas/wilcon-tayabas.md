@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Tayabas"
 url: /tayabas/wilcon-tayabas/
-shop: Eisenwaren
+shop: hardware
 ---

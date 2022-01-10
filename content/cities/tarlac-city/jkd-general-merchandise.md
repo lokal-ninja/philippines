@@ -1,5 +1,5 @@
 ---
 title: "JKD General Merchandise"
 url: /tarlac-city/jkd-general-merchandise/
-shop: Dorfladen
+shop: general
 ---

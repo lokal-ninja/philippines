@@ -1,5 +1,5 @@
 ---
 title: "Buko"
 url: /cuenca/buko-4/
-shop: Getränke
+shop: beverages
 ---

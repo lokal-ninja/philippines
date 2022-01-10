@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /muntinlupa/bonjour/
-shop: Lebensmittel
+shop: convenience
 ---

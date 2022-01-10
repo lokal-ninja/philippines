@@ -1,5 +1,5 @@
 ---
 title: "Nokia"
 url: /makati/nokia/
-shop: Handy
+shop: mobile phone
 ---

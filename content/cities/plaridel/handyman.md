@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /plaridel/handyman/
-shop: Eisenwaren
+shop: hardware
 ---

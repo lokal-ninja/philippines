@@ -1,5 +1,5 @@
 ---
 title: "Arevalo Handwoven Products"
 url: /iloilo/arevalo-handwoven-products/
-shop: Andenken
+shop: gift
 ---

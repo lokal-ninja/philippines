@@ -1,5 +1,5 @@
 ---
 title: "Empanada de Norte"
 url: /taguig/empanada-de-norte/
-shop: Lebensmittel
+shop: convenience
 ---

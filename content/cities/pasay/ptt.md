@@ -1,5 +1,5 @@
 ---
 title: "PTT"
 url: /pasay/ptt/
-shop: Allgemein
+shop: shop
 ---

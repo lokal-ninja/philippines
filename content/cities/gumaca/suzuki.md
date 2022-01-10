@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /gumaca/suzuki/
-shop: Motorrad
+shop: motorcycle
 ---

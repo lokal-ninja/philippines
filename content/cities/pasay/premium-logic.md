@@ -1,5 +1,5 @@
 ---
 title: "Premium Logic"
 url: /pasay/premium-logic/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /taguig/muji/
-shop: Allgemein
+shop: shop
 ---

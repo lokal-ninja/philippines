@@ -1,5 +1,5 @@
 ---
 title: "BVM Trading"
 url: /alaminos/bvm-trading/
-shop: Autowerkstatt
+shop: car repair
 ---

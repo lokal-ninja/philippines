@@ -1,5 +1,5 @@
 ---
 title: "Villman"
 url: /pasay/villman/
-shop: Computer
+shop: computer
 ---

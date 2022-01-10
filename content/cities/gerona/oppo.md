@@ -1,5 +1,5 @@
 ---
 title: "Oppo"
 url: /gerona/oppo/
-shop: Handy
+shop: mobile phone
 ---

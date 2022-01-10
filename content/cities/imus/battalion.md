@@ -1,5 +1,5 @@
 ---
 title: "Battalion"
 url: /imus/battalion/
-shop: Friseur
+shop: hairdresser
 ---

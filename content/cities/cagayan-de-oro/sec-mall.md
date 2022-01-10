@@ -1,5 +1,5 @@
 ---
 title: "SEC Mall"
 url: /cagayan-de-oro/sec-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

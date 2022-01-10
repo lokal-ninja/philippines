@@ -1,5 +1,5 @@
 ---
 title: "Travelers Vulcanizing"
 url: /bacoor/travelers-vulcanizing/
-shop: Autowerkstatt
+shop: car repair
 ---

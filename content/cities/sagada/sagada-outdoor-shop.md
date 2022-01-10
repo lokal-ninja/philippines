@@ -1,5 +1,5 @@
 ---
 title: "Sagada Outdoor Shop"
 url: /sagada/sagada-outdoor-shop/
-shop: Outdoor
+shop: outdoor
 ---

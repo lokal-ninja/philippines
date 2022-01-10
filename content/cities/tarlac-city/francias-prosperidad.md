@@ -1,5 +1,5 @@
 ---
 title: "Francias PROSPERIDAD"
 url: /tarlac-city/francias-prosperidad/
-shop: Drogerie
+shop: chemist
 ---

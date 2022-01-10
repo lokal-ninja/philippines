@@ -1,5 +1,5 @@
 ---
 title: "Family Mart"
 url: /paranaque/family-mart/
-shop: Lebensmittel
+shop: convenience
 ---

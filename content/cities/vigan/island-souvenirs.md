@@ -1,5 +1,5 @@
 ---
 title: "Island Souvenirs"
 url: /vigan/island-souvenirs/
-shop: Warenhaus
+shop: department store
 ---

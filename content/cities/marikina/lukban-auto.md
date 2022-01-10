@@ -1,5 +1,5 @@
 ---
 title: "Lukban Auto"
 url: /marikina/lukban-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

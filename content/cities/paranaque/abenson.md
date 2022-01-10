@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /paranaque/abenson/
-shop: Elektronik
+shop: electronics
 ---

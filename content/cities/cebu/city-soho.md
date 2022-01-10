@@ -1,5 +1,5 @@
 ---
 title: "City Soho"
 url: /cebu/city-soho/
-shop: Einkaufszentrum
+shop: mall
 ---

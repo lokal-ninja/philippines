@@ -1,5 +1,5 @@
 ---
 title: "MCE"
 url: /masbate/mce/
-shop: Bücher
+shop: books
 ---

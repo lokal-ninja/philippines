@@ -1,5 +1,5 @@
 ---
 title: "Romai"
 url: /batangas-city/romai/
-shop: Fahrrad
+shop: bicycle
 ---

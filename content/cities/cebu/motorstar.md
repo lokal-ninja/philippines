@@ -1,5 +1,5 @@
 ---
 title: "Motorstar"
 url: /cebu/motorstar/
-shop: Motorrad
+shop: motorcycle
 ---

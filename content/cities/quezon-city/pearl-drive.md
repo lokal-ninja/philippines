@@ -1,5 +1,5 @@
 ---
 title: "Pearl Drive"
 url: /quezon-city/pearl-drive/
-shop: Einkaufszentrum
+shop: mall
 ---

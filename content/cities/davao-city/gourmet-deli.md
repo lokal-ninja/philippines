@@ -1,5 +1,5 @@
 ---
 title: "Gourmet Deli"
 url: /davao-city/gourmet-deli/
-shop: Feinkost
+shop: deli
 ---

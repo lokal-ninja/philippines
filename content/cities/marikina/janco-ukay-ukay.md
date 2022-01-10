@@ -1,5 +1,5 @@
 ---
 title: "Janco Ukay-ukay"
 url: /marikina/janco-ukay-ukay/
-shop: Kleidung
+shop: clothes
 ---

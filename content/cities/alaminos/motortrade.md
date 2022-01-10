@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /alaminos/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

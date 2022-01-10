@@ -1,5 +1,5 @@
 ---
 title: "Honda Cars Dasmariñas"
 url: /dasmarinas/honda-cars-dasmarinas/
-shop: Autohaus
+shop: car
 ---

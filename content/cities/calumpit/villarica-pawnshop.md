@@ -1,5 +1,5 @@
 ---
 title: "Villarica Pawnshop"
 url: /calumpit/villarica-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

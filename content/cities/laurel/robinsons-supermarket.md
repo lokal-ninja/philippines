@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Supermarket"
 url: /laurel/robinsons-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---
