@@ -1,5 +1,5 @@
 ---
-title: "julies bakeshop"
+title: "Julie's Bakeshop"
 url: /sogod/julies-bakeshop/
-shop: pastry
+shop: bakery
 ---
