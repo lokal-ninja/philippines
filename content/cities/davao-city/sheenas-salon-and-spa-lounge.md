@@ -1,5 +1,5 @@
 ---
-title: "sheena’s salon and spa lounge"
+title: "Sheena's Salon and Spa Lounge"
 url: /davao-city/sheenas-salon-and-spa-lounge/
 shop: beauty
 ---
