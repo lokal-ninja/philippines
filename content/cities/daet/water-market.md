@@ -1,5 +1,5 @@
 ---
 title: "Water Market"
 url: /daet/water-market/
-shop: beverages
+shop: water
 ---
