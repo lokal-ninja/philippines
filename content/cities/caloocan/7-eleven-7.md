@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /caloocan-city/7-eleven/
+url: /caloocan/7-eleven-7/
 shop: convenience
 ---
