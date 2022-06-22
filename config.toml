@@ -1,4 +1,4 @@
-baseURL = "https://ph.shoogle.net/philippines"
+baseURL = "https://ph.shoogle.net/philippines/"
 languageCode = "en"
 title = "Philippines"
 theme = "ln-base"
