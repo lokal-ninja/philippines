@@ -1,6 +1,6 @@
 ---
 title: Sogod
 url: /sogod/
-latitude: 10.384
-longitude: 124.983
+latitude: 10.385
+longitude: 124.982
 ---
