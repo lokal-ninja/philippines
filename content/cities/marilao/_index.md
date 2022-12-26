@@ -1,6 +1,6 @@
 ---
 title: Marilao
 url: /marilao/
-latitude: 14.753
+latitude: 14.752
 longitude: 120.955
 ---
