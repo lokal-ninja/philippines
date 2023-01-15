@@ -1,6 +1,6 @@
 ---
 title: Quezon
 url: /quezon/
-latitude: 7.7
-longitude: 125.114
+latitude: 7.73
+longitude: 125.101
 ---
