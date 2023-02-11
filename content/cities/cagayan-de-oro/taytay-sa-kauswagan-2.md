@@ -1,5 +1,5 @@
 ---
 title: "Taytay sa Kauswagan"
-url: /cagayan-de-oro/taytay-sa-kauswagan-2/
+url: /cagayan-de-oro/taytay-sa-kauswagan/
 shop: pawnbroker
 ---

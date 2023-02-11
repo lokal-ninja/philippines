@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
-url: /dagupan/national-book-store-2/
+url: /dagupan/national-book-store/
 shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
-url: /makati/national-book-store-3/
+url: /makati/national-book-store/
 shop: books
 ---

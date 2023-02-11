@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /cainta/ministop-3/
+url: /cainta/ministop/
 shop: convenience
 ---

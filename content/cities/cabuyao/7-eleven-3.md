@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /cabuyao/7-eleven-3/
+url: /cabuyao/7-eleven/
 shop: convenience
 ---

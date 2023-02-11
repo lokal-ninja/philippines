@@ -1,5 +1,5 @@
 ---
 title: "Deovir"
-url: /manila/deovir-2/
+url: /manila/deovir/
 shop: office supplies
 ---

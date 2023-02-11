@@ -1,5 +1,5 @@
 ---
 title: "Julies Bakeshop"
-url: /davao-city/julies-bakeshop-2/
+url: /davao-city/julies-bakeshop/
 shop: bakery
 ---

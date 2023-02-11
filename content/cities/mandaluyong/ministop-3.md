@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /mandaluyong/ministop-3/
+url: /mandaluyong/ministop/
 shop: convenience
 ---

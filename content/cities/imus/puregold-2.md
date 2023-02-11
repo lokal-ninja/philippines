@@ -1,5 +1,5 @@
 ---
-title: "PureGold"
-url: /imus/puregold-2/
+title: "Puregold"
+url: /imus/puregold/
 shop: supermarket
 ---

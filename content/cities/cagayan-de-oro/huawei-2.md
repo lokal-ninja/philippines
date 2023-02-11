@@ -1,5 +1,5 @@
 ---
 title: "Huawei"
-url: /cagayan-de-oro/huawei-2/
+url: /cagayan-de-oro/huawei/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diy"
-url: /dagupan/diy-2/
+url: /dagupan/diy/
 shop: hardware
 ---

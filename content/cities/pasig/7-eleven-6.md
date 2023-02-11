@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /pasig/7-eleven-6/
+url: /pasig/7-eleven/
 shop: convenience
 ---

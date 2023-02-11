@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /cagayan-de-oro/goldilocks-3/
+url: /cagayan-de-oro/goldilocks/
 shop: bakery
 ---

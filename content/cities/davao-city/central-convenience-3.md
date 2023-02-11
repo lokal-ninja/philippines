@@ -1,5 +1,5 @@
 ---
 title: "Central Convenience"
-url: /davao-city/central-convenience-3/
+url: /davao-city/central-convenience/
 shop: convenience
 ---

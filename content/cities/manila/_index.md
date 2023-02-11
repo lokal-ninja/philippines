@@ -1,6 +1,6 @@
 ---
 title: Manila
 url: /manila/
-latitude: 14.605
-longitude: 120.969
+latitude: 14.618
+longitude: 120.983
 ---

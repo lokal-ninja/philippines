@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
-url: /quezon-city/red-ribbon-4/
+url: /quezon-city/red-ribbon/
 shop: bakery
 ---

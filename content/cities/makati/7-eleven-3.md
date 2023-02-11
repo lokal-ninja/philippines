@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /makati/7-eleven-3/
+url: /makati/7-eleven/
 shop: convenience
 ---

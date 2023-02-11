@@ -1,5 +1,5 @@
 ---
 title: "Smart"
-url: /muntinlupa/smart-2/
+url: /muntinlupa/smart/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cherry Mobile"
-url: /cagayan-de-oro/cherry-mobile-2/
+url: /cagayan-de-oro/cherry-mobile/
 shop: mobile phone
 ---

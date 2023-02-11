@@ -1,5 +1,5 @@
 ---
 title: "All Day"
-url: /bacoor/all-day-2/
+url: /bacoor/all-day/
 shop: convenience
 ---

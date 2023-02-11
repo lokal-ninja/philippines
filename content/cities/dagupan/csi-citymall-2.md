@@ -1,5 +1,5 @@
 ---
 title: "Csi Citymall"
-url: /dagupan/csi-citymall-2/
+url: /dagupan/csi-citymall/
 shop: supermarket
 ---

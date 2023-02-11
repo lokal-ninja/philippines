@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /makati/ministop-3/
+url: /makati/ministop/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
-url: /quezon-city/savemore-2/
+url: /quezon-city/savemore/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /calamba/7-eleven-5/
+url: /calamba/7-eleven/
 shop: convenience
 ---

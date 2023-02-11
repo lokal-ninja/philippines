@@ -1,5 +1,5 @@
 ---
 title: "Choice Mart"
-url: /davao-city/choice-mart-2/
+url: /davao-city/choice-mart/
 shop: supermarket
 ---

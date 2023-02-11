@@ -1,5 +1,5 @@
 ---
 title: "Robinsons"
-url: /cagayan-de-oro/robinsons-2/
+url: /cagayan-de-oro/robinsons/
 shop: supermarket
 ---

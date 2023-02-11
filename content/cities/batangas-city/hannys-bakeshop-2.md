@@ -1,5 +1,5 @@
 ---
 title: "Hanny's Bakeshop"
-url: /batangas-city/hannys-bakeshop-2/
+url: /batangas-city/hannys-bakeshop/
 shop: bakery
 ---

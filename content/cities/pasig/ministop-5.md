@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /pasig/ministop-5/
+url: /pasig/ministop/
 shop: convenience
 ---
