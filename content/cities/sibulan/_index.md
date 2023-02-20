@@ -1,6 +1,6 @@
 ---
 title: Sibulan
 url: /sibulan/
-latitude: 9.36
-longitude: 123.284
+latitude: 9.356
+longitude: 123.285
 ---
