@@ -1,6 +1,6 @@
 ---
 title: Lumban
 url: /lumban/
-latitude: 14.292
-longitude: 121.46
+latitude: 14.294
+longitude: 121.463
 ---
