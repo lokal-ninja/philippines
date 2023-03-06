@@ -1,6 +1,6 @@
 ---
 title: Los Baños
 url: /los-banos/
-latitude: 14.173
-longitude: 121.243
+latitude: 14.156
+longitude: 121.246
 ---
