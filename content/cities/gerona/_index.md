@@ -1,6 +1,6 @@
 ---
 title: Gerona
 url: /gerona/
-latitude: 15.605
-longitude: 120.599
+latitude: 15.608
+longitude: 120.604
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carigara
 url: /carigara/
-latitude: 11.3
+latitude: 11.301
 longitude: 124.688
 ---
