@@ -1,5 +1,5 @@
 ---
-title: "ABOBOT-REGALO Fashion Accesories"
+title: "Abobot-Regalo Fashion Accesories"
 url: /tarlac/abobot-regalo-fashion-accesories/
-shop: variety store
+shop: boutique
 ---
