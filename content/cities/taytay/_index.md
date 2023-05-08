@@ -1,6 +1,6 @@
 ---
 title: Taytay
 url: /taytay/
-latitude: 14.551
-longitude: 121.121
+latitude: 14.565
+longitude: 121.141
 ---

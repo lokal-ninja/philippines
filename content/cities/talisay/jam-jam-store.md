@@ -1,5 +1,5 @@
 ---
 title: "Jam Jam Store"
 url: /talisay/jam-jam-store/
-shop: variety store
+shop: convenience
 ---
