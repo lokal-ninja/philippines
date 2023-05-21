@@ -1,5 +1,5 @@
 ---
 title: "Home Along"
 url: /los-banos/home-along/
-shop: appliance
+shop: electronics
 ---
