@@ -1,6 +1,6 @@
 ---
 title: Mariveles
 url: /mariveles/
-latitude: 14.44
-longitude: 120.498
+latitude: 14.434
+longitude: 120.483
 ---
