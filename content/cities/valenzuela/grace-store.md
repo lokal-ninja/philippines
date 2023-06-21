@@ -1,5 +1,5 @@
 ---
-title: "GRACE STORE"
+title: "Grace Store"
 url: /valenzuela/grace-store/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LOURDES STORE"
+title: "Lourdes Store"
 url: /valenzuela/lourdes-store/
 shop: variety store
 ---
