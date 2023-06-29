@@ -1,6 +1,6 @@
 ---
 title: Odiongan
 url: /odiongan/
-latitude: 12.414
-longitude: 121.992
+latitude: 12.4
+longitude: 121.986
 ---
