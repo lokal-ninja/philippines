@@ -1,5 +1,5 @@
 ---
-title: "DJM Bigasan and Poultry Supply"
+title: "DJM Bigasan & Poultry Supply"
 url: /magallanes/djm-bigasan-and-poultry-supply/
-shop: greengrocer
+shop: shop
 ---
