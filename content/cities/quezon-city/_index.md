@@ -1,6 +1,6 @@
 ---
 title: Quezon City
 url: /quezon-city/
-latitude: 14.61
-longitude: 121.08
+latitude: 14.671
+longitude: 121.041
 ---

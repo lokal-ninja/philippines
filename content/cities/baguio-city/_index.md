@@ -1,6 +1,6 @@
 ---
 title: Baguio City
 url: /baguio-city/
-latitude: 16.424
-longitude: 120.55
+latitude: 16.409
+longitude: 120.601
 ---
