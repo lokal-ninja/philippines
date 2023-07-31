@@ -1,6 +1,6 @@
 ---
 title: Carmen
 url: /carmen/
-latitude: 10.592
-longitude: 124.018
+latitude: 7.352
+longitude: 125.702
 ---
