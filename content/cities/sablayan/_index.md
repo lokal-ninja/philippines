@@ -1,6 +1,6 @@
 ---
 title: Sablayan
 url: /sablayan/
-latitude: 12.845
-longitude: 120.779
+latitude: 12.839
+longitude: 120.771
 ---

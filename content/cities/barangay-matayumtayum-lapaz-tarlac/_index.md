@@ -1,6 +1,6 @@
 ---
 title: Barangay Matayumtayum Lapaz, Tarlac
 url: /barangay-matayumtayum-lapaz-tarlac/
-latitude: 15.516
-longitude: 120.711
+latitude: 15.515
+longitude: 120.704
 ---
