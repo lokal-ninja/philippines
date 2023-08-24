@@ -1,6 +1,6 @@
 ---
 title: Tabuk
 url: /tabuk/
-latitude: 17.471
-longitude: 121.468
+latitude: 17.47
+longitude: 121.467
 ---
