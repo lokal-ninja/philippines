@@ -1,5 +1,5 @@
 ---
-title: "JLG MOTOSHOP"
+title: "JLG Motoshop"
 url: /caloocan/jlg-motoshop/
 shop: motorcycle
 ---
