@@ -1,5 +1,5 @@
 ---
 title: "MM Mart"
-url: /tayasan/mm-mart/
+url: /tayasan/mm-mart-national-highway/
 shop: general
 ---

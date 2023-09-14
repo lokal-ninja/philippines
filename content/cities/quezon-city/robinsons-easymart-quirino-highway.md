@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Easymart"
-url: /quezon-city/robinsons-easymart/
+url: /quezon-city/robinsons-easymart-quirino-highway/
 shop: supermarket
 ---

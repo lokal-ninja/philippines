@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /muntinlupa/lawson/
+url: /muntinlupa/lawson-filinvest-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /marikina/goldilocks/
+url: /marikina/goldilocks-lilac/
 shop: bakery
 ---

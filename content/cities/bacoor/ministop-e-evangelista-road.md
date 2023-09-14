@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /bacoor/ministop/
+url: /bacoor/ministop-e-evangelista-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /makati/ministop/
+url: /makati/ministop-senator-gil-puyat-avenue/
 shop: convenience
 ---

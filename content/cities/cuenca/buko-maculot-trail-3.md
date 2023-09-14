@@ -1,5 +1,5 @@
 ---
 title: "Buko"
-url: /cuenca/buko/
+url: /cuenca/buko-maculot-trail-3/
 shop: beverages
 ---

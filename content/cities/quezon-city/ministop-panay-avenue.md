@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /quezon-city/ministop/
+url: /quezon-city/ministop-panay-avenue/
 shop: convenience
 ---

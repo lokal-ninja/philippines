@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /makati/lawson/
+url: /makati/lawson-chino-roces-avenue-extension/
 shop: convenience
 ---

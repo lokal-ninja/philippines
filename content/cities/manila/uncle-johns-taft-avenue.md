@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
-url: /manila/uncle-johns/
+url: /manila/uncle-johns-taft-avenue/
 shop: convenience
 ---

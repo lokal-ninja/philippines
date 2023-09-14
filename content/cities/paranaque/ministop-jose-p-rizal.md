@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /paranaque/ministop/
+url: /paranaque/ministop-jose-p-rizal/
 shop: convenience
 ---

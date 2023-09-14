@@ -1,5 +1,5 @@
 ---
 title: "N-Lei"
-url: /baguio/n-lei/
+url: /baguio/n-lei-cordillera-road/
 shop: water
 ---

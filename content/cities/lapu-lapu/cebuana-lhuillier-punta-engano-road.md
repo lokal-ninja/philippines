@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /lapu-lapu/cebuana-lhuillier/
+url: /lapu-lapu/cebuana-lhuillier-punta-engano-road/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /paranaque/goldilocks/
+url: /paranaque/goldilocks-naia-road/
 shop: bakery
 ---

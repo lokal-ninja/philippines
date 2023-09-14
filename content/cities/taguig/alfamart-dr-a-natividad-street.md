@@ -1,5 +1,5 @@
 ---
 title: "AlfaMart"
-url: /taguig/alfamart/
+url: /taguig/alfamart-dr-a-natividad-street/
 shop: convenience
 ---

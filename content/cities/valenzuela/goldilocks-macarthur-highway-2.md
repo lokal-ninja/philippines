@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /valenzuela/goldilocks/
+url: /valenzuela/goldilocks-macarthur-highway-2/
 shop: bakery
 ---

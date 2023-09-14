@@ -1,5 +1,5 @@
 ---
 title: "Jaro Pawnshop"
-url: /bacoor/jaro-pawnshop/
+url: /bacoor/jaro-pawnshop-springville-avenue/
 shop: pawnbroker
 ---

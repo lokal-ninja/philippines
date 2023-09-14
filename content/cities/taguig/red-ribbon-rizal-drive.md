@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
-url: /taguig/red-ribbon/
+url: /taguig/red-ribbon-rizal-drive/
 shop: bakery
 ---

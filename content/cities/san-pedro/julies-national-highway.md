@@ -1,5 +1,5 @@
 ---
 title: "Julie's"
-url: /san-pedro/julies/
+url: /san-pedro/julies-national-highway/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /san-pablo/alfamart/
+url: /san-pablo/alfamart-francisco-balagtas-boulevard/
 shop: convenience
 ---

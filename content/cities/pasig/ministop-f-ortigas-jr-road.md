@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /pasig/ministop/
+url: /pasig/ministop-f-ortigas-jr-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Breadhaus"
-url: /davao-city/royal-breadhaus/
+url: /davao-city/royal-breadhaus-ruby-street/
 shop: bakery
 ---

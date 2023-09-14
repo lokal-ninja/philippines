@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /valenzuela/7-eleven/
+url: /valenzuela/7-eleven-maysan-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /pasay/lawson/
+url: /pasay/lawson-diosdado-macapagal-boulevard-2/
 shop: convenience
 ---

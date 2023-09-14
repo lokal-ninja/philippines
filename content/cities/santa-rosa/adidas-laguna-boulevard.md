@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /santa-rosa/adidas/
+url: /santa-rosa/adidas-laguna-boulevard/
 shop: sports
 ---

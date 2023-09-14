@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /manila/lawson/
+url: /manila/lawson-altura-street/
 shop: convenience
 ---

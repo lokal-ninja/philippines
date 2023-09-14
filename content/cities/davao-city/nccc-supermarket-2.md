@@ -1,5 +1,5 @@
 ---
 title: "NCCC Supermarket"
-url: /davao-city/nccc-supermarket/
+url: /davao-city/nccc-supermarket-2/
 shop: supermarket
 ---

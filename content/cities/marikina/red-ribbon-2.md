@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
-url: /marikina/red-ribbon/
+url: /marikina/red-ribbon-2/
 shop: bakery
 ---

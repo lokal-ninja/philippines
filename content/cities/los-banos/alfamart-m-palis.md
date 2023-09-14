@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /los-banos/alfamart/
+url: /los-banos/alfamart-m-palis/
 shop: convenience
 ---

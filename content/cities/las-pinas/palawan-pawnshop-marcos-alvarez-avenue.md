@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
-url: /las-pinas/palawan-pawnshop/
+url: /las-pinas/palawan-pawnshop-marcos-alvarez-avenue/
 shop: pawnbroker
 ---

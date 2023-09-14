@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
-url: /pasig/m-lhuillier/
+url: /pasig/m-lhuillier-m-concepcion-avenue/
 shop: pawnbroker
 ---

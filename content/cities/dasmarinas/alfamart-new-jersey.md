@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /dasmarinas/alfamart/
+url: /dasmarinas/alfamart-new-jersey/
 shop: convenience
 ---

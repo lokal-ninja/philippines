@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /urdaneta/7-eleven/
+url: /urdaneta/7-eleven-macarthur-highway/
 shop: convenience
 ---

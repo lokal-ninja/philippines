@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /taguig/lawson/
+url: /taguig/lawson-27th-street/
 shop: convenience
 ---

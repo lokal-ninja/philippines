@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /taguig/goldilocks/
+url: /taguig/goldilocks-colonel-ballecer-street/
 shop: bakery
 ---

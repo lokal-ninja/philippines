@@ -1,5 +1,5 @@
 ---
 title: "Balayong"
-url: /dasmarinas/balayong/
+url: /dasmarinas/balayong-aguinaldo-highway/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
-url: /manila/savemore/
+url: /manila/savemore-pedro-gil/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /pasay/samsung/
+url: /pasay/samsung-main-mall/
 shop: electronics
 ---

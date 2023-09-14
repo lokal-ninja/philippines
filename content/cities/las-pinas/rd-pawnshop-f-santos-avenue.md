@@ -1,5 +1,5 @@
 ---
 title: "RD Pawnshop"
-url: /las-pinas/rd-pawnshop/
+url: /las-pinas/rd-pawnshop-f-santos-avenue/
 shop: pawnbroker
 ---

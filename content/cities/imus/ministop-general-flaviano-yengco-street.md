@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /imus/ministop/
+url: /imus/ministop-general-flaviano-yengco-street/
 shop: convenience
 ---

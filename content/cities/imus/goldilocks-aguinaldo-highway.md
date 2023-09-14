@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /imus/goldilocks/
+url: /imus/goldilocks-aguinaldo-highway/
 shop: bakery
 ---

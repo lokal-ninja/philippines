@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
-url: /manila/villarica/
+url: /manila/villarica-quezon-boulevard/
 shop: pawnbroker
 ---

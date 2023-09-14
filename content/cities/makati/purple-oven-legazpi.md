@@ -1,5 +1,5 @@
 ---
 title: "Purple Oven"
-url: /makati/purple-oven/
+url: /makati/purple-oven-legazpi/
 shop: bakery
 ---

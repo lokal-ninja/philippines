@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /san-pedro/puregold/
+url: /san-pedro/puregold-2/
 shop: supermarket
 ---

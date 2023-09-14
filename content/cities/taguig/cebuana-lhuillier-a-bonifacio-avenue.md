@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /taguig/cebuana-lhuillier/
+url: /taguig/cebuana-lhuillier-a-bonifacio-avenue/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /las-pinas/cebuana-lhuillier/
+url: /las-pinas/cebuana-lhuillier-crm-avenue/
 shop: pawnbroker
 ---

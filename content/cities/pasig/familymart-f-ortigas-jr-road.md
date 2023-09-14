@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /pasig/familymart/
+url: /pasig/familymart-f-ortigas-jr-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Validosa"
-url: /meycauayan/validosa/
+url: /meycauayan/validosa-macarthur-highway/
 shop: hairdresser
 ---

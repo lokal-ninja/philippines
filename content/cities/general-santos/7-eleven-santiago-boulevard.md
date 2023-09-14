@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /general-santos/7-eleven/
+url: /general-santos/7-eleven-santiago-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /manila/7-eleven/
+url: /manila/7-eleven-united-nations-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /muntinlupa/familymart/
+url: /muntinlupa/familymart-alabang-zapote-road/
 shop: convenience
 ---

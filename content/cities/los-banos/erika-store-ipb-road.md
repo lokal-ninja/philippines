@@ -1,5 +1,5 @@
 ---
 title: "Erika Store"
-url: /los-banos/erika-store/
+url: /los-banos/erika-store-ipb-road/
 shop: convenience
 ---

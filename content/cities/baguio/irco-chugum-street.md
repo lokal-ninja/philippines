@@ -1,5 +1,5 @@
 ---
 title: "IRCO"
-url: /baguio/irco/
+url: /baguio/irco-chugum-street/
 shop: supermarket
 ---

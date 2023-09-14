@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /bacoor/alfamart/
+url: /bacoor/alfamart-hawaii-street/
 shop: convenience
 ---

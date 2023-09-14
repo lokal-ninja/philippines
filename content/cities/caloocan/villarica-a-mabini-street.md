@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
-url: /caloocan/villarica/
+url: /caloocan/villarica-a-mabini-street/
 shop: pawnbroker
 ---

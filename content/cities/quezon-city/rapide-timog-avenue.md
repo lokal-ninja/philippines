@@ -1,5 +1,5 @@
 ---
 title: "Rapide"
-url: /quezon-city/rapide/
+url: /quezon-city/rapide-timog-avenue/
 shop: car repair
 ---

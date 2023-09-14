@@ -1,5 +1,5 @@
 ---
 title: "Libra Bakery"
-url: /lucena/libra-bakery/
+url: /lucena/libra-bakery-merchan/
 shop: bakery
 ---

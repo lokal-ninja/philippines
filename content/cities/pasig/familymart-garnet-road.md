@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /pasig/familymart/
+url: /pasig/familymart-garnet-road/
 shop: convenience
 ---

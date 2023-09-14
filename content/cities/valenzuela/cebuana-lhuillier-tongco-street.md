@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /valenzuela/cebuana-lhuillier/
+url: /valenzuela/cebuana-lhuillier-tongco-street/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /taytay/goldilocks/
+url: /taytay/goldilocks-taytay-diversion-road/
 shop: bakery
 ---

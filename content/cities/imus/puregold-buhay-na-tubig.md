@@ -1,5 +1,5 @@
 ---
 title: "PureGold"
-url: /imus/puregold/
+url: /imus/puregold-buhay-na-tubig/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AllGreen"
-url: /bacoor/allgreen/
+url: /bacoor/allgreen-bacoor-boulevard/
 shop: health food
 ---

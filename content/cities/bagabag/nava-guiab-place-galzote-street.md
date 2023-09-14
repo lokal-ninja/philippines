@@ -1,5 +1,5 @@
 ---
 title: "Nava-Guiab Place"
-url: /bagabag/nava-guiab-place/
+url: /bagabag/nava-guiab-place-galzote-street/
 shop: doityourself
 ---

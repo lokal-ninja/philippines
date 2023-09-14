@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /paranaque/ministop/
+url: /paranaque/ministop-general-paulino-santos-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /calamba/ministop/
+url: /calamba/ministop-national-highway/
 shop: convenience
 ---

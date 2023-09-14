@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
-url: /alaminos/villarica/
+url: /alaminos/villarica-quezon-avenue/
 shop: pawnbroker
 ---

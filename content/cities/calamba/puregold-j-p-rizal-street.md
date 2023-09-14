@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /calamba/puregold/
+url: /calamba/puregold-j-p-rizal-street/
 shop: supermarket
 ---

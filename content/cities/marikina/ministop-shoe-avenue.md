@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /marikina/ministop/
+url: /marikina/ministop-shoe-avenue/
 shop: convenience
 ---

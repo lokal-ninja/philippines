@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /batangas-city/ministop/
+url: /batangas-city/ministop-diversion-road/
 shop: convenience
 ---

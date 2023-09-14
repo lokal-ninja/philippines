@@ -1,5 +1,5 @@
 ---
 title: "PUFFSTOPZC-AURORA"
-url: /zamboanga-city/puffstopzc-aurora/
+url: /zamboanga-city/puffstopzc-aurora-aurora-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kooke House"
-url: /laoag/kooke-house/
+url: /laoag/kooke-house-general-segundo-avenue/
 shop: bakery
 ---

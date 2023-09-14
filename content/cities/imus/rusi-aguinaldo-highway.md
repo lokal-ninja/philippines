@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
-url: /imus/rusi/
+url: /imus/rusi-aguinaldo-highway/
 shop: motorcycle
 ---

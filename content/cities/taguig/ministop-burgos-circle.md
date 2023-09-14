@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /taguig/ministop/
+url: /taguig/ministop-burgos-circle/
 shop: convenience
 ---

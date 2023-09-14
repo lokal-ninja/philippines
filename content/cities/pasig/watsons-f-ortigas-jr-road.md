@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
-url: /pasig/watsons/
+url: /pasig/watsons-f-ortigas-jr-road/
 shop: chemist
 ---

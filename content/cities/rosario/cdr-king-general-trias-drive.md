@@ -1,5 +1,5 @@
 ---
 title: "CDR-King"
-url: /rosario/cdr-king/
+url: /rosario/cdr-king-general-trias-drive/
 shop: computer
 ---

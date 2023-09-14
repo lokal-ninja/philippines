@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /paranaque/puregold/
+url: /paranaque/puregold-san-antonio-avenue/
 shop: supermarket
 ---

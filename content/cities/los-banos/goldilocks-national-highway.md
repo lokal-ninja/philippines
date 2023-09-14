@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /los-banos/goldilocks/
+url: /los-banos/goldilocks-national-highway/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodman"
-url: /talisay/foodman/
+url: /talisay/foodman-capitan-sabi-street/
 shop: supermarket
 ---

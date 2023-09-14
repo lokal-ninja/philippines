@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
-url: /san-pablo/motortrade/
+url: /san-pablo/motortrade-maharlika-highway/
 shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lenovo"
-url: /pasay/lenovo/
+url: /pasay/lenovo-main-mall/
 shop: computer
 ---

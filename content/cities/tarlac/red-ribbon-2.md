@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
-url: /tarlac/red-ribbon/
+url: /tarlac/red-ribbon-2/
 shop: bakery
 ---

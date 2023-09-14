@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
-url: /manila/villarica/
+url: /manila/villarica-p-paterno-street/
 shop: pawnbroker
 ---

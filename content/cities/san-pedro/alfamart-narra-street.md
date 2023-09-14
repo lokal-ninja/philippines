@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /san-pedro/alfamart/
+url: /san-pedro/alfamart-narra-street/
 shop: supermarket
 ---

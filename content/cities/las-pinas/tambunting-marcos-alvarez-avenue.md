@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
-url: /las-pinas/tambunting/
+url: /las-pinas/tambunting-marcos-alvarez-avenue/
 shop: pawnbroker
 ---

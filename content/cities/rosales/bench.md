@@ -1,5 +1,5 @@
 ---
-title: "Bench."
+title: "Bench"
 url: /rosales/bench/
 shop: clothes
 ---

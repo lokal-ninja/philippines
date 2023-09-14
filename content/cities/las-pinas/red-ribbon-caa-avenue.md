@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
-url: /las-pinas/red-ribbon/
+url: /las-pinas/red-ribbon-caa-avenue/
 shop: bakery
 ---

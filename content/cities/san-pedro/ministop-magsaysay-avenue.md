@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /san-pedro/ministop/
+url: /san-pedro/ministop-magsaysay-avenue/
 shop: convenience
 ---

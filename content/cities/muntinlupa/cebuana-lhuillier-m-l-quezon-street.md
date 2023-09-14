@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /muntinlupa/cebuana-lhuillier/
+url: /muntinlupa/cebuana-lhuillier-m-l-quezon-street/
 shop: pawnbroker
 ---

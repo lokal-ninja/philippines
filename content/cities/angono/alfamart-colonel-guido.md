@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /angono/alfamart/
+url: /angono/alfamart-colonel-guido/
 shop: convenience
 ---

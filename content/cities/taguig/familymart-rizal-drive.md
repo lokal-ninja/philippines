@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /taguig/familymart/
+url: /taguig/familymart-rizal-drive/
 shop: convenience
 ---

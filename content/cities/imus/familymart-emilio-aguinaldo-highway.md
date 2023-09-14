@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /imus/familymart/
+url: /imus/familymart-emilio-aguinaldo-highway/
 shop: convenience
 ---

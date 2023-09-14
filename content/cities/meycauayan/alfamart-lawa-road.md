@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /meycauayan/alfamart/
+url: /meycauayan/alfamart-lawa-road/
 shop: convenience
 ---

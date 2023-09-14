@@ -1,5 +1,5 @@
 ---
 title: "Santolan Pawnshop"
-url: /marikina/santolan-pawnshop/
+url: /marikina/santolan-pawnshop-bayan-bayanan-avenue/
 shop: pawnbroker
 ---

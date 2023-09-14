@@ -1,5 +1,5 @@
 ---
 title: "Fully Booked"
-url: /makati/fully-booked/
+url: /makati/fully-booked-parkway-drive/
 shop: books
 ---

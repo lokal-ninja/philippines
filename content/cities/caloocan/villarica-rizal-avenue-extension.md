@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
-url: /caloocan/villarica/
+url: /caloocan/villarica-rizal-avenue-extension/
 shop: pawnbroker
 ---

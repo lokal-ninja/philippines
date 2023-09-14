@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /batangas-city/7-eleven/
+url: /batangas-city/7-eleven-p-prieto-street/
 shop: convenience
 ---

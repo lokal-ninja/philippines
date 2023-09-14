@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /mandaluyong/puregold/
+url: /mandaluyong/puregold-shaw-boulevard/
 shop: supermarket
 ---

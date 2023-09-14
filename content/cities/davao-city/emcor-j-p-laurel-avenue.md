@@ -1,5 +1,5 @@
 ---
 title: "Emcor"
-url: /davao-city/emcor/
+url: /davao-city/emcor-j-p-laurel-avenue/
 shop: electronics
 ---

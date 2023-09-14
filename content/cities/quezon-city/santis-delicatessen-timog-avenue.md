@@ -1,5 +1,5 @@
 ---
 title: "Säntis Delicatessen"
-url: /quezon-city/santis-delicatessen/
+url: /quezon-city/santis-delicatessen-timog-avenue/
 shop: convenience
 ---

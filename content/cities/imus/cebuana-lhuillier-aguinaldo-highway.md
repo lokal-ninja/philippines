@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /imus/cebuana-lhuillier/
+url: /imus/cebuana-lhuillier-aguinaldo-highway/
 shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /binan/alfamart/
+url: /binan/alfamart-santo-tomas-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
-url: /manila/watsons/
+url: /manila/watsons-rizal-avenue/
 shop: chemist
 ---

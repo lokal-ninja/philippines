@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /tacloban-city/7-eleven/
+url: /tacloban-city/7-eleven-salazar-street/
 shop: convenience
 ---

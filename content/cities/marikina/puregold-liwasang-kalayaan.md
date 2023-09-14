@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /marikina/puregold/
+url: /marikina/puregold-liwasang-kalayaan/
 shop: supermarket
 ---

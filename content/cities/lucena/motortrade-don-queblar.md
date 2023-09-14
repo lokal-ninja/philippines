@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
-url: /lucena/motortrade/
+url: /lucena/motortrade-don-queblar/
 shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /pasig/ministop/
+url: /pasig/ministop-c-raymundo-avenue/
 shop: convenience
 ---

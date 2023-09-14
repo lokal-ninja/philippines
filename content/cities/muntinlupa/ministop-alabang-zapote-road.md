@@ -1,5 +1,5 @@
 ---
 title: "Ministop"
-url: /muntinlupa/ministop/
+url: /muntinlupa/ministop-alabang-zapote-road/
 shop: convenience
 ---

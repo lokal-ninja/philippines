@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
-url: /pasay/uniqlo/
+url: /pasay/uniqlo-edsa-extension/
 shop: clothes
 ---

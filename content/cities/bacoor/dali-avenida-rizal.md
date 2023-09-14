@@ -1,5 +1,5 @@
 ---
 title: "Dali"
-url: /bacoor/dali/
+url: /bacoor/dali-avenida-rizal/
 shop: convenience
 ---

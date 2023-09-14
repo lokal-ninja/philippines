@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
-url: /manila/puregold/
+url: /manila/puregold-angel-linao-street/
 shop: supermarket
 ---

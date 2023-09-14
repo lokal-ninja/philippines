@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /general-trias/alfamart/
+url: /general-trias/alfamart-arnaldo-highway/
 shop: convenience
 ---

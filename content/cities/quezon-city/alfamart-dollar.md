@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /quezon-city/alfamart/
+url: /quezon-city/alfamart-dollar/
 shop: convenience
 ---

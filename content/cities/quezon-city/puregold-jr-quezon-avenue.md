@@ -1,5 +1,5 @@
 ---
 title: "Puregold Jr."
-url: /quezon-city/puregold-jr/
+url: /quezon-city/puregold-jr-quezon-avenue/
 shop: supermarket
 ---

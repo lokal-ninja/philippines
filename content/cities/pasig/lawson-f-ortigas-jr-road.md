@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /pasig/lawson/
+url: /pasig/lawson-f-ortigas-jr-road/
 shop: convenience
 ---

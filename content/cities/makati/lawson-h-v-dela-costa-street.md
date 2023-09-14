@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /makati/lawson/
+url: /makati/lawson-h-v-dela-costa-street/
 shop: convenience
 ---

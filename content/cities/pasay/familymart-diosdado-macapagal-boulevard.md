@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /pasay/familymart/
+url: /pasay/familymart-diosdado-macapagal-boulevard/
 shop: convenience
 ---

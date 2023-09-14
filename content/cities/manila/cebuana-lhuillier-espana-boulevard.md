@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
-url: /manila/cebuana-lhuillier/
+url: /manila/cebuana-lhuillier-espana-boulevard/
 shop: pawnbroker
 ---

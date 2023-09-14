@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
-url: /cabuyao/alfamart/
+url: /cabuyao/alfamart-2/
 shop: supermarket
 ---
