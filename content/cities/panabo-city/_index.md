@@ -1,6 +1,6 @@
 ---
 title: Panabo City
 url: /panabo-city/
-latitude: 7.309
-longitude: 125.684
+latitude: 7.313
+longitude: 125.675
 ---

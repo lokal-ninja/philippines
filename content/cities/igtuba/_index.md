@@ -1,6 +1,6 @@
 ---
 title: Igtuba
 url: /igtuba/
-latitude: 10.643
-longitude: 122.245
+latitude: 10.645
+longitude: 122.241
 ---
