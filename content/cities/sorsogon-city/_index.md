@@ -1,6 +1,6 @@
 ---
 title: Sorsogon City
 url: /sorsogon-city/
-latitude: 12.974
-longitude: 123.989
+latitude: 12.981
+longitude: 123.986
 ---
