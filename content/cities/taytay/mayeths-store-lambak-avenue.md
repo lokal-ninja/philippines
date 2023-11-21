@@ -1,5 +1,5 @@
 ---
 title: "MAYETH'S STORE"
-url: /taytay/mayeths-store-blk-23-suha/
+url: /taytay/mayeths-store-lambak-avenue/
 shop: variety store
 ---

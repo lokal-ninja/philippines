@@ -1,6 +1,6 @@
 ---
 title: Minda, Gandara
 url: /minda-gandara/
-latitude: 12.012
-longitude: 124.81
+latitude: 12.013
+longitude: 124.812
 ---
