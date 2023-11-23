@@ -1,5 +1,5 @@
 ---
-title: "SaveMore Market"
+title: "Savemore Market"
 url: /iba/savemore-market/
 shop: supermarket
 ---
