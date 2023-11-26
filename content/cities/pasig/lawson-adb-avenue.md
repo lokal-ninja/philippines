@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
-url: /pasig/lawson-jade-drive/
+url: /pasig/lawson-adb-avenue/
 shop: convenience
 ---

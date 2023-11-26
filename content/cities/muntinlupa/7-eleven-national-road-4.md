@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /tabaco-city/7-eleven-2/
+url: /muntinlupa/7-eleven-national-road-4/
 shop: convenience
 ---

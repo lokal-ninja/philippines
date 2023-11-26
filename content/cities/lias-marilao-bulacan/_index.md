@@ -1,6 +1,6 @@
 ---
 title: Lias Marilao, Bulacan
 url: /lias-marilao-bulacan/
-latitude: 14.758
-longitude: 120.955
+latitude: 14.76
+longitude: 120.963
 ---

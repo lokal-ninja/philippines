@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /muntinlupa/7-eleven-4/
+url: /paranaque/7-eleven-quirino-avenue-4/
 shop: convenience
 ---
