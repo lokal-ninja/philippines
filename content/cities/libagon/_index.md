@@ -1,6 +1,6 @@
 ---
 title: Libagon
 url: /libagon/
-latitude: 10.297
+latitude: 10.298
 longitude: 125.052
 ---

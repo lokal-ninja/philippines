@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /pasig/7-eleven-president-quezon/
+url: /tabaco-city/7-eleven-2/
 shop: convenience
 ---
