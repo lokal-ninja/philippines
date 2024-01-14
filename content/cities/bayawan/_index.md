@@ -1,6 +1,6 @@
 ---
 title: Bayawan
 url: /bayawan/
-latitude: 9.366
-longitude: 122.806
+latitude: 9.365
+longitude: 122.805
 ---
