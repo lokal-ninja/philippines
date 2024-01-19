@@ -1,6 +1,6 @@
 ---
 title: San Mateo
 url: /san-mateo/
-latitude: 14.697
-longitude: 121.121
+latitude: 14.696
+longitude: 121.119
 ---
