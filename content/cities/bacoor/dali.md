@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /bacoor/dali/
-shop: convenience
+shop: supermarket
 ---
