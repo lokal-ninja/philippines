@@ -1,5 +1,5 @@
 ---
 title: "Danes Bakeshop"
-url: /baguio/danes-bakeshop-kayang-street/
+url: /baguio/danes-bakeshop-lower-q-m/
 shop: bakery
 ---
