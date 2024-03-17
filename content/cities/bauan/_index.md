@@ -1,6 +1,6 @@
 ---
 title: Bauan
 url: /bauan/
-latitude: 13.794
-longitude: 120.994
+latitude: 13.791
+longitude: 121.008
 ---
