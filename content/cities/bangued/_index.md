@@ -1,6 +1,6 @@
 ---
 title: Bangued
 url: /bangued/
-latitude: 17.595
-longitude: 120.619
+latitude: 17.59
+longitude: 120.618
 ---
