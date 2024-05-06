@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
-url: /quezon-city/goldilocks-2/
+url: /imus/goldilocks-nueno-avenue/
 shop: bakery
 ---

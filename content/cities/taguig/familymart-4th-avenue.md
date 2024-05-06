@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
-url: /makati/familymart-palm-drive/
+url: /taguig/familymart-4th-avenue/
 shop: convenience
 ---
