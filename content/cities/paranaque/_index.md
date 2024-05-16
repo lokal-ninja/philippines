@@ -1,6 +1,6 @@
 ---
 title: Parañaque
 url: /paranaque/
-latitude: 14.468
-longitude: 121.012
+latitude: 14.446
+longitude: 121.028
 ---

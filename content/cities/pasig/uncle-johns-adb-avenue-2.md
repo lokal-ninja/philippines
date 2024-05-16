@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
-url: /pasig/uncle-johns-poveda-drive/
+url: /pasig/uncle-johns-adb-avenue-2/
 shop: convenience
 ---
