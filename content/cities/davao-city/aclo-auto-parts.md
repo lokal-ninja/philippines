@@ -1,5 +1,5 @@
 ---
-title: "ACLO Auto Parts"
+title: "Aclo Auto Parts"
 url: /davao-city/aclo-auto-parts/
-shop: hardware
+shop: car parts
 ---
