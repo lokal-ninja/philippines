@@ -1,6 +1,6 @@
 ---
 title: Argao
 url: /argao/
-latitude: 9.882
-longitude: 123.604
+latitude: 9.9
+longitude: 123.605
 ---

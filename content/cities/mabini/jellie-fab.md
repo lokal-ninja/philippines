@@ -1,5 +1,5 @@
 ---
-title: "JELLIE FAB"
+title: "Jellie Fab"
 url: /mabini/jellie-fab/
-shop: gift
+shop: convenience
 ---
