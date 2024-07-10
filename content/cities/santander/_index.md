@@ -1,6 +1,6 @@
 ---
 title: Santander
 url: /santander/
-latitude: 9.417
-longitude: 123.333
+latitude: 9.416
+longitude: 123.33
 ---
