@@ -1,5 +1,5 @@
 ---
 title: "Paponei's"
 url: /los-banos/paponeis/
-shop: books
+shop: office supplies
 ---

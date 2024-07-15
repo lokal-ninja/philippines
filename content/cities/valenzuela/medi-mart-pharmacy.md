@@ -1,5 +1,5 @@
 ---
-title: "MEDI-MART PHARMACY"
+title: "Medi-Mart Pharmacy"
 url: /valenzuela/medi-mart-pharmacy/
 shop: chemist
 ---
