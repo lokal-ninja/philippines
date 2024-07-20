@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /silang/dali/
-shop: supermarket
+shop: convenience
 ---

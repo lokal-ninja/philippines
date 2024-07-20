@@ -1,6 +1,6 @@
 ---
 title: Alfonso
 url: /alfonso/
-latitude: 14.084
-longitude: 120.882
+latitude: 14.139
+longitude: 120.855
 ---
