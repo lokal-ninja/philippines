@@ -1,6 +1,6 @@
 ---
 title: Davao City
 url: /davao-city/
-latitude: 7.101
-longitude: 125.634
+latitude: 7.076
+longitude: 125.62
 ---
