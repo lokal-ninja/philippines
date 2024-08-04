@@ -1,6 +1,6 @@
 ---
 title: Laoag
 url: /laoag/
-latitude: 18.196
-longitude: 120.594
+latitude: 18.203
+longitude: 120.598
 ---
