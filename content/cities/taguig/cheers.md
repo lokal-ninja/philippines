@@ -1,5 +1,5 @@
 ---
 title: "Cheers"
 url: /taguig/cheers/
-shop: convenience
+shop: Lebensmittel
 ---

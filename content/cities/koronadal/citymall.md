@@ -1,5 +1,5 @@
 ---
 title: "CityMall"
 url: /koronadal/citymall/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /zamboanguita/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

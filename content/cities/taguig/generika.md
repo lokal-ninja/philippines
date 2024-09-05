@@ -1,5 +1,5 @@
 ---
 title: "Generika"
 url: /taguig/generika/
-shop: chemist
+shop: Drogerie
 ---

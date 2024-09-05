@@ -1,5 +1,5 @@
 ---
 title: "Computer World"
 url: /dasmarinas/computer-world/
-shop: computer
+shop: Computer
 ---

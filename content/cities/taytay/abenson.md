@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /taytay/abenson/
-shop: electronics
+shop: Elektronik
 ---

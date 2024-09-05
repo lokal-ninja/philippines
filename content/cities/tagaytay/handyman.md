@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /tagaytay/handyman/
-shop: doityourself
+shop: Baumarkt
 ---

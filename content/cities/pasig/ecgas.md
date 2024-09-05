@@ -1,5 +1,5 @@
 ---
 title: "Ecgas"
 url: /pasig/ecgas/
-shop: gas
+shop: Gasflaschen
 ---

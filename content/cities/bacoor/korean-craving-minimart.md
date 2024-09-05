@@ -1,5 +1,5 @@
 ---
 title: "Korean Craving Minimart"
 url: /bacoor/korean-craving-minimart/
-shop: convenience
+shop: Lebensmittel
 ---

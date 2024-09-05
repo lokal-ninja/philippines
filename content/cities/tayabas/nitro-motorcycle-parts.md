@@ -1,5 +1,5 @@
 ---
 title: "Nitro Motorcycle Parts"
 url: /tayabas/nitro-motorcycle-parts/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jopoys"
 url: /digos-city/jopoys/
-shop: bakery
+shop: Bäckerei
 ---

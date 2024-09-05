@@ -1,5 +1,5 @@
 ---
 title: "AteDoris Consumer Store"
 url: /nabua/atedoris-consumer-store/
-shop: convenience
+shop: Lebensmittel
 ---

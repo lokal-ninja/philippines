@@ -1,5 +1,5 @@
 ---
 title: "Cherry Mobile"
 url: /san-nicolas/cherry-mobile/
-shop: electronics
+shop: Elektronik
 ---

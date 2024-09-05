@@ -1,5 +1,5 @@
 ---
 title: "Washington Food Shop"
 url: /paranaque/washington-food-shop/
-shop: convenience
+shop: Lebensmittel
 ---

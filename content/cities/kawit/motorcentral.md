@@ -1,5 +1,5 @@
 ---
 title: "Motorcentral"
 url: /kawit/motorcentral/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "eGrocer"
 url: /antipolo/egrocer/
-shop: supermarket
+shop: Supermarkt
 ---

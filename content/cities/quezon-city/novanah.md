@@ -1,5 +1,5 @@
 ---
 title: "Novanah"
 url: /quezon-city/novanah/
-shop: trade
+shop: Baustoffe
 ---

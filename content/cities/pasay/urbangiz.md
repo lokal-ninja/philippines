@@ -1,5 +1,5 @@
 ---
 title: "Urbangiz"
 url: /pasay/urbangiz/
-shop: electronics
+shop: Elektronik
 ---

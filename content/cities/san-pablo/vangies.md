@@ -1,5 +1,5 @@
 ---
 title: "Vangies"
 url: /san-pablo/vangies/
-shop: convenience
+shop: Lebensmittel
 ---

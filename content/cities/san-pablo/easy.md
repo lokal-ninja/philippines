@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /san-pablo/easy/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SM Savemore Alapan"
 url: /imus/sm-savemore-alapan/
-shop: supermarket
+shop: Supermarkt
 ---

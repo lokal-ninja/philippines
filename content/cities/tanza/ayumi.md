@@ -1,5 +1,5 @@
 ---
 title: "Ayumi"
 url: /tanza/ayumi/
-shop: beauty
+shop: Kosmetik
 ---

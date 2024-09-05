@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /batangas-city/alfamart-national-highway-2/
-shop: convenience
+shop: Lebensmittel
 ---

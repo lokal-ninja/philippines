@@ -1,5 +1,5 @@
 ---
 title: "Complink"
 url: /pasay/complink/
-shop: computer
+shop: Computer
 ---

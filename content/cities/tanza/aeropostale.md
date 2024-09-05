@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /tanza/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

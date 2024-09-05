@@ -1,5 +1,5 @@
 ---
 title: "Gmall"
 url: /boljoon/gmall/
-shop: convenience
+shop: Lebensmittel
 ---

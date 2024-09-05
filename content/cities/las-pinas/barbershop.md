@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /las-pinas/barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raye Bikes"
 url: /general-trias/raye-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

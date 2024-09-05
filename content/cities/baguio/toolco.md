@@ -1,5 +1,5 @@
 ---
 title: "Toolco"
 url: /baguio/toolco/
-shop: hardware
+shop: Eisenwaren
 ---

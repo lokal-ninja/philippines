@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /taguig-city/dali/
-shop: convenience
+shop: Lebensmittel
 ---

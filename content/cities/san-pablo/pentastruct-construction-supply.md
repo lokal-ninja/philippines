@@ -1,5 +1,5 @@
 ---
 title: "Pentastruct Construction Supply"
 url: /san-pablo/pentastruct-construction-supply/
-shop: hardware
+shop: Eisenwaren
 ---

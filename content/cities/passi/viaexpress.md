@@ -1,5 +1,5 @@
 ---
 title: "Viaexpress"
 url: /passi/viaexpress/
-shop: ticket
+shop: Tickets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /dagupan/guess/
-shop: clothes
+shop: Kleidung
 ---

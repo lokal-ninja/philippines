@@ -1,5 +1,5 @@
 ---
 title: "Cyberzone - SM City Valenzuela"
 url: /valenzuela/cyberzone-sm-city-valenzuela/
-shop: outpost
+shop: Außenstelle
 ---

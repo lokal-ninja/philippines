@@ -1,5 +1,5 @@
 ---
 title: "Popz Souvenir Shop"
 url: /vigan/popz-souvenir-shop-calle-crisologo/
-shop: gift
+shop: Andenken
 ---

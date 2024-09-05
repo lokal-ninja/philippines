@@ -1,5 +1,5 @@
 ---
 title: "Soleil"
 url: /san-pablo/soleil/
-shop: shoes
+shop: Schuhe
 ---

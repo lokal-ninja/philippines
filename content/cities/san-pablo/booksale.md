@@ -1,5 +1,5 @@
 ---
 title: "Booksale"
 url: /san-pablo/booksale/
-shop: books
+shop: Bücher
 ---

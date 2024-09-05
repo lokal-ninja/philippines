@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /pasig/uncle-johns-ruby-road/
-shop: convenience
+shop: Lebensmittel
 ---

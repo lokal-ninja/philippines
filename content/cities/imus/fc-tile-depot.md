@@ -1,5 +1,5 @@
 ---
 title: "FC Tile Depot"
 url: /imus/fc-tile-depot/
-shop: tiles
+shop: Fliesen
 ---

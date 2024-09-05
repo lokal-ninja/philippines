@@ -1,5 +1,5 @@
 ---
 title: "Motocentral"
 url: /dasmarinas/motocentral/
-shop: motorcycle
+shop: Motorrad
 ---

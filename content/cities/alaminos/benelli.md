@@ -1,5 +1,5 @@
 ---
 title: "Benelli"
 url: /alaminos/benelli/
-shop: motorcycle
+shop: Motorrad
 ---

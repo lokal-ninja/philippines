@@ -1,5 +1,5 @@
 ---
 title: "Audionet"
 url: /pasay/audionet/
-shop: mobile phone
+shop: Handy
 ---

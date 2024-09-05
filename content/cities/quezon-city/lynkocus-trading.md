@@ -1,5 +1,5 @@
 ---
 title: "Lynkocus Trading"
 url: /quezon-city/lynkocus-trading/
-shop: hardware
+shop: Eisenwaren
 ---

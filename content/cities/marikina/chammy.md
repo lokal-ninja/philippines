@@ -1,5 +1,5 @@
 ---
 title: "Chammy"
 url: /marikina/chammy/
-shop: radiotechnics
+shop: Radiotechnik
 ---

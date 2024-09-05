@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /tagum-city/citi-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

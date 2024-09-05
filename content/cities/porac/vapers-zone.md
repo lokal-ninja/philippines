@@ -1,5 +1,5 @@
 ---
 title: "Vapers Zone"
 url: /porac/vapers-zone/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

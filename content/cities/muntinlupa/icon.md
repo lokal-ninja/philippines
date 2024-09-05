@@ -1,5 +1,5 @@
 ---
 title: "Icon"
 url: /muntinlupa/icon/
-shop: sports
+shop: Sport
 ---

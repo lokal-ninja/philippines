@@ -1,5 +1,5 @@
 ---
 title: "Gasul"
 url: /angeles/gasul/
-shop: gas
+shop: Gasflaschen
 ---

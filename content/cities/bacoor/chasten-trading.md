@@ -1,5 +1,5 @@
 ---
 title: "Chasten Trading"
 url: /bacoor/chasten-trading/
-shop: hardware
+shop: Eisenwaren
 ---

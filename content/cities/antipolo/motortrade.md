@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /antipolo/motortrade/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suglani Mart"
 url: /davao-city/suglani-mart/
-shop: general
+shop: Dorfladen
 ---

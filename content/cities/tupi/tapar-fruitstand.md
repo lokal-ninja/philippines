@@ -1,5 +1,5 @@
 ---
 title: "Tapar Fruitstand"
 url: /tupi/tapar-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

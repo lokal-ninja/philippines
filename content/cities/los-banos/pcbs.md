@@ -1,5 +1,5 @@
 ---
 title: "PCBS"
 url: /los-banos/pcbs/
-shop: books
+shop: Bücher
 ---

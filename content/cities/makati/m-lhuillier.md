@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /makati/m-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

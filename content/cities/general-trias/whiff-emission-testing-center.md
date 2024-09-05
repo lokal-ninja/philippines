@@ -1,5 +1,5 @@
 ---
 title: "WHIFF Emission Testing Center"
 url: /general-trias/whiff-emission-testing-center/
-shop: car repair
+shop: Autowerkstatt
 ---

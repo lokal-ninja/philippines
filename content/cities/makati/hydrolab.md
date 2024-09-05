@@ -1,5 +1,5 @@
 ---
 title: "Hydrolab"
 url: /makati/hydrolab/
-shop: water
+shop: Wasser
 ---

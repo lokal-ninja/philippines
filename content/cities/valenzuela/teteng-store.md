@@ -1,5 +1,5 @@
 ---
 title: "Teteng Store"
 url: /valenzuela/teteng-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

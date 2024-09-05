@@ -1,5 +1,5 @@
 ---
 title: "Wheeltek"
 url: /laoag/wheeltek/
-shop: motorcycle
+shop: Motorrad
 ---

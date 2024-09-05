@@ -1,5 +1,5 @@
 ---
 title: "Asianic"
 url: /san-pablo/asianic/
-shop: computer
+shop: Computer
 ---

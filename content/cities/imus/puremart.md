@@ -1,5 +1,5 @@
 ---
 title: "Puremart"
 url: /imus/puremart/
-shop: convenience
+shop: Lebensmittel
 ---

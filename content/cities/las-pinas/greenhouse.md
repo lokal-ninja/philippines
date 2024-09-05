@@ -1,5 +1,5 @@
 ---
 title: "Greenhouse"
 url: /las-pinas/greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

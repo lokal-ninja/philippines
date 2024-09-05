@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /lingayen/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

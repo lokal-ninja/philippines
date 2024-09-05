@@ -1,5 +1,5 @@
 ---
 title: "Pag-asa Pawnshop"
 url: /cagayan-de-oro/pag-asa-pawnshop/
-shop: pawnbroker
+shop: Leiher
 ---

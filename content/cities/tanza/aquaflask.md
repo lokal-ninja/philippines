@@ -1,5 +1,5 @@
 ---
 title: "AquaFlask"
 url: /tanza/aquaflask/
-shop: general
+shop: Dorfladen
 ---

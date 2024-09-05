@@ -1,5 +1,5 @@
 ---
 title: "KMCC"
 url: /kidapawan/kmcc/
-shop: supermarket
+shop: Supermarkt
 ---

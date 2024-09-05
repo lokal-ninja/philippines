@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /baguio/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

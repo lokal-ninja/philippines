@@ -1,5 +1,5 @@
 ---
 title: "Philip Aluminum Works"
 url: /imus/philip-aluminum-works/
-shop: furniture
+shop: Möbel
 ---

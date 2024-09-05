@@ -1,5 +1,5 @@
 ---
 title: "Rolinda Rice"
 url: /cabanatuan-city/rolinda-rice/
-shop: supermarket
+shop: Supermarkt
 ---

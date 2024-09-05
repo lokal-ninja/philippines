@@ -1,5 +1,5 @@
 ---
 title: "Motor Ace Phils."
 url: /tandag-city/motor-ace-phils/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JAC Cavite"
 url: /dasmarinas/jac-cavite/
-shop: shop
+shop: Allgemein
 ---

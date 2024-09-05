@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz Trucks"
 url: /carmona/mercedes-benz-trucks/
-shop: car
+shop: Autohaus
 ---

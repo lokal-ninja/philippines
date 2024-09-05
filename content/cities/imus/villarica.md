@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /imus/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

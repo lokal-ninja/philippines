@@ -1,5 +1,5 @@
 ---
 title: "Durabelt"
 url: /lucban/durabelt/
-shop: hardware
+shop: Eisenwaren
 ---

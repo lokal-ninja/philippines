@@ -1,5 +1,5 @@
 ---
 title: "TSF Mart"
 url: /sariaya/tsf-mart/
-shop: supermarket
+shop: Supermarkt
 ---

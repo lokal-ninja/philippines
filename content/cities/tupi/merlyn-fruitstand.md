@@ -1,5 +1,5 @@
 ---
 title: "Merlyn Fruitstand"
 url: /tupi/merlyn-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

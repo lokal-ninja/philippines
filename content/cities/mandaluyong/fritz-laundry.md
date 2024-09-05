@@ -1,5 +1,5 @@
 ---
 title: "Fritz Laundry"
 url: /mandaluyong/fritz-laundry/
-shop: laundry
+shop: Wäscherei
 ---

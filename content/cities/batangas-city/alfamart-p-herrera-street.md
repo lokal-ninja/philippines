@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /batangas-city/alfamart-p-herrera-street/
-shop: convenience
+shop: Lebensmittel
 ---

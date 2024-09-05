@@ -1,5 +1,5 @@
 ---
 title: "Colopano Bakery"
 url: /valenzuela/colopano-bakery/
-shop: bakery
+shop: Bäckerei
 ---

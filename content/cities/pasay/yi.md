@@ -1,5 +1,5 @@
 ---
 title: "Yi"
 url: /pasay/yi/
-shop: electronics
+shop: Elektronik
 ---

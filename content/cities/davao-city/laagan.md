@@ -1,5 +1,5 @@
 ---
 title: "Laagan"
 url: /davao-city/laagan/
-shop: outdoor
+shop: Outdoor
 ---

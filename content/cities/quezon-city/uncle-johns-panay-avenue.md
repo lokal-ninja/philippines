@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /quezon-city/uncle-johns-panay-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

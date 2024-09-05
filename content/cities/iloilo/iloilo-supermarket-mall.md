@@ -1,5 +1,5 @@
 ---
 title: "Iloilo Supermarket Mall"
 url: /iloilo/iloilo-supermarket-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

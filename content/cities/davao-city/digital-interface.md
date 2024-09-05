@@ -1,5 +1,5 @@
 ---
 title: "Digital Interface"
 url: /davao-city/digital-interface/
-shop: computer
+shop: Computer
 ---

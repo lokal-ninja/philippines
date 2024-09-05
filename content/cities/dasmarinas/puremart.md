@@ -1,5 +1,5 @@
 ---
 title: "Puremart"
 url: /dasmarinas/puremart/
-shop: convenience
+shop: Lebensmittel
 ---

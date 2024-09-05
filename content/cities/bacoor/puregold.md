@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /bacoor/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

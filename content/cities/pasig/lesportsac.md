@@ -1,5 +1,5 @@
 ---
 title: "LeSportsac"
 url: /pasig/lesportsac/
-shop: bag
+shop: Taschen & Koffer
 ---

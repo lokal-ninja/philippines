@@ -1,5 +1,5 @@
 ---
 title: "Motorcentral"
 url: /batangas-city/motorcentral/
-shop: motorcycle
+shop: Motorrad
 ---

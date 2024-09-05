@@ -1,5 +1,5 @@
 ---
 title: "Petron Gasul"
 url: /gerona/petron-gasul/
-shop: gas
+shop: Gasflaschen
 ---

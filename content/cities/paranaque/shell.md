@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /paranaque/shell/
-shop: convenience
+shop: Lebensmittel
 ---

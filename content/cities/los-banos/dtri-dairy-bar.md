@@ -1,5 +1,5 @@
 ---
 title: "DTRI Dairy Bar"
 url: /los-banos/dtri-dairy-bar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /taguig/7-eleven-j-p-rizal-extension/
-shop: convenience
+shop: Lebensmittel
 ---

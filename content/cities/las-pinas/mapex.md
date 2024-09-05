@@ -1,5 +1,5 @@
 ---
 title: "Mapex"
 url: /las-pinas/mapex/
-shop: hardware
+shop: Eisenwaren
 ---

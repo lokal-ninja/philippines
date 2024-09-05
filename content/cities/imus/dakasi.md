@@ -1,5 +1,5 @@
 ---
 title: "Dakasi"
 url: /imus/dakasi/
-shop: tea
+shop: Tee
 ---

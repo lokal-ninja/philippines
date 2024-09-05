@@ -1,5 +1,5 @@
 ---
 title: "Tablanza"
 url: /taguig/tablanza/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

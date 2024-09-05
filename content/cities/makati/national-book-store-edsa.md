@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
 url: /makati/national-book-store-edsa/
-shop: books
+shop: Bücher
 ---

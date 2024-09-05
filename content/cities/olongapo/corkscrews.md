@@ -1,5 +1,5 @@
 ---
 title: "Corkscrews"
 url: /olongapo/corkscrews/
-shop: shop
+shop: Allgemein
 ---

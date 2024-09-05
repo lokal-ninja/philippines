@@ -1,5 +1,5 @@
 ---
 title: "Gus"
 url: /makati/gus/
-shop: furniture
+shop: Möbel
 ---

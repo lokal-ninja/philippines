@@ -1,5 +1,5 @@
 ---
 title: "Omakase"
 url: /makati/omakase/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Globe Telecom"
 url: /dagupan/globe-telecom/
-shop: mobile phone
+shop: Handy
 ---

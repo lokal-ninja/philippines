@@ -1,5 +1,5 @@
 ---
 title: "Heritage Aluminum Sales"
 url: /dasmarinas/heritage-aluminum-sales/
-shop: trade
+shop: Baustoffe
 ---

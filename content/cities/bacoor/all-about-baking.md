@@ -1,5 +1,5 @@
 ---
 title: "All About Baking"
 url: /bacoor/all-about-baking/
-shop: trade
+shop: Baustoffe
 ---

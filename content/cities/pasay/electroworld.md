@@ -1,5 +1,5 @@
 ---
 title: "Electroworld"
 url: /pasay/electroworld/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brulee Bakeshop"
 url: /angeles-city/brulee-bakeshop/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /san-pablo/shell-select/
-shop: convenience
+shop: Lebensmittel
 ---

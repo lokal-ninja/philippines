@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /meycauayan/motolite/
-shop: car parts
+shop: Autoteile
 ---

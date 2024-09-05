@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /manila/uncle-johns-2/
-shop: convenience
+shop: Lebensmittel
 ---

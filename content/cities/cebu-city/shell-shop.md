@@ -1,5 +1,5 @@
 ---
 title: "Shell Shop"
 url: /cebu-city/shell-shop/
-shop: convenience
+shop: Lebensmittel
 ---

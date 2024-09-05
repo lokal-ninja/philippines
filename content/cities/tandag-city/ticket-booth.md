@@ -1,5 +1,5 @@
 ---
 title: "Ticket Booth"
 url: /tandag-city/ticket-booth/
-shop: ticket
+shop: Tickets
 ---

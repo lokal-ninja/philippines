@@ -1,5 +1,5 @@
 ---
 title: "Chivalyn Construction Supply"
 url: /sinait/chivalyn-construction-supply/
-shop: trade
+shop: Baustoffe
 ---

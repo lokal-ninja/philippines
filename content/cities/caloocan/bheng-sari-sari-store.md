@@ -1,5 +1,5 @@
 ---
 title: "Bheng Sari-Sari Store"
 url: /caloocan/bheng-sari-sari-store/
-shop: bakery
+shop: Bäckerei
 ---

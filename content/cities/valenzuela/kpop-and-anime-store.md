@@ -1,5 +1,5 @@
 ---
 title: "Kpop and Anime Store"
 url: /valenzuela/kpop-and-anime-store/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimart"
 url: /kawit/minimart/
-shop: convenience
+shop: Lebensmittel
 ---

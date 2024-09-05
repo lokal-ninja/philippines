@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /manila/tambunting/
-shop: pawnbroker
+shop: Leiher
 ---

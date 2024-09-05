@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /cadiz/house/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powertech"
 url: /pasay/powertech/
-shop: electronics
+shop: Elektronik
 ---

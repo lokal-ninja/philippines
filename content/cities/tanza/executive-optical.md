@@ -1,5 +1,5 @@
 ---
 title: "Executive Optical"
 url: /tanza/executive-optical/
-shop: optician
+shop: Optiker
 ---

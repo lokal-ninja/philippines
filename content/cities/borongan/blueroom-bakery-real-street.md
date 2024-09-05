@@ -1,5 +1,5 @@
 ---
 title: "Blueroom Bakery"
 url: /borongan/blueroom-bakery-real-street/
-shop: bakery
+shop: Bäckerei
 ---

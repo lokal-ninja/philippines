@@ -1,5 +1,5 @@
 ---
 title: "Empanada Royale"
 url: /tagaytay/empanada-royale/
-shop: bakery
+shop: Bäckerei
 ---

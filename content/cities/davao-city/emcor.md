@@ -1,5 +1,5 @@
 ---
 title: "Emcor"
 url: /davao-city/emcor/
-shop: motorcycle
+shop: Motorrad
 ---

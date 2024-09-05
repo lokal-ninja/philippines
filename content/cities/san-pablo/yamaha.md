@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /san-pablo/yamaha/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /caloocan/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Addessa"
 url: /urdaneta/addessa/
-shop: electronics
+shop: Elektronik
 ---

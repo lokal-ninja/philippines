@@ -1,5 +1,5 @@
 ---
 title: "Orzames Tailor"
 url: /las-pinas/orzames-tailor/
-shop: tailor
+shop: Schneiderei
 ---

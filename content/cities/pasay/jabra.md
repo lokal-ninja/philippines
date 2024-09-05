@@ -1,5 +1,5 @@
 ---
 title: "Jabra"
 url: /pasay/jabra/
-shop: electronics
+shop: Elektronik
 ---

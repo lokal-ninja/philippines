@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /pasig/gap/
-shop: clothes
+shop: Kleidung
 ---

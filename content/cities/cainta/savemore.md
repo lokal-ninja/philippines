@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /cainta/savemore/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motocetral"
 url: /bongabong/motocetral/
-shop: motorcycle
+shop: Motorrad
 ---

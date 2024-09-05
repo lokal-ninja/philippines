@@ -1,5 +1,5 @@
 ---
 title: "Bio Therapy"
 url: /malolos/bio-therapy/
-shop: beauty
+shop: Kosmetik
 ---

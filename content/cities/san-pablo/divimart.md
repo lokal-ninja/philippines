@@ -1,5 +1,5 @@
 ---
 title: "DiviMart"
 url: /san-pablo/divimart/
-shop: department store
+shop: Warenhaus
 ---

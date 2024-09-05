@@ -1,5 +1,5 @@
 ---
 title: "Photoline"
 url: /tanza/photoline/
-shop: photo
+shop: Foto
 ---

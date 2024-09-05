@@ -1,5 +1,5 @@
 ---
 title: "Gateway"
 url: /pasay/gateway/
-shop: car parts
+shop: Autoteile
 ---

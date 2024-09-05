@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /tarlac-city/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

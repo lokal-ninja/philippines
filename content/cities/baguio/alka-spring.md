@@ -1,5 +1,5 @@
 ---
 title: "Alka Spring"
 url: /baguio/alka-spring/
-shop: water
+shop: Wasser
 ---

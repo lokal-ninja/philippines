@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /binan/puma/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WB Builders Center"
 url: /cabanatuan/wb-builders-center/
-shop: trade
+shop: Baustoffe
 ---

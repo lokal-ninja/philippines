@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /valenzuela/alfamart-que-grande-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruitas"
 url: /taguig/fruitas/
-shop: beverages
+shop: Getränke
 ---

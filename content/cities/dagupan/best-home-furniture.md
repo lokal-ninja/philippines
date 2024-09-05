@@ -1,5 +1,5 @@
 ---
 title: "Best Home Furniture"
 url: /dagupan/best-home-furniture/
-shop: furniture
+shop: Möbel
 ---

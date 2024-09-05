@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /urdaneta/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

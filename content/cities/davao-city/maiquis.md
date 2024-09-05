@@ -1,5 +1,5 @@
 ---
 title: "Maiqui's"
 url: /davao-city/maiquis/
-shop: bakery
+shop: Bäckerei
 ---

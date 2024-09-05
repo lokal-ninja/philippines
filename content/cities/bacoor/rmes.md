@@ -1,5 +1,5 @@
 ---
 title: "RMES"
 url: /bacoor/rmes/
-shop: hairdresser
+shop: Friseur
 ---

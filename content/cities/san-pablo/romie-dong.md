@@ -1,5 +1,5 @@
 ---
 title: "Romie Dong"
 url: /san-pablo/romie-dong/
-shop: hairdresser
+shop: Friseur
 ---

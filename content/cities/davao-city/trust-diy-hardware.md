@@ -1,5 +1,5 @@
 ---
 title: "Trust DIY Hardware"
 url: /davao-city/trust-diy-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

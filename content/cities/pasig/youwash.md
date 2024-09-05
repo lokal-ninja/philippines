@@ -1,5 +1,5 @@
 ---
 title: "YouWash"
 url: /pasig/youwash/
-shop: laundry
+shop: Wäscherei
 ---

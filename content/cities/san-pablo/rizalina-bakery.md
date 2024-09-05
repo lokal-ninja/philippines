@@ -1,5 +1,5 @@
 ---
 title: "Rizalina Bakery"
 url: /san-pablo/rizalina-bakery/
-shop: bakery
+shop: Bäckerei
 ---

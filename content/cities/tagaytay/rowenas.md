@@ -1,5 +1,5 @@
 ---
 title: "Rowena's"
 url: /tagaytay/rowenas/
-shop: confectionery
+shop: Süßwaren
 ---

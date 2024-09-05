@@ -1,5 +1,5 @@
 ---
 title: "Kaedenz"
 url: /marikina/kaedenz/
-shop: radiotechnics
+shop: Radiotechnik
 ---

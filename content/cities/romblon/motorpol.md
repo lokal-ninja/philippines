@@ -1,5 +1,5 @@
 ---
 title: "Motorpol"
 url: /romblon/motorpol/
-shop: car repair
+shop: Autowerkstatt
 ---

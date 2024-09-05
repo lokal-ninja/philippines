@@ -1,5 +1,5 @@
 ---
 title: "AgriFarm"
 url: /las-pinas/agrifarm/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

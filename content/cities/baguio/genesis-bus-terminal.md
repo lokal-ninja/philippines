@@ -1,5 +1,5 @@
 ---
 title: "Genesis Bus Terminal"
 url: /baguio/genesis-bus-terminal/
-shop: ticket
+shop: Tickets
 ---

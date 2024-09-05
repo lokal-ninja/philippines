@@ -1,5 +1,5 @@
 ---
 title: "ChelseyClydeAutoSound"
 url: /calamba/chelseyclydeautosound/
-shop: car parts
+shop: Autoteile
 ---

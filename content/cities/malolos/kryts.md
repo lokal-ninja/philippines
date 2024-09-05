@@ -1,5 +1,5 @@
 ---
 title: "Kryts"
 url: /malolos/kryts/
-shop: car parts
+shop: Autoteile
 ---

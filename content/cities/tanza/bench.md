@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /tanza/bench/
-shop: clothes
+shop: Kleidung
 ---

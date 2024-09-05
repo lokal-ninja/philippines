@@ -1,5 +1,5 @@
 ---
 title: "Infinitea"
 url: /imus/infinitea/
-shop: tea
+shop: Tee
 ---

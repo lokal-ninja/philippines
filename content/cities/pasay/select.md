@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /pasay/select/
-shop: convenience
+shop: Lebensmittel
 ---

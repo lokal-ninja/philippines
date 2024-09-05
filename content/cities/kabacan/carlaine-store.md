@@ -1,5 +1,5 @@
 ---
 title: "Carlaine Store"
 url: /kabacan/carlaine-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

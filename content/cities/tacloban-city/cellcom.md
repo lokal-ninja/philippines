@@ -1,5 +1,5 @@
 ---
 title: "Cellcom"
 url: /tacloban-city/cellcom/
-shop: mobile phone
+shop: Handy
 ---

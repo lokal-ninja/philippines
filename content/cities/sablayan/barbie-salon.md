@@ -1,5 +1,5 @@
 ---
 title: "Barbie Salon"
 url: /sablayan/barbie-salon/
-shop: hairdresser
+shop: Friseur
 ---

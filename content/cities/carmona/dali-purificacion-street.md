@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /carmona/dali-purificacion-street/
-shop: convenience
+shop: Lebensmittel
 ---

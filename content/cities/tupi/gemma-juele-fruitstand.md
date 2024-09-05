@@ -1,5 +1,5 @@
 ---
 title: "Gemma Juele Fruitstand"
 url: /tupi/gemma-juele-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

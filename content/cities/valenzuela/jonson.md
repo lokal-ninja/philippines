@@ -1,5 +1,5 @@
 ---
 title: "Jonson"
 url: /valenzuela/jonson/
-shop: motorcycle
+shop: Motorrad
 ---

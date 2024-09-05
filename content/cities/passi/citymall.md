@@ -1,5 +1,5 @@
 ---
 title: "CityMall"
 url: /passi/citymall/
-shop: mall
+shop: Einkaufszentrum
 ---

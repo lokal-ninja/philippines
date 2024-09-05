@@ -1,5 +1,5 @@
 ---
 title: "Foton"
 url: /san-pablo/foton-maharlika-highway/
-shop: car
+shop: Autohaus
 ---

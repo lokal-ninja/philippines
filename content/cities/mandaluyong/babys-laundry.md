@@ -1,5 +1,5 @@
 ---
 title: "Baby's Laundry"
 url: /mandaluyong/babys-laundry/
-shop: laundry
+shop: Wäscherei
 ---

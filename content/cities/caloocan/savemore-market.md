@@ -1,5 +1,5 @@
 ---
 title: "Savemore Market"
 url: /caloocan/savemore-market/
-shop: supermarket
+shop: Supermarkt
 ---

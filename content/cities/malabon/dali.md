@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /malabon/dali/
-shop: convenience
+shop: Lebensmittel
 ---

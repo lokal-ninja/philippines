@@ -1,5 +1,5 @@
 ---
 title: "Julie's Bakeshop"
 url: /liloan/julies-bakeshop/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xyna Store"
 url: /quezon-city/xyna-store/
-shop: convenience
+shop: Lebensmittel
 ---

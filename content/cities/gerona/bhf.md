@@ -1,5 +1,5 @@
 ---
 title: "BHF"
 url: /gerona/bhf/
-shop: appliance
+shop: Haushaltsgeräte
 ---

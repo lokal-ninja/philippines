@@ -1,5 +1,5 @@
 ---
 title: "TILE DEPOT"
 url: /cagayan-de-oro-city/tile-depot/
-shop: tiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /los-banos/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

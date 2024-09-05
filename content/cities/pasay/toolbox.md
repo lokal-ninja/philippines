@@ -1,5 +1,5 @@
 ---
 title: "Toolbox"
 url: /pasay/toolbox/
-shop: electronics
+shop: Elektronik
 ---

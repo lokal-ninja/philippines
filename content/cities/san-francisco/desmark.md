@@ -1,5 +1,5 @@
 ---
 title: "Desmark"
 url: /san-francisco/desmark/
-shop: appliance
+shop: Haushaltsgeräte
 ---

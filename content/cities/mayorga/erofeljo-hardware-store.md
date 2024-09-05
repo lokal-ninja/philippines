@@ -1,5 +1,5 @@
 ---
 title: "Erofeljo Hardware Store"
 url: /mayorga/erofeljo-hardware-store/
-shop: hardware
+shop: Eisenwaren
 ---

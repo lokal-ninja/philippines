@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /angono/m-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

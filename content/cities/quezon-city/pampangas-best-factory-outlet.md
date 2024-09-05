@@ -1,5 +1,5 @@
 ---
 title: "Pampanga's Best Factory Outlet"
 url: /quezon-city/pampangas-best-factory-outlet/
-shop: frozen food
+shop: Tiefkühl
 ---

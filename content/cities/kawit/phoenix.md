@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /kawit/phoenix/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /baliwag/waltermart/
-shop: mall
+shop: Einkaufszentrum
 ---

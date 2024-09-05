@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /muntinlupa/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

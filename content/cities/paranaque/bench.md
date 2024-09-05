@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /paranaque/bench/
-shop: clothes
+shop: Kleidung
 ---

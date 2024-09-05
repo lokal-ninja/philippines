@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /bacoor/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

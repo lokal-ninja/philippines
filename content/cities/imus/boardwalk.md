@@ -1,5 +1,5 @@
 ---
 title: "Boardwalk"
 url: /imus/boardwalk/
-shop: clothes
+shop: Kleidung
 ---

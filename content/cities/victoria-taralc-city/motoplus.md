@@ -1,5 +1,5 @@
 ---
 title: "Motoplus"
 url: /victoria-taralc-city/motoplus/
-shop: shop
+shop: Allgemein
 ---

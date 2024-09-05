@@ -1,5 +1,5 @@
 ---
 title: "Noona's Korean Mini Mart"
 url: /iba/noonas-korean-mini-mart/
-shop: supermarket
+shop: Supermarkt
 ---

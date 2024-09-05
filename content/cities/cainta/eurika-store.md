@@ -1,5 +1,5 @@
 ---
 title: "Eurika Store"
 url: /cainta/eurika-store/
-shop: convenience
+shop: Lebensmittel
 ---

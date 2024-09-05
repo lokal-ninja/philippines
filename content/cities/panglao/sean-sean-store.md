@@ -1,5 +1,5 @@
 ---
 title: "Sean sean store"
 url: /panglao/sean-sean-store/
-shop: convenience
+shop: Lebensmittel
 ---

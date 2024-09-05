@@ -1,5 +1,5 @@
 ---
 title: "JAN's Collectibles"
 url: /quezon-city/jans-collectibles/
-shop: toys
+shop: Spielzeug
 ---

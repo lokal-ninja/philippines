@@ -1,5 +1,5 @@
 ---
 title: "Alcantara Fruitstand"
 url: /tupi/alcantara-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JN"
 url: /marikina/jn/
-shop: motorcycle
+shop: Motorrad
 ---

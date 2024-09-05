@@ -1,5 +1,5 @@
 ---
 title: "Maureen Distor Fruitstand"
 url: /tupi/maureen-distor-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

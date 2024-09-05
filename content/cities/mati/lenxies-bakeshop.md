@@ -1,5 +1,5 @@
 ---
 title: "Lenxies Bakeshop"
 url: /mati/lenxies-bakeshop/
-shop: bakery
+shop: Bäckerei
 ---

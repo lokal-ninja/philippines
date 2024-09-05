@@ -1,5 +1,5 @@
 ---
 title: "Octagon"
 url: /tanza/octagon/
-shop: computer
+shop: Computer
 ---

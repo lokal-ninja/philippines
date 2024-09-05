@@ -1,5 +1,5 @@
 ---
 title: "Puregold Jr."
 url: /pasig/puregold-jr-ramon-jabson-street/
-shop: supermarket
+shop: Supermarkt
 ---

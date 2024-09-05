@@ -1,5 +1,5 @@
 ---
 title: "AZM Enterprise"
 url: /angono/azm-enterprise/
-shop: shop
+shop: Allgemein
 ---

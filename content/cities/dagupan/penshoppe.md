@@ -1,5 +1,5 @@
 ---
 title: "Penshoppe"
 url: /dagupan/penshoppe/
-shop: clothes
+shop: Kleidung
 ---

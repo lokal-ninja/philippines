@@ -1,5 +1,5 @@
 ---
 title: "Zapote Trading"
 url: /caloocan-city/zapote-trading/
-shop: hardware
+shop: Eisenwaren
 ---

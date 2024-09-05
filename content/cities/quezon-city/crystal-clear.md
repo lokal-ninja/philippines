@@ -1,5 +1,5 @@
 ---
 title: "Crystal Clear"
 url: /quezon-city/crystal-clear/
-shop: water
+shop: Wasser
 ---

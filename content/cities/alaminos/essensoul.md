@@ -1,5 +1,5 @@
 ---
 title: "Essensoul"
 url: /alaminos/essensoul/
-shop: beauty
+shop: Kosmetik
 ---

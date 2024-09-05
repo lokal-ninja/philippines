@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /tuguegarao/dunkin/
-shop: bakery
+shop: Bäckerei
 ---

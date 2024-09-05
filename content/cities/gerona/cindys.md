@@ -1,5 +1,5 @@
 ---
 title: "Cindys"
 url: /gerona/cindys/
-shop: bakery
+shop: Bäckerei
 ---

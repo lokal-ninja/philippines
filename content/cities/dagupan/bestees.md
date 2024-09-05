@@ -1,5 +1,5 @@
 ---
 title: "BesTees"
 url: /dagupan/bestees/
-shop: copyshop
+shop: Kopieren
 ---

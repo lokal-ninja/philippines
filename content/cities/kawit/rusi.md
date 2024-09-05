@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
 url: /kawit/rusi/
-shop: motorcycle
+shop: Motorrad
 ---

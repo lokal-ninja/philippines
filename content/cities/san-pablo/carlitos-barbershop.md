@@ -1,5 +1,5 @@
 ---
 title: "Carlito's Barbershop"
 url: /san-pablo/carlitos-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

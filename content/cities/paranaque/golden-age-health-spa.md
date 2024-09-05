@@ -1,5 +1,5 @@
 ---
 title: "Golden Age Health Spa"
 url: /paranaque/golden-age-health-spa/
-shop: beauty
+shop: Kosmetik
 ---

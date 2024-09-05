@@ -1,5 +1,5 @@
 ---
 title: "Samala"
 url: /kawit/samala/
-shop: bakery
+shop: Bäckerei
 ---

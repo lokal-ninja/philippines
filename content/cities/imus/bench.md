@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /imus/bench/
-shop: clothes
+shop: Kleidung
 ---

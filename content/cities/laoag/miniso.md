@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /laoag/miniso/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Deals Agri Supply"
 url: /silang/great-deals-agri-supply/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

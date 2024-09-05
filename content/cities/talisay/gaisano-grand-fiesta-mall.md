@@ -1,5 +1,5 @@
 ---
 title: "Gaisano Grand Fiesta Mall"
 url: /talisay/gaisano-grand-fiesta-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

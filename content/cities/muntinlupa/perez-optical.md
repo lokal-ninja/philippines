@@ -1,5 +1,5 @@
 ---
 title: "Perez Optical"
 url: /muntinlupa/perez-optical/
-shop: optician
+shop: Optiker
 ---

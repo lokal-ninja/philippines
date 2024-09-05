@@ -1,5 +1,5 @@
 ---
 title: "AllDay"
 url: /makati/allday/
-shop: convenience
+shop: Lebensmittel
 ---

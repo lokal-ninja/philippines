@@ -1,5 +1,5 @@
 ---
 title: "Barberhood"
 url: /imus/barberhood/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /bacoor/tambunting/
-shop: pawnbroker
+shop: Leiher
 ---

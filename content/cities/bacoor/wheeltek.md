@@ -1,5 +1,5 @@
 ---
 title: "Wheeltek"
 url: /bacoor/wheeltek/
-shop: motorcycle
+shop: Motorrad
 ---

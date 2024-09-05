@@ -1,5 +1,5 @@
 ---
 title: "RePhil"
 url: /las-pinas/rephil/
-shop: shop
+shop: Allgemein
 ---

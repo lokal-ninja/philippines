@@ -1,5 +1,5 @@
 ---
 title: "Pedalhub"
 url: /tarlac/pedalhub/
-shop: bicycle
+shop: Fahrrad
 ---

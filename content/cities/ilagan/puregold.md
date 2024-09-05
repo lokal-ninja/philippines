@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /ilagan/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

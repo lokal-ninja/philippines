@@ -1,5 +1,5 @@
 ---
 title: "Icings"
 url: /taguig/icings/
-shop: bakery
+shop: Bäckerei
 ---

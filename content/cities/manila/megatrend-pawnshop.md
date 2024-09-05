@@ -1,5 +1,5 @@
 ---
 title: "Megatrend Pawnshop"
 url: /manila/megatrend-pawnshop/
-shop: pawnbroker
+shop: Leiher
 ---

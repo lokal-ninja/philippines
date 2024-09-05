@@ -1,5 +1,5 @@
 ---
 title: "Jeanstation"
 url: /carmona/jeanstation/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /muntinlupa/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Villa-Cerbas Fruitstand"
 url: /tupi/villa-cerbas-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

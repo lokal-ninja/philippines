@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /paranaque/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

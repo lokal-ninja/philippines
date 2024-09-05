@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /clark-freeport-zone/uncle-johns/
-shop: convenience
+shop: Lebensmittel
 ---

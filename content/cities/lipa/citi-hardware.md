@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /lipa/citi-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

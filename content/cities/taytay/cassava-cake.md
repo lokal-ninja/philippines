@@ -1,5 +1,5 @@
 ---
 title: "Cassava Cake"
 url: /taytay/cassava-cake/
-shop: confectionery
+shop: Süßwaren
 ---

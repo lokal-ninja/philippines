@@ -1,5 +1,5 @@
 ---
 title: "JMC"
 url: /las-pinas/jmc/
-shop: car
+shop: Autohaus
 ---

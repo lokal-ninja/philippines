@@ -1,5 +1,5 @@
 ---
 title: "Evia Lifestyle Center"
 url: /las-pinas/evia-lifestyle-center/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /makati/dali/
-shop: convenience
+shop: Lebensmittel
 ---

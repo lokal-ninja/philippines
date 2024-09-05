@@ -1,5 +1,5 @@
 ---
 title: "Gnarly!"
 url: /pasig/gnarly/
-shop: clothes
+shop: Kleidung
 ---

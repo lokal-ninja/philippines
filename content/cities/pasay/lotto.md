@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
 url: /pasay/lotto/
-shop: lottery
+shop: Lotterie
 ---

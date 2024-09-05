@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /davao/honda/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /baguio/midas/
-shop: shoes
+shop: Schuhe
 ---

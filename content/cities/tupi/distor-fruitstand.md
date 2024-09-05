@@ -1,5 +1,5 @@
 ---
 title: "Distor Fruitstand"
 url: /tupi/distor-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

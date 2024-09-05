@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /imus/avon/
-shop: beauty
+shop: Kosmetik
 ---

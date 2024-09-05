@@ -1,5 +1,5 @@
 ---
 title: "Melay Fruitstand"
 url: /tupi/melay-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

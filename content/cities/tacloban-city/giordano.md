@@ -1,5 +1,5 @@
 ---
 title: "Giordano"
 url: /tacloban-city/giordano/
-shop: clothes
+shop: Kleidung
 ---

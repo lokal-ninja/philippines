@@ -1,5 +1,5 @@
 ---
 title: "Central Mall Dasmariñas"
 url: /dasmarinas/central-mall-dasmarinas/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Starflex Hydraulic Hoses"
 url: /imus/starflex-hydraulic-hoses/
-shop: hardware
+shop: Eisenwaren
 ---

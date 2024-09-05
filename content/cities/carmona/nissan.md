@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /carmona/nissan/
-shop: car
+shop: Autohaus
 ---

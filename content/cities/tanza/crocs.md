@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /tanza/crocs/
-shop: shoes
+shop: Schuhe
 ---

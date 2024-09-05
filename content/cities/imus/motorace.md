@@ -1,5 +1,5 @@
 ---
 title: "Motorace"
 url: /imus/motorace/
-shop: motorcycle
+shop: Motorrad
 ---

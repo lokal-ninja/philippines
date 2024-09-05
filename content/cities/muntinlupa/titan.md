@@ -1,5 +1,5 @@
 ---
 title: "Titan"
 url: /muntinlupa/titan/
-shop: clothes
+shop: Kleidung
 ---

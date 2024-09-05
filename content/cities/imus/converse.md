@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /imus/converse/
-shop: shoes
+shop: Schuhe
 ---

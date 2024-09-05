@@ -1,5 +1,5 @@
 ---
 title: "Mila's Gift Shoppe"
 url: /baguio/milas-gift-shoppe/
-shop: gift
+shop: Andenken
 ---

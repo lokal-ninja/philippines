@@ -1,5 +1,5 @@
 ---
 title: "Balolong"
 url: /davao-city/balolong/
-shop: bakery
+shop: Bäckerei
 ---

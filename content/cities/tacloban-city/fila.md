@@ -1,5 +1,5 @@
 ---
 title: "Fila"
 url: /tacloban-city/fila/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BikePartsPh"
 url: /antipolo/bikepartsph/
-shop: bicycle
+shop: Fahrrad
 ---

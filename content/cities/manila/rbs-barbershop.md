@@ -1,5 +1,5 @@
 ---
 title: "RBS Barbershop"
 url: /manila/rbs-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dang Fruits and Vegetables"
 url: /san-juan/dang-fruits-and-vegetables/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RK Eustaquio Enterprises"
 url: /cebu-city/rk-eustaquio-enterprises/
-shop: furniture
+shop: Möbel
 ---

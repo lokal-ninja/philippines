@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
 url: /meycauayan/lotto/
-shop: lottery
+shop: Lotterie
 ---

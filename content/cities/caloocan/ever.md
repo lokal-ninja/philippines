@@ -1,5 +1,5 @@
 ---
 title: "Ever"
 url: /caloocan/ever/
-shop: supermarket
+shop: Supermarkt
 ---

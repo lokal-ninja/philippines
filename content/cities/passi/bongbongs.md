@@ -1,5 +1,5 @@
 ---
 title: "Bongbongs"
 url: /passi/bongbongs/
-shop: bakery
+shop: Bäckerei
 ---

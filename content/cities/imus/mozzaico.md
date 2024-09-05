@@ -1,5 +1,5 @@
 ---
 title: "Mozzaico"
 url: /imus/mozzaico/
-shop: trade
+shop: Baustoffe
 ---

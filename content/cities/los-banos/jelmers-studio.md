@@ -1,5 +1,5 @@
 ---
 title: "Jelmer's Studio"
 url: /los-banos/jelmers-studio/
-shop: photo
+shop: Foto
 ---

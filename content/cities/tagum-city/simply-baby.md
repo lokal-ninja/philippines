@@ -1,5 +1,5 @@
 ---
 title: "Simply Baby"
 url: /tagum-city/simply-baby/
-shop: clothes
+shop: Kleidung
 ---

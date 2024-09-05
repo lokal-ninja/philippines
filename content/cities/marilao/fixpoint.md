@@ -1,5 +1,5 @@
 ---
 title: "Fixpoint"
 url: /marilao/fixpoint/
-shop: motorcycle
+shop: Motorrad
 ---

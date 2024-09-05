@@ -1,5 +1,5 @@
 ---
 title: "JYK"
 url: /bongao/jyk/
-shop: bag
+shop: Taschen & Koffer
 ---

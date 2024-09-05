@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /binan/adidas/
-shop: sports
+shop: Sport
 ---

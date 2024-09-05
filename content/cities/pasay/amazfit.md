@@ -1,5 +1,5 @@
 ---
 title: "Amazfit"
 url: /pasay/amazfit/
-shop: watches
+shop: Uhren
 ---

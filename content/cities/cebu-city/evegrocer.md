@@ -1,5 +1,5 @@
 ---
 title: "EveGrocer"
 url: /cebu-city/evegrocer/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

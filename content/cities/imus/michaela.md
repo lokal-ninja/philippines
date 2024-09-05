@@ -1,5 +1,5 @@
 ---
 title: "Michaela"
 url: /imus/michaela/
-shop: bag
+shop: Taschen & Koffer
 ---

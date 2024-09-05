@@ -1,5 +1,5 @@
 ---
 title: "Penshoppe"
 url: /san-pablo/penshoppe/
-shop: clothes
+shop: Kleidung
 ---

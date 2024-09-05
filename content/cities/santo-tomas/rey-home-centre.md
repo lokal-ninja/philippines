@@ -1,5 +1,5 @@
 ---
 title: "Rey Home Centre"
 url: /santo-tomas/rey-home-centre/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "st.josephdrug"
 url: /laoag/st-josephdrug/
-shop: chemist
+shop: Drogerie
 ---

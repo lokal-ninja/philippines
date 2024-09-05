@@ -1,5 +1,5 @@
 ---
 title: "Alison's Bike Shop"
 url: /imus/alisons-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

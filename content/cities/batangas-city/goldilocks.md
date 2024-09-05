@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /batangas-city/goldilocks/
-shop: bakery
+shop: Bäckerei
 ---

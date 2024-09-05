@@ -1,5 +1,5 @@
 ---
 title: "Photoline"
 url: /bacoor/photoline/
-shop: photo
+shop: Foto
 ---

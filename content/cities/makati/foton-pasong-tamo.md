@@ -1,5 +1,5 @@
 ---
 title: "Foton Pasong Tamo"
 url: /makati/foton-pasong-tamo/
-shop: car
+shop: Autohaus
 ---

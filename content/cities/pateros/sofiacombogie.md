@@ -1,5 +1,5 @@
 ---
 title: "Sofiacombogie"
 url: /pateros/sofiacombogie/
-shop: pet grooming
+shop: Tiersalon
 ---

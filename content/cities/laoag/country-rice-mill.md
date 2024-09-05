@@ -1,5 +1,5 @@
 ---
 title: "Country Rice Mill"
 url: /laoag/country-rice-mill/
-shop: shop
+shop: Allgemein
 ---

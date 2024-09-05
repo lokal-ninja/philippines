@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /victoria/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

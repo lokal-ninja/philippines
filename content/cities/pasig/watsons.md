@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /pasig/watsons/
-shop: chemist
+shop: Drogerie
 ---

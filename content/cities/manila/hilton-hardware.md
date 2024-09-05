@@ -1,5 +1,5 @@
 ---
 title: "Hilton Hardware"
 url: /manila/hilton-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fresh King"
 url: /makati/fresh-king/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

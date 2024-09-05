@@ -1,5 +1,5 @@
 ---
 title: "L. Carlos Florist"
 url: /manila/l-carlos-florist/
-shop: florist
+shop: Blumen
 ---

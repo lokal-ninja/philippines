@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /lipa/rd/
-shop: pawnbroker
+shop: Leiher
 ---

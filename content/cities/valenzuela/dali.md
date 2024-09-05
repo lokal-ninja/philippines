@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /valenzuela/dali/
-shop: convenience
+shop: Lebensmittel
 ---

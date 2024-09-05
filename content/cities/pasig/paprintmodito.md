@@ -1,5 +1,5 @@
 ---
 title: "PAPRINTMODITO"
 url: /pasig/paprintmodito/
-shop: copyshop
+shop: Kopieren
 ---

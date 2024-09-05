@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /carmona/mitsubishi/
-shop: car
+shop: Autohaus
 ---

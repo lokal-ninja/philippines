@@ -1,5 +1,5 @@
 ---
 title: "Rapide"
 url: /pasig/rapide/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vicky Store"
 url: /san-pablo/vicky-store/
-shop: convenience
+shop: Lebensmittel
 ---

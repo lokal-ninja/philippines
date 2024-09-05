@@ -1,5 +1,5 @@
 ---
 title: "Breeders Hub"
 url: /marikina/breeders-hub/
-shop: trade
+shop: Baustoffe
 ---

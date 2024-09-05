@@ -1,5 +1,5 @@
 ---
 title: "Royal Star"
 url: /imus/royal-star/
-shop: appliance
+shop: Haushaltsgeräte
 ---

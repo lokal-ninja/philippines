@@ -1,5 +1,5 @@
 ---
 title: "STR"
 url: /palo/str/
-shop: motorcycle
+shop: Motorrad
 ---

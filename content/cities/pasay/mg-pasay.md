@@ -1,5 +1,5 @@
 ---
 title: "MG Pasay"
 url: /pasay/mg-pasay/
-shop: car
+shop: Autohaus
 ---

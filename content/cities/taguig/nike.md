@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /taguig/nike/
-shop: clothes
+shop: Kleidung
 ---

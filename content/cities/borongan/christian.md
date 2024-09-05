@@ -1,5 +1,5 @@
 ---
 title: "Christian"
 url: /borongan/christian/
-shop: general
+shop: Dorfladen
 ---

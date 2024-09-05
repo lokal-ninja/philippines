@@ -1,5 +1,5 @@
 ---
 title: "Accenthub"
 url: /pasay/accenthub/
-shop: electronics
+shop: Elektronik
 ---

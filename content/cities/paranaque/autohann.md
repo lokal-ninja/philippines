@@ -1,5 +1,5 @@
 ---
 title: "Autohann"
 url: /paranaque/autohann/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /bacoor/uncle-johns-molino-road/
-shop: convenience
+shop: Lebensmittel
 ---

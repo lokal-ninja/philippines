@@ -1,5 +1,5 @@
 ---
 title: "Goldwyn"
 url: /manila/goldwyn/
-shop: jewelry
+shop: Schmuck
 ---

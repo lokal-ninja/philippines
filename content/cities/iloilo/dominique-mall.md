@@ -1,5 +1,5 @@
 ---
 title: "Dominique Mall"
 url: /iloilo/dominique-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

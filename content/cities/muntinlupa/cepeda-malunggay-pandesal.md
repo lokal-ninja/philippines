@@ -1,5 +1,5 @@
 ---
 title: "Cepeda Malunggay Pandesal"
 url: /muntinlupa/cepeda-malunggay-pandesal/
-shop: bakery
+shop: Bäckerei
 ---

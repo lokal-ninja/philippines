@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /san-jose/motortrade/
-shop: motorcycle
+shop: Motorrad
 ---

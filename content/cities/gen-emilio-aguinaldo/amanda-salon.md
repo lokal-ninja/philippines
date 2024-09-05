@@ -1,5 +1,5 @@
 ---
 title: "Amanda Salon"
 url: /gen-emilio-aguinaldo/amanda-salon/
-shop: beauty
+shop: Kosmetik
 ---

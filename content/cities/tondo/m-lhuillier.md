@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /tondo/m-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

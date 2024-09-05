@@ -1,5 +1,5 @@
 ---
 title: "Gateway Motors SM Seaside"
 url: /cebu-city/gateway-motors-sm-seaside/
-shop: car
+shop: Autohaus
 ---

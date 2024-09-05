@@ -1,5 +1,5 @@
 ---
 title: "Akiammer Laundry Service"
 url: /butuan/akiammer-laundry-service/
-shop: laundry
+shop: Wäscherei
 ---

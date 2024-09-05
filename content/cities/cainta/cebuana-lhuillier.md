@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /cainta/cebuana-lhuillier/
-shop: pawnbroker
+shop: Leiher
 ---

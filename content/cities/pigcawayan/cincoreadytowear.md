@@ -1,5 +1,5 @@
 ---
 title: "CINCOreadytowear"
 url: /pigcawayan/cincoreadytowear/
-shop: clothes
+shop: Kleidung
 ---

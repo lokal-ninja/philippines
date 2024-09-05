@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /muntinlupa/dali/
-shop: convenience
+shop: Lebensmittel
 ---

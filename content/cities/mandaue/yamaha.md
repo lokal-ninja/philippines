@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /mandaue/yamaha/
-shop: motorcycle
+shop: Motorrad
 ---

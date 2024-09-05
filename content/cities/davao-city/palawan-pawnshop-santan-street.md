@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /davao-city/palawan-pawnshop-santan-street/
-shop: pawnbroker
+shop: Leiher
 ---

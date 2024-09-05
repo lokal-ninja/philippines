@@ -1,5 +1,5 @@
 ---
 title: "The Athlete's Foot"
 url: /taguig/the-athletes-foot/
-shop: shoes
+shop: Schuhe
 ---

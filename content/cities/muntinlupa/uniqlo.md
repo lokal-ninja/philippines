@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /muntinlupa/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

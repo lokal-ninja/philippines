@@ -1,5 +1,5 @@
 ---
 title: "Adoboi.Kom Store"
 url: /santo-tomas/adoboi-kom-store/
-shop: convenience
+shop: Lebensmittel
 ---

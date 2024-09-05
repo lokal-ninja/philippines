@@ -1,5 +1,5 @@
 ---
 title: "AllSport"
 url: /bacoor/allsport/
-shop: sports
+shop: Sport
 ---

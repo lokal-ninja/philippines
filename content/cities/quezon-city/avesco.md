@@ -1,5 +1,5 @@
 ---
 title: "AVESCO"
 url: /quezon-city/avesco/
-shop: mall
+shop: Einkaufszentrum
 ---

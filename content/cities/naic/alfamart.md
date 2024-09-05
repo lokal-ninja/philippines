@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /naic/alfamart/
-shop: convenience
+shop: Lebensmittel
 ---

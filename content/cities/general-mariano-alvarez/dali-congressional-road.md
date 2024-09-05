@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /general-mariano-alvarez/dali-congressional-road/
-shop: convenience
+shop: Lebensmittel
 ---

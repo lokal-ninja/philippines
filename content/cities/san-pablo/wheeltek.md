@@ -1,5 +1,5 @@
 ---
 title: "Wheeltek"
 url: /san-pablo/wheeltek/
-shop: motorcycle
+shop: Motorrad
 ---

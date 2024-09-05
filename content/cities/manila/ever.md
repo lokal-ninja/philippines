@@ -1,5 +1,5 @@
 ---
 title: "Ever"
 url: /manila/ever/
-shop: supermarket
+shop: Supermarkt
 ---

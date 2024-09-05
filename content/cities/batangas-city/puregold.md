@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /batangas-city/puregold/
-shop: supermarket
+shop: Supermarkt
 ---

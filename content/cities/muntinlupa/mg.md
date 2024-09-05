@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /muntinlupa/mg/
-shop: car
+shop: Autohaus
 ---

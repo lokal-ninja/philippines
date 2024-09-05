@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /talisay/villarica/
-shop: pawnbroker
+shop: Leiher
 ---

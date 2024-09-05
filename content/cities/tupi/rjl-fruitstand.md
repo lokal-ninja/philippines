@@ -1,5 +1,5 @@
 ---
 title: "RJL Fruitstand"
 url: /tupi/rjl-fruitstand/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

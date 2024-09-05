@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /baliwag/familymart/
-shop: convenience
+shop: Lebensmittel
 ---

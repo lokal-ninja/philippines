@@ -1,5 +1,5 @@
 ---
 title: "Ladylynx Salon"
 url: /manila/ladylynx-salon/
-shop: hairdresser
+shop: Friseur
 ---

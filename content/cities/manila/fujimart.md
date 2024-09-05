@@ -1,5 +1,5 @@
 ---
 title: "Fujimart"
 url: /manila/fujimart/
-shop: convenience
+shop: Lebensmittel
 ---

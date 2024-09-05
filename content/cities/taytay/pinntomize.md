@@ -1,5 +1,5 @@
 ---
 title: "PINNTOMIZE"
 url: /taytay/pinntomize/
-shop: clothes
+shop: Kleidung
 ---

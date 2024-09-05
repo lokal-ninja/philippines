@@ -1,5 +1,5 @@
 ---
 title: "Imperial Appliance Plaza"
 url: /imus/imperial-appliance-plaza/
-shop: appliance
+shop: Haushaltsgeräte
 ---

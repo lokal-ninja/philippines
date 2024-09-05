@@ -1,5 +1,5 @@
 ---
 title: "Bikers"
 url: /tanza/bikers/
-shop: bicycle
+shop: Fahrrad
 ---

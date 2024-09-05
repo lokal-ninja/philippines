@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /bacoor/avon/
-shop: beauty
+shop: Kosmetik
 ---

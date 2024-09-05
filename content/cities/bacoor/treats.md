@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /bacoor/treats/
-shop: convenience
+shop: Lebensmittel
 ---

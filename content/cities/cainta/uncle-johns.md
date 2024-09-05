@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /cainta/uncle-johns/
-shop: convenience
+shop: Lebensmittel
 ---

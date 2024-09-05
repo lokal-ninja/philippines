@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /paranaque/uncle-johns-quirino-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

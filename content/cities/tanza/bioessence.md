@@ -1,5 +1,5 @@
 ---
 title: "Bioessence"
 url: /tanza/bioessence/
-shop: beauty
+shop: Kosmetik
 ---

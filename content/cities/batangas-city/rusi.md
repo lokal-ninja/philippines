@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
 url: /batangas-city/rusi/
-shop: motorcycle
+shop: Motorrad
 ---

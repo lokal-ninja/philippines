@@ -1,5 +1,5 @@
 ---
 title: "IRCO"
 url: /baguio/irco/
-shop: supermarket
+shop: Supermarkt
 ---

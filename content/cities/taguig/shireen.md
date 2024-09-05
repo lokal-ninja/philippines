@@ -1,5 +1,5 @@
 ---
 title: "Shireen"
 url: /taguig/shireen/
-shop: convenience
+shop: Lebensmittel
 ---

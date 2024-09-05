@@ -1,5 +1,5 @@
 ---
 title: "Phonected Telecom"
 url: /pasay/phonected-telecom/
-shop: mobile phone
+shop: Handy
 ---

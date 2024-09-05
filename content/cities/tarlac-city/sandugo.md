@@ -1,5 +1,5 @@
 ---
 title: "SANDUGO"
 url: /tarlac-city/sandugo/
-shop: shoes
+shop: Schuhe
 ---

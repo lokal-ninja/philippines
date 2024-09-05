@@ -1,5 +1,5 @@
 ---
 title: "Kenwei E-Bike"
 url: /imus/kenwei-e-bike/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /talisay/rd/
-shop: pawnbroker
+shop: Leiher
 ---
