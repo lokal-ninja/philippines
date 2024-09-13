@@ -1,5 +1,5 @@
 ---
 title: "MDS Gas supply"
 url: /alaminos/mds-gas-supply/
-shop: Gasflaschen
+shop: gas
 ---

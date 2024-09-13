@@ -1,5 +1,5 @@
 ---
 title: "CEES Beauty Salon"
 url: /los-banos/cees-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

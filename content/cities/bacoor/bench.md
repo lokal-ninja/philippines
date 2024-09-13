@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /bacoor/bench/
-shop: Kleidung
+shop: clothes
 ---

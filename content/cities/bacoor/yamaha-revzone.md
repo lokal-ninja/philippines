@@ -1,5 +1,5 @@
 ---
 title: "Yamaha RevZone"
 url: /bacoor/yamaha-revzone/
-shop: Motorrad
+shop: motorcycle
 ---

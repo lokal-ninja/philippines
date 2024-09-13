@@ -1,5 +1,5 @@
 ---
 title: "South Supermarket"
 url: /santa-rosa/south-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

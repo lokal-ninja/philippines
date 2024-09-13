@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /san-pablo/mg/
-shop: Autohaus
+shop: car
 ---

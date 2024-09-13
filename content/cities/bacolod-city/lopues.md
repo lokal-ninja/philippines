@@ -1,5 +1,5 @@
 ---
 title: "Lopue's"
 url: /bacolod-city/lopues/
-shop: Supermarkt
+shop: supermarket
 ---

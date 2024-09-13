@@ -1,5 +1,5 @@
 ---
 title: "Morning Star Memorial Homes"
 url: /taguig/morning-star-memorial-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

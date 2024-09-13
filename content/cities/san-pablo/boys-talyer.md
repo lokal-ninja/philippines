@@ -1,5 +1,5 @@
 ---
 title: "Boy's Talyer"
 url: /san-pablo/boys-talyer/
-shop: Autowerkstatt
+shop: car repair
 ---

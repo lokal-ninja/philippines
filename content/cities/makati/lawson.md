@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
 url: /makati/lawson/
-shop: Lebensmittel
+shop: convenience
 ---

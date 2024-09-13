@@ -1,5 +1,5 @@
 ---
 title: "SourceCorp"
 url: /olongapo/sourcecorp/
-shop: Computer
+shop: computer
 ---

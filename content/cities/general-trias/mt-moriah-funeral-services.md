@@ -1,5 +1,5 @@
 ---
 title: "Mt. Moriah Funeral Services"
 url: /general-trias/mt-moriah-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

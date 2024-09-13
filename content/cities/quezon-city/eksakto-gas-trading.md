@@ -1,5 +1,5 @@
 ---
 title: "Eksakto Gas Trading"
 url: /quezon-city/eksakto-gas-trading/
-shop: Gasflaschen
+shop: gas
 ---

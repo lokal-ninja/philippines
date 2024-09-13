@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /general-trias/alfamart-general-trias-drive/
-shop: Lebensmittel
+shop: convenience
 ---

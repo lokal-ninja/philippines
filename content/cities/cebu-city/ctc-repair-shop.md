@@ -1,5 +1,5 @@
 ---
 title: "CTC Repair Shop"
 url: /cebu-city/ctc-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

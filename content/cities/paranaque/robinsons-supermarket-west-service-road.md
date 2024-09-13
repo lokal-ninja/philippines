@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Supermarket"
 url: /paranaque/robinsons-supermarket-west-service-road/
-shop: Supermarkt
+shop: supermarket
 ---

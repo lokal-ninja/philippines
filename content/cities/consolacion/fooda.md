@@ -1,5 +1,5 @@
 ---
 title: "Fooda"
 url: /consolacion/fooda/
-shop: Einkaufszentrum
+shop: mall
 ---

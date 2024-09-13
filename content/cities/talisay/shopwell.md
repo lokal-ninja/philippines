@@ -1,5 +1,5 @@
 ---
 title: "Shopwell"
 url: /talisay/shopwell/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bench"
 url: /calasiao/bench/
-shop: Kleidung
+shop: clothes
 ---

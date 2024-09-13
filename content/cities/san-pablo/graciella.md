@@ -1,5 +1,5 @@
 ---
 title: "Graciella"
 url: /san-pablo/graciella/
-shop: Kosmetik
+shop: beauty
 ---

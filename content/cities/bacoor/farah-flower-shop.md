@@ -1,5 +1,5 @@
 ---
 title: "Farah Flower Shop"
 url: /bacoor/farah-flower-shop/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Domo Domo"
 url: /iloilo/domo-domo/
-shop: Gebrauchtwaren
+shop: charity
 ---

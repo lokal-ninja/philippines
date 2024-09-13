@@ -1,5 +1,5 @@
 ---
 title: "Dito"
 url: /cebu-city/dito/
-shop: Handy
+shop: mobile phone
 ---

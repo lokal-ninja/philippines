@@ -1,5 +1,5 @@
 ---
 title: "D Phileo Barbershop"
 url: /paranaque/d-phileo-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

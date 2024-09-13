@@ -1,5 +1,5 @@
 ---
 title: "Medical Gallery"
 url: /manila/medical-gallery/
-shop: Sanitätshaus
+shop: medical supply
 ---

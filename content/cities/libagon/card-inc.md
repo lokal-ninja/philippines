@@ -1,5 +1,5 @@
 ---
 title: "CARD, inc."
 url: /libagon/card-inc/
-shop: Leiher
+shop: pawnbroker
 ---

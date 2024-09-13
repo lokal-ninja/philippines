@@ -1,5 +1,5 @@
 ---
 title: "VCC Auto Trader"
 url: /pasig/vcc-auto-trader/
-shop: Autohaus
+shop: car
 ---

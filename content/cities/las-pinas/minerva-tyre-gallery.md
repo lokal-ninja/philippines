@@ -1,5 +1,5 @@
 ---
 title: "Minerva Tyre Gallery"
 url: /las-pinas/minerva-tyre-gallery/
-shop: Reifen
+shop: tyres
 ---

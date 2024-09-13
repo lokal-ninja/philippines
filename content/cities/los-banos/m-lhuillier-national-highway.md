@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /los-banos/m-lhuillier-national-highway/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SM Center Sangandaan"
 url: /caloocan/sm-center-sangandaan/
-shop: Einkaufszentrum
+shop: mall
 ---

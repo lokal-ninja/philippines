@@ -1,5 +1,5 @@
 ---
 title: "Airos Bakery"
 url: /davao-city/airos-bakery/
-shop: Bäckerei
+shop: bakery
 ---

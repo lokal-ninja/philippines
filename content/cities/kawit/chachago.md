@@ -1,5 +1,5 @@
 ---
 title: "Chachago"
 url: /kawit/chachago/
-shop: Getränke
+shop: beverages
 ---

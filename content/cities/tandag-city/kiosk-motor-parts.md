@@ -1,5 +1,5 @@
 ---
 title: "KIOSK Motor Parts"
 url: /tandag-city/kiosk-motor-parts/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmopolitan Funeral Homes"
 url: /bogo/cosmopolitan-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

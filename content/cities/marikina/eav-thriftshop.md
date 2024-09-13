@@ -1,5 +1,5 @@
 ---
 title: "EAV Thriftshop"
 url: /marikina/eav-thriftshop/
-shop: Elektronik
+shop: electronics
 ---

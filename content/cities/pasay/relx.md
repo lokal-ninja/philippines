@@ -1,5 +1,5 @@
 ---
 title: "RELX"
 url: /pasay/relx/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

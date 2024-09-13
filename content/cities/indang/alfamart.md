@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /indang/alfamart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Games and Gadgets"
 url: /pasay/games-and-gadgets/
-shop: Handy
+shop: mobile phone
 ---

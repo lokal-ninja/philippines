@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /pasay/familymart-diosdado-macapagal-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

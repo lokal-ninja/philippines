@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Supermarket"
 url: /manila/robinsons-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

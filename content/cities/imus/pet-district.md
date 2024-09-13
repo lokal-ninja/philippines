@@ -1,5 +1,5 @@
 ---
 title: "Pet District"
 url: /imus/pet-district/
-shop: Tiere
+shop: pet
 ---

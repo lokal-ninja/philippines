@@ -1,5 +1,5 @@
 ---
 title: "San Pablo Battery Depot"
 url: /san-pablo/san-pablo-battery-depot/
-shop: Autoteile
+shop: car parts
 ---

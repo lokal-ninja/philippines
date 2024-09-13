@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /kawit/abenson/
-shop: Elektronik
+shop: electronics
 ---

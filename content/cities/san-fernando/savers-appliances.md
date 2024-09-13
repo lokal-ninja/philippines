@@ -1,5 +1,5 @@
 ---
 title: "Savers Appliances"
 url: /san-fernando/savers-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

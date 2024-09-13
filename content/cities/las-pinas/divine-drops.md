@@ -1,5 +1,5 @@
 ---
 title: "Divine Drops"
 url: /las-pinas/divine-drops/
-shop: Wasser
+shop: water
 ---

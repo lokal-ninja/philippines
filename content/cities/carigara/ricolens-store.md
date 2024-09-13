@@ -1,5 +1,5 @@
 ---
 title: "RICOLEN'S Store"
 url: /carigara/ricolens-store/
-shop: Lebensmittel
+shop: convenience
 ---

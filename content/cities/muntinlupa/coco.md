@@ -1,5 +1,5 @@
 ---
 title: "CoCo"
 url: /muntinlupa/coco/
-shop: Tee
+shop: tea
 ---

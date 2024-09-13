@@ -1,5 +1,5 @@
 ---
 title: "Coen Krafts"
 url: /davao-city/coen-krafts/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Judy Ann's Bakery"
 url: /valenzuela/judy-anns-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prime Travellers"
 url: /quezon-city/prime-travellers/
-shop: Autohaus
+shop: car
 ---

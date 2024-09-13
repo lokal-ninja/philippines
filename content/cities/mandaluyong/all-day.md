@@ -1,5 +1,5 @@
 ---
 title: "All Day"
 url: /mandaluyong/all-day/
-shop: Supermarkt
+shop: supermarket
 ---

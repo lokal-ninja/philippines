@@ -1,5 +1,5 @@
 ---
 title: "Enzo Meat Shop"
 url: /city-of-talisay/enzo-meat-shop/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remolado's Store"
 url: /lagunde/remolados-store/
-shop: Lebensmittel
+shop: convenience
 ---

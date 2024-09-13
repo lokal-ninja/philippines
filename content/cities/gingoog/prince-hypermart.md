@@ -1,5 +1,5 @@
 ---
 title: "Prince Hypermart"
 url: /gingoog/prince-hypermart/
-shop: Haushaltsartikel
+shop: houseware
 ---

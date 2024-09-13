@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /mandaluyong/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

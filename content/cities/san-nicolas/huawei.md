@@ -1,5 +1,5 @@
 ---
 title: "Huawei"
 url: /san-nicolas/huawei/
-shop: Handy
+shop: mobile phone
 ---

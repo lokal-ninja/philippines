@@ -1,5 +1,5 @@
 ---
 title: "Awei"
 url: /tanza/awei/
-shop: Handy
+shop: mobile phone
 ---

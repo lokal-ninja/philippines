@@ -1,5 +1,5 @@
 ---
 title: "Lipunan Furniture"
 url: /tarlac-city/lipunan-furniture/
-shop: Möbel
+shop: furniture
 ---

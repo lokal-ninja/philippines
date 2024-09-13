@@ -1,5 +1,5 @@
 ---
 title: "Collezione"
 url: /pasig/collezione/
-shop: Kleidung
+shop: clothes
 ---

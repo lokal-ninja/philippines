@@ -1,5 +1,5 @@
 ---
 title: "Cloudzen Vape Shop"
 url: /davao-city/cloudzen-vape-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

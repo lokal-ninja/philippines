@@ -1,5 +1,5 @@
 ---
 title: "Prisca Medical Trading"
 url: /manila/prisca-medical-trading/
-shop: Sanitätshaus
+shop: medical supply
 ---

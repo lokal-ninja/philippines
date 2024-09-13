@@ -1,5 +1,5 @@
 ---
 title: "Siejay Items"
 url: /baguio/siejay-items/
-shop: Kramladen
+shop: variety store
 ---

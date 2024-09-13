@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /consolacion/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

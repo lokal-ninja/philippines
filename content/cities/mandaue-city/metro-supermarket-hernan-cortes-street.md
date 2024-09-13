@@ -1,5 +1,5 @@
 ---
 title: "Metro Supermarket"
 url: /mandaue-city/metro-supermarket-hernan-cortes-street/
-shop: Supermarkt
+shop: supermarket
 ---

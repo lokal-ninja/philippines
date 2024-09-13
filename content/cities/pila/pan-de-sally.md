@@ -1,5 +1,5 @@
 ---
 title: "Pan de Sally"
 url: /pila/pan-de-sally/
-shop: Bäckerei
+shop: bakery
 ---

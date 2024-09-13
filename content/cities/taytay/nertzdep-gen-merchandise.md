@@ -1,5 +1,5 @@
 ---
 title: "Nertzdep Gen. Merchandise"
 url: /taytay/nertzdep-gen-merchandise/
-shop: Textil
+shop: fabric
 ---

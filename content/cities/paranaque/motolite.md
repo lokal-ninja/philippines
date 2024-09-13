@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /paranaque/motolite/
-shop: Autoteile
+shop: car parts
 ---

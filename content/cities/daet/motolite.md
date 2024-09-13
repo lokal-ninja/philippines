@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /daet/motolite/
-shop: Autoteile
+shop: car parts
 ---

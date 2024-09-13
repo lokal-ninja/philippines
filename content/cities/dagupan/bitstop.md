@@ -1,5 +1,5 @@
 ---
 title: "Bitstop"
 url: /dagupan/bitstop/
-shop: Computer
+shop: computer
 ---

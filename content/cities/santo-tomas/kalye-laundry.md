@@ -1,5 +1,5 @@
 ---
 title: "Kalye Laundry"
 url: /santo-tomas/kalye-laundry/
-shop: Wäscherei
+shop: laundry
 ---

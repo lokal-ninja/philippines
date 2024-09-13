@@ -1,5 +1,5 @@
 ---
 title: "Cog"
 url: /quezon-city/cog/
-shop: Kleidung
+shop: clothes
 ---

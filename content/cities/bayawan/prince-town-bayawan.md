@@ -1,5 +1,5 @@
 ---
 title: "Prince Town Bayawan"
 url: /bayawan/prince-town-bayawan/
-shop: Haushaltsartikel
+shop: houseware
 ---

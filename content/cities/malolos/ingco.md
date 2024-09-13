@@ -1,5 +1,5 @@
 ---
 title: "Ingco"
 url: /malolos/ingco/
-shop: Eisenwaren
+shop: hardware
 ---

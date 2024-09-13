@@ -1,5 +1,5 @@
 ---
 title: "Divisoria Price"
 url: /las-pinas/divisoria-price/
-shop: Kleidung
+shop: clothes
 ---

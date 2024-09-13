@@ -1,5 +1,5 @@
 ---
 title: "Marlene’s"
 url: /bacolod/marlenes/
-shop: Konditorei
+shop: pastry
 ---

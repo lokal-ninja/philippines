@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /pasig/uncle-johns-onyx-road/
-shop: Lebensmittel
+shop: convenience
 ---

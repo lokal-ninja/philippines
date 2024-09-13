@@ -1,5 +1,5 @@
 ---
 title: "Gahali Auto Supply"
 url: /san-pablo/gahali-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /laoag/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

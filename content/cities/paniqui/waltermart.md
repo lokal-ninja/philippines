@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /paniqui/waltermart/
-shop: Einkaufszentrum
+shop: mall
 ---

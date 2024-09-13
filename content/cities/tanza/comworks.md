@@ -1,5 +1,5 @@
 ---
 title: "Comworks"
 url: /tanza/comworks/
-shop: Handy
+shop: mobile phone
 ---

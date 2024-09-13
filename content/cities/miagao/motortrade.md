@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /miagao/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

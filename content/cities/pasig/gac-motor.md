@@ -1,5 +1,5 @@
 ---
 title: "GAC Motor"
 url: /pasig/gac-motor/
-shop: Autohaus
+shop: car
 ---

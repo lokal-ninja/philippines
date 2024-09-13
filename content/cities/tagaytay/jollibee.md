@@ -1,5 +1,5 @@
 ---
 title: "Jollibee"
 url: /tagaytay/jollibee/
-shop: Bäckerei
+shop: bakery
 ---

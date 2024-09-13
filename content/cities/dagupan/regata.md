@@ -1,5 +1,5 @@
 ---
 title: "Regata"
 url: /dagupan/regata/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bon Appetea"
 url: /paranaque/bon-appetea/
-shop: Tee
+shop: tea
 ---

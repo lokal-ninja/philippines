@@ -1,5 +1,5 @@
 ---
 title: "Althea's Sari-Sari Store"
 url: /bacoor/altheas-sari-sari-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foodpecker Grocery Store"
 url: /lipa-city/foodpecker-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ERK Paint Center"
 url: /marikina/erk-paint-center/
-shop: Baustoffe
+shop: trade
 ---

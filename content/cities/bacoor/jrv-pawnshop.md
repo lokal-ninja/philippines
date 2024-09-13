@@ -1,5 +1,5 @@
 ---
 title: "JRV Pawnshop"
 url: /bacoor/jrv-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

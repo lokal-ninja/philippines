@@ -1,5 +1,5 @@
 ---
 title: "Glorietta"
 url: /makati/glorietta/
-shop: Einkaufszentrum
+shop: mall
 ---

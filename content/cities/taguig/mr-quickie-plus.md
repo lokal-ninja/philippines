@@ -1,5 +1,5 @@
 ---
 title: "Mr. Quickie Plus"
 url: /taguig/mr-quickie-plus/
-shop: Schlüsseldienst
+shop: locksmith
 ---

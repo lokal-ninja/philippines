@@ -1,5 +1,5 @@
 ---
 title: "Benhan   Jewelry"
 url: /manila/benhan-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

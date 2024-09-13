@@ -1,5 +1,5 @@
 ---
 title: "Esther Salvador Creations"
 url: /los-banos/esther-salvador-creations/
-shop: Schneiderei
+shop: tailor
 ---

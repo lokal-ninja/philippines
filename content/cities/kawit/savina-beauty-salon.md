@@ -1,5 +1,5 @@
 ---
 title: "Savina Beauty Salon"
 url: /kawit/savina-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

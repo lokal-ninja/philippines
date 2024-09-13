@@ -1,5 +1,5 @@
 ---
 title: "Nava-Guiab Place"
 url: /bagabag/nava-guiab-place/
-shop: Baumarkt
+shop: doityourself
 ---

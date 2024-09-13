@@ -1,5 +1,5 @@
 ---
 title: "Petron"
 url: /amadeo/petron/
-shop: Allgemein
+shop: shop
 ---

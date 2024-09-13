@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /taguig/rd/
-shop: Leiher
+shop: pawnbroker
 ---

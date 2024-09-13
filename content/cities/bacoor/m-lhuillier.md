@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /bacoor/m-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

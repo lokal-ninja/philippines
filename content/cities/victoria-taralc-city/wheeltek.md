@@ -1,5 +1,5 @@
 ---
 title: "Wheeltek"
 url: /victoria-taralc-city/wheeltek/
-shop: Motorrad
+shop: motorcycle
 ---

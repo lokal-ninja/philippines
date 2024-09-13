@@ -1,5 +1,5 @@
 ---
 title: "Robinson's Appliances"
 url: /general-trias/robinsons-appliances/
-shop: Elektronik
+shop: electronics
 ---

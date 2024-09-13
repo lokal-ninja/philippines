@@ -1,5 +1,5 @@
 ---
 title: "Center Mall"
 url: /general-trias/center-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

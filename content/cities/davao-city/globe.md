@@ -1,5 +1,5 @@
 ---
 title: "Globe"
 url: /davao-city/globe/
-shop: Handy
+shop: mobile phone
 ---

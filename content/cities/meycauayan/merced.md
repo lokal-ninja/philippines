@@ -1,5 +1,5 @@
 ---
 title: "Merced"
 url: /meycauayan/merced/
-shop: Bäckerei
+shop: bakery
 ---

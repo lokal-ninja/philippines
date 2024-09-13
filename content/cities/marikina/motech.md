@@ -1,5 +1,5 @@
 ---
 title: "Motech"
 url: /marikina/motech/
-shop: Autowerkstatt
+shop: car repair
 ---

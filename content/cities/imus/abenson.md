@@ -1,5 +1,5 @@
 ---
 title: "Abenson"
 url: /imus/abenson/
-shop: Elektronik
+shop: electronics
 ---

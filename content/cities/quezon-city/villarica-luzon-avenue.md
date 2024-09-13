@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /quezon-city/villarica-luzon-avenue/
-shop: Leiher
+shop: pawnbroker
 ---

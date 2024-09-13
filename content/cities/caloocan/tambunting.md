@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /caloocan/tambunting/
-shop: Leiher
+shop: pawnbroker
 ---

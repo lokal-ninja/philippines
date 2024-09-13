@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /san-pablo/villarica-regidor-street/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Config Computers"
 url: /baguio/config-computers/
-shop: Computer
+shop: computer
 ---

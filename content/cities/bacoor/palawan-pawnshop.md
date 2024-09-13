@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /bacoor/palawan-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

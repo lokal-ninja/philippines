@@ -1,5 +1,5 @@
 ---
 title: "Ororama Carmen"
 url: /cagayan-de-oro/ororama-carmen/
-shop: Supermarkt
+shop: supermarket
 ---

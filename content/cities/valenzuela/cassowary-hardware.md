@@ -1,5 +1,5 @@
 ---
 title: "Cassowary Hardware"
 url: /valenzuela/cassowary-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rusco Motors Pardo"
 url: /cebu-city/rusco-motors-pardo/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Somo Funeral Homes"
 url: /manticao/somo-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

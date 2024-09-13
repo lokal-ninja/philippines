@@ -1,5 +1,5 @@
 ---
 title: "Gomags Trading"
 url: /paranaque/gomags-trading/
-shop: Autowerkstatt
+shop: car repair
 ---

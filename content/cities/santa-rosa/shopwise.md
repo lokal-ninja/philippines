@@ -1,5 +1,5 @@
 ---
 title: "Shopwise"
 url: /santa-rosa/shopwise/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Executive Optical"
 url: /san-nicolas/executive-optical/
-shop: Optiker
+shop: optician
 ---

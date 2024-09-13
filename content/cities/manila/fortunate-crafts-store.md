@@ -1,5 +1,5 @@
 ---
 title: "Fortunate Crafts Store"
 url: /manila/fortunate-crafts-store/
-shop: Andenken
+shop: gift
 ---

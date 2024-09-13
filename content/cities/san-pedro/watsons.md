@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /san-pedro/watsons/
-shop: Drogerie
+shop: chemist
 ---

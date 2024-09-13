@@ -1,5 +1,5 @@
 ---
 title: "Gusto"
 url: /el-nido/gusto/
-shop: Eisprodukte
+shop: ice cream
 ---

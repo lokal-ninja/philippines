@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /pasig/cebuana-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

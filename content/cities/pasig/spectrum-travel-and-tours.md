@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Travel and Tours"
 url: /pasig/spectrum-travel-and-tours/
-shop: Reisebüro
+shop: travel agency
 ---

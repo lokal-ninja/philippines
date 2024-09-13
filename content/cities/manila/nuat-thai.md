@@ -1,5 +1,5 @@
 ---
 title: "Nuat Thai"
 url: /manila/nuat-thai/
-shop: Massage
+shop: massage
 ---

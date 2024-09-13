@@ -1,5 +1,5 @@
 ---
 title: "Glad Tidings Publishing"
 url: /cainta/glad-tidings-publishing/
-shop: Kopieren
+shop: copyshop
 ---

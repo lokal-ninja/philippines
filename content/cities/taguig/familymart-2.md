@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /taguig/familymart-2/
-shop: Lebensmittel
+shop: convenience
 ---

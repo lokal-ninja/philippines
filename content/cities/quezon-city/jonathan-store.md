@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Store"
 url: /quezon-city/jonathan-store/
-shop: Lebensmittel
+shop: convenience
 ---

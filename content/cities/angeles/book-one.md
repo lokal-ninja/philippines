@@ -1,5 +1,5 @@
 ---
 title: "Book One"
 url: /angeles/book-one/
-shop: Bücher
+shop: books
 ---

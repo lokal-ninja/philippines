@@ -1,5 +1,5 @@
 ---
 title: "Croft Bulk Foods"
 url: /davao-city/croft-bulk-foods-carlos-villa-abrille-drive/
-shop: Bioladen
+shop: health food
 ---

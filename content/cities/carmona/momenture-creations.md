@@ -1,5 +1,5 @@
 ---
 title: "Momenture Creations"
 url: /carmona/momenture-creations/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /makati-city/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

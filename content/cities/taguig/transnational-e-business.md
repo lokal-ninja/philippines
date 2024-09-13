@@ -1,5 +1,5 @@
 ---
 title: "Transnational E-Business."
 url: /taguig/transnational-e-business/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banawe Bakery"
 url: /quezon-city/banawe-bakery/
-shop: Bäckerei
+shop: bakery
 ---

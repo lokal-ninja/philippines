@@ -1,5 +1,5 @@
 ---
 title: "Wellcome"
 url: /las-pinas/wellcome/
-shop: Supermarkt
+shop: supermarket
 ---

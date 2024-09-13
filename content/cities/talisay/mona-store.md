@@ -1,5 +1,5 @@
 ---
 title: "Mona Store"
 url: /talisay/mona-store/
-shop: Kramladen
+shop: variety store
 ---

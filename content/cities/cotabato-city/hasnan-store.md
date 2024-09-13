@@ -1,5 +1,5 @@
 ---
 title: "Hasnan Store"
 url: /cotabato-city/hasnan-store/
-shop: Lebensmittel
+shop: convenience
 ---

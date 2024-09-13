@@ -1,5 +1,5 @@
 ---
 title: "Alaminians"
 url: /alaminos/alaminians/
-shop: Baustoffe
+shop: trade
 ---

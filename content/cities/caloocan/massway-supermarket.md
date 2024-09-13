@@ -1,5 +1,5 @@
 ---
 title: "Massway Supermarket"
 url: /caloocan/massway-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

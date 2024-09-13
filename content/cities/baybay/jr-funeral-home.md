@@ -1,5 +1,5 @@
 ---
 title: "JR Funeral Home"
 url: /baybay/jr-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

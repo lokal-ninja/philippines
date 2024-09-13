@@ -1,5 +1,5 @@
 ---
 title: "Dunkin' Donuts"
 url: /quezon-city/dunkin-donuts/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /quezon-city/7-eleven-katipunan-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

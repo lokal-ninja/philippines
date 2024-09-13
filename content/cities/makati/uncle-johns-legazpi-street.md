@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /makati/uncle-johns-legazpi-street/
-shop: Lebensmittel
+shop: convenience
 ---

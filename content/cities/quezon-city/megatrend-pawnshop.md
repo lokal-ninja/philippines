@@ -1,5 +1,5 @@
 ---
 title: "Megatrend Pawnshop"
 url: /quezon-city/megatrend-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

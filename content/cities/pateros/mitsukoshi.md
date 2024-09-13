@@ -1,5 +1,5 @@
 ---
 title: "Mitsukoshi"
 url: /pateros/mitsukoshi/
-shop: Motorrad
+shop: motorcycle
 ---

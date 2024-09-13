@@ -1,5 +1,5 @@
 ---
 title: "Royal Spa"
 url: /silang/royal-spa/
-shop: Massage
+shop: massage
 ---

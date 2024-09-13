@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /laoag/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

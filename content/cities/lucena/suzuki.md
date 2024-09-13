@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /lucena/suzuki/
-shop: Motorrad
+shop: motorcycle
 ---

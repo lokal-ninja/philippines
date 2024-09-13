@@ -1,5 +1,5 @@
 ---
 title: "Motorstar ProBikes Motorcycle Center"
 url: /batangas-city/motorstar-probikes-motorcycle-center/
-shop: Motorrad
+shop: motorcycle
 ---

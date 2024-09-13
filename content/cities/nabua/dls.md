@@ -1,5 +1,5 @@
 ---
 title: "Dls"
 url: /nabua/dls/
-shop: Allgemein
+shop: shop
 ---

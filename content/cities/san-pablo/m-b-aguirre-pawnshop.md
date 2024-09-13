@@ -1,5 +1,5 @@
 ---
 title: "M. B. Aguirre Pawnshop"
 url: /san-pablo/m-b-aguirre-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

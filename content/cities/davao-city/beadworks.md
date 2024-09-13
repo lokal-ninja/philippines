@@ -1,5 +1,5 @@
 ---
 title: "Beadworks"
 url: /davao-city/beadworks/
-shop: Kramladen
+shop: variety store
 ---

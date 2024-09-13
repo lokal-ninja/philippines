@@ -1,5 +1,5 @@
 ---
 title: "TK Commercial"
 url: /bacoor/tk-commercial/
-shop: Baumarkt
+shop: doityourself
 ---

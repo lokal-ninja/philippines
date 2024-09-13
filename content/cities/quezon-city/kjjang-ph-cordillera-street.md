@@ -1,5 +1,5 @@
 ---
 title: "KJJANG PH"
 url: /quezon-city/kjjang-ph-cordillera-street/
-shop: Außenstelle
+shop: outpost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BNW Auto Supply"
 url: /bacoor/bnw-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

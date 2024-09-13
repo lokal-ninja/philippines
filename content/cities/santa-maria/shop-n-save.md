@@ -1,5 +1,5 @@
 ---
 title: "Shop N Save"
 url: /santa-maria/shop-n-save/
-shop: Lebensmittel
+shop: convenience
 ---

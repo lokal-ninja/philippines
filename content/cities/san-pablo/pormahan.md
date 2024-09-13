@@ -1,5 +1,5 @@
 ---
 title: "Pormahan"
 url: /san-pablo/pormahan/
-shop: Kleidung
+shop: clothes
 ---

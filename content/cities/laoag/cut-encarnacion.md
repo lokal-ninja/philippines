@@ -1,5 +1,5 @@
 ---
 title: "Cut Encarnacion"
 url: /laoag/cut-encarnacion/
-shop: Friseur
+shop: hairdresser
 ---

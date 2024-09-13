@@ -1,5 +1,5 @@
 ---
 title: "Metro Supermarket Canduman"
 url: /mandaue/metro-supermarket-canduman/
-shop: Supermarkt
+shop: supermarket
 ---

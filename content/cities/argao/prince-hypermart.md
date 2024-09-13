@@ -1,5 +1,5 @@
 ---
 title: "Prince Hypermart"
 url: /argao/prince-hypermart/
-shop: Haushaltsartikel
+shop: houseware
 ---

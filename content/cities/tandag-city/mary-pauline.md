@@ -1,5 +1,5 @@
 ---
 title: "Mary Pauline"
 url: /tandag-city/mary-pauline/
-shop: Kosmetik
+shop: beauty
 ---

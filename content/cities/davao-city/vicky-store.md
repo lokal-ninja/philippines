@@ -1,5 +1,5 @@
 ---
 title: "Vicky Store"
 url: /davao-city/vicky-store/
-shop: Lebensmittel
+shop: convenience
 ---

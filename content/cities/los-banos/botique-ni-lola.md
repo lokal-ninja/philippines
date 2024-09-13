@@ -1,5 +1,5 @@
 ---
 title: "Botique ni Lola"
 url: /los-banos/botique-ni-lola/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uling Roaster"
 url: /passi/uling-roaster/
-shop: Kiosk
+shop: kiosk
 ---

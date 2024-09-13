@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /bacoor/miniso/
-shop: Kramladen
+shop: variety store
 ---

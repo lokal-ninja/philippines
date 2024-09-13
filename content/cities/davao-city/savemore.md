@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /davao-city/savemore/
-shop: Supermarkt
+shop: supermarket
 ---

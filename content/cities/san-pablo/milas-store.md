@@ -1,5 +1,5 @@
 ---
 title: "Mila's Store"
 url: /san-pablo/milas-store/
-shop: Lebensmittel
+shop: convenience
 ---

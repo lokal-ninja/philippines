@@ -1,5 +1,5 @@
 ---
 title: "Fritz Hansen"
 url: /fort-bonifacio/fritz-hansen/
-shop: Möbel
+shop: furniture
 ---

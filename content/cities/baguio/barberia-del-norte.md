@@ -1,5 +1,5 @@
 ---
 title: "Barberia del Norte"
 url: /baguio/barberia-del-norte/
-shop: Friseur
+shop: hairdresser
 ---

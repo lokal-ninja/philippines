@@ -1,5 +1,5 @@
 ---
 title: "Giordano"
 url: /tanza/giordano/
-shop: Kleidung
+shop: clothes
 ---

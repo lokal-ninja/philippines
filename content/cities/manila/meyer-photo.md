@@ -1,5 +1,5 @@
 ---
 title: "Meyer Photo"
 url: /manila/meyer-photo/
-shop: Foto
+shop: photo
 ---

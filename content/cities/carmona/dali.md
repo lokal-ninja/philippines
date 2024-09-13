@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /carmona/dali/
-shop: Lebensmittel
+shop: convenience
 ---

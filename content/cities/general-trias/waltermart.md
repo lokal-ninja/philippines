@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /general-trias/waltermart/
-shop: Einkaufszentrum
+shop: mall
 ---

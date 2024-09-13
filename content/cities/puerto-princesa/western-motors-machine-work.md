@@ -1,5 +1,5 @@
 ---
 title: "Western Motors Machine Work"
 url: /puerto-princesa/western-motors-machine-work/
-shop: Eisenwaren
+shop: hardware
 ---

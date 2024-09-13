@@ -1,5 +1,5 @@
 ---
 title: "Hilda Store"
 url: /valenzuela/hilda-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merczi"
 url: /bacolod/merczi/
-shop: Bäckerei
+shop: bakery
 ---

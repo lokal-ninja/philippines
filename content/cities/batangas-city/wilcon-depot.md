@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Depot"
 url: /batangas-city/wilcon-depot/
-shop: Baumarkt
+shop: doityourself
 ---

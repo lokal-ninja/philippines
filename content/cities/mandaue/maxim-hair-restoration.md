@@ -1,5 +1,5 @@
 ---
 title: "MAXIM Hair Restoration"
 url: /mandaue/maxim-hair-restoration/
-shop: Kosmetik
+shop: beauty
 ---

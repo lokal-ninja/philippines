@@ -1,5 +1,5 @@
 ---
 title: "SafeMaster Marketing"
 url: /tanza/safemaster-marketing/
-shop: Elektronik
+shop: electronics
 ---

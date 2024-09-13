@@ -1,5 +1,5 @@
 ---
 title: "Specialized Elite Store"
 url: /quezon-city/specialized-elite-store/
-shop: Fahrrad
+shop: bicycle
 ---

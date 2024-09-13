@@ -1,5 +1,5 @@
 ---
 title: "Toy Kingdom"
 url: /lucena/toy-kingdom/
-shop: Spielzeug
+shop: toys
 ---

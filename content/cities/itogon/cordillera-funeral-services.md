@@ -1,5 +1,5 @@
 ---
 title: "Cordillera Funeral Services"
 url: /itogon/cordillera-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

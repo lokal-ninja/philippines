@@ -1,5 +1,5 @@
 ---
 title: "Philippine Airlines"
 url: /manila/philippine-airlines/
-shop: Tickets
+shop: ticket
 ---

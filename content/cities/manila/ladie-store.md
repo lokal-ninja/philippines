@@ -1,5 +1,5 @@
 ---
 title: "Ladie Store"
 url: /manila/ladie-store/
-shop: Kramladen
+shop: variety store
 ---

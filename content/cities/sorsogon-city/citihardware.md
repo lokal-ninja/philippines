@@ -1,5 +1,5 @@
 ---
 title: "CitiHardware"
 url: /sorsogon-city/citihardware/
-shop: Eisenwaren
+shop: hardware
 ---

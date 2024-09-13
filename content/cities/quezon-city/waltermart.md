@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /quezon-city/waltermart/
-shop: Einkaufszentrum
+shop: mall
 ---

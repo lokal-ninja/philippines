@@ -1,5 +1,5 @@
 ---
 title: "Le Monet Bakery"
 url: /baguio/le-monet-bakery/
-shop: Bäckerei
+shop: bakery
 ---

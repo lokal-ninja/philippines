@@ -1,5 +1,5 @@
 ---
 title: "Manolette"
 url: /surigao/manolette/
-shop: Bäckerei
+shop: bakery
 ---

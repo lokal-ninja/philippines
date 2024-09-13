@@ -1,5 +1,5 @@
 ---
 title: "Wheels on Fire"
 url: /pateros/wheels-on-fire/
-shop: Fahrrad
+shop: bicycle
 ---

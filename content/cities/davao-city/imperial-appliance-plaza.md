@@ -1,5 +1,5 @@
 ---
 title: "Imperial Appliance Plaza"
 url: /davao-city/imperial-appliance-plaza/
-shop: Haushaltsgeräte
+shop: appliance
 ---

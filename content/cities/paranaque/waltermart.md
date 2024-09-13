@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /paranaque/waltermart/
-shop: Supermarkt
+shop: supermarket
 ---

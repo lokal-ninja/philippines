@@ -1,5 +1,5 @@
 ---
 title: "The Aircon Store"
 url: /imus/the-aircon-store/
-shop: Allgemein
+shop: shop
 ---

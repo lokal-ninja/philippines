@@ -1,5 +1,5 @@
 ---
 title: "Batparts Supply"
 url: /pasig/batparts-supply/
-shop: Autowerkstatt
+shop: car repair
 ---

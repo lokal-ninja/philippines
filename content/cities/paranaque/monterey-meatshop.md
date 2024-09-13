@@ -1,5 +1,5 @@
 ---
 title: "Monterey Meatshop"
 url: /paranaque/monterey-meatshop/
-shop: Metzgerei
+shop: butcher
 ---

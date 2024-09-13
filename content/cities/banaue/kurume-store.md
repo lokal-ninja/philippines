@@ -1,5 +1,5 @@
 ---
 title: "Kurume Store"
 url: /banaue/kurume-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cell Ever"
 url: /pasay/cell-ever/
-shop: Handy
+shop: mobile phone
 ---

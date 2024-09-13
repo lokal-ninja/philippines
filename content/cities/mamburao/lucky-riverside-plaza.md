@@ -1,5 +1,5 @@
 ---
 title: "Lucky Riverside Plaza"
 url: /mamburao/lucky-riverside-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hatip Plants"
 url: /hagonoy/hatip-plants/
-shop: Garten-Center
+shop: garden centre
 ---

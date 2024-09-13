@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /guiguinto/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

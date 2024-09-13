@@ -1,5 +1,5 @@
 ---
 title: "Sentro Auto Parts"
 url: /dumaguete/sentro-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

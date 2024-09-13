@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /mati-city/citi-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

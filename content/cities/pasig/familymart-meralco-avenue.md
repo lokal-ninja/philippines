@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /pasig/familymart-meralco-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

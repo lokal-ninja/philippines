@@ -1,5 +1,5 @@
 ---
 title: "167 shoppers Mart"
 url: /tanauan/167-shoppers-mart/
-shop: Kramladen
+shop: variety store
 ---

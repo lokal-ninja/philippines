@@ -1,5 +1,5 @@
 ---
 title: "Blueprint Express"
 url: /imus/blueprint-express/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cellboy"
 url: /tanza/cellboy/
-shop: Handy
+shop: mobile phone
 ---

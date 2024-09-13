@@ -1,5 +1,5 @@
 ---
 title: "Sportline"
 url: /quezon-city/sportline/
-shop: Autoteile
+shop: car parts
 ---

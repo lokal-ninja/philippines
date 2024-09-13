@@ -1,5 +1,5 @@
 ---
 title: "ECS Cycle"
 url: /tupi/ecs-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

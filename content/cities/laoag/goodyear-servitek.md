@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Servitek"
 url: /laoag/goodyear-servitek/
-shop: Autowerkstatt
+shop: car repair
 ---

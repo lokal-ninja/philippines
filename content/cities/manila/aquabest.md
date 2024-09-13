@@ -1,5 +1,5 @@
 ---
 title: "Aquabest"
 url: /manila/aquabest/
-shop: Wasser
+shop: water
 ---

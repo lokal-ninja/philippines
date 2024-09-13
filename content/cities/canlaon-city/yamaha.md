@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /canlaon-city/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MLhuillier Pawnshop"
 url: /luisiana/mlhuillier-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

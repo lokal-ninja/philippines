@@ -1,5 +1,5 @@
 ---
 title: "Dali"
 url: /caloocan/dali/
-shop: Lebensmittel
+shop: convenience
 ---

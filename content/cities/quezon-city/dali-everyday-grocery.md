@@ -1,5 +1,5 @@
 ---
-title: "Dali Everyday Grocery"
+title: "DALI Everyday Grocery"
 url: /quezon-city/dali-everyday-grocery/
-shop: Supermarkt
+shop: convenience
 ---

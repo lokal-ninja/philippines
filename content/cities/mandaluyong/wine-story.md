@@ -1,5 +1,5 @@
 ---
 title: "Wine Story"
 url: /mandaluyong/wine-story/
-shop: Wein
+shop: wine
 ---

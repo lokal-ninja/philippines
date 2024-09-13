@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /iba/palawan-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M. Calingasan Funeral Homes"
 url: /san-pablo/m-calingasan-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

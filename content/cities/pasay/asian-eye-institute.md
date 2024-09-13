@@ -1,5 +1,5 @@
 ---
 title: "Asian Eye Institute"
 url: /pasay/asian-eye-institute/
-shop: Optiker
+shop: optician
 ---

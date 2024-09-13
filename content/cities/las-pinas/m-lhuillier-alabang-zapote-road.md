@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /las-pinas/m-lhuillier-alabang-zapote-road/
-shop: Leiher
+shop: pawnbroker
 ---

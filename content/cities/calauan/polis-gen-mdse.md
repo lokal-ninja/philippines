@@ -1,5 +1,5 @@
 ---
 title: "Polis Gen Mdse"
 url: /calauan/polis-gen-mdse/
-shop: Motorrad
+shop: motorcycle
 ---

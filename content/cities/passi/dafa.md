@@ -1,5 +1,5 @@
 ---
 title: "DAFA"
 url: /passi/dafa/
-shop: Baumarkt
+shop: doityourself
 ---

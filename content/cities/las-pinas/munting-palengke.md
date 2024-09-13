@@ -1,5 +1,5 @@
 ---
 title: "Munting Palengke"
 url: /las-pinas/munting-palengke/
-shop: Lebensmittel
+shop: convenience
 ---

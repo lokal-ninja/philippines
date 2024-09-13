@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
 url: /taguig/lawson/
-shop: Lebensmittel
+shop: convenience
 ---

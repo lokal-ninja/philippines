@@ -1,5 +1,5 @@
 ---
 title: "DOMTUSAN-AN Jewelry Repair Shop"
 url: /borongan/domtusan-an-jewelry-repair-shop/
-shop: Allgemein
+shop: shop
 ---

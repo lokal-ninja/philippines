@@ -1,5 +1,5 @@
 ---
 title: "Magximig Pharmacy"
 url: /bacoor/magximig-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

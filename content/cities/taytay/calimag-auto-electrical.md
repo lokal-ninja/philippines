@@ -1,5 +1,5 @@
 ---
 title: "Calimag Auto Electrical"
 url: /taytay/calimag-auto-electrical/
-shop: Autowerkstatt
+shop: car repair
 ---

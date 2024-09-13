@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /navotas/m-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

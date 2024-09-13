@@ -1,5 +1,5 @@
 ---
 title: "Networx Auto Detailing Corp."
 url: /cubao-quezon-city-barangay-immaculate-conception/networx-auto-detailing-corp/
-shop: Autowerkstatt
+shop: car repair
 ---

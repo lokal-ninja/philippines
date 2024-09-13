@@ -1,5 +1,5 @@
 ---
 title: "Prince Rio"
 url: /baclayon/prince-rio/
-shop: Tickets
+shop: ticket
 ---

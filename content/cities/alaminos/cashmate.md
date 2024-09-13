@@ -1,5 +1,5 @@
 ---
 title: "Cashmate"
 url: /alaminos/cashmate/
-shop: Leiher
+shop: pawnbroker
 ---

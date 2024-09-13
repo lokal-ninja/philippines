@@ -1,5 +1,5 @@
 ---
 title: "Subic Tiles Trading"
 url: /balanga/subic-tiles-trading/
-shop: Baustoffe
+shop: trade
 ---

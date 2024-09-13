@@ -1,5 +1,5 @@
 ---
 title: "Geely Marikina"
 url: /marikina/geely-marikina/
-shop: Autohaus
+shop: car
 ---

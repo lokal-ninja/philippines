@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /taguig/tambunting-block-10/
-shop: Leiher
+shop: pawnbroker
 ---

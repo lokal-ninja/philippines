@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /tacloban-city/puregold-maharlika-highway/
-shop: Supermarkt
+shop: supermarket
 ---

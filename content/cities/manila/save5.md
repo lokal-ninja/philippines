@@ -1,5 +1,5 @@
 ---
 title: "Save5"
 url: /manila/save5/
-shop: Wäscherei
+shop: laundry
 ---

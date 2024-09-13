@@ -1,5 +1,5 @@
 ---
 title: "Fone Style Accessories"
 url: /pasay/fone-style-accessories/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /caloocan/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

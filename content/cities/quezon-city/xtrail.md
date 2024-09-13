@@ -1,5 +1,5 @@
 ---
 title: "XTrail"
 url: /quezon-city/xtrail/
-shop: Schreibwaren
+shop: office supplies
 ---

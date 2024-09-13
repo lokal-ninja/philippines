@@ -1,5 +1,5 @@
 ---
 title: "Jaro Pawnshop"
 url: /imus/jaro-pawnshop-buhay-na-tubig-road/
-shop: Leiher
+shop: pawnbroker
 ---

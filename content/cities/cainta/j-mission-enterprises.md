@@ -1,5 +1,5 @@
 ---
 title: "J. Mission Enterprises"
 url: /cainta/j-mission-enterprises/
-shop: Farben
+shop: paint
 ---

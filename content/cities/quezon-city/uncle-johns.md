@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /quezon-city/uncle-johns/
-shop: Lebensmittel
+shop: convenience
 ---

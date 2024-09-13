@@ -1,5 +1,5 @@
 ---
 title: "Mabuhay Warehouse"
 url: /nabunturan/mabuhay-warehouse/
-shop: Dorfladen
+shop: general
 ---

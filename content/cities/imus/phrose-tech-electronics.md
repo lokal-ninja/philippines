@@ -1,5 +1,5 @@
 ---
 title: "Phrose Tech Electronics"
 url: /imus/phrose-tech-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northon Hardware"
 url: /davao-city/northon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

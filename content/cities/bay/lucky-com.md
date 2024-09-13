@@ -1,5 +1,5 @@
 ---
 title: "Lucky.com"
 url: /bay/lucky-com/
-shop: Handy
+shop: mobile phone
 ---

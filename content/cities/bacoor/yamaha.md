@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /bacoor/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

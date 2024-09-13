@@ -1,5 +1,5 @@
 ---
 title: "Novo"
 url: /muntinlupa/novo/
-shop: Warenhaus
+shop: department store
 ---

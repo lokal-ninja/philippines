@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /manila/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

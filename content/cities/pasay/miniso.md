@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /pasay/miniso/
-shop: Kramladen
+shop: variety store
 ---

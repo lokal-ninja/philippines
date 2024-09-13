@@ -1,5 +1,5 @@
 ---
 title: "Ryantattoo"
 url: /castillejos/ryantattoo/
-shop: Tattoo
+shop: tattoo
 ---

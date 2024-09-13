@@ -1,5 +1,5 @@
 ---
 title: "K Servico"
 url: /las-pinas/k-servico/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saranghae"
 url: /santo-tomas/saranghae/
-shop: Lebensmittel
+shop: convenience
 ---

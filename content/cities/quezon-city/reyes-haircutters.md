@@ -1,5 +1,5 @@
 ---
 title: "Reyes Haircutters"
 url: /quezon-city/reyes-haircutters/
-shop: Friseur
+shop: hairdresser
 ---

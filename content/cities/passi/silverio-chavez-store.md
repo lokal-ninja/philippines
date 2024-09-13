@@ -1,5 +1,5 @@
 ---
 title: "Silverio Chavez Store"
 url: /passi/silverio-chavez-store/
-shop: Lebensmittel
+shop: convenience
 ---

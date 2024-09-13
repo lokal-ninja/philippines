@@ -1,5 +1,5 @@
 ---
 title: "Reyes Beauty Parlor"
 url: /daet/reyes-beauty-parlor/
-shop: Kosmetik
+shop: beauty
 ---

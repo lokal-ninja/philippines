@@ -1,5 +1,5 @@
 ---
 title: "Flowers and Plants"
 url: /tagaytay/flowers-and-plants/
-shop: Blumen
+shop: florist
 ---

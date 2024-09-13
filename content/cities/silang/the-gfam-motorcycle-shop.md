@@ -1,5 +1,5 @@
 ---
 title: "The GFam Motorcycle Shop"
 url: /silang/the-gfam-motorcycle-shop/
-shop: Autoteile
+shop: car parts
 ---

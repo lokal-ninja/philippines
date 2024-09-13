@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /makati/familymart-valero-2/
-shop: Lebensmittel
+shop: convenience
 ---

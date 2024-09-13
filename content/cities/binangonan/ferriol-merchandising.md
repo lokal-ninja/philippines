@@ -1,5 +1,5 @@
 ---
 title: "Ferriol Merchandising"
 url: /binangonan/ferriol-merchandising/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /gumaca/puregold/
-shop: Einkaufszentrum
+shop: mall
 ---

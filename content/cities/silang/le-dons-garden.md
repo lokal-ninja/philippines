@@ -1,5 +1,5 @@
 ---
 title: "Le Don's Garden"
 url: /silang/le-dons-garden/
-shop: Garten-Center
+shop: garden centre
 ---

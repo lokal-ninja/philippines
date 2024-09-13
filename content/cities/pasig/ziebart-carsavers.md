@@ -1,5 +1,5 @@
 ---
 title: "Ziebart Carsavers"
 url: /pasig/ziebart-carsavers/
-shop: Autowerkstatt
+shop: car repair
 ---

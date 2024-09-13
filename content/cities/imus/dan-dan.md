@@ -1,5 +1,5 @@
 ---
 title: "Dan Dan"
 url: /imus/dan-dan/
-shop: Autowerkstatt
+shop: car repair
 ---

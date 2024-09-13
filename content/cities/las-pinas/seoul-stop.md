@@ -1,5 +1,5 @@
 ---
 title: "Seoul Stop"
 url: /las-pinas/seoul-stop/
-shop: Allgemein
+shop: shop
 ---

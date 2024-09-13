@@ -1,5 +1,5 @@
 ---
 title: "Juniks Auto Parts"
 url: /davao-city/juniks-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

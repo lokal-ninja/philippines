@@ -1,5 +1,5 @@
 ---
 title: "Excettera"
 url: /mati/excettera/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holcim Inc."
 url: /baguio/holcim-inc/
-shop: Baustoffe
+shop: trade
 ---

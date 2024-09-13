@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /davao-city/citi-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

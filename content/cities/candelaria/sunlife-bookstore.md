@@ -1,5 +1,5 @@
 ---
 title: "Sunlife Bookstore"
 url: /candelaria/sunlife-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gojak"
 url: /caloocan/gojak/
-shop: Lebensmittel
+shop: convenience
 ---

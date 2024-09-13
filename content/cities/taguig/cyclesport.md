@@ -1,5 +1,5 @@
 ---
 title: "Cyclesport"
 url: /taguig/cyclesport/
-shop: Fahrrad
+shop: bicycle
 ---

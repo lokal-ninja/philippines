@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /caloocan/uncle-johns-zabarte-road/
-shop: Lebensmittel
+shop: convenience
 ---

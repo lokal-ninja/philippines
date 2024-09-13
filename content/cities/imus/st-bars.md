@@ -1,5 +1,5 @@
 ---
 title: "St. Bars"
 url: /imus/st-bars/
-shop: Autowerkstatt
+shop: car repair
 ---

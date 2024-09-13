@@ -1,5 +1,5 @@
 ---
 title: "Motorcentral"
 url: /calapan/motorcentral/
-shop: Motorrad
+shop: motorcycle
 ---

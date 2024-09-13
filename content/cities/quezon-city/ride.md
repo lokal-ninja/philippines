@@ -1,5 +1,5 @@
 ---
 title: "Ride"
 url: /quezon-city/ride/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Depot"
 url: /quezon-city/wilcon-depot-mindanao-avenue/
-shop: Eisenwaren
+shop: hardware
 ---

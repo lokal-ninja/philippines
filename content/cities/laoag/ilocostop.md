@@ -1,5 +1,5 @@
 ---
 title: "ilocostop"
 url: /laoag/ilocostop/
-shop: Lebensmittel
+shop: convenience
 ---

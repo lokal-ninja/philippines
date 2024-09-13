@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /malolos/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mufflerland"
 url: /manila/mufflerland/
-shop: Autowerkstatt
+shop: car repair
 ---

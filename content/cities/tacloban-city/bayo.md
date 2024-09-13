@@ -1,5 +1,5 @@
 ---
 title: "Bayo"
 url: /tacloban-city/bayo/
-shop: Kleidung
+shop: clothes
 ---

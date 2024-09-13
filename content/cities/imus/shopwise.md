@@ -1,5 +1,5 @@
 ---
 title: "Shopwise"
 url: /imus/shopwise/
-shop: Supermarkt
+shop: supermarket
 ---

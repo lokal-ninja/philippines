@@ -1,5 +1,5 @@
 ---
 title: "Trickedout Autoworx"
 url: /pasig/trickedout-autoworx/
-shop: Autowerkstatt
+shop: car repair
 ---

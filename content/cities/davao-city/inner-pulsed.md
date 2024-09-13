@@ -1,5 +1,5 @@
 ---
 title: "Inner Pulsed"
 url: /davao-city/inner-pulsed/
-shop: Massage
+shop: massage
 ---

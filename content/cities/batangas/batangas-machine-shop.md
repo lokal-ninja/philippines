@@ -1,5 +1,5 @@
 ---
 title: "Batangas Machine Shop"
 url: /batangas/batangas-machine-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

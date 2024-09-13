@@ -1,5 +1,5 @@
 ---
 title: "PC Express"
 url: /tanza/pc-express/
-shop: Computer
+shop: computer
 ---

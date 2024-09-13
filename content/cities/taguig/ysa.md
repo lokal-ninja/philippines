@@ -1,5 +1,5 @@
 ---
 title: "YSA"
 url: /taguig/ysa/
-shop: Kosmetik
+shop: beauty
 ---

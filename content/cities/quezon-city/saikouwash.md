@@ -1,5 +1,5 @@
 ---
 title: "Saikouwash"
 url: /quezon-city/saikouwash/
-shop: Wäscherei
+shop: laundry
 ---

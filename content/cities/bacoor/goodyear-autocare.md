@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Autocare"
 url: /bacoor/goodyear-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

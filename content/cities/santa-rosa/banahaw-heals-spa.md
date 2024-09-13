@@ -1,5 +1,5 @@
 ---
 title: "Banahaw Heals Spa"
 url: /santa-rosa/banahaw-heals-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /binangonan/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

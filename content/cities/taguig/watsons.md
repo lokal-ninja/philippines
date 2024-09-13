@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /taguig/watsons/
-shop: Drogerie
+shop: chemist
 ---

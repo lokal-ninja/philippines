@@ -1,5 +1,5 @@
 ---
 title: "Prince Hypermart"
 url: /larena/prince-hypermart/
-shop: Haushaltsartikel
+shop: houseware
 ---

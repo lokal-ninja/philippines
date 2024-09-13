@@ -1,5 +1,5 @@
 ---
 title: "Kerry Sports"
 url: /taguig/kerry-sports/
-shop: Sport
+shop: sports
 ---

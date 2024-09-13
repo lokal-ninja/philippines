@@ -1,5 +1,5 @@
 ---
 title: "PIWATER"
 url: /baguio/piwater/
-shop: Wasser
+shop: water
 ---

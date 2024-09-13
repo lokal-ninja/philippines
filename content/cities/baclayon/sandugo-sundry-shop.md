@@ -1,5 +1,5 @@
 ---
 title: "Sandugo Sundry Shop"
 url: /baclayon/sandugo-sundry-shop/
-shop: Warenhaus
+shop: department store
 ---

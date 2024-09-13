@@ -1,5 +1,5 @@
 ---
 title: "Citi Hardware"
 url: /tacurong/citi-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

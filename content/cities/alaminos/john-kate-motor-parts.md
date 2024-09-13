@@ -1,5 +1,5 @@
 ---
 title: "John Kate Motor Parts"
 url: /alaminos/john-kate-motor-parts/
-shop: Autoteile
+shop: car parts
 ---

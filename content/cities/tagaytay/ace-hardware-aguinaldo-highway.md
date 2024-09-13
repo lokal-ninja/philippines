@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /tagaytay/ace-hardware-aguinaldo-highway/
-shop: Eisenwaren
+shop: hardware
 ---

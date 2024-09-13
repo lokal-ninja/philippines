@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
 url: /cavite/rusi/
-shop: Motorrad
+shop: motorcycle
 ---

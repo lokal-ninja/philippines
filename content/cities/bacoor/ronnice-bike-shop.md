@@ -1,5 +1,5 @@
 ---
 title: "Ronnice Bike Shop"
 url: /bacoor/ronnice-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

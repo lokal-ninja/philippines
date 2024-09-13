@@ -1,5 +1,5 @@
 ---
 title: "Petron Gasul"
 url: /davao-city/petron-gasul/
-shop: Gasflaschen
+shop: gas
 ---

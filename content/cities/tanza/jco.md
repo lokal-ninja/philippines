@@ -1,5 +1,5 @@
 ---
 title: "JCO"
 url: /tanza/jco/
-shop: Bäckerei
+shop: bakery
 ---

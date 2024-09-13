@@ -1,5 +1,5 @@
 ---
 title: "Fastrack"
 url: /cabanatuan/fastrack/
-shop: Leiher
+shop: pawnbroker
 ---

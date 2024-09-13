@@ -1,5 +1,5 @@
 ---
 title: "Novo"
 url: /tagaytay/novo/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carafenet"
 url: /dagupan/carafenet/
-shop: Computer
+shop: computer
 ---

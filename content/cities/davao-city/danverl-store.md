@@ -1,5 +1,5 @@
 ---
 title: "Danverl Store"
 url: /davao-city/danverl-store/
-shop: Lebensmittel
+shop: convenience
 ---

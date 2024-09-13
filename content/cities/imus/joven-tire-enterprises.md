@@ -1,5 +1,5 @@
 ---
 title: "Joven Tire Enterprises"
 url: /imus/joven-tire-enterprises/
-shop: Reifen
+shop: tyres
 ---

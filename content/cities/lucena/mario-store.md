@@ -1,5 +1,5 @@
 ---
 title: "Mario Store"
 url: /lucena/mario-store/
-shop: Lebensmittel
+shop: convenience
 ---

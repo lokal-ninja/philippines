@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /muntinlupa/watsons/
-shop: Drogerie
+shop: chemist
 ---

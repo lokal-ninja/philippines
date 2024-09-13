@@ -1,5 +1,5 @@
 ---
 title: "Banawe Expert"
 url: /silang/banawe-expert/
-shop: Autowerkstatt
+shop: car repair
 ---

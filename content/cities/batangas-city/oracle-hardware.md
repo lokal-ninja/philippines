@@ -1,5 +1,5 @@
 ---
 title: "Oracle Hardware"
 url: /batangas-city/oracle-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

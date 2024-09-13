@@ -1,5 +1,5 @@
 ---
 title: "eSHOP"
 url: /bacolod/eshop/
-shop: Andenken
+shop: gift
 ---

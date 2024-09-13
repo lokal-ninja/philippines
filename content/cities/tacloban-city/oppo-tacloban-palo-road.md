@@ -1,5 +1,5 @@
 ---
 title: "Oppo"
 url: /tacloban-city/oppo-tacloban-palo-road/
-shop: Handy
+shop: mobile phone
 ---

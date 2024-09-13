@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /mandaue/7-eleven/
-shop: Lebensmittel
+shop: convenience
 ---

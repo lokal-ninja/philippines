@@ -1,5 +1,5 @@
 ---
 title: "Iba Town Center"
 url: /iba/iba-town-center/
-shop: Einkaufszentrum
+shop: mall
 ---

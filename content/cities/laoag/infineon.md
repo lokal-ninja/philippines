@@ -1,5 +1,5 @@
 ---
 title: "Infineon"
 url: /laoag/infineon/
-shop: Elektronik
+shop: electronics
 ---

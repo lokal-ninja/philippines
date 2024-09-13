@@ -1,5 +1,5 @@
 ---
 title: "A. Shop"
 url: /makati/a-shop/
-shop: Computer
+shop: computer
 ---

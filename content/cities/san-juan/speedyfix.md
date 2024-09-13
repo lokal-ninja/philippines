@@ -1,5 +1,5 @@
 ---
 title: "SpeedyFix"
 url: /san-juan/speedyfix/
-shop: Autowerkstatt
+shop: car repair
 ---

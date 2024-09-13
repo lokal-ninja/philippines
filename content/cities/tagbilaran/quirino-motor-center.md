@@ -1,5 +1,5 @@
 ---
 title: "Quirino Motor Center"
 url: /tagbilaran/quirino-motor-center/
-shop: Motorrad
+shop: motorcycle
 ---

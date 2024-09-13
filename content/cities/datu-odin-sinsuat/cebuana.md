@@ -1,5 +1,5 @@
 ---
 title: "Cebuana"
 url: /datu-odin-sinsuat/cebuana/
-shop: Leiher
+shop: pawnbroker
 ---

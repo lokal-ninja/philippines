@@ -1,5 +1,5 @@
 ---
 title: "Aguila Glass"
 url: /cabanatuan-city/aguila-glass/
-shop: Glaserei
+shop: glaziery
 ---

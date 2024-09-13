@@ -1,5 +1,5 @@
 ---
 title: "Roman Vulcanizing"
 url: /las-pinas/roman-vulcanizing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colour Mart"
 url: /las-pinas/colour-mart/
-shop: Supermarkt
+shop: supermarket
 ---

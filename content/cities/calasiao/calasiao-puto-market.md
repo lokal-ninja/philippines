@@ -1,5 +1,5 @@
 ---
 title: "Calasiao Puto Market"
 url: /calasiao/calasiao-puto-market/
-shop: Feinkost
+shop: deli
 ---

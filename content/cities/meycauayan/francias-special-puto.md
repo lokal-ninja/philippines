@@ -1,5 +1,5 @@
 ---
 title: "Francia's Special Puto"
 url: /meycauayan/francias-special-puto/
-shop: Bäckerei
+shop: bakery
 ---

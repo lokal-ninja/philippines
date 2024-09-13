@@ -1,5 +1,5 @@
 ---
 title: "Gigahertz"
 url: /pasay/gigahertz/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lokal"
 url: /bacoor/lokal/
-shop: Einkaufszentrum
+shop: mall
 ---

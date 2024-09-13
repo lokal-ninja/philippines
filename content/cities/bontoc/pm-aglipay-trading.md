@@ -1,5 +1,5 @@
 ---
 title: "PM Aglipay Trading"
 url: /bontoc/pm-aglipay-trading/
-shop: Eisenwaren
+shop: hardware
 ---

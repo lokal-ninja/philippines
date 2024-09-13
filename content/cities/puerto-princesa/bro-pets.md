@@ -1,5 +1,5 @@
 ---
 title: "Bro Pets"
 url: /puerto-princesa/bro-pets/
-shop: Tiere
+shop: pet
 ---

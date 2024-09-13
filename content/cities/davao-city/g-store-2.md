@@ -1,5 +1,5 @@
 ---
 title: "G Store"
 url: /davao-city/g-store-2/
-shop: Warenhaus
+shop: department store
 ---

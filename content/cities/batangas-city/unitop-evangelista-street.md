@@ -1,5 +1,5 @@
 ---
 title: "Unitop"
 url: /batangas-city/unitop-evangelista-street/
-shop: Warenhaus
+shop: department store
 ---

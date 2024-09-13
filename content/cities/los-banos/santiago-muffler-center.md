@@ -1,5 +1,5 @@
 ---
 title: "Santiago Muffler Center"
 url: /los-banos/santiago-muffler-center/
-shop: Autowerkstatt
+shop: car repair
 ---

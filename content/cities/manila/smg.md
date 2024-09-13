@@ -1,5 +1,5 @@
 ---
 title: "SMG"
 url: /manila/smg/
-shop: Baumarkt
+shop: doityourself
 ---

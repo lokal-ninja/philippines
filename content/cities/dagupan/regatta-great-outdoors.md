@@ -1,5 +1,5 @@
 ---
 title: "Regatta Great Outdoors"
 url: /dagupan/regatta-great-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

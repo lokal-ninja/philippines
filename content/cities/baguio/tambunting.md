@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /baguio/tambunting/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /solano/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

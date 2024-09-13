@@ -1,5 +1,5 @@
 ---
 title: "Megan's Store"
 url: /sagada/megans-store/
-shop: Lebensmittel
+shop: convenience
 ---

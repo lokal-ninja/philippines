@@ -1,5 +1,5 @@
 ---
 title: "Mercedes Bakery"
 url: /cagayan-de-oro/mercedes-bakery/
-shop: Bäckerei
+shop: bakery
 ---

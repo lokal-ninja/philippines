@@ -1,5 +1,5 @@
 ---
 title: "Ocampo's Bakery"
 url: /quezon-city/ocampos-bakery/
-shop: Bäckerei
+shop: bakery
 ---

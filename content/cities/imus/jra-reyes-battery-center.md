@@ -1,5 +1,5 @@
 ---
 title: "JRA Reyes Battery Center"
 url: /imus/jra-reyes-battery-center/
-shop: Autoteile
+shop: car parts
 ---

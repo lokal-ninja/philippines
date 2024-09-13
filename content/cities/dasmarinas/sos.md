@@ -1,5 +1,5 @@
 ---
 title: "SOS"
 url: /dasmarinas/sos/
-shop: Computer
+shop: computer
 ---

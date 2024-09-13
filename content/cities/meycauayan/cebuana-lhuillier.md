@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /meycauayan/cebuana-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

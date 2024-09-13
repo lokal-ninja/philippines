@@ -1,5 +1,5 @@
 ---
 title: "Mandaue Foam"
 url: /davao-city/mandaue-foam/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /san-fernando/cebuana-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

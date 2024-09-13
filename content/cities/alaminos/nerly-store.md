@@ -1,5 +1,5 @@
 ---
 title: "Nerly Store"
 url: /alaminos/nerly-store/
-shop: Kramladen
+shop: variety store
 ---

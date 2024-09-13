@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /baguio/mango/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /taguig/7-eleven-triangle-drive/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chatime"
 url: /tanza/chatime/
-shop: Getränke
+shop: beverages
 ---

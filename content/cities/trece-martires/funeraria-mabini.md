@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Mabini"
 url: /trece-martires/funeraria-mabini/
-shop: Bestattungen
+shop: funeral directors
 ---

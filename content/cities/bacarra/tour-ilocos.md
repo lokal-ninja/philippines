@@ -1,5 +1,5 @@
 ---
 title: "Tour Ilocos"
 url: /bacarra/tour-ilocos/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The SM Store"
 url: /san-pablo/the-sm-store/
-shop: Warenhaus
+shop: department store
 ---

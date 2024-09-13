@@ -1,5 +1,5 @@
 ---
 title: "Gigahertz"
 url: /dasmarinas/gigahertz/
-shop: Computer
+shop: computer
 ---

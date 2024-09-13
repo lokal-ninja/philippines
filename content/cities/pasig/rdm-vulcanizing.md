@@ -1,5 +1,5 @@
 ---
 title: "RDM Vulcanizing"
 url: /pasig/rdm-vulcanizing/
-shop: Reifen
+shop: tyres
 ---

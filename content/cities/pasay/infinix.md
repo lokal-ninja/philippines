@@ -1,5 +1,5 @@
 ---
 title: "Infinix"
 url: /pasay/infinix/
-shop: Handy
+shop: mobile phone
 ---

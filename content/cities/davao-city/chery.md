@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /davao-city/chery/
-shop: Autohaus
+shop: car
 ---

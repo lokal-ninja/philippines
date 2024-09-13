@@ -1,5 +1,5 @@
 ---
 title: "SM Appliance Center"
 url: /dasmarinas/sm-appliance-center/
-shop: Elektronik
+shop: electronics
 ---

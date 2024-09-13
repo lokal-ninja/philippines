@@ -1,5 +1,5 @@
 ---
 title: "The Furr Project"
 url: /makati/the-furr-project/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Feet"
 url: /marikina/happy-feet/
-shop: Schuhe
+shop: shoes
 ---

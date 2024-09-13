@@ -1,5 +1,5 @@
 ---
 title: "Romoss"
 url: /pasay/romoss/
-shop: Elektronik
+shop: electronics
 ---

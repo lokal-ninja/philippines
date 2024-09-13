@@ -1,5 +1,5 @@
 ---
 title: "TransCycle"
 url: /bauan/transcycle/
-shop: Motorrad
+shop: motorcycle
 ---

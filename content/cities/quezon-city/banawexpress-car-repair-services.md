@@ -1,5 +1,5 @@
 ---
 title: "BANAWEXPRESS CAR REPAIR SERVICES"
 url: /quezon-city/banawexpress-car-repair-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Getaway Tours"
 url: /manila/getaway-tours/
-shop: Reisebüro
+shop: travel agency
 ---

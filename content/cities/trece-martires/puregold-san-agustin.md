@@ -1,5 +1,5 @@
 ---
 title: "Puregold San Agustin"
 url: /trece-martires/puregold-san-agustin/
-shop: Einkaufszentrum
+shop: mall
 ---

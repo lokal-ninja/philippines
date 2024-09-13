@@ -1,5 +1,5 @@
 ---
 title: "Variety Store"
 url: /subic/variety-store/
-shop: Kramladen
+shop: variety store
 ---

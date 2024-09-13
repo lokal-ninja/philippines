@@ -1,5 +1,5 @@
 ---
 title: "Iridan Enterprise"
 url: /cagayan-de-oro/iridan-enterprise/
-shop: Gasflaschen
+shop: gas
 ---

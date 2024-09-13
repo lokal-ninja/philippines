@@ -1,5 +1,5 @@
 ---
 title: "Picture City"
 url: /tanauan/picture-city/
-shop: Foto
+shop: photo
 ---

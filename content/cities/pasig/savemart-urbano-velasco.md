@@ -1,5 +1,5 @@
 ---
 title: "SaveMart Urbano Velasco"
 url: /pasig/savemart-urbano-velasco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Res Toe Run"
 url: /baguio/res-toe-run/
-shop: Schuhe
+shop: shoes
 ---

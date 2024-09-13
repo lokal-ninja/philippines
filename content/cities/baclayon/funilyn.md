@@ -1,5 +1,5 @@
 ---
 title: "Funilyn"
 url: /baclayon/funilyn/
-shop: Reisebüro
+shop: travel agency
 ---

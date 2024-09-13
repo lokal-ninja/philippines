@@ -1,5 +1,5 @@
 ---
 title: "Manila Artden Frames"
 url: /quezon-city/manila-artden-frames/
-shop: Rahmen
+shop: frame
 ---

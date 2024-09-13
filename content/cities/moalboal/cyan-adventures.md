@@ -1,5 +1,5 @@
 ---
 title: "Cyan Adventures"
 url: /moalboal/cyan-adventures/
-shop: Reisebüro
+shop: travel agency
 ---

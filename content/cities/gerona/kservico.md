@@ -1,5 +1,5 @@
 ---
 title: "Kservico"
 url: /gerona/kservico/
-shop: Haushaltsgeräte
+shop: appliance
 ---

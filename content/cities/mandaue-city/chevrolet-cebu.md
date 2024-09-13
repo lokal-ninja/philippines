@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet Cebu"
 url: /mandaue-city/chevrolet-cebu/
-shop: Autohaus
+shop: car
 ---

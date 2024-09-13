@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Pawnshop"
 url: /general-santos/cebuana-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

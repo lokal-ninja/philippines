@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /imus/rd/
-shop: Leiher
+shop: pawnbroker
 ---

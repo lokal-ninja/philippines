@@ -1,5 +1,5 @@
 ---
 title: "Octagon"
 url: /laoag/octagon/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skygo"
 url: /calapan/skygo/
-shop: Motorrad
+shop: motorcycle
 ---

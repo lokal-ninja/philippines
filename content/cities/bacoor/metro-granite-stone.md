@@ -1,5 +1,5 @@
 ---
 title: "Metro Granite Stone"
 url: /bacoor/metro-granite-stone/
-shop: Baustoffe
+shop: trade
 ---

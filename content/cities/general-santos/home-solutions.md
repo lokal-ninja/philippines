@@ -1,5 +1,5 @@
 ---
 title: "Home Solutions"
 url: /general-santos/home-solutions/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Typewriter World"
 url: /las-pinas/typewriter-world/
-shop: Computer
+shop: computer
 ---

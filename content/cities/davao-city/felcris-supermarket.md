@@ -1,5 +1,5 @@
 ---
 title: "Felcris Supermarket"
 url: /davao-city/felcris-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

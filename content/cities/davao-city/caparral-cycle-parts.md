@@ -1,5 +1,5 @@
 ---
 title: "Caparral Cycle Parts"
 url: /davao-city/caparral-cycle-parts/
-shop: Motorrad
+shop: motorcycle
 ---

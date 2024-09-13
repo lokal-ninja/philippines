@@ -1,5 +1,5 @@
 ---
 title: "Countryside"
 url: /passi/countryside/
-shop: Lebensmittel
+shop: convenience
 ---

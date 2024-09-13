@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /pasig/treats/
-shop: Lebensmittel
+shop: convenience
 ---

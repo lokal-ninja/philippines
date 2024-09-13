@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /tarlac/rd/
-shop: Leiher
+shop: pawnbroker
 ---

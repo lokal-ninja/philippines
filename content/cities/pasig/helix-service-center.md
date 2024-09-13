@@ -1,5 +1,5 @@
 ---
 title: "Helix Service Center"
 url: /pasig/helix-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

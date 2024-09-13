@@ -1,5 +1,5 @@
 ---
 title: "Dashing Pet"
 url: /silang/dashing-pet/
-shop: Tiere
+shop: pet
 ---

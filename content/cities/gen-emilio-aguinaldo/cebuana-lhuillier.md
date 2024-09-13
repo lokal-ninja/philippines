@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /gen-emilio-aguinaldo/cebuana-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

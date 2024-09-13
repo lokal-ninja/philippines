@@ -1,5 +1,5 @@
 ---
 title: "SMJ Pawnshop"
 url: /imus/smj-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

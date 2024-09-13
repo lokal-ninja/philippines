@@ -1,5 +1,5 @@
 ---
 title: "Doggo Alley"
 url: /manila/doggo-alley/
-shop: Tiersalon
+shop: pet grooming
 ---

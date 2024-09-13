@@ -1,5 +1,5 @@
 ---
 title: "Bare Naked"
 url: /tanza/bare-naked/
-shop: Kosmetik
+shop: beauty
 ---

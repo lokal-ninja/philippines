@@ -1,5 +1,5 @@
 ---
 title: "iDesign Printing Solutions"
 url: /talisay/idesign-printing-solutions/
-shop: Kopieren
+shop: copyshop
 ---

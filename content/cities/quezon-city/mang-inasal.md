@@ -1,5 +1,5 @@
 ---
 title: "Mang Inasal"
 url: /quezon-city/mang-inasal/
-shop: Lebensmittel
+shop: convenience
 ---

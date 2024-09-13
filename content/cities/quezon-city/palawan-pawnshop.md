@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /quezon-city/palawan-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

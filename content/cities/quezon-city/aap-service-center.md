@@ -1,5 +1,5 @@
 ---
 title: "AAP Service Center"
 url: /quezon-city/aap-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

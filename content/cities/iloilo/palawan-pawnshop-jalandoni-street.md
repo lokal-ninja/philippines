@@ -1,5 +1,5 @@
 ---
 title: "Palawan Pawnshop"
 url: /iloilo/palawan-pawnshop-jalandoni-street/
-shop: Leiher
+shop: pawnbroker
 ---

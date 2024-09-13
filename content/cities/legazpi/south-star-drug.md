@@ -1,5 +1,5 @@
 ---
 title: "South Star Drug"
 url: /legazpi/south-star-drug/
-shop: Drogerie
+shop: chemist
 ---

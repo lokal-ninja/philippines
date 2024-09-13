@@ -1,5 +1,5 @@
 ---
 title: "Home Along"
 url: /trece-martires/home-along/
-shop: Elektronik
+shop: electronics
 ---

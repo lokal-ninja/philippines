@@ -1,5 +1,5 @@
 ---
 title: "Iconic"
 url: /manila/iconic/
-shop: Fahrrad
+shop: bicycle
 ---

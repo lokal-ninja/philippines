@@ -1,5 +1,5 @@
 ---
 title: "SM Araneta City"
 url: /quezon-city/sm-araneta-city/
-shop: Einkaufszentrum
+shop: mall
 ---

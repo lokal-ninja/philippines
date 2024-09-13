@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /imus/alfamart-6/
-shop: Lebensmittel
+shop: convenience
 ---

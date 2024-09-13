@@ -1,5 +1,5 @@
 ---
 title: "Lyric Studio"
 url: /manila/lyric-studio/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rusi"
 url: /taguig/rusi/
-shop: Motorrad
+shop: motorcycle
 ---

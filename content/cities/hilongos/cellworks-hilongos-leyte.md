@@ -1,5 +1,5 @@
 ---
 title: "Cellworks Hilongos, Leyte"
 url: /hilongos/cellworks-hilongos-leyte/
-shop: Elektronik
+shop: electronics
 ---

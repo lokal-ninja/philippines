@@ -1,5 +1,5 @@
 ---
 title: "HLBL Mart"
 url: /las-pinas/hlbl-mart/
-shop: Drogerie
+shop: chemist
 ---

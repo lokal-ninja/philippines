@@ -1,5 +1,5 @@
 ---
 title: "Bright Maritime Corporation"
 url: /manila/bright-maritime-corporation/
-shop: Reisebüro
+shop: travel agency
 ---

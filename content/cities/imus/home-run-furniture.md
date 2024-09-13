@@ -1,5 +1,5 @@
 ---
 title: "Home Run Furniture"
 url: /imus/home-run-furniture/
-shop: Möbel
+shop: furniture
 ---

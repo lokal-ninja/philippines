@@ -1,5 +1,5 @@
 ---
 title: "Philip"
 url: /makati/philip/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /kawit/rd/
-shop: Leiher
+shop: pawnbroker
 ---

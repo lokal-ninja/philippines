@@ -1,5 +1,5 @@
 ---
 title: "Tile Express Shop"
 url: /taguig/tile-express-shop/
-shop: Eisenwaren
+shop: hardware
 ---

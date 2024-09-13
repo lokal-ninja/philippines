@@ -1,5 +1,5 @@
 ---
 title: "Sacred Heart Car Care Center"
 url: /digos-city/sacred-heart-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

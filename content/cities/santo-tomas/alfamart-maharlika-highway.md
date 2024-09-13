@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /santo-tomas/alfamart-maharlika-highway/
-shop: Lebensmittel
+shop: convenience
 ---

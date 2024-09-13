@@ -1,5 +1,5 @@
 ---
 title: "Kooke House"
 url: /laoag/kooke-house-m-nolasco-street/
-shop: Bäckerei
+shop: bakery
 ---

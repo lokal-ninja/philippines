@@ -1,5 +1,5 @@
 ---
 title: "Warehouse"
 url: /tacloban-city/warehouse/
-shop: Tiefkühl
+shop: frozen food
 ---

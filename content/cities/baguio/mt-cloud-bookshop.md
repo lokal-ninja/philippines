@@ -1,5 +1,5 @@
 ---
 title: "Mt. Cloud Bookshop"
 url: /baguio/mt-cloud-bookshop/
-shop: Bücher
+shop: books
 ---

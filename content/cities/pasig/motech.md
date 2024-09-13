@@ -1,5 +1,5 @@
 ---
 title: "Motech"
 url: /pasig/motech/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Landmark"
 url: /taguig/landmark/
-shop: Supermarkt
+shop: supermarket
 ---

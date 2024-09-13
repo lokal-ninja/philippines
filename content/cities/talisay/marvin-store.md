@@ -1,5 +1,5 @@
 ---
 title: "Marvin Store"
 url: /talisay/marvin-store/
-shop: Kramladen
+shop: variety store
 ---

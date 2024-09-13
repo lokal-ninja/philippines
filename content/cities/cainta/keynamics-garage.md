@@ -1,5 +1,5 @@
 ---
 title: "Keynamics Garage"
 url: /cainta/keynamics-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /las-pinas/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

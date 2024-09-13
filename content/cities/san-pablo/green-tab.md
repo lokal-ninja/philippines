@@ -1,5 +1,5 @@
 ---
 title: "Green Tab"
 url: /san-pablo/green-tab/
-shop: Handy
+shop: mobile phone
 ---

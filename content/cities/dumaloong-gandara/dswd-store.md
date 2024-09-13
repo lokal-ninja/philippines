@@ -1,5 +1,5 @@
 ---
 title: "DSWD Store"
 url: /dumaloong-gandara/dswd-store/
-shop: Kramladen
+shop: variety store
 ---

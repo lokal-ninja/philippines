@@ -1,5 +1,5 @@
 ---
 title: "Curves"
 url: /tanza/curves/
-shop: Kosmetik
+shop: beauty
 ---

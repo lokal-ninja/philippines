@@ -1,5 +1,5 @@
 ---
 title: "Tire Smart lanang"
 url: /davao-city/tire-smart-lanang/
-shop: Autoteile
+shop: car parts
 ---

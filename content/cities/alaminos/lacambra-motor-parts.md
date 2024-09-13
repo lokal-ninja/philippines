@@ -1,5 +1,5 @@
 ---
 title: "Lacambra Motor Parts"
 url: /alaminos/lacambra-motor-parts/
-shop: Motorrad
+shop: motorcycle
 ---

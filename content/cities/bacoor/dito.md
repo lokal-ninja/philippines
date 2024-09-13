@@ -1,5 +1,5 @@
 ---
 title: "Dito"
 url: /bacoor/dito/
-shop: Handy
+shop: mobile phone
 ---

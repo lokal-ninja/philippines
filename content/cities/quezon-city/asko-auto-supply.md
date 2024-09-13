@@ -1,5 +1,5 @@
 ---
 title: "Asko Auto Supply"
 url: /quezon-city/asko-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

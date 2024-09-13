@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /general-trias/uncle-johns/
-shop: Lebensmittel
+shop: convenience
 ---

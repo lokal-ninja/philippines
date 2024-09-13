@@ -1,5 +1,5 @@
 ---
 title: "Pusong Mamon"
 url: /pagsanjan/pusong-mamon/
-shop: Süßwaren
+shop: confectionery
 ---

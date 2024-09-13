@@ -1,5 +1,5 @@
 ---
 title: "Melchie Salon"
 url: /bacoor/melchie-salon/
-shop: Kosmetik
+shop: beauty
 ---

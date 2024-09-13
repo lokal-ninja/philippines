@@ -1,5 +1,5 @@
 ---
 title: "Big Brands"
 url: /imus/big-brands/
-shop: Kleidung
+shop: clothes
 ---

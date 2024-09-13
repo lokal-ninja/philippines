@@ -1,5 +1,5 @@
 ---
 title: "Eye Society"
 url: /taguig/eye-society/
-shop: Optiker
+shop: optician
 ---

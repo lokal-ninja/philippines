@@ -1,5 +1,5 @@
 ---
 title: "Erjaes Store"
 url: /angeles/erjaes-store/
-shop: Lebensmittel
+shop: convenience
 ---

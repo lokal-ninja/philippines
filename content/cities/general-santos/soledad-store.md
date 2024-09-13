@@ -1,5 +1,5 @@
 ---
 title: "Soledad Store"
 url: /general-santos/soledad-store/
-shop: Kramladen
+shop: variety store
 ---

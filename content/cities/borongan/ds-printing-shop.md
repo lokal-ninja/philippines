@@ -1,5 +1,5 @@
 ---
 title: "DS Printing Shop"
 url: /borongan/ds-printing-shop/
-shop: Kopieren
+shop: copyshop
 ---

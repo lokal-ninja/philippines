@@ -1,5 +1,5 @@
 ---
 title: "Clawsified"
 url: /silang/clawsified/
-shop: Kosmetik
+shop: beauty
 ---

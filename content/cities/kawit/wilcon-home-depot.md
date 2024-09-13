@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Home Depot"
 url: /kawit/wilcon-home-depot/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Depot"
 url: /santo-tomas/wilcon-depot/
-shop: Eisenwaren
+shop: hardware
 ---

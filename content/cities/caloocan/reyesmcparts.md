@@ -1,5 +1,5 @@
 ---
 title: "Reyesmcparts"
 url: /caloocan/reyesmcparts/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palawan"
 url: /datu-odin-sinsuat/palawan/
-shop: Leiher
+shop: pawnbroker
 ---

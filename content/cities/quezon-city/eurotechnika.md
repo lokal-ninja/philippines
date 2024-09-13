@@ -1,5 +1,5 @@
 ---
 title: "Eurotechnika"
 url: /quezon-city/eurotechnika/
-shop: Autoteile
+shop: car parts
 ---

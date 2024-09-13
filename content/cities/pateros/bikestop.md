@@ -1,5 +1,5 @@
 ---
 title: "Bikestop"
 url: /pateros/bikestop/
-shop: Fahrrad
+shop: bicycle
 ---

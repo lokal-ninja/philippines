@@ -1,5 +1,5 @@
 ---
 title: "S Maison"
 url: /pasay/s-maison/
-shop: Einkaufszentrum
+shop: mall
 ---

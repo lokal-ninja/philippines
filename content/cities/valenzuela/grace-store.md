@@ -1,5 +1,5 @@
 ---
 title: "Grace Store"
 url: /valenzuela/grace-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aseanmart"
 url: /baguio/aseanmart/
-shop: Supermarkt
+shop: supermarket
 ---

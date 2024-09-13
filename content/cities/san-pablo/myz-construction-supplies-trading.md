@@ -1,5 +1,5 @@
 ---
 title: "Myz Construction Supplies Trading"
 url: /san-pablo/myz-construction-supplies-trading/
-shop: Eisenwaren
+shop: hardware
 ---

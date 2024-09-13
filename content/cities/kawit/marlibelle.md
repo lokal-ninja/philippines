@@ -1,5 +1,5 @@
 ---
 title: "Marlibelle"
 url: /kawit/marlibelle/
-shop: Kramladen
+shop: variety store
 ---

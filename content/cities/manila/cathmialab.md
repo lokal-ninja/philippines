@@ -1,5 +1,5 @@
 ---
 title: "Cathmialab"
 url: /manila/cathmialab/
-shop: Lebensmittel
+shop: convenience
 ---

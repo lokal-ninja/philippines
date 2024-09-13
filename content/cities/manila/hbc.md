@@ -1,5 +1,5 @@
 ---
 title: "HBC"
 url: /manila/hbc/
-shop: Kosmetik
+shop: beauty
 ---

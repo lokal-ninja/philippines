@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /imus/alfamart-anabu-road/
-shop: Lebensmittel
+shop: convenience
 ---

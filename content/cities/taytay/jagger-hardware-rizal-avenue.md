@@ -1,5 +1,5 @@
 ---
 title: "Jagger Hardware"
 url: /taytay/jagger-hardware-rizal-avenue/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RD"
 url: /manila/rd/
-shop: Leiher
+shop: pawnbroker
 ---

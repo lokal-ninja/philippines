@@ -1,5 +1,5 @@
 ---
 title: "All About Baking"
 url: /tanza/all-about-baking/
-shop: Bäckerei
+shop: bakery
 ---

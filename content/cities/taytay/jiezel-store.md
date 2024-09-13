@@ -1,5 +1,5 @@
 ---
 title: "Jiezel Store"
 url: /taytay/jiezel-store/
-shop: Lebensmittel
+shop: convenience
 ---

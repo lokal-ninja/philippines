@@ -1,5 +1,5 @@
 ---
 title: "Rapidé"
 url: /las-pinas/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

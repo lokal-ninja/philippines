@@ -1,5 +1,5 @@
 ---
 title: "JH Car Battery Center"
 url: /imus/jh-car-battery-center/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda Bikes"
 url: /mandaluyong/honda-bikes/
-shop: Motorrad
+shop: motorcycle
 ---

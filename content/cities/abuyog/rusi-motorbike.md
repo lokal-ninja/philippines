@@ -1,5 +1,5 @@
 ---
 title: "Rusi Motorbike"
 url: /abuyog/rusi-motorbike/
-shop: Motorrad
+shop: motorcycle
 ---

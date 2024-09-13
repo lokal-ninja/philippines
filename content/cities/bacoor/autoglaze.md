@@ -1,5 +1,5 @@
 ---
 title: "Autoglaze"
 url: /bacoor/autoglaze/
-shop: Autowerkstatt
+shop: car repair
 ---

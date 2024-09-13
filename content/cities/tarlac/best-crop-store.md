@@ -1,5 +1,5 @@
 ---
 title: "Best Crop Store"
 url: /tarlac/best-crop-store/
-shop: Lebensmittel
+shop: convenience
 ---

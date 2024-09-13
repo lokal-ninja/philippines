@@ -1,5 +1,5 @@
 ---
 title: "Toyota Cars General Santos"
 url: /general-santos/toyota-cars-general-santos/
-shop: Autohaus
+shop: car
 ---

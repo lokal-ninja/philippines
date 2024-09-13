@@ -1,5 +1,5 @@
 ---
 title: "CameraHaus Plus"
 url: /pasay/camerahaus-plus/
-shop: Kamera
+shop: camera
 ---

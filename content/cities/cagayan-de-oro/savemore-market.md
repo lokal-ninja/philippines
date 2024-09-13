@@ -1,5 +1,5 @@
 ---
 title: "Savemore Market"
 url: /cagayan-de-oro/savemore-market/
-shop: Supermarkt
+shop: supermarket
 ---

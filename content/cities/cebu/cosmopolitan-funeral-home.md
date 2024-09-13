@@ -1,5 +1,5 @@
 ---
 title: "Cosmopolitan Funeral Home"
 url: /cebu/cosmopolitan-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

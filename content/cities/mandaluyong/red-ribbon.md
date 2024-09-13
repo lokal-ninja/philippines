@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
 url: /mandaluyong/red-ribbon/
-shop: Konditorei
+shop: pastry
 ---

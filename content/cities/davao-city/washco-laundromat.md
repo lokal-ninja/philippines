@@ -1,5 +1,5 @@
 ---
 title: "Washco Laundromat"
 url: /davao-city/washco-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

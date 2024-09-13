@@ -1,5 +1,5 @@
 ---
 title: "TRANSCYCLE"
 url: /laoag/transcycle/
-shop: Motorrad
+shop: motorcycle
 ---

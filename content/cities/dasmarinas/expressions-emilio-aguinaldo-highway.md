@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /dasmarinas/expressions-emilio-aguinaldo-highway/
-shop: Schreibwaren
+shop: office supplies
 ---

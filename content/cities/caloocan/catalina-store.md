@@ -1,5 +1,5 @@
 ---
 title: "Catalina Store"
 url: /caloocan/catalina-store/
-shop: Kramladen
+shop: variety store
 ---

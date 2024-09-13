@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /pasay/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Win Fair Supermarket"
 url: /moncada/win-fair-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servant"
 url: /kawit/servant/
-shop: Wäscherei
+shop: laundry
 ---

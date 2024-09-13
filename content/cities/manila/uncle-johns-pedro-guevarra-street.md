@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /manila/uncle-johns-pedro-guevarra-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /pasig/uncle-johns-adb-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

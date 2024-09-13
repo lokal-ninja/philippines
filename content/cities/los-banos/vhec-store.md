@@ -1,5 +1,5 @@
 ---
 title: "Vhec Store"
 url: /los-banos/vhec-store/
-shop: Lebensmittel
+shop: convenience
 ---

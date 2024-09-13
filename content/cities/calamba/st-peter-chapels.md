@@ -1,5 +1,5 @@
 ---
 title: "St. Peter Chapels"
 url: /calamba/st-peter-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

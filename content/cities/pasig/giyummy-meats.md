@@ -1,5 +1,5 @@
 ---
 title: "Giyummy Meats"
 url: /pasig/giyummy-meats/
-shop: Metzgerei
+shop: butcher
 ---

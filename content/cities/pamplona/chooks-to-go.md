@@ -1,5 +1,5 @@
 ---
 title: "Chooks to Go"
 url: /pamplona/chooks-to-go/
-shop: Lebensmittel
+shop: convenience
 ---

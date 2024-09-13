@@ -1,5 +1,5 @@
 ---
 title: "Yhamz"
 url: /sigma/yhamz/
-shop: Motorrad
+shop: motorcycle
 ---

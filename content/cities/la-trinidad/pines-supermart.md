@@ -1,5 +1,5 @@
 ---
 title: "Pines Supermart"
 url: /la-trinidad/pines-supermart/
-shop: Supermarkt
+shop: supermarket
 ---

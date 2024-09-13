@@ -1,5 +1,5 @@
 ---
 title: "EMRD Store"
 url: /bacoor/emrd-store/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

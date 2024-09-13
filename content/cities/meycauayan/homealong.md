@@ -1,5 +1,5 @@
 ---
 title: "HomeAlong"
 url: /meycauayan/homealong/
-shop: Haushaltsartikel
+shop: houseware
 ---

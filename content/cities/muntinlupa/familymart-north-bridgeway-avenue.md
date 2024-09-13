@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /muntinlupa/familymart-north-bridgeway-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

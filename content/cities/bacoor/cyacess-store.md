@@ -1,5 +1,5 @@
 ---
 title: "Cyacess Store"
 url: /bacoor/cyacess-store/
-shop: Kramladen
+shop: variety store
 ---

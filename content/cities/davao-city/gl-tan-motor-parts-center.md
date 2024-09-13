@@ -1,5 +1,5 @@
 ---
 title: "GL TAN Motor Parts Center"
 url: /davao-city/gl-tan-motor-parts-center/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /imus/adidas/
-shop: Schuhe
+shop: shoes
 ---

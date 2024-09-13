@@ -1,5 +1,5 @@
 ---
 title: "Unitop"
 url: /baliwag/unitop/
-shop: Einkaufszentrum
+shop: mall
 ---

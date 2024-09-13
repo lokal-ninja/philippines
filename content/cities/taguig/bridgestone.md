@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /taguig/bridgestone/
-shop: Reifen
+shop: tyres
 ---

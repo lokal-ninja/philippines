@@ -1,5 +1,5 @@
 ---
 title: "Savemore Market"
 url: /manila/savemore-market-espana-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

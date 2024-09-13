@@ -1,5 +1,5 @@
 ---
 title: "J10 Inc."
 url: /makati/j10-inc-newton/
-shop: Autowerkstatt
+shop: car repair
 ---

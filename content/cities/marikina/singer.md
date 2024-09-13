@@ -1,5 +1,5 @@
 ---
 title: "Singer"
 url: /marikina/singer/
-shop: Dorfladen
+shop: general
 ---

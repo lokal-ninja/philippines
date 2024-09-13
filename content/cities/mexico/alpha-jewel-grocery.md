@@ -1,5 +1,5 @@
 ---
 title: "Alpha Jewel Grocery"
 url: /mexico/alpha-jewel-grocery/
-shop: Dorfladen
+shop: general
 ---

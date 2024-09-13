@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /pasig/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

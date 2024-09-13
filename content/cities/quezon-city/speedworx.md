@@ -1,5 +1,5 @@
 ---
 title: "Speedworx"
 url: /quezon-city/speedworx/
-shop: Fahrrad
+shop: bicycle
 ---

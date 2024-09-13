@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Easymart"
 url: /pasig/robinsons-easymart/
-shop: Supermarkt
+shop: supermarket
 ---

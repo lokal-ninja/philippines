@@ -1,5 +1,5 @@
 ---
 title: "Eversure"
 url: /general-santos/eversure/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /taguig/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

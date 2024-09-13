@@ -1,5 +1,5 @@
 ---
 title: "Afficionado"
 url: /tanza/afficionado/
-shop: Parfümerie
+shop: perfumery
 ---

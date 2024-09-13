@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /quezon-city/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

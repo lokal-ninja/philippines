@@ -1,5 +1,5 @@
 ---
 title: "Car Care Center"
 url: /pasig/car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

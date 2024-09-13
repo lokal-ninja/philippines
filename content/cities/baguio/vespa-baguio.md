@@ -1,5 +1,5 @@
 ---
 title: "Vespa Baguio"
 url: /baguio/vespa-baguio/
-shop: Motorrad
+shop: motorcycle
 ---

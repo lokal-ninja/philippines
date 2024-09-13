@@ -1,5 +1,5 @@
 ---
 title: "Petron Gasul"
 url: /cabugao/petron-gasul/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megadrops"
 url: /baguio/megadrops/
-shop: Wasser
+shop: water
 ---

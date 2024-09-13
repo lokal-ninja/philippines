@@ -1,5 +1,5 @@
 ---
 title: "PetBuddy"
 url: /bacoor/petbuddy/
-shop: Tiersalon
+shop: pet grooming
 ---

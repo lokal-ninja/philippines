@@ -1,5 +1,5 @@
 ---
 title: "A Shop"
 url: /quezon-city/a-shop/
-shop: Computer
+shop: computer
 ---

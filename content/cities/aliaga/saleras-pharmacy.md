@@ -1,5 +1,5 @@
 ---
 title: "Saleras Pharmacy"
 url: /aliaga/saleras-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

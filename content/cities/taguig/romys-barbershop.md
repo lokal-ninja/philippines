@@ -1,5 +1,5 @@
 ---
 title: "Romy's Barbershop"
 url: /taguig/romys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

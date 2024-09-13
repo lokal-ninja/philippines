@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier PawnShop"
 url: /alcala/m-lhuillier-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

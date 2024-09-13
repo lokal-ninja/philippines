@@ -1,5 +1,5 @@
 ---
 title: "Vivo"
 url: /batac/vivo/
-shop: Handy
+shop: mobile phone
 ---

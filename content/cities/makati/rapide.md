@@ -1,5 +1,5 @@
 ---
 title: "Rapide"
 url: /makati/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CopperBlue"
 url: /paranaque/copperblue/
-shop: Autoteile
+shop: car parts
 ---

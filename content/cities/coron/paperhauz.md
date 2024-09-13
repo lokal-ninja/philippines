@@ -1,5 +1,5 @@
 ---
 title: "Paperhauz"
 url: /coron/paperhauz/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NF Motorparts"
 url: /dumaguete/nf-motorparts/
-shop: Motorrad
+shop: motorcycle
 ---

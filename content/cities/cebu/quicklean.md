@@ -1,5 +1,5 @@
 ---
 title: "quicklean"
 url: /cebu/quicklean/
-shop: Wäscherei
+shop: laundry
 ---

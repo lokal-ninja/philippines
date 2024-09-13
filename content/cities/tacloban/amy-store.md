@@ -1,5 +1,5 @@
 ---
 title: "Amy Store"
 url: /tacloban/amy-store/
-shop: Dorfladen
+shop: general
 ---

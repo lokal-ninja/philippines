@@ -1,5 +1,5 @@
 ---
 title: "Isuzu"
 url: /meycauayan/isuzu/
-shop: Autohaus
+shop: car
 ---

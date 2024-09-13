@@ -1,5 +1,5 @@
 ---
 title: "Technokid"
 url: /pasay/technokid/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greentelcom"
 url: /sariaya/greentelcom/
-shop: Handy
+shop: mobile phone
 ---

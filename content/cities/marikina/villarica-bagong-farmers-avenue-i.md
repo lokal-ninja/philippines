@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /marikina/villarica-bagong-farmers-avenue-i/
-shop: Leiher
+shop: pawnbroker
 ---

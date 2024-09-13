@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /valenzuela/handyman/
-shop: Eisenwaren
+shop: hardware
 ---

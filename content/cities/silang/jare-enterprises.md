@@ -1,5 +1,5 @@
 ---
 title: "Jare Enterprises"
 url: /silang/jare-enterprises/
-shop: Motorrad
+shop: motorcycle
 ---

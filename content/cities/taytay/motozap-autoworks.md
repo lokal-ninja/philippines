@@ -1,5 +1,5 @@
 ---
 title: "Motozap Autoworks"
 url: /taytay/motozap-autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

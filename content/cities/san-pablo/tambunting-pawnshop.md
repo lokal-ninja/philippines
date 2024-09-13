@@ -1,5 +1,5 @@
 ---
 title: "Tambunting Pawnshop"
 url: /san-pablo/tambunting-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

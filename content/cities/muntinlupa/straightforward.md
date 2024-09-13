@@ -1,5 +1,5 @@
 ---
 title: "Straightforward"
 url: /muntinlupa/straightforward/
-shop: Modehaus
+shop: boutique
 ---

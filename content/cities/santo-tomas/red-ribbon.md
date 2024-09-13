@@ -1,5 +1,5 @@
 ---
 title: "Red Ribbon"
 url: /santo-tomas/red-ribbon/
-shop: Bäckerei
+shop: bakery
 ---

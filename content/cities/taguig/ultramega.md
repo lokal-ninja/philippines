@@ -1,5 +1,5 @@
 ---
 title: "Ultramega"
 url: /taguig/ultramega/
-shop: Supermarkt
+shop: supermarket
 ---

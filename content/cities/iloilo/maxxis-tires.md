@@ -1,5 +1,5 @@
 ---
 title: "Maxxis Tires"
 url: /iloilo/maxxis-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

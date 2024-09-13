@@ -1,5 +1,5 @@
 ---
 title: "Pryce Gas"
 url: /cagayan-de-oro-city/pryce-gas/
-shop: Gasflaschen
+shop: gas
 ---

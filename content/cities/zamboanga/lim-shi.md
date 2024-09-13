@@ -1,5 +1,5 @@
 ---
 title: "Lim Shi"
 url: /zamboanga/lim-shi/
-shop: Warenhaus
+shop: department store
 ---

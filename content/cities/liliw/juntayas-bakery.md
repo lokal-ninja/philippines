@@ -1,5 +1,5 @@
 ---
 title: "Juntayas Bakery"
 url: /liliw/juntayas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

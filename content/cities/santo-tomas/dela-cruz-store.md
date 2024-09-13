@@ -1,5 +1,5 @@
 ---
 title: "Dela Cruz Store"
 url: /santo-tomas/dela-cruz-store/
-shop: Lebensmittel
+shop: convenience
 ---

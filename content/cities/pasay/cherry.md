@@ -1,5 +1,5 @@
 ---
 title: "Cherry"
 url: /pasay/cherry/
-shop: Handy
+shop: mobile phone
 ---

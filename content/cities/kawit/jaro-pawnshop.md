@@ -1,5 +1,5 @@
 ---
 title: "Jaro Pawnshop"
 url: /kawit/jaro-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Appliance Plaza"
 url: /surigao/quality-appliance-plaza/
-shop: Elektronik
+shop: electronics
 ---

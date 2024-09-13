@@ -1,5 +1,5 @@
 ---
 title: "Edong Store"
 url: /lucena/edong-store/
-shop: Lebensmittel
+shop: convenience
 ---

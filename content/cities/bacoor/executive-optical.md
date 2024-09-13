@@ -1,5 +1,5 @@
 ---
 title: "Executive Optical"
 url: /bacoor/executive-optical/
-shop: Optiker
+shop: optician
 ---

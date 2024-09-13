@@ -1,5 +1,5 @@
 ---
 title: "Carland"
 url: /makati/carland/
-shop: Autowerkstatt
+shop: car repair
 ---

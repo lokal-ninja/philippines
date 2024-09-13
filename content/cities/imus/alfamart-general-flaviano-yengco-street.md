@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /imus/alfamart-general-flaviano-yengco-street/
-shop: Lebensmittel
+shop: convenience
 ---

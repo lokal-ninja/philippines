@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /makati/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

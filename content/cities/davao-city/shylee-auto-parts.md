@@ -1,5 +1,5 @@
 ---
 title: "Shylee Auto Parts"
 url: /davao-city/shylee-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

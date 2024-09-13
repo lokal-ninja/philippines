@@ -1,5 +1,5 @@
 ---
 title: "Ropali"
 url: /alaminos/ropali/
-shop: Motorrad
+shop: motorcycle
 ---

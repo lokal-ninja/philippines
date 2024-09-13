@@ -1,5 +1,5 @@
 ---
 title: "Rapide"
 url: /taytay/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SolarFlow Solutionz"
 url: /manila/solarflow-solutionz/
-shop: Elektronik
+shop: electronics
 ---

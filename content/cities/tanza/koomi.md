@@ -1,5 +1,5 @@
 ---
 title: "Koomi"
 url: /tanza/koomi/
-shop: Getränke
+shop: beverages
 ---

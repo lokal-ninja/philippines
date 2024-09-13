@@ -1,5 +1,5 @@
 ---
 title: "Charmaine Furniture"
 url: /city-of-naga/charmaine-furniture/
-shop: Möbel
+shop: furniture
 ---

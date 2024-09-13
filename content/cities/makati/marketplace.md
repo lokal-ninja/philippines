@@ -1,5 +1,5 @@
 ---
 title: "Marketplace"
 url: /makati/marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Excel Pawnshop"
 url: /puerto-princesa/excel-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

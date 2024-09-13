@@ -1,5 +1,5 @@
 ---
 title: "Alicel Laundry Shoppe"
 url: /san-pablo/alicel-laundry-shoppe/
-shop: Wäscherei
+shop: laundry
 ---

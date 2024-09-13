@@ -1,5 +1,5 @@
 ---
 title: "San Roque Supermarket"
 url: /pasig/san-roque-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

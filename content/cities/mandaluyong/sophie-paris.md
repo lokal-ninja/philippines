@@ -1,5 +1,5 @@
 ---
 title: "Sophie Paris"
 url: /mandaluyong/sophie-paris/
-shop: Kleidung
+shop: clothes
 ---

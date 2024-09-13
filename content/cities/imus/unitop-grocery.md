@@ -1,5 +1,5 @@
 ---
 title: "Unitop Grocery"
 url: /imus/unitop-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

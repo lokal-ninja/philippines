@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /lupon/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

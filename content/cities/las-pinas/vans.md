@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /las-pinas/vans/
-shop: Schuhe
+shop: shoes
 ---

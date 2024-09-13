@@ -1,5 +1,5 @@
 ---
 title: "Blade"
 url: /pasay/blade/
-shop: Autoteile
+shop: car parts
 ---

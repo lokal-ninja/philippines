@@ -1,5 +1,5 @@
 ---
 title: "Perfect Circle"
 url: /quezon-city/perfect-circle/
-shop: Autoteile
+shop: car parts
 ---

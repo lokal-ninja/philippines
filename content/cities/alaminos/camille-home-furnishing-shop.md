@@ -1,5 +1,5 @@
 ---
 title: "Camille Home Furnishing Shop"
 url: /alaminos/camille-home-furnishing-shop/
-shop: Baustoffe
+shop: trade
 ---

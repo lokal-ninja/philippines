@@ -1,5 +1,5 @@
 ---
 title: "Ciongfil Feeds"
 url: /digos-city/ciongfil-feeds/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

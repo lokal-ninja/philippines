@@ -1,5 +1,5 @@
 ---
 title: "Alvin Bike Shop"
 url: /dulag/alvin-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

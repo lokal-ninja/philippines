@@ -1,5 +1,5 @@
 ---
 title: "Lorca Store"
 url: /paranaque/lorca-store/
-shop: Lebensmittel
+shop: convenience
 ---

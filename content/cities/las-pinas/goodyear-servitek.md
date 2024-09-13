@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Servitek"
 url: /las-pinas/goodyear-servitek/
-shop: Autowerkstatt
+shop: car repair
 ---

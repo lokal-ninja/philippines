@@ -1,5 +1,5 @@
 ---
 title: "Bibingkinitan"
 url: /tanza/bibingkinitan/
-shop: Bäckerei
+shop: bakery
 ---

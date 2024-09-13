@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /davao-city/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /las-pinas/tambunting/
-shop: Leiher
+shop: pawnbroker
 ---

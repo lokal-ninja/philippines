@@ -1,5 +1,5 @@
 ---
 title: "Alpha Lifestyle"
 url: /tanza/alpha-lifestyle/
-shop: Kleidung
+shop: clothes
 ---

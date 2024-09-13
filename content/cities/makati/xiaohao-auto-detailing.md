@@ -1,5 +1,5 @@
 ---
 title: "Xiaohao Auto Detailing"
 url: /makati/xiaohao-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

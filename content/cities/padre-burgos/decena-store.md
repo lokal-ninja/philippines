@@ -1,5 +1,5 @@
 ---
 title: "Decena Store"
 url: /padre-burgos/decena-store/
-shop: Lebensmittel
+shop: convenience
 ---

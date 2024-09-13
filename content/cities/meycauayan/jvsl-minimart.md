@@ -1,5 +1,5 @@
 ---
 title: "JVSL Minimart"
 url: /meycauayan/jvsl-minimart/
-shop: Lebensmittel
+shop: convenience
 ---

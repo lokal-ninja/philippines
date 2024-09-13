@@ -1,5 +1,5 @@
 ---
 title: "Mendrez"
 url: /tarlac/mendrez/
-shop: Schuhe
+shop: shoes
 ---

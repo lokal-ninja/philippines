@@ -1,5 +1,5 @@
 ---
 title: "Hobbies of Asia"
 url: /pasay/hobbies-of-asia/
-shop: Einkaufszentrum
+shop: mall
 ---

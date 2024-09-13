@@ -1,5 +1,5 @@
 ---
 title: "M Lhuillier"
 url: /mexico/m-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

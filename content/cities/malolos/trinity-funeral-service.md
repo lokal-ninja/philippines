@@ -1,5 +1,5 @@
 ---
 title: "Trinity Funeral Service"
 url: /malolos/trinity-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

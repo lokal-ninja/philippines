@@ -1,5 +1,5 @@
 ---
 title: "Rapide"
 url: /marikina/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

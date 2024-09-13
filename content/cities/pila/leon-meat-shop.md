@@ -1,5 +1,5 @@
 ---
 title: "Leon Meat Shop"
 url: /pila/leon-meat-shop/
-shop: Metzgerei
+shop: butcher
 ---

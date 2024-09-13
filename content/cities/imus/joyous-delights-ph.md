@@ -1,5 +1,5 @@
 ---
 title: "Joyous Delights PH"
 url: /imus/joyous-delights-ph/
-shop: Konditorei
+shop: pastry
 ---

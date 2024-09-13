@@ -1,5 +1,5 @@
 ---
 title: "Jenboy Motorshop"
 url: /taguig-city/jenboy-motorshop/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mandaue Foam Home Store"
 url: /lipa/mandaue-foam-home-store/
-shop: Betten
+shop: bed
 ---

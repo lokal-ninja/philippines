@@ -1,5 +1,5 @@
 ---
 title: "Italvil Auto Supply"
 url: /alaminos/italvil-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

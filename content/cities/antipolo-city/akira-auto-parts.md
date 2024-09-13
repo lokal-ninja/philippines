@@ -1,5 +1,5 @@
 ---
 title: "Akira Auto Parts"
 url: /antipolo-city/akira-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

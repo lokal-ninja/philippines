@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /batangas-city/familymart/
-shop: Lebensmittel
+shop: convenience
 ---

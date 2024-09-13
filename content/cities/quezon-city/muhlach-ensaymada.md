@@ -1,5 +1,5 @@
 ---
 title: "Muhlach Ensaymada"
 url: /quezon-city/muhlach-ensaymada/
-shop: Konditorei
+shop: pastry
 ---

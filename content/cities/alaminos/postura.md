@@ -1,5 +1,5 @@
 ---
 title: "Postura"
 url: /alaminos/postura/
-shop: Friseur
+shop: hairdresser
 ---

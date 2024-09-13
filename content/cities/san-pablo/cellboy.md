@@ -1,5 +1,5 @@
 ---
 title: "Cellboy"
 url: /san-pablo/cellboy/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
 url: /imus/national-book-store-aguinaldo-highway/
-shop: Bücher
+shop: books
 ---

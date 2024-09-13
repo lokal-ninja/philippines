@@ -1,5 +1,5 @@
 ---
 title: "Uncle John's"
 url: /legazpi/uncle-johns/
-shop: Lebensmittel
+shop: convenience
 ---

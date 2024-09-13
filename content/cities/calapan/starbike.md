@@ -1,5 +1,5 @@
 ---
 title: "Starbike"
 url: /calapan/starbike/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julie's Bakeshop"
 url: /tagum-city/julies-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

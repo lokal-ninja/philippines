@@ -1,5 +1,5 @@
 ---
 title: "MJ Electrical"
 url: /marikina/mj-electrical/
-shop: Radiotechnik
+shop: radiotechnics
 ---

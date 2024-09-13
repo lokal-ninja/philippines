@@ -1,5 +1,5 @@
 ---
 title: "JGM Motorcycle Parts Center"
 url: /cabanatuan-city/jgm-motorcycle-parts-center/
-shop: Allgemein
+shop: shop
 ---

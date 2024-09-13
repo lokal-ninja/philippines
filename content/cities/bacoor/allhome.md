@@ -1,5 +1,5 @@
 ---
 title: "AllHome"
 url: /bacoor/allhome/
-shop: Eisenwaren
+shop: hardware
 ---

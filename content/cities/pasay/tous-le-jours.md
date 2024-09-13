@@ -1,5 +1,5 @@
 ---
 title: "Tous le Jours"
 url: /pasay/tous-le-jours/
-shop: Bäckerei
+shop: bakery
 ---

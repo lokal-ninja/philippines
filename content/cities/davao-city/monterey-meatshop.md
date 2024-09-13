@@ -1,5 +1,5 @@
 ---
 title: "Monterey Meatshop"
 url: /davao-city/monterey-meatshop/
-shop: Metzgerei
+shop: butcher
 ---

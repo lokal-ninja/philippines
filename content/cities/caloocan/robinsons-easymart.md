@@ -1,5 +1,5 @@
 ---
 title: "Robinsons Easymart"
 url: /caloocan/robinsons-easymart/
-shop: Supermarkt
+shop: supermarket
 ---

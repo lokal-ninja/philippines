@@ -1,5 +1,5 @@
 ---
 title: "PLDT"
 url: /cainta/pldt/
-shop: Handy
+shop: mobile phone
 ---

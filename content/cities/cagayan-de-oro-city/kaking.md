@@ -1,5 +1,5 @@
 ---
 title: "Kaking"
 url: /cagayan-de-oro-city/kaking/
-shop: Kramladen
+shop: variety store
 ---

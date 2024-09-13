@@ -1,5 +1,5 @@
 ---
 title: "Athesa's Shoppe"
 url: /zamboanga-city/athesas-shoppe/
-shop: Supermarkt
+shop: supermarket
 ---

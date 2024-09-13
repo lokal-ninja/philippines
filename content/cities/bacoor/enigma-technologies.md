@@ -1,5 +1,5 @@
 ---
 title: "Enigma Technologies"
 url: /bacoor/enigma-technologies/
-shop: Computer
+shop: computer
 ---

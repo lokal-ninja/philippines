@@ -1,5 +1,5 @@
 ---
 title: "St. Paul"
 url: /dasmarinas/st-paul/
-shop: Religion
+shop: religion
 ---

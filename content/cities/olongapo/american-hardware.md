@@ -1,5 +1,5 @@
 ---
 title: "American Hardware"
 url: /olongapo/american-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

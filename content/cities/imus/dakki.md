@@ -1,5 +1,5 @@
 ---
 title: "Dakki"
 url: /imus/dakki/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vialago Autorepair Shop"
 url: /quezon-city/vialago-autorepair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

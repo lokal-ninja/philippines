@@ -1,5 +1,5 @@
 ---
 title: "National Book Store"
 url: /bacoor/national-book-store-daang-hari/
-shop: Bücher
+shop: books
 ---

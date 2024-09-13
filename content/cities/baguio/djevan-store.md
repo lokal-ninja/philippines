@@ -1,5 +1,5 @@
 ---
 title: "D'Jevan Store"
 url: /baguio/djevan-store/
-shop: Lebensmittel
+shop: convenience
 ---

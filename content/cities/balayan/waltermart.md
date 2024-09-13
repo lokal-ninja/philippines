@@ -1,5 +1,5 @@
 ---
 title: "WalterMart"
 url: /balayan/waltermart/
-shop: Einkaufszentrum
+shop: mall
 ---

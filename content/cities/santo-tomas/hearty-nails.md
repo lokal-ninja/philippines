@@ -1,5 +1,5 @@
 ---
 title: "Hearty Nails"
 url: /santo-tomas/hearty-nails/
-shop: Kosmetik
+shop: beauty
 ---

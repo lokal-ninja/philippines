@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /marikina/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

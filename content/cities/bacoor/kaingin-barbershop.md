@@ -1,5 +1,5 @@
 ---
 title: "Kaingin Barbershop"
 url: /bacoor/kaingin-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

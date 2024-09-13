@@ -1,5 +1,5 @@
 ---
 title: "Pet Wellness Center"
 url: /quezon-city/pet-wellness-center/
-shop: Tiersalon
+shop: pet grooming
 ---

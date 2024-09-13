@@ -1,5 +1,5 @@
 ---
 title: "Ian's Store"
 url: /los-banos/ians-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skyquest"
 url: /los-banos/skyquest/
-shop: Reisebüro
+shop: travel agency
 ---

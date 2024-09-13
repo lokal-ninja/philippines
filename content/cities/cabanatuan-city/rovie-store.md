@@ -1,5 +1,5 @@
 ---
 title: "Rovie Store"
 url: /cabanatuan-city/rovie-store/
-shop: Lebensmittel
+shop: convenience
 ---

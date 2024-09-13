@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /caloocan/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

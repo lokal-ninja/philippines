@@ -1,5 +1,5 @@
 ---
 title: "Carsthetics Philippines"
 url: /quezon-city/carsthetics-philippines/
-shop: Autoteile
+shop: car parts
 ---

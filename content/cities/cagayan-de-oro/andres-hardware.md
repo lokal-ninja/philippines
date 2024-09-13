@@ -1,5 +1,5 @@
 ---
 title: "andre's hardware"
 url: /cagayan-de-oro/andres-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

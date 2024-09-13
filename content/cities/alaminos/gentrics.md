@@ -1,5 +1,5 @@
 ---
 title: "Gentrics"
 url: /alaminos/gentrics/
-shop: Baustoffe
+shop: trade
 ---

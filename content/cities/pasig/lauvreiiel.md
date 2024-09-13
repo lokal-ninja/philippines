@@ -1,5 +1,5 @@
 ---
 title: "Lauvreiiel"
 url: /pasig/lauvreiiel/
-shop: Kramladen
+shop: variety store
 ---

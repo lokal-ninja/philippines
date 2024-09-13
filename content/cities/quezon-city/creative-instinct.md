@@ -1,5 +1,5 @@
 ---
 title: "Creative Instinct"
 url: /quezon-city/creative-instinct/
-shop: Autowerkstatt
+shop: car repair
 ---

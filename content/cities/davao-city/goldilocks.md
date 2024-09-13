@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /davao-city/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Octagon"
 url: /santiago/octagon/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Center Point Plaza"
 url: /davao-city/center-point-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

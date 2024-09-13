@@ -1,5 +1,5 @@
 ---
 title: "Quiana Industrial Sales"
 url: /manila/quiana-industrial-sales/
-shop: Eisenwaren
+shop: hardware
 ---

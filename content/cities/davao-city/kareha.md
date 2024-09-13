@@ -1,5 +1,5 @@
 ---
 title: "Kareha"
 url: /davao-city/kareha/
-shop: Autowerkstatt
+shop: car repair
 ---

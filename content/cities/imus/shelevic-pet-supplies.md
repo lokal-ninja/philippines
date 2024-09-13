@@ -1,5 +1,5 @@
 ---
 title: "Shelevic Pet Supplies"
 url: /imus/shelevic-pet-supplies/
-shop: Tiere
+shop: pet
 ---

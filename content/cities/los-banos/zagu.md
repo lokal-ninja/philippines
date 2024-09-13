@@ -1,5 +1,5 @@
 ---
 title: "Zagu"
 url: /los-banos/zagu/
-shop: Kiosk
+shop: kiosk
 ---

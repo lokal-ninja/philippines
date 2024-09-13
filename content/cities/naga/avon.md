@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /naga/avon/
-shop: Kosmetik
+shop: beauty
 ---

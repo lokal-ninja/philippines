@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /taguig/alfamart-panay-street/
-shop: Lebensmittel
+shop: convenience
 ---

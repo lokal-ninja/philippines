@@ -1,5 +1,5 @@
 ---
 title: "Rempson Supermarket"
 url: /pasig/rempson-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

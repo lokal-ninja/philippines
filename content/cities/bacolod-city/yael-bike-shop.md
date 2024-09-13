@@ -1,5 +1,5 @@
 ---
 title: "Yael Bike Shop"
 url: /bacolod-city/yael-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

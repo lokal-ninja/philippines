@@ -1,5 +1,5 @@
 ---
 title: "Ayala Malls Capitol Central"
 url: /bacolod/ayala-malls-capitol-central/
-shop: Einkaufszentrum
+shop: mall
 ---

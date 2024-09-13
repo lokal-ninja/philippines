@@ -1,5 +1,5 @@
 ---
 title: "Ride and Roll"
 url: /marikina/ride-and-roll/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bavin"
 url: /tanza/bavin/
-shop: Handy
+shop: mobile phone
 ---

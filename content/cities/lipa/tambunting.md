@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /lipa/tambunting/
-shop: Leiher
+shop: pawnbroker
 ---

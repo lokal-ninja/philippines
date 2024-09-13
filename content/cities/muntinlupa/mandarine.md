@@ -1,5 +1,5 @@
 ---
 title: "Mandarine"
 url: /muntinlupa/mandarine/
-shop: Massage
+shop: massage
 ---

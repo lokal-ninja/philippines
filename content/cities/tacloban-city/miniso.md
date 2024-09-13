@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /tacloban-city/miniso/
-shop: Kramladen
+shop: variety store
 ---

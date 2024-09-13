@@ -1,5 +1,5 @@
 ---
 title: "DTBase"
 url: /manila/dtbase/
-shop: Elektronik
+shop: electronics
 ---

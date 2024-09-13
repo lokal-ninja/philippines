@@ -1,5 +1,5 @@
 ---
 title: "NOVO Department Store - Marikina"
 url: /marikina/novo-department-store-marikina/
-shop: Warenhaus
+shop: department store
 ---

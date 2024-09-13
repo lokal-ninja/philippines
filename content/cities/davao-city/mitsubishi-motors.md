@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi Motors"
 url: /davao-city/mitsubishi-motors/
-shop: Autohaus
+shop: car
 ---

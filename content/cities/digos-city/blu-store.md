@@ -1,5 +1,5 @@
 ---
 title: "Blu Store"
 url: /digos-city/blu-store/
-shop: Lebensmittel
+shop: convenience
 ---

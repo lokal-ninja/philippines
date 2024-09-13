@@ -1,5 +1,5 @@
 ---
 title: "MRM Bike Shop"
 url: /davao/mrm-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

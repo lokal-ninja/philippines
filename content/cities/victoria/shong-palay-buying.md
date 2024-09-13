@@ -1,5 +1,5 @@
 ---
 title: "Shong Palay Buying"
 url: /victoria/shong-palay-buying/
-shop: Baustoffe
+shop: trade
 ---

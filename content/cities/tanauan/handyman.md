@@ -1,5 +1,5 @@
 ---
 title: "Handyman"
 url: /tanauan/handyman/
-shop: Eisenwaren
+shop: hardware
 ---

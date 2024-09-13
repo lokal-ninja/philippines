@@ -1,5 +1,5 @@
 ---
 title: "QE Hardware"
 url: /cainta/qe-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

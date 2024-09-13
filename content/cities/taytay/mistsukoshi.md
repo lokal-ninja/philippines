@@ -1,5 +1,5 @@
 ---
 title: "Mistsukoshi"
 url: /taytay/mistsukoshi/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eld Meats"
 url: /las-pinas/eld-meats/
-shop: Metzgerei
+shop: butcher
 ---

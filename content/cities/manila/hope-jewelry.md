@@ -1,5 +1,5 @@
 ---
 title: "Hope Jewelry"
 url: /manila/hope-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

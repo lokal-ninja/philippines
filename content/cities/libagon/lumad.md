@@ -1,5 +1,5 @@
 ---
 title: "LUMAD"
 url: /libagon/lumad/
-shop: Supermarkt
+shop: supermarket
 ---

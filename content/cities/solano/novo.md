@@ -1,5 +1,5 @@
 ---
 title: "Novo"
 url: /solano/novo/
-shop: Warenhaus
+shop: department store
 ---

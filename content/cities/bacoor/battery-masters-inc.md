@@ -1,5 +1,5 @@
 ---
 title: "Battery Master's Inc."
 url: /bacoor/battery-masters-inc/
-shop: Autoteile
+shop: car parts
 ---

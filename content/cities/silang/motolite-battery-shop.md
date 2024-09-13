@@ -1,5 +1,5 @@
 ---
 title: "Motolite Battery Shop"
 url: /silang/motolite-battery-shop/
-shop: Autoteile
+shop: car parts
 ---

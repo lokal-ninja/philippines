@@ -1,5 +1,5 @@
 ---
 title: "AJ's School Supply"
 url: /valenzeula/ajs-school-supply/
-shop: Schreibwaren
+shop: office supplies
 ---

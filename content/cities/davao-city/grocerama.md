@@ -1,5 +1,5 @@
 ---
 title: "Grocerama"
 url: /davao-city/grocerama/
-shop: Supermarkt
+shop: supermarket
 ---

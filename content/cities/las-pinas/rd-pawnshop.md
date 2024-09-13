@@ -1,5 +1,5 @@
 ---
 title: "RD Pawnshop"
 url: /las-pinas/rd-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

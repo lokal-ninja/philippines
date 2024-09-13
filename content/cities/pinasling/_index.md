@@ -2,5 +2,5 @@
 title: Pinasling
 url: /pinasling/
 latitude: 15.603
-longitude: 120.594
+longitude: 120.589
 ---

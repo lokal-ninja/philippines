@@ -1,5 +1,5 @@
 ---
 title: "Petron Gasul"
 url: /minglanilla/petron-gasul/
-shop: Gasflaschen
+shop: gas
 ---

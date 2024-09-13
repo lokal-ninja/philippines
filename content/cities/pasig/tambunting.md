@@ -1,5 +1,5 @@
 ---
 title: "Tambunting"
 url: /pasig/tambunting/
-shop: Leiher
+shop: pawnbroker
 ---

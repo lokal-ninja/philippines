@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /laoag/yamaha/
-shop: Motorrad
+shop: motorcycle
 ---

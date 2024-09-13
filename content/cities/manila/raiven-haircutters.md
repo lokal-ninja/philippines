@@ -1,5 +1,5 @@
 ---
 title: "Raiven Haircutters"
 url: /manila/raiven-haircutters/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lid's Store"
 url: /baguio/lids-store/
-shop: Lebensmittel
+shop: convenience
 ---

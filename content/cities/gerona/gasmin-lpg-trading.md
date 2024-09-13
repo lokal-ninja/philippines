@@ -1,5 +1,5 @@
 ---
 title: "Gasmin LPG Trading"
 url: /gerona/gasmin-lpg-trading/
-shop: Gasflaschen
+shop: gas
 ---

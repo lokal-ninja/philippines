@@ -1,5 +1,5 @@
 ---
 title: "Urban Gadgets"
 url: /pasay/urban-gadgets/
-shop: Elektronik
+shop: electronics
 ---

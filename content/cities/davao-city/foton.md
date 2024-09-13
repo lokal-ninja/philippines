@@ -1,5 +1,5 @@
 ---
 title: "Foton"
 url: /davao-city/foton/
-shop: Autohaus
+shop: car
 ---

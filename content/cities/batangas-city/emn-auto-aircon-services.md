@@ -1,5 +1,5 @@
 ---
 title: "EMN Auto Aircon Services"
 url: /batangas-city/emn-auto-aircon-services/
-shop: Autowerkstatt
+shop: car repair
 ---

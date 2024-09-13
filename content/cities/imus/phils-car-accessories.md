@@ -1,5 +1,5 @@
 ---
 title: "Phils Car Accessories"
 url: /imus/phils-car-accessories/
-shop: Autoteile
+shop: car parts
 ---

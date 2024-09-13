@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /bacoor/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

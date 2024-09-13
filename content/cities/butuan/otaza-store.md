@@ -1,5 +1,5 @@
 ---
 title: "Otaza Store"
 url: /butuan/otaza-store/
-shop: Lebensmittel
+shop: convenience
 ---

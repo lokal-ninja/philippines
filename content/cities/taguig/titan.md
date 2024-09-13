@@ -1,5 +1,5 @@
 ---
 title: "Titan"
 url: /taguig/titan/
-shop: Sport
+shop: sports
 ---

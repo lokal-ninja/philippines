@@ -1,5 +1,5 @@
 ---
 title: "SISIGtified"
 url: /san-pablo/sisigtified/
-shop: Lebensmittel
+shop: convenience
 ---

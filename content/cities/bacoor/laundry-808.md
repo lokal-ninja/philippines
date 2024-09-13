@@ -1,5 +1,5 @@
 ---
 title: "Laundry 808"
 url: /bacoor/laundry-808/
-shop: Wäscherei
+shop: laundry
 ---

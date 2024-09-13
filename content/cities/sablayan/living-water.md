@@ -1,5 +1,5 @@
 ---
 title: "Living Water"
 url: /sablayan/living-water/
-shop: Wasser
+shop: water
 ---

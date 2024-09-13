@@ -1,5 +1,5 @@
 ---
 title: "Xplod"
 url: /quezon-city/xplod/
-shop: Autoteile
+shop: car parts
 ---

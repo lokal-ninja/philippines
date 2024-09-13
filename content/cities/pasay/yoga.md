@@ -1,5 +1,5 @@
 ---
 title: "Yoga"
 url: /pasay/yoga/
-shop: Computer
+shop: computer
 ---

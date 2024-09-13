@@ -1,5 +1,5 @@
 ---
 title: "CJ Pawnshop"
 url: /quezon-city/cj-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

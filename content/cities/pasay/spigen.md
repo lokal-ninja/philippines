@@ -1,5 +1,5 @@
 ---
 title: "Spigen"
 url: /pasay/spigen/
-shop: Elektronik
+shop: electronics
 ---

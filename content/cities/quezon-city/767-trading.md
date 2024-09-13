@@ -1,5 +1,5 @@
 ---
 title: "767 Trading"
 url: /quezon-city/767-trading/
-shop: Baustoffe
+shop: trade
 ---

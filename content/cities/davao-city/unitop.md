@@ -1,5 +1,5 @@
 ---
 title: "Unitop"
 url: /davao-city/unitop/
-shop: Warenhaus
+shop: department store
 ---

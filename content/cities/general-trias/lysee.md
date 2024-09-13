@@ -1,5 +1,5 @@
 ---
 title: "LYSEE"
 url: /general-trias/lysee/
-shop: Kopieren
+shop: copyshop
 ---

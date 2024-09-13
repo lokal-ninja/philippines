@@ -1,5 +1,5 @@
 ---
 title: "Suncor Grocerama"
 url: /davao-city/suncor-grocerama/
-shop: Supermarkt
+shop: supermarket
 ---

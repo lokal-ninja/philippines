@@ -1,5 +1,5 @@
 ---
 title: "Sherryton's Tailor"
 url: /mati/sherrytons-tailor/
-shop: Nähzubehör
+shop: sewing
 ---

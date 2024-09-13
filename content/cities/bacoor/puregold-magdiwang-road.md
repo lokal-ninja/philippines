@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /bacoor/puregold-magdiwang-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taipan Enterprises"
 url: /taytay/taipan-enterprises/
-shop: Autoteile
+shop: car parts
 ---

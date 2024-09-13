@@ -1,5 +1,5 @@
 ---
 title: "Deatras Auto Parts"
 url: /passi/deatras-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

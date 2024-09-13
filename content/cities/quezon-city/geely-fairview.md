@@ -1,5 +1,5 @@
 ---
 title: "Geely Fairview"
 url: /quezon-city/geely-fairview/
-shop: Autohaus
+shop: car
 ---

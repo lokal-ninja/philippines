@@ -1,5 +1,5 @@
 ---
 title: "Felcris Centrale"
 url: /davao-city/felcris-centrale/
-shop: Einkaufszentrum
+shop: mall
 ---

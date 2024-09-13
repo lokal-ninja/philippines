@@ -1,5 +1,5 @@
 ---
 title: "***** Paint Center"
 url: /baguio/paint-center/
-shop: Eisenwaren
+shop: hardware
 ---

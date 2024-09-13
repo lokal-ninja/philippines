@@ -1,5 +1,5 @@
 ---
 title: "Holiday Island"
 url: /caloocan/holiday-island/
-shop: Einkaufszentrum
+shop: mall
 ---

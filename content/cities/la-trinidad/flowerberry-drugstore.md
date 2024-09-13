@@ -1,5 +1,5 @@
 ---
 title: "Flowerberry Drugstore"
 url: /la-trinidad/flowerberry-drugstore/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /quezon-city/savemore-2/
-shop: Supermarkt
+shop: supermarket
 ---

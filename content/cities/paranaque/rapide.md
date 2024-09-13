@@ -1,5 +1,5 @@
 ---
 title: "Rapidé"
 url: /paranaque/rapide/
-shop: Autowerkstatt
+shop: car repair
 ---

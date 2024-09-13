@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /quezon-city/shell/
-shop: Autowerkstatt
+shop: car repair
 ---

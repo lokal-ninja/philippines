@@ -1,5 +1,5 @@
 ---
 title: "Bariso Store"
 url: /las-pinas/bariso-store/
-shop: Kramladen
+shop: variety store
 ---

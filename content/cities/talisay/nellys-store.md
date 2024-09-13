@@ -1,5 +1,5 @@
 ---
 title: "Nelly's Store"
 url: /talisay/nellys-store/
-shop: Kramladen
+shop: variety store
 ---

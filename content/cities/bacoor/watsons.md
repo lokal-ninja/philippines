@@ -1,5 +1,5 @@
 ---
 title: "Watsons"
 url: /bacoor/watsons/
-shop: Drogerie
+shop: chemist
 ---

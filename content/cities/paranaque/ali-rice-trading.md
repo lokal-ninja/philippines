@@ -1,5 +1,5 @@
 ---
 title: "Ali Rice Trading"
 url: /paranaque/ali-rice-trading/
-shop: Allgemein
+shop: shop
 ---

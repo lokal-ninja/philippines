@@ -1,5 +1,5 @@
 ---
 title: "Motolite"
 url: /dasmarinas/motolite/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kent Home Trends"
 url: /manila/kent-home-trends/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi Motors"
 url: /taytay/mitsubishi-motors/
-shop: Autohaus
+shop: car
 ---

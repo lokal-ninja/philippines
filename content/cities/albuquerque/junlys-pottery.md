@@ -1,5 +1,5 @@
 ---
 title: "Junly's Pottery"
 url: /albuquerque/junlys-pottery/
-shop: Möbel
+shop: furniture
 ---

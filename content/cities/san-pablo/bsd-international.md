@@ -1,5 +1,5 @@
 ---
 title: "BSD International"
 url: /san-pablo/bsd-international/
-shop: Handy
+shop: mobile phone
 ---

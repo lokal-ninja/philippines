@@ -1,5 +1,5 @@
 ---
 title: "Wilcon Depot"
 url: /tagum-city/wilcon-depot/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Gas"
 url: /pasig/fiesta-gas/
-shop: Gasflaschen
+shop: gas
 ---

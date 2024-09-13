@@ -1,5 +1,5 @@
 ---
 title: "Hardware Store"
 url: /davao-city/hardware-store/
-shop: Eisenwaren
+shop: hardware
 ---

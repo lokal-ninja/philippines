@@ -1,5 +1,5 @@
 ---
 title: "Erick Auto Electrical and Motor Rewinding Shop"
 url: /bacoor/erick-auto-electrical-and-motor-rewinding-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

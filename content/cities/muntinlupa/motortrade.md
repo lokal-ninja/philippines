@@ -1,5 +1,5 @@
 ---
 title: "Motortrade"
 url: /muntinlupa/motortrade/
-shop: Motorrad
+shop: motorcycle
 ---

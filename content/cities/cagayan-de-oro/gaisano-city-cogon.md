@@ -1,5 +1,5 @@
 ---
 title: "Gaisano City Cogon"
 url: /cagayan-de-oro/gaisano-city-cogon/
-shop: Supermarkt
+shop: supermarket
 ---

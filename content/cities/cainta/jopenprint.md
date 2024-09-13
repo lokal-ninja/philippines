@@ -1,5 +1,5 @@
 ---
 title: "JOPENPRINT"
 url: /cainta/jopenprint/
-shop: Computer
+shop: computer
 ---

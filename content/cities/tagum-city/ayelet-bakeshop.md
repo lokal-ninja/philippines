@@ -1,5 +1,5 @@
 ---
 title: "Ayelet Bakeshop"
 url: /tagum-city/ayelet-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

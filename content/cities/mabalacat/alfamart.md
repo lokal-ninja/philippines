@@ -1,5 +1,5 @@
 ---
 title: "Alfamart"
 url: /mabalacat/alfamart/
-shop: Lebensmittel
+shop: convenience
 ---

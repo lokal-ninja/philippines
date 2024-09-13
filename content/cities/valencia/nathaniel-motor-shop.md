@@ -1,5 +1,5 @@
 ---
 title: "Nathaniel Motor Shop"
 url: /valencia/nathaniel-motor-shop/
-shop: Motorrad
+shop: motorcycle
 ---

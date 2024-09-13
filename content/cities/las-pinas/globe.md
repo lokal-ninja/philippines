@@ -1,5 +1,5 @@
 ---
 title: "Globe"
 url: /las-pinas/globe/
-shop: Handy
+shop: mobile phone
 ---

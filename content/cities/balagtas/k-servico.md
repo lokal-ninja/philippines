@@ -1,5 +1,5 @@
 ---
 title: "K Servico"
 url: /balagtas/k-servico/
-shop: Elektronik
+shop: electronics
 ---

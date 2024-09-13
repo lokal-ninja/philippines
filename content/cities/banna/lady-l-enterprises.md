@@ -1,5 +1,5 @@
 ---
 title: "Lady L. Enterprises"
 url: /banna/lady-l-enterprises/
-shop: Dorfladen
+shop: general
 ---

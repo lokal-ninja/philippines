@@ -1,5 +1,5 @@
 ---
 title: "City Square"
 url: /iloilo/city-square/
-shop: Einkaufszentrum
+shop: mall
 ---

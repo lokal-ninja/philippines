@@ -1,5 +1,5 @@
 ---
 title: "Kimpo Tea House"
 url: /quezon-city/kimpo-tea-house/
-shop: Tee
+shop: tea
 ---

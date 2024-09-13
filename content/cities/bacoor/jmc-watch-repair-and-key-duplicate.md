@@ -1,5 +1,5 @@
 ---
 title: "JMC Watch Repair and Key Duplicate"
 url: /bacoor/jmc-watch-repair-and-key-duplicate/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hi-way Central Building"
 url: /mandaue/hi-way-central-building/
-shop: Modellbau
+shop: model
 ---

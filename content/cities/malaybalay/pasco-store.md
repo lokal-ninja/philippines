@@ -1,5 +1,5 @@
 ---
 title: "Pasco Store"
 url: /malaybalay/pasco-store/
-shop: Lebensmittel
+shop: convenience
 ---

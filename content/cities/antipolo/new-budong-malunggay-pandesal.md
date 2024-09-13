@@ -1,5 +1,5 @@
 ---
 title: "New Budong Malunggay Pandesal"
 url: /antipolo/new-budong-malunggay-pandesal/
-shop: Bäckerei
+shop: bakery
 ---

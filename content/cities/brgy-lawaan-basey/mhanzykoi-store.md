@@ -1,5 +1,5 @@
 ---
 title: "Mhanzykoi Store"
 url: /brgy-lawaan-basey/mhanzykoi-store/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /paranaque/barber-shop/
-shop: Kosmetik
+shop: beauty
 ---

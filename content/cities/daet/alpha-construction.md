@@ -1,5 +1,5 @@
 ---
 title: "Alpha Construction"
 url: /daet/alpha-construction/
-shop: Eisenwaren
+shop: hardware
 ---

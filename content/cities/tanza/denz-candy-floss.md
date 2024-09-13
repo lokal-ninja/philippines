@@ -1,5 +1,5 @@
 ---
 title: "Denz Candy Floss"
 url: /tanza/denz-candy-floss/
-shop: Bäckerei
+shop: bakery
 ---

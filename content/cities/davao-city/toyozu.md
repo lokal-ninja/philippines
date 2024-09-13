@@ -1,5 +1,5 @@
 ---
 title: "Toyozu"
 url: /davao-city/toyozu/
-shop: Autoteile
+shop: car parts
 ---

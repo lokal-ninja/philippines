@@ -1,5 +1,5 @@
 ---
 title: "Human Heart Nature"
 url: /quezon-city/human-heart-nature/
-shop: Kosmetik
+shop: beauty
 ---

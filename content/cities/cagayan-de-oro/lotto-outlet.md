@@ -1,5 +1,5 @@
 ---
 title: "Lotto Outlet"
 url: /cagayan-de-oro/lotto-outlet/
-shop: Lotterie
+shop: lottery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Do It Wilcon"
 url: /morong/do-it-wilcon/
-shop: Baumarkt
+shop: doityourself
 ---

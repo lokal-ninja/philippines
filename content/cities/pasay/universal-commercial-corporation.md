@@ -1,5 +1,5 @@
 ---
 title: "Universal Commercial Corporation"
 url: /pasay/universal-commercial-corporation/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madelicious Bakeshop"
 url: /quezon-city/madelicious-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

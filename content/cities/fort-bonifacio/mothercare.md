@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /fort-bonifacio/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

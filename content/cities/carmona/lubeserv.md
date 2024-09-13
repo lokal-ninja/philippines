@@ -1,5 +1,5 @@
 ---
 title: "Lubeserv"
 url: /carmona/lubeserv/
-shop: Autowerkstatt
+shop: car repair
 ---

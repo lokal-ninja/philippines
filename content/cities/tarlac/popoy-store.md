@@ -1,5 +1,5 @@
 ---
 title: "Popoy Store"
 url: /tarlac/popoy-store/
-shop: Lebensmittel
+shop: convenience
 ---

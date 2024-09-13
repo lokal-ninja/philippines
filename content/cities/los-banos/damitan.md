@@ -1,5 +1,5 @@
 ---
 title: "Damitan"
 url: /los-banos/damitan/
-shop: Dorfladen
+shop: general
 ---

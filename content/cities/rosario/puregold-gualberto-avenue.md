@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /rosario/puregold-gualberto-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

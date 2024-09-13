@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /quezon-city/gnc-aurora-boulevard/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

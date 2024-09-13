@@ -1,5 +1,5 @@
 ---
 title: "Nailandia"
 url: /san-pablo/nailandia/
-shop: Kosmetik
+shop: beauty
 ---

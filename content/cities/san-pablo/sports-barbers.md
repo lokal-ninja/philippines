@@ -1,5 +1,5 @@
 ---
 title: "Sports Barbers"
 url: /san-pablo/sports-barbers/
-shop: Friseur
+shop: hairdresser
 ---

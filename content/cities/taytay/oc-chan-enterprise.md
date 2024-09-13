@@ -1,5 +1,5 @@
 ---
 title: "OC Chan Enterprise"
 url: /taytay/oc-chan-enterprise/
-shop: Textil
+shop: fabric
 ---

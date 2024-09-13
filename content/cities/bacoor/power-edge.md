@@ -1,5 +1,5 @@
 ---
 title: "Power Edge"
 url: /bacoor/power-edge/
-shop: Autoteile
+shop: car parts
 ---

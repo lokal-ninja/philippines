@@ -1,5 +1,5 @@
 ---
 title: "Gigline"
 url: /cainta/gigline/
-shop: Computer
+shop: computer
 ---

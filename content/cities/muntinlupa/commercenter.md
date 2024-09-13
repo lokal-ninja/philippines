@@ -1,5 +1,5 @@
 ---
 title: "Commercenter"
 url: /muntinlupa/commercenter/
-shop: Einkaufszentrum
+shop: mall
 ---

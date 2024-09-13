@@ -1,5 +1,5 @@
 ---
 title: "Villarica"
 url: /meycauayan/villarica/
-shop: Leiher
+shop: pawnbroker
 ---

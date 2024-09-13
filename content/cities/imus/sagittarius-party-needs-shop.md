@@ -1,5 +1,5 @@
 ---
 title: "Sagittarius Party Needs Shop"
 url: /imus/sagittarius-party-needs-shop/
-shop: Partyzubehör
+shop: party
 ---

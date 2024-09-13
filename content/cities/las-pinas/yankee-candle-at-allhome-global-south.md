@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle At AllHome Global South"
 url: /las-pinas/yankee-candle-at-allhome-global-south/
-shop: Warenhaus
+shop: department store
 ---

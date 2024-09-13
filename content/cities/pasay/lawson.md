@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
 url: /pasay/lawson/
-shop: Lebensmittel
+shop: convenience
 ---

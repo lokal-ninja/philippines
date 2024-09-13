@@ -1,5 +1,5 @@
 ---
 title: "RJ Bike Shop"
 url: /lapu-lapu-city/rj-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

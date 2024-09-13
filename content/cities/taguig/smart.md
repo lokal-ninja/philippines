@@ -1,5 +1,5 @@
 ---
 title: "Smart"
 url: /taguig/smart/
-shop: Handy
+shop: mobile phone
 ---

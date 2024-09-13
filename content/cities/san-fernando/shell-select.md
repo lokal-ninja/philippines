@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /san-fernando/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

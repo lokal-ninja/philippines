@@ -1,5 +1,5 @@
 ---
 title: "Mang Jhun Store"
 url: /imus/mang-jhun-store/
-shop: Kramladen
+shop: variety store
 ---

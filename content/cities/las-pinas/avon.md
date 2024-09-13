@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /las-pinas/avon/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Janca Souvenir"
 url: /catarman/janca-souvenir/
-shop: Kleidung
+shop: clothes
 ---

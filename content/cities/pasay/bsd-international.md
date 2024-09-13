@@ -1,5 +1,5 @@
 ---
 title: "BSD International"
 url: /pasay/bsd-international/
-shop: Handy
+shop: mobile phone
 ---

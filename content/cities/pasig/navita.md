@@ -1,5 +1,5 @@
 ---
 title: "Navita"
 url: /pasig/navita/
-shop: Tiersalon
+shop: pet grooming
 ---

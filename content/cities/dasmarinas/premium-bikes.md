@@ -1,5 +1,5 @@
 ---
 title: "Premium Bikes"
 url: /dasmarinas/premium-bikes/
-shop: Motorrad
+shop: motorcycle
 ---

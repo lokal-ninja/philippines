@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /manila/miniso/
-shop: Kramladen
+shop: variety store
 ---

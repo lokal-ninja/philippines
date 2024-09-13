@@ -1,5 +1,5 @@
 ---
 title: "Autocamp"
 url: /pasig/autocamp/
-shop: Autohaus
+shop: car
 ---

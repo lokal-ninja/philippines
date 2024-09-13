@@ -1,5 +1,5 @@
 ---
 title: "Hino Batangas"
 url: /batangas-city/hino-batangas/
-shop: Autohaus
+shop: car
 ---

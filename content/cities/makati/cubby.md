@@ -1,5 +1,5 @@
 ---
 title: "Cubby"
 url: /makati/cubby/
-shop: Wäscherei
+shop: laundry
 ---

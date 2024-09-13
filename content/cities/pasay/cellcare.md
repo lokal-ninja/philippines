@@ -1,5 +1,5 @@
 ---
 title: "Cellcare"
 url: /pasay/cellcare/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COOLWAY"
 url: /bantayan/coolway/
-shop: Allgemein
+shop: shop
 ---

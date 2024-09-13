@@ -1,5 +1,5 @@
 ---
 title: "AllDay"
 url: /las-pinas/allday-dona-manuela-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

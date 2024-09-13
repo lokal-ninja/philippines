@@ -1,5 +1,5 @@
 ---
 title: "Salazar"
 url: /muntinlupa/salazar/
-shop: Bäckerei
+shop: bakery
 ---

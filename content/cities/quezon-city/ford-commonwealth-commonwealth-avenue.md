@@ -1,5 +1,5 @@
 ---
 title: "Ford Commonwealth"
 url: /quezon-city/ford-commonwealth-commonwealth-avenue/
-shop: Autohaus
+shop: car
 ---

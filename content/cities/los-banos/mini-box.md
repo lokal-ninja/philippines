@@ -1,5 +1,5 @@
 ---
 title: "mini box"
 url: /los-banos/mini-box/
-shop: Warenhaus
+shop: department store
 ---

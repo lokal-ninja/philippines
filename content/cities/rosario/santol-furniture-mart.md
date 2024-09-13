@@ -1,5 +1,5 @@
 ---
 title: "Santol Furniture Mart"
 url: /rosario/santol-furniture-mart/
-shop: Möbel
+shop: furniture
 ---

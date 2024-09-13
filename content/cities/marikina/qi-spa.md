@@ -1,5 +1,5 @@
 ---
 title: "Qi Spa"
 url: /marikina/qi-spa/
-shop: Allgemein
+shop: shop
 ---

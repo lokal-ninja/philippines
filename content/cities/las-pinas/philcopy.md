@@ -1,5 +1,5 @@
 ---
 title: "Philcopy"
 url: /las-pinas/philcopy/
-shop: Kopieren
+shop: copyshop
 ---

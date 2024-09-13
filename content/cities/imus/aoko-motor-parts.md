@@ -1,5 +1,5 @@
 ---
 title: "Aoko Motor Parts"
 url: /imus/aoko-motor-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

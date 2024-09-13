@@ -1,5 +1,5 @@
 ---
 title: "Puregold"
 url: /mexico/puregold/
-shop: Supermarkt
+shop: supermarket
 ---

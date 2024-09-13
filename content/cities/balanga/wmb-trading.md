@@ -1,5 +1,5 @@
 ---
 title: "WMB Trading"
 url: /balanga/wmb-trading/
-shop: Eisenwaren
+shop: hardware
 ---

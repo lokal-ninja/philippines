@@ -1,5 +1,5 @@
 ---
 title: "Allan Vulcanizing Shop"
 url: /pulilan-bulacan/allan-vulcanizing-shop/
-shop: Reifen
+shop: tyres
 ---

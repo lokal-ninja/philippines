@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /las-pinas/oasis/
-shop: Friseur
+shop: hairdresser
 ---

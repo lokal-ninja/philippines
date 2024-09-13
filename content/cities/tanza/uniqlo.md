@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /tanza/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

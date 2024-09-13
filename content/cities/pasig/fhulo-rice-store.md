@@ -1,5 +1,5 @@
 ---
 title: "Fhulo Rice Store"
 url: /pasig/fhulo-rice-store/
-shop: Allgemein
+shop: shop
 ---

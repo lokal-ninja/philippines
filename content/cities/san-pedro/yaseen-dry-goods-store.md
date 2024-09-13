@@ -1,5 +1,5 @@
 ---
 title: "Yaseen Dry Goods Store"
 url: /san-pedro/yaseen-dry-goods-store/
-shop: Kramladen
+shop: variety store
 ---

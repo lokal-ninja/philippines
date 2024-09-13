@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Computer Center"
 url: /manila/pioneer-computer-center/
-shop: Computer
+shop: computer
 ---

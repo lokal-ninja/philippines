@@ -1,5 +1,5 @@
 ---
 title: "Gabrielle Clothing Collection"
 url: /laguna/gabrielle-clothing-collection/
-shop: Kleidung
+shop: clothes
 ---

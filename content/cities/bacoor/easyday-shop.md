@@ -1,5 +1,5 @@
 ---
 title: "EasyDay Shop"
 url: /bacoor/easyday-shop/
-shop: Supermarkt
+shop: supermarket
 ---

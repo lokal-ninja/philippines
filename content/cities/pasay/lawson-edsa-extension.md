@@ -1,5 +1,5 @@
 ---
 title: "Lawson"
 url: /pasay/lawson-edsa-extension/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kicksole"
 url: /silang/kicksole/
-shop: Schuhe
+shop: shoes
 ---

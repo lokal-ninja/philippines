@@ -1,5 +1,5 @@
 ---
 title: "Nem auto repair shop"
 url: /puerto-princesa-palawan/nem-auto-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

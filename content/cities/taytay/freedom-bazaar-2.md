@@ -1,5 +1,5 @@
 ---
 title: "Freedom Bazaar"
 url: /taytay/freedom-bazaar-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /manila/goldilocks/
-shop: Bäckerei
+shop: bakery
 ---

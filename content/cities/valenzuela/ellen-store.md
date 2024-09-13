@@ -1,5 +1,5 @@
 ---
 title: "Ellen Store"
 url: /valenzuela/ellen-store/
-shop: Kramladen
+shop: variety store
 ---

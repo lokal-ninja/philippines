@@ -1,5 +1,5 @@
 ---
 title: "SM City General Santos"
 url: /general-santos/sm-city-general-santos/
-shop: Einkaufszentrum
+shop: mall
 ---

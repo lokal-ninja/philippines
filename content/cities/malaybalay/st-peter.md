@@ -1,5 +1,5 @@
 ---
 title: "St. Peter"
 url: /malaybalay/st-peter/
-shop: Bestattungen
+shop: funeral directors
 ---

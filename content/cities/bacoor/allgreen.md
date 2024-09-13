@@ -1,5 +1,5 @@
 ---
 title: "AllGreen"
 url: /bacoor/allgreen/
-shop: Bioladen
+shop: health food
 ---

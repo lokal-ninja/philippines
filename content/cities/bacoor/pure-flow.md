@@ -1,5 +1,5 @@
 ---
 title: "Pure Flow"
 url: /bacoor/pure-flow/
-shop: Wasser
+shop: water
 ---

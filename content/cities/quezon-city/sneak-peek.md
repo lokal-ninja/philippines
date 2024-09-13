@@ -1,5 +1,5 @@
 ---
 title: "Sneak Peek"
 url: /quezon-city/sneak-peek/
-shop: Schuhe
+shop: shoes
 ---

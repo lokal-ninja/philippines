@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tagbilaran-city/shell/
-shop: Lebensmittel
+shop: convenience
 ---

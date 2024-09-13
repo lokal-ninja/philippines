@@ -1,5 +1,5 @@
 ---
 title: "Ideal"
 url: /taytay/ideal/
-shop: Dorfladen
+shop: general
 ---

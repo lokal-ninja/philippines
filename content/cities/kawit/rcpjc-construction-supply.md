@@ -1,5 +1,5 @@
 ---
 title: "RCPJC Construction Supply"
 url: /kawit/rcpjc-construction-supply/
-shop: Baustoffe
+shop: trade
 ---

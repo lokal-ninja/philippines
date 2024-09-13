@@ -1,5 +1,5 @@
 ---
 title: "Superior Motor Corp"
 url: /palo/superior-motor-corp/
-shop: Autohaus
+shop: car
 ---

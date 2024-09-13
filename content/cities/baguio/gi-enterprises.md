@@ -1,5 +1,5 @@
 ---
 title: "GI Enterprises"
 url: /baguio/gi-enterprises/
-shop: Lebensmittel
+shop: convenience
 ---

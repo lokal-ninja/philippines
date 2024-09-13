@@ -1,5 +1,5 @@
 ---
 title: "Cebuana Lhuillier"
 url: /burabod-gandara/cebuana-lhuillier/
-shop: Leiher
+shop: pawnbroker
 ---

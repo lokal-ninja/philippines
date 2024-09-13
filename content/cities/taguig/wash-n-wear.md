@@ -1,5 +1,5 @@
 ---
 title: "Wash n' Wear"
 url: /taguig/wash-n-wear/
-shop: Wäscherei
+shop: laundry
 ---

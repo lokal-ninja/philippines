@@ -1,5 +1,5 @@
 ---
 title: "Motorzone"
 url: /davao-city/motorzone/
-shop: Motorrad
+shop: motorcycle
 ---

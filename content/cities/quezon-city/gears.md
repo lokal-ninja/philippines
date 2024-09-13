@@ -1,5 +1,5 @@
 ---
 title: "Gears"
 url: /quezon-city/gears/
-shop: Autoteile
+shop: car parts
 ---

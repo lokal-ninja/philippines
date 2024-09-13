@@ -1,5 +1,5 @@
 ---
 title: "Owndays"
 url: /tanza/owndays/
-shop: Optiker
+shop: optician
 ---

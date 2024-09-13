@@ -1,5 +1,5 @@
 ---
 title: "Surplus"
 url: /dagupan/surplus/
-shop: Kleidung
+shop: clothes
 ---

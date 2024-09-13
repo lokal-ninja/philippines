@@ -1,5 +1,5 @@
 ---
 title: "AllHome"
 url: /dasmarinas/allhome/
-shop: Baumarkt
+shop: doityourself
 ---

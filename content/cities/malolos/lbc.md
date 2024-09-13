@@ -1,5 +1,5 @@
 ---
 title: "LBC"
 url: /malolos/lbc/
-shop: Allgemein
+shop: shop
 ---

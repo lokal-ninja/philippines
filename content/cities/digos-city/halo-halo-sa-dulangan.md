@@ -1,5 +1,5 @@
 ---
 title: "Halo Halo sa Dulangan"
 url: /digos-city/halo-halo-sa-dulangan/
-shop: Getränke
+shop: beverages
 ---

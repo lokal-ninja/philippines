@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Gallery"
 url: /taguig/kitchen-gallery/
-shop: Raumausstattung
+shop: interior decoration
 ---

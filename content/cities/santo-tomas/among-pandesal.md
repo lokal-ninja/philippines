@@ -1,5 +1,5 @@
 ---
 title: "Among Pandesal"
 url: /santo-tomas/among-pandesal/
-shop: Bäckerei
+shop: bakery
 ---

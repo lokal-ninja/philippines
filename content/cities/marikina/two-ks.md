@@ -1,5 +1,5 @@
 ---
 title: "Two-K's"
 url: /marikina/two-ks/
-shop: Lebensmittel
+shop: convenience
 ---

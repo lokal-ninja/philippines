@@ -1,5 +1,5 @@
 ---
 title: "Meetup"
 url: /taguig/meetup/
-shop: Fahrrad
+shop: bicycle
 ---

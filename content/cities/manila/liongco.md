@@ -1,5 +1,5 @@
 ---
 title: "Liongco"
 url: /manila/liongco/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gurrobat Store"
 url: /caloocan-city/gurrobat-store/
-shop: Dorfladen
+shop: general
 ---

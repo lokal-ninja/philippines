@@ -1,5 +1,5 @@
 ---
 title: "Green Apartment"
 url: /laoag/green-apartment/
-shop: Dorfladen
+shop: general
 ---

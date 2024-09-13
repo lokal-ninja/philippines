@@ -1,5 +1,5 @@
 ---
 title: "Office Warehouse"
 url: /lipa/office-warehouse/
-shop: Schreibwaren
+shop: office supplies
 ---

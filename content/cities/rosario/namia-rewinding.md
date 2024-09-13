@@ -1,5 +1,5 @@
 ---
 title: "Namia Rewinding"
 url: /rosario/namia-rewinding/
-shop: Autowerkstatt
+shop: car repair
 ---

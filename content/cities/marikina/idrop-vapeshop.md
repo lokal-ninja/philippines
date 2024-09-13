@@ -1,5 +1,5 @@
 ---
 title: "iDrop Vapeshop"
 url: /marikina/idrop-vapeshop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

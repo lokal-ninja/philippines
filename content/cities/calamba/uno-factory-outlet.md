@@ -1,5 +1,5 @@
 ---
 title: "Uno Factory Outlet"
 url: /calamba/uno-factory-outlet/
-shop: Warenhaus
+shop: department store
 ---

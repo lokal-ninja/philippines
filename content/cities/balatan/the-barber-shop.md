@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /balatan/the-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

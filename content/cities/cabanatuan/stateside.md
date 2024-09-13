@@ -1,5 +1,5 @@
 ---
 title: "Stateside"
 url: /cabanatuan/stateside/
-shop: Supermarkt
+shop: supermarket
 ---

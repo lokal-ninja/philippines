@@ -1,5 +1,5 @@
 ---
 title: "Sentosa Heaven Spa"
 url: /baguio/sentosa-heaven-spa/
-shop: Massage
+shop: massage
 ---

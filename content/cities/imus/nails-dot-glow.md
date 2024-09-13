@@ -1,5 +1,5 @@
 ---
 title: "Nails dot Glow"
 url: /imus/nails-dot-glow/
-shop: Kosmetik
+shop: beauty
 ---

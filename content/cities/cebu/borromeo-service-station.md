@@ -1,5 +1,5 @@
 ---
 title: "Borromeo Service Station"
 url: /cebu/borromeo-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

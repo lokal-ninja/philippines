@@ -1,5 +1,5 @@
 ---
 title: "Anjel Drop Box"
 url: /davao-city/anjel-drop-box/
-shop: Mieten
+shop: storage rental
 ---

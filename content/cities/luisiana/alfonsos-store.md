@@ -1,5 +1,5 @@
 ---
 title: "Alfonso's Store"
 url: /luisiana/alfonsos-store/
-shop: Supermarkt
+shop: supermarket
 ---

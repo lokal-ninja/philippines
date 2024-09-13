@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /quezon-city/familymart/
-shop: Lebensmittel
+shop: convenience
 ---

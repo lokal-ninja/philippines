@@ -1,5 +1,5 @@
 ---
 title: "Switch"
 url: /imus/switch/
-shop: Elektronik
+shop: electronics
 ---

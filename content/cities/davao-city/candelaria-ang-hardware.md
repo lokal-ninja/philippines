@@ -1,5 +1,5 @@
 ---
 title: "Candelaria Ang Hardware"
 url: /davao-city/candelaria-ang-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

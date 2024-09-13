@@ -1,5 +1,5 @@
 ---
 title: "PC Naval"
 url: /naval/pc-naval/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easymart"
 url: /marikina/easymart/
-shop: Supermarkt
+shop: supermarket
 ---

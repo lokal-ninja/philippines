@@ -1,5 +1,5 @@
 ---
 title: "Ablaza Pawnshop"
 url: /makati/ablaza-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

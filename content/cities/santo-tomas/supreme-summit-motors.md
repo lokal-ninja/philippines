@@ -1,5 +1,5 @@
 ---
 title: "Supreme Summit Motors"
 url: /santo-tomas/supreme-summit-motors/
-shop: Autohaus
+shop: car
 ---

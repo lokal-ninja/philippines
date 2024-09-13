@@ -1,5 +1,5 @@
 ---
 title: "Digos Hardware"
 url: /pulilan-bulacan/digos-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

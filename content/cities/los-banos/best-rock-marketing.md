@@ -1,5 +1,5 @@
 ---
 title: "Best Rock Marketing"
 url: /los-banos/best-rock-marketing/
-shop: Eisenwaren
+shop: hardware
 ---

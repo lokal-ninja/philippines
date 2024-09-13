@@ -1,5 +1,5 @@
 ---
 title: "Carwash"
 url: /quezon-city/carwash/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Romar Leah Artificial Flower Shop"
 url: /manila/romar-leah-artificial-flower-shop/
-shop: Raumausstattung
+shop: interior decoration
 ---

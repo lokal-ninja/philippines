@@ -1,5 +1,5 @@
 ---
 title: "Narbonita"
 url: /kawit/narbonita/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quisumbing Pawnshop"
 url: /las-pinas/quisumbing-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

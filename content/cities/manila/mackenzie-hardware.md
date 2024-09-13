@@ -1,5 +1,5 @@
 ---
 title: "Mackenzie Hardware"
 url: /manila/mackenzie-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

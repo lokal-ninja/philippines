@@ -1,5 +1,5 @@
 ---
 title: "LoveCorner Adult Toys"
 url: /manila/lovecorner-adult-toys/
-shop: Erotik
+shop: erotic
 ---

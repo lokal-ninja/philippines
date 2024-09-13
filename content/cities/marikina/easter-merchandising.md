@@ -1,5 +1,5 @@
 ---
 title: "Easter Merchandising"
 url: /marikina/easter-merchandising/
-shop: Eisenwaren
+shop: hardware
 ---

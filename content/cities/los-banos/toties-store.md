@@ -1,5 +1,5 @@
 ---
 title: "Totie's Store"
 url: /los-banos/toties-store/
-shop: Lebensmittel
+shop: convenience
 ---

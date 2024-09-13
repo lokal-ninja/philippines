@@ -1,5 +1,5 @@
 ---
 title: "Leonas"
 url: /consolacion/leonas/
-shop: Bäckerei
+shop: bakery
 ---

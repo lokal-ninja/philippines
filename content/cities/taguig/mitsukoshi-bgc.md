@@ -1,5 +1,5 @@
 ---
 title: "Mitsukoshi BGC"
 url: /taguig/mitsukoshi-bgc/
-shop: Einkaufszentrum
+shop: mall
 ---

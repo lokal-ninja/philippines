@@ -1,5 +1,5 @@
 ---
 title: "LAJ Jaro Pawnshop"
 url: /imus/laj-jaro-pawnshop/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lenovo"
 url: /tanza/lenovo/
-shop: Computer
+shop: computer
 ---

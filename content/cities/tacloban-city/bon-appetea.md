@@ -1,5 +1,5 @@
 ---
 title: "Bon Appetea"
 url: /tacloban-city/bon-appetea/
-shop: Tee
+shop: tea
 ---

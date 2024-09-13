@@ -1,5 +1,5 @@
 ---
 title: "Autoallee BMW"
 url: /quezon-city/autoallee-bmw/
-shop: Autohaus
+shop: car
 ---

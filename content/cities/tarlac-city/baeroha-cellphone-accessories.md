@@ -1,5 +1,5 @@
 ---
 title: "Baeroha Cellphone Accessories"
 url: /tarlac-city/baeroha-cellphone-accessories/
-shop: Handy
+shop: mobile phone
 ---

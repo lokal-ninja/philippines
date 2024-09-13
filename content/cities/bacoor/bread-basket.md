@@ -1,5 +1,5 @@
 ---
 title: "Bread Basket"
 url: /bacoor/bread-basket/
-shop: Bäckerei
+shop: bakery
 ---

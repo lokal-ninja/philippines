@@ -1,5 +1,5 @@
 ---
 title: "JBL"
 url: /pasay/jbl/
-shop: Elektronik
+shop: electronics
 ---

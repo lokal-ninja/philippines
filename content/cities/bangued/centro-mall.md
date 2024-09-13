@@ -1,5 +1,5 @@
 ---
 title: "Centro Mall"
 url: /bangued/centro-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

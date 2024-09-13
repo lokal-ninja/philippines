@@ -1,5 +1,5 @@
 ---
 title: "CityMall Bacalso"
 url: /cebu-city/citymall-bacalso/
-shop: Einkaufszentrum
+shop: mall
 ---
