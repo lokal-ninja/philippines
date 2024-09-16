@@ -1,11 +1,11 @@
 id: 1204584041
-type: way
+type: node
 latitude: 14.59782
 longitude: 120.98232
 postcode: ""
 city: Manila
-street: "Carlos Palanca Street"
-housenumber: 125
+street: Carlos Palanca Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

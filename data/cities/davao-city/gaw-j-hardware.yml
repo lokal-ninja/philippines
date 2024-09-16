@@ -1,11 +1,11 @@
 id: 1024111325
-type: way
+type: node
 latitude: 7.09167
 longitude: 125.49719
 postcode: "8022"
 city: Davao City
-street: "Rosal Street"
-housenumber: 
+street: Rosal Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 993204745
-type: way
+type: node
 latitude: 10.52271
 longitude: 124.02978
 postcode: "6004"
 city: Danao
-street: "Cebu North Road"
-housenumber: 
+street: Cebu North Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

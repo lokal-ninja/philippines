@@ -1,11 +1,11 @@
 id: 685540211
-type: way
+type: node
 latitude: 14.34321
 longitude: 121.05331
 postcode: ""
 city: San Pedro
-street: "12th"
-housenumber: 
+street: 12th
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

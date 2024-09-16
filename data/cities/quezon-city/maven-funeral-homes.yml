@@ -1,11 +1,11 @@
 id: 509111105
-type: way
+type: node
 latitude: 14.70061
 longitude: 121.08648
 postcode: ""
 city: Quezon City
-street: "Commonwealth Avenue"
-housenumber: 201
+street: Commonwealth Avenue
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 14.15626
 longitude: 121.24585
 postcode: "4031"
 city: Los Baños
-street: "Mariano M. Mondoñedo Avenue"
-housenumber: 
+street: Mariano M. Mondoñedo Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-12:00; Jun 08:00-14:00; Jan 1 07:00-17:00; Jun 12 07:00-17:00; Dec 25 07:00-17:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-12:00; Jun 08:00-14:00;
+    Jan 1 07:00-17:00; Jun 12 07:00-17:00; Dec 25 07:00-17:00
 website: ""

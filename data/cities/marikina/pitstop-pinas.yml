@@ -1,11 +1,11 @@
 id: 874400506
-type: way
+type: node
 latitude: 14.63858
 longitude: 121.11629
 postcode: ""
 city: Marikina
-street: "Russet Street"
-housenumber: 4
-phone: "+63 0910 072 4913"
+street: Russet Street
+housenumber: "4"
+phone: +63 0910 072 4913
 opening_hours: ""
 website: ""

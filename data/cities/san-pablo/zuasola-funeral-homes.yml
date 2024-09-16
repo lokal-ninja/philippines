@@ -1,11 +1,11 @@
 id: 159269035
-type: way
+type: node
 latitude: 14.08839
 longitude: 121.30727
 postcode: "4000"
 city: San Pablo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

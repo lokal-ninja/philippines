@@ -1,11 +1,11 @@
 id: 1028801780
-type: way
+type: node
 latitude: 14.30246
 longitude: 120.95417
 postcode: "4114"
 city: Dasmariñas
-street: "Emilio Aguinaldo Highway"
-housenumber: 
+street: Emilio Aguinaldo Highway
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

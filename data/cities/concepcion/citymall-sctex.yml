@@ -1,11 +1,11 @@
 id: 563618992
-type: way
+type: node
 latitude: 15.3068
 longitude: 120.61658
 postcode: ""
 city: Concepcion
-street: "SCTEX"
-housenumber: 
+street: SCTEX
+housenumber: ""
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

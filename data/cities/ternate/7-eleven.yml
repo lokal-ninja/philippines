@@ -1,11 +1,11 @@
 id: 282661772
-type: way
+type: node
 latitude: 14.2866
 longitude: 120.71576
 postcode: "4111"
 city: Ternate
-street: "Sto Nino"
-housenumber: 
+street: Sto Nino
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

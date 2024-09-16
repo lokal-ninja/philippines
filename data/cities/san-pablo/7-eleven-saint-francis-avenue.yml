@@ -1,11 +1,11 @@
 id: 234982263
-type: way
+type: node
 latitude: 14.05831
 longitude: 121.32987
 postcode: "4000"
 city: San Pablo
-street: "Saint Francis Avenue"
-housenumber: 
+street: Saint Francis Avenue
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

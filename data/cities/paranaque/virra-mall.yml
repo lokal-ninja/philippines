@@ -1,11 +1,11 @@
 id: 295984089
-type: way
+type: node
 latitude: 14.48288
 longitude: 120.99559
 postcode: "1700"
 city: Parañaque
-street: "Doctor A. Santos Avenue"
-housenumber: 
+street: Doctor A. Santos Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://virramalls.com/"
+website: http://virramalls.com/

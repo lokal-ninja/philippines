@@ -1,11 +1,11 @@
 id: 4987030
-type: way
+type: node
 latitude: 14.61959
 longitude: 121.05139
 postcode: "1109"
 city: Quezon City
-street: "EDSA"
-housenumber: 
+street: EDSA
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

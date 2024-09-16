@@ -1,11 +1,11 @@
 id: 616803524
-type: way
+type: node
 latitude: 10.31927
 longitude: 123.91249
 postcode: "6000"
 city: Cebu
-street: "Pope John Paul Ⅱ Avenue"
-housenumber: 53
-phone: "+63 32 252 0000"
+street: Pope John Paul Ⅱ Avenue
+housenumber: "53"
+phone: +63 32 252 0000
 opening_hours: ""
-website: "https://toyotamabolo.com/index.html"
+website: https://toyotamabolo.com/index.html

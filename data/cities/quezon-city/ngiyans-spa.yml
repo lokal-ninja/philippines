@@ -1,11 +1,11 @@
 id: 260876224
-type: way
+type: node
 latitude: 14.65074
 longitude: 121.05631
 postcode: "1101"
 city: Quezon City
-street: "Maginhawa Street"
-housenumber: 28
+street: Maginhawa Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

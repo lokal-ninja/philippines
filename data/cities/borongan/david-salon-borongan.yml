@@ -1,11 +1,11 @@
 id: 1064219336
-type: way
+type: node
 latitude: 11.60702
 longitude: 125.43396
 postcode: "6800"
 city: Borongan
-street: "Abenis Street"
-housenumber: 
+street: Abenis Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

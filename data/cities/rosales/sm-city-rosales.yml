@@ -1,11 +1,11 @@
 id: 129406306
-type: way
+type: node
 latitude: 15.88122
 longitude: 120.60282
 postcode: "2441"
 city: Rosales
-street: "MacArthur Highway"
-housenumber: 
+street: MacArthur Highway
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

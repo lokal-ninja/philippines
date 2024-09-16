@@ -1,11 +1,11 @@
 id: 1315107722
-type: way
-latitude: 13.94196
-longitude: 121.17652
+type: node
+latitude: 13.942
+longitude: 121.17656
 postcode: "4217"
 city: Lipa
-street: "B.Reyes Street"
-housenumber: 
+street: B.Reyes Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

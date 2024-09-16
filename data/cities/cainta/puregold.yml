@@ -1,11 +1,11 @@
 id: 384321400
-type: way
+type: node
 latitude: 14.57646
 longitude: 121.11649
 postcode: "1900"
 city: Cainta
-street: "Amang Rodriguez Avenue"
-housenumber: 8
+street: Amang Rodriguez Avenue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

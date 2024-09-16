@@ -1,11 +1,11 @@
 id: 16827173
-type: way
+type: node
 latitude: 14.61705
 longitude: 121.09281
 postcode: ""
 city: Pasig
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 08:30-20:30"
+opening_hours: PH,Mo-Su 08:30-20:30
 website: ""

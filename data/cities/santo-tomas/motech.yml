@@ -1,11 +1,11 @@
 id: 701204662
-type: way
+type: node
 latitude: 14.1207
 longitude: 121.14033
 postcode: "4234"
 city: Santo Tomas
-street: "Maharlika Highway"
-housenumber: 
+street: Maharlika Highway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

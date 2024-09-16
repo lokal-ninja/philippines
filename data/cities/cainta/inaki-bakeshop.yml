@@ -1,11 +1,11 @@
 id: 568399377
-type: way
+type: node
 latitude: 14.58101
 longitude: 121.12967
 postcode: "1900"
 city: Cainta
-street: "Sampaloc Street"
-housenumber: 6
+street: Sampaloc Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

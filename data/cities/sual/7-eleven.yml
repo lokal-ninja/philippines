@@ -1,11 +1,11 @@
 id: 320333825
-type: way
+type: node
 latitude: 16.06516
 longitude: 120.09566
 postcode: "2403"
 city: Sual
-street: "Sual - Alaminos"
-housenumber: 
+street: Sual - Alaminos
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

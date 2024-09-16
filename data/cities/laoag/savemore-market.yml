@@ -1,11 +1,11 @@
 id: 1197558649
-type: way
+type: node
 latitude: 18.19695
 longitude: 120.59185
 postcode: "2900"
 city: Laoag
-street: "J. P. Rizal Avenue"
-housenumber: 
+street: J. P. Rizal Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 437499973
-type: way
+type: node
 latitude: 14.58589
 longitude: 121.00408
 postcode: "1011"
 city: Pandacan
-street: "Barrrio Mauling Street"
+street: Barrrio Mauling Street
 housenumber: 2051-D
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

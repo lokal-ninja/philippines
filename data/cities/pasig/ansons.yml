@@ -1,11 +1,11 @@
 id: 60238666
-type: way
+type: node
 latitude: 14.58618
 longitude: 121.05988
 postcode: ""
 city: Pasig
-street: "ADB Avenue"
-housenumber: 23
+street: ADB Avenue
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://www.ansons.ph/"
+opening_hours: Mo-Su 11:00-20:00
+website: https://www.ansons.ph/

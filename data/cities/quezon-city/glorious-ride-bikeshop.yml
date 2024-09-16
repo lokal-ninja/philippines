@@ -4,8 +4,8 @@ latitude: 14.63438
 longitude: 121.0577
 postcode: "1102"
 city: Quezon City
-street: "Anonas"
-housenumber: 88
-phone: "+632 4346426; +639178570829"
-opening_hours: "Mo 10:00-17:00; Tu-Sa 10:00-19:00; Su 10:00-16:30"
+street: Anonas
+housenumber: "88"
+phone: +632 4346426; +639178570829
+opening_hours: Mo 10:00-17:00; Tu-Sa 10:00-19:00; Su 10:00-16:30
 website: ""

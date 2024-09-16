@@ -1,11 +1,11 @@
 id: 379510289
-type: way
+type: node
 latitude: 16.68006
 longitude: 121.54429
 postcode: "3311"
 city: Santiago
-street: "Ferrer Street"
-housenumber: 
+street: Ferrer Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

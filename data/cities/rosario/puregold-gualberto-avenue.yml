@@ -1,11 +1,11 @@
 id: 464701016
-type: way
+type: node
 latitude: 13.84504
 longitude: 121.20473
 postcode: "4225"
 city: Rosario
-street: "Gualberto Avenue"
-housenumber: 
+street: Gualberto Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

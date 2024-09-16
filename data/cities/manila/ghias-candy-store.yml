@@ -1,11 +1,11 @@
 id: 301879841
-type: way
+type: node
 latitude: 14.57853
 longitude: 121.01251
 postcode: "1009"
 city: Manila
-street: "Kalayaan Street"
-housenumber: 2349
+street: Kalayaan Street
+housenumber: "2349"
 phone: ""
 opening_hours: ""
 website: ""

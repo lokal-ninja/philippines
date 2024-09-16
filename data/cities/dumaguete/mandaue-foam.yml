@@ -1,11 +1,11 @@
 id: 1126832800
-type: way
+type: node
 latitude: 9.30079
 longitude: 123.2976
 postcode: "6200"
 city: Dumaguete
-street: "Jose Romero Road"
-housenumber: 
+street: Jose Romero Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 14.70896
 longitude: 121.06292
 postcode: "1121"
 city: Quezon City
-street: "Atherton Street"
-housenumber: 
+street: Atherton Street
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com.ph/"
+opening_hours: 24/7
+website: https://www.7-eleven.com.ph/

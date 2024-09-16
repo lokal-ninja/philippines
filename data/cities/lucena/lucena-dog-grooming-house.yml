@@ -1,11 +1,11 @@
 id: 521865470
-type: way
+type: node
 latitude: 13.94031
 longitude: 121.62142
 postcode: "4301"
 city: Lucena
-street: "Maharlika Highway"
-housenumber: 0501
+street: Maharlika Highway
+housenumber: "0501"
 phone: "+639092547435"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://doggroominghouse.business.site/"
+opening_hours: Mo-Su 08:00-17:00
+website: https://doggroominghouse.business.site/

@@ -1,11 +1,11 @@
 id: 223412413
-type: way
+type: node
 latitude: 14.07295
 longitude: 121.33438
 postcode: "4000"
 city: San Pablo
-street: "Werner P. Schetelig Avenue"
-housenumber: 
+street: Werner P. Schetelig Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

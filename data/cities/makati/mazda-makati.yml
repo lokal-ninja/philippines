@@ -1,11 +1,11 @@
 id: 121507889
-type: way
+type: node
 latitude: 14.53418
 longitude: 121.02226
 postcode: ""
 city: Makati
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mazda.ph/contact-us/"
+website: https://www.mazda.ph/contact-us/

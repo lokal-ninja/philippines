@@ -1,11 +1,11 @@
 id: 537955673
-type: way
+type: node
 latitude: 8.48372
 longitude: 124.64427
 postcode: "9000"
 city: Cagayan de Oro
-street: "Gen. Capistrano"
-housenumber: 
+street: Gen. Capistrano
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cosmopolitanfuneral.com.ph/"
+website: https://www.cosmopolitanfuneral.com.ph/

@@ -1,11 +1,11 @@
 id: 423844840
-type: way
+type: node
 latitude: 14.42788
 longitude: 120.93733
 postcode: "4103"
 city: Imus
-street: "General E. Topacio"
-housenumber: 
+street: General E. Topacio
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

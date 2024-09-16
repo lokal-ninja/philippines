@@ -1,11 +1,11 @@
 id: 605446830
-type: way
+type: node
 latitude: 14.74541
 longitude: 120.95815
 postcode: "3020"
 city: Meycauayan
-street: "MacArthur Highway"
-housenumber: 3223
+street: MacArthur Highway
+housenumber: "3223"
 phone: ""
 opening_hours: ""
 website: ""

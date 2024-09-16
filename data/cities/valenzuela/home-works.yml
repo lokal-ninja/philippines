@@ -1,11 +1,11 @@
 id: 455736969
-type: way
+type: node
 latitude: 14.71841
 longitude: 120.95671
 postcode: "1444"
 city: Valenzuela
-street: "M.H. Del Pilar Street"
-housenumber: 
+street: M.H. Del Pilar Street
+housenumber: ""
 phone: ""
-opening_hours: "05:00-24:00"
+opening_hours: 05:00-24:00
 website: ""

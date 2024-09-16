@@ -1,11 +1,11 @@
 id: 868990796
-type: way
+type: node
 latitude: 9.92186
 longitude: 123.17003
 postcode: "6211"
 city: Tayasan
-street: "Fabugais Street"
-housenumber: 
+street: Fabugais Street
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

@@ -1,11 +1,11 @@
 id: 360482262
-type: way
+type: node
 latitude: 14.38786
 longitude: 120.94094
 postcode: "4103"
 city: Imus
-street: "Anabu Road"
-housenumber: 
+street: Anabu Road
+housenumber: ""
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

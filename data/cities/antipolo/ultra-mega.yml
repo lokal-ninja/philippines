@@ -1,11 +1,11 @@
 id: 163058621
-type: way
+type: node
 latitude: 14.58561
 longitude: 121.17668
 postcode: ""
 city: Antipolo
-street: "J. Sumulong Street"
-housenumber: 
+street: J. Sumulong Street
+housenumber: ""
 phone: ""
-opening_hours: "06:00-20:00"
-website: "http://www.ultramega.com.ph/antipolo.php"
+opening_hours: 06:00-20:00
+website: http://www.ultramega.com.ph/antipolo.php

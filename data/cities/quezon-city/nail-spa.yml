@@ -1,11 +1,11 @@
 id: 415700106
-type: way
+type: node
 latitude: 14.64774
 longitude: 121.05495
 postcode: "1101"
 city: Quezon City
-street: "Matiwasay"
-housenumber: 35
+street: Matiwasay
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

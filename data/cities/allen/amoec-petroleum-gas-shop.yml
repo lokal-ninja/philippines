@@ -1,11 +1,11 @@
 id: 987239837
-type: way
+type: node
 latitude: 12.50326
 longitude: 124.28851
 postcode: "6405"
 city: Allen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

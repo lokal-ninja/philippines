@@ -1,11 +1,11 @@
 id: 863318060
-type: way
+type: node
 latitude: 9.78583
 longitude: 125.49159
 postcode: "8400"
 city: Surigao City
-street: "Jose Sering Road"
-housenumber: 
+street: Jose Sering Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

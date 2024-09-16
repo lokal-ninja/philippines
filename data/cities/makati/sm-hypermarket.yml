@@ -1,11 +1,11 @@
 id: 28394371
-type: way
+type: node
 latitude: 14.55563
 longitude: 121.0074
 postcode: "1234"
 city: Makati
-street: "President Sergio Osmeña Highway"
-housenumber: 
+street: President Sergio Osmeña Highway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

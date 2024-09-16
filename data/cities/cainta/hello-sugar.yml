@@ -1,11 +1,11 @@
 id: 568287046
-type: way
+type: node
 latitude: 14.57231
 longitude: 121.12092
 postcode: "1900"
 city: Cainta
-street: "Rosal"
-housenumber: 
+street: Rosal
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

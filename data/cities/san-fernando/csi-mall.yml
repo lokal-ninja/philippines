@@ -1,11 +1,11 @@
 id: 58854365
-type: way
+type: node
 latitude: 16.62867
 longitude: 120.32307
 postcode: "2500"
 city: San Fernando
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
+opening_hours: Mo-Su 10:00-21:00
 website: ""

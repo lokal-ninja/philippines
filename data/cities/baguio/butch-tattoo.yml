@@ -1,11 +1,11 @@
 id: 946019710
-type: way
+type: node
 latitude: 16.41402
 longitude: 120.59736
 postcode: "2600"
 city: Baguio
-street: "Assumption Road"
-housenumber: 33
+street: Assumption Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

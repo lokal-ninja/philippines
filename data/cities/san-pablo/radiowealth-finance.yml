@@ -1,11 +1,11 @@
 id: 239031209
-type: way
+type: node
 latitude: 14.07203
 longitude: 121.32423
 postcode: "4000"
 city: San Pablo
-street: "Miguel Malvar Street"
-housenumber: 
+street: Miguel Malvar Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

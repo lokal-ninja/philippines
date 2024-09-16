@@ -1,11 +1,11 @@
 id: 568033297
-type: way
+type: node
 latitude: 14.58774
 longitude: 121.12634
 postcode: "1900"
 city: Cainta
-street: "San Francisco"
-housenumber: 
+street: San Francisco
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

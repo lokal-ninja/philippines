@@ -1,11 +1,11 @@
 id: 264504383
-type: way
+type: node
 latitude: 14.57508
 longitude: 121.03094
 postcode: ""
 city: Mandaluyong
-street: "San Francisco Avenue"
-housenumber: 142
+street: San Francisco Avenue
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 223412426
-type: way
+type: node
 latitude: 14.07173
 longitude: 121.32665
 postcode: "4000"
 city: San Pablo
-street: "Zulueta Street"
-housenumber: 
+street: Zulueta Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

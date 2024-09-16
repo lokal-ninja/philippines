@@ -1,11 +1,11 @@
 id: 103094584
-type: way
+type: node
 latitude: 14.58868
 longitude: 121.04239
 postcode: "1550"
 city: Mandaluyong
-street: "Shaw Boulevard"
-housenumber: 
+street: Shaw Boulevard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

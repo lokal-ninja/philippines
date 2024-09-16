@@ -1,11 +1,11 @@
 id: 1154424555
-type: way
+type: node
 latitude: 14.39646
 longitude: 120.97193
 postcode: "4102"
 city: Bacoor
-street: "Avenida Rizal"
-housenumber: 13
+street: Avenida Rizal
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 06:00-20:00"
+opening_hours: Mo-Su 06:00-20:00
 website: ""

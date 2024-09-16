@@ -1,11 +1,11 @@
 id: 86518153
-type: way
+type: node
 latitude: 14.5381
 longitude: 120.98321
 postcode: ""
 city: Pasay
-street: "Pacific Drive"
-housenumber: 
+street: Pacific Drive
+housenumber: ""
 phone: ""
-opening_hours: "11:00-21:00"
-website: "https://www.dfp.com.ph/?q=node/836"
+opening_hours: 11:00-21:00
+website: https://www.dfp.com.ph/?q=node/836

@@ -1,11 +1,11 @@
 id: 466309817
-type: way
+type: node
 latitude: 13.87718
 longitude: 121.2127
 postcode: ""
 city: Padre Garcia
-street: "J.P. Rizal Street"
-housenumber: 493
-phone: "+63 43 515-8421; +63 43 515-8616"
+street: J.P. Rizal Street
+housenumber: "493"
+phone: +63 43 515-8421; +63 43 515-8616
 opening_hours: ""
 website: ""

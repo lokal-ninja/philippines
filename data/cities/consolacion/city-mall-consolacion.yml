@@ -1,11 +1,11 @@
 id: 350541643
-type: way
+type: node
 latitude: 10.37511
 longitude: 123.95891
 postcode: "6001"
 city: Consolacion
-street: "V&G Drive"
-housenumber: 
+street: V&G Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

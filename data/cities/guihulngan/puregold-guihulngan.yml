@@ -1,11 +1,11 @@
 id: 1010293709
-type: way
+type: node
 latitude: 10.11917
 longitude: 123.27012
 postcode: "6214"
 city: Guihulngan
-street: "Paterno Street"
-housenumber: 
+street: Paterno Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

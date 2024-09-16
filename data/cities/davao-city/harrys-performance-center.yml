@@ -1,11 +1,11 @@
 id: 144200121
-type: way
+type: node
 latitude: 7.07502
 longitude: 125.61581
 postcode: "8000"
 city: Davao City
-street: "Villa Abrille Street"
-housenumber: 
+street: Villa Abrille Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

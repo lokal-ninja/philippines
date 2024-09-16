@@ -1,11 +1,11 @@
 id: 459499943
-type: way
+type: node
 latitude: 10.31301
 longitude: 123.91587
 postcode: "6000"
 city: Cebu City
-street: "Juan Luna Avenue"
-housenumber: 
-phone: "+63 32 238 2222"
-opening_hours: "Mo-Sa 08:30-17:30"
+street: Juan Luna Avenue
+housenumber: ""
+phone: +63 32 238 2222
+opening_hours: Mo-Sa 08:30-17:30
 website: ""

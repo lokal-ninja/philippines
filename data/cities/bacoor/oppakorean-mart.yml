@@ -1,11 +1,11 @@
 id: 1141855540
-type: way
+type: node
 latitude: 14.38931
 longitude: 120.98663
 postcode: "4102"
 city: Bacoor
-street: "Springville Avenue Extension"
-housenumber: 5
+street: Springville Avenue Extension
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr-Su 10:00-21:00"
+opening_hours: Mo-Th 10:00-20:00; Fr-Su 10:00-21:00
 website: ""

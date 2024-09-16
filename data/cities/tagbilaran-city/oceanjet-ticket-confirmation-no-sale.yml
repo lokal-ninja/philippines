@@ -4,8 +4,8 @@ latitude: 9.64908
 longitude: 123.84724
 postcode: "6300"
 city: Tagbilaran City
-street: "Tagbilaran Wharf Road"
-housenumber: 
+street: Tagbilaran Wharf Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 05:00-20:00"
-website: "https://www.oceanjet.net/"
+opening_hours: Mo-Su 05:00-20:00
+website: https://www.oceanjet.net/

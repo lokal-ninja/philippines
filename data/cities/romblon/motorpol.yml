@@ -1,11 +1,11 @@
 id: 1243137650
-type: way
+type: node
 latitude: 12.58124
 longitude: 122.27043
 postcode: "5500"
 city: Romblon
-street: "Sabang Road"
-housenumber: 
+street: Sabang Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

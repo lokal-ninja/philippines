@@ -1,11 +1,11 @@
 id: 665560341
-type: way
+type: node
 latitude: 10.72751
 longitude: 123.82623
 postcode: "6043"
 city: Tuburan
-street: "Rizal Street"
-housenumber: 
+street: Rizal Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 43444609
-type: way
+type: node
 latitude: 14.06846
 longitude: 121.32431
 postcode: "4000"
 city: San Pablo
-street: "Antonio Maria Regidor Street"
-housenumber: 
+street: Antonio Maria Regidor Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

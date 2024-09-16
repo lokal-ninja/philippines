@@ -1,11 +1,11 @@
 id: 1203396667
-type: way
+type: node
 latitude: 18.1744
 longitude: 120.594
 postcode: "2901"
 city: San Nicolas
-street: "Manila North Road"
-housenumber: 
+street: Manila North Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

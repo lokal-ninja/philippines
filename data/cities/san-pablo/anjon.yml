@@ -1,11 +1,11 @@
 id: 40724620
-type: way
+type: node
 latitude: 14.07011
 longitude: 121.32373
 postcode: "4000"
 city: San Pablo
-street: "Graciano Lopez Jaena Street"
-housenumber: 
+street: Graciano Lopez Jaena Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

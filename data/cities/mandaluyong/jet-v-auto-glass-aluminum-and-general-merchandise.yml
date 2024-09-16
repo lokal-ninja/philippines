@@ -1,11 +1,11 @@
 id: 376319235
-type: way
+type: node
 latitude: 14.59019
 longitude: 121.03457
 postcode: ""
 city: Mandaluyong
-street: "Shaw Boulevard"
-housenumber: 299
-phone: "+63 285317540"
+street: Shaw Boulevard
+housenumber: "299"
+phone: +63 285317540
 opening_hours: ""
 website: ""

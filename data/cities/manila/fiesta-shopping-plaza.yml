@@ -1,11 +1,11 @@
 id: 181387265
-type: way
+type: node
 latitude: 14.60533
 longitude: 120.97046
 postcode: "1012"
 city: Manila
-street: "Juan Luna Street"
-housenumber: 801
+street: Juan Luna Street
+housenumber: "801"
 phone: ""
-opening_hours: "09:00-20:00"
+opening_hours: 09:00-20:00
 website: ""

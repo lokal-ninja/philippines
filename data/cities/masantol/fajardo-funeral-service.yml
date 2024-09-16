@@ -1,11 +1,11 @@
 id: 480321184
-type: way
+type: node
 latitude: 14.89444
 longitude: 120.70624
 postcode: "2017"
 city: Masantol
-street: "san isidro matua"
-housenumber: 
+street: san isidro matua
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

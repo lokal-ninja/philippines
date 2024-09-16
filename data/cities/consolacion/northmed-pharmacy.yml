@@ -1,11 +1,11 @@
 id: 1251062398
-type: way
+type: node
 latitude: 10.38111
 longitude: 123.96859
 postcode: "6001"
 city: Consolacion
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

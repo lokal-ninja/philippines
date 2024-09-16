@@ -1,11 +1,11 @@
 id: 915773039
-type: way
+type: node
 latitude: 10.38147
 longitude: 123.96311
 postcode: "6001"
 city: Consolacion
-street: "Cebu North Road"
-housenumber: 
+street: Cebu North Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
+opening_hours: Mo-Su 10:00-21:00
 website: ""

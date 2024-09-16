@@ -1,11 +1,11 @@
 id: 950079275
-type: way
+type: node
 latitude: 13.96037
 longitude: 121.63465
 postcode: "4301"
 city: Lucena
-street: "Lucena Diversion Road"
-housenumber: 
+street: Lucena Diversion Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

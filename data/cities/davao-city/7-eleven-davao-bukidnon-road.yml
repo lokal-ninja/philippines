@@ -1,11 +1,11 @@
 id: 874088035
-type: way
+type: node
 latitude: 7.07383
 longitude: 125.51889
 postcode: "8000"
 city: Davao City
-street: "Davao-Bukidnon Road"
-housenumber: 
+street: Davao-Bukidnon Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

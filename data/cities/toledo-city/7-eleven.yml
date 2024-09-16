@@ -5,7 +5,7 @@ longitude: 123.63497
 postcode: ""
 city: Toledo City
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/"
+opening_hours: 24/7
+website: https://www.7-eleven.com/

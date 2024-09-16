@@ -1,11 +1,11 @@
 id: 200256450
-type: way
+type: node
 latitude: 14.16921
 longitude: 121.24444
 postcode: "4031"
 city: Los Baños
-street: "Lopez Avenue"
-housenumber: 
+street: Lopez Avenue
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

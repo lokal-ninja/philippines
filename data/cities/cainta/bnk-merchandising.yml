@@ -1,11 +1,11 @@
 id: 489758116
-type: way
+type: node
 latitude: 14.57429
 longitude: 121.11341
 postcode: "1900"
 city: Cainta
-street: "A Rodriguez.Ave"
-housenumber: 
+street: A Rodriguez.Ave
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

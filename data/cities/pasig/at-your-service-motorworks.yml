@@ -1,11 +1,11 @@
 id: 116905302
-type: way
+type: node
 latitude: 14.5915
 longitude: 121.0935
 postcode: "1609"
 city: Pasig
-street: "Alfonso Street"
-housenumber: 7
+street: Alfonso Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

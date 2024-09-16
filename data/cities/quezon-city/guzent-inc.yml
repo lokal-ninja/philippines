@@ -1,11 +1,11 @@
 id: 112444452
-type: way
+type: node
 latitude: 14.65735
 longitude: 121.01411
 postcode: "1106"
 city: Quezon City
-street: "EDSA"
-housenumber: 
-phone: "630 332 3003"
+street: EDSA
+housenumber: ""
+phone: 630 332 3003
 opening_hours: ""
-website: "https://www.guzent.com/"
+website: https://www.guzent.com/

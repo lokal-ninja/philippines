@@ -1,11 +1,11 @@
 id: 345414949
-type: way
+type: node
 latitude: 14.58936
 longitude: 121.09054
 postcode: ""
 city: Pasig
-street: "GSIS Road"
-housenumber: 19
+street: GSIS Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

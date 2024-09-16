@@ -1,11 +1,11 @@
 id: 655962181
-type: way
+type: node
 latitude: 14.14148
 longitude: 121.13412
 postcode: "4234"
 city: Santo Tomas
-street: "Maharlika Highway"
-housenumber: 
+street: Maharlika Highway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.wilcon.com.ph/content/316-sto-tomas-batangas"
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.wilcon.com.ph/content/316-sto-tomas-batangas

@@ -1,11 +1,11 @@
 id: 477270497
-type: way
+type: node
 latitude: 16.39923
 longitude: 120.60894
 postcode: "2600"
 city: Baguio
-street: "Ordonio Drive"
-housenumber: 
+street: Ordonio Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

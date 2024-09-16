@@ -1,11 +1,11 @@
 id: 1155367476
-type: way
+type: node
 latitude: 14.42396
 longitude: 121.02837
 postcode: "1780"
 city: Muntinlupa
-street: "Madrigal Avenue"
-housenumber: 
+street: Madrigal Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 11:00-21:00; Sa-Su 10:00-21:00"
+opening_hours: Mo-Fr 11:00-21:00; Sa-Su 10:00-21:00
 website: ""

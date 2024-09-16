@@ -1,11 +1,11 @@
 id: 424703549
-type: way
+type: node
 latitude: 14.44017
 longitude: 120.95033
 postcode: "4102"
 city: Bacoor
-street: "Aguinaldo Highway"
-housenumber: 
+street: Aguinaldo Highway
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

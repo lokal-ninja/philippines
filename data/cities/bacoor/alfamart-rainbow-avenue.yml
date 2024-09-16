@@ -1,11 +1,11 @@
 id: 1130843060
-type: way
+type: node
 latitude: 14.39376
 longitude: 120.98904
 postcode: "4102"
 city: Bacoor
-street: "Rainbow Avenue"
-housenumber: 17
+street: Rainbow Avenue
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

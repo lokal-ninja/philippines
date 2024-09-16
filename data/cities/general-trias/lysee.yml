@@ -1,11 +1,11 @@
 id: 412621290
-type: way
+type: node
 latitude: 14.29189
 longitude: 120.91172
 postcode: "4107"
 city: General Trias
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

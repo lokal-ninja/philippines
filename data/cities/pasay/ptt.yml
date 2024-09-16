@@ -1,11 +1,11 @@
 id: 710440316
-type: way
+type: node
 latitude: 14.51713
 longitude: 121.0003
 postcode: "1300"
 city: Pasay
-street: "MIA Road"
-housenumber: 
+street: MIA Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

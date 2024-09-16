@@ -1,11 +1,11 @@
 id: 239025541
-type: way
+type: node
 latitude: 14.07319
 longitude: 121.32496
 postcode: "4000"
 city: San Pablo
-street: "Artemio Fule Street"
-housenumber: 12
+street: Artemio Fule Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

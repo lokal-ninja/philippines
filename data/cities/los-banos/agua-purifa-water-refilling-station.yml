@@ -1,11 +1,11 @@
 id: 1268585390
-type: way
+type: node
 latitude: 14.18618
 longitude: 121.23324
 postcode: "4030"
 city: Los Baños
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

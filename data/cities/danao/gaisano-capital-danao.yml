@@ -1,11 +1,11 @@
 id: 620778880
-type: way
+type: node
 latitude: 10.51907
 longitude: 124.02641
 postcode: "6004"
 city: Danao
-street: "F. Ralota Street"
-housenumber: 
+street: F. Ralota Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
+opening_hours: Mo-Su 08:00-19:00
 website: ""

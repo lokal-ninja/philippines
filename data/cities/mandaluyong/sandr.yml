@@ -1,11 +1,11 @@
 id: 185024498
-type: way
+type: node
 latitude: 14.58719
 longitude: 121.04396
 postcode: ""
 city: Mandaluyong
-street: "Shaw Boulevard"
-housenumber: 514
+street: Shaw Boulevard
+housenumber: "514"
 phone: ""
 opening_hours: ""
-website: "https://www.snrshopping.com/"
+website: https://www.snrshopping.com/

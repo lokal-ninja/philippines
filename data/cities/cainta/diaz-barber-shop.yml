@@ -1,11 +1,11 @@
 id: 568259010
-type: way
+type: node
 latitude: 14.58332
 longitude: 121.12707
 postcode: "1900"
 city: Cainta
-street: "Eagle"
-housenumber: 
+street: Eagle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

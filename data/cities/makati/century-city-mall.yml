@@ -1,11 +1,11 @@
 id: 301875276
-type: way
+type: node
 latitude: 14.56619
 longitude: 121.0277
 postcode: "1210"
 city: Makati
-street: "Kalayaan Avenue"
-housenumber: 
+street: Kalayaan Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centurycitymall.com.ph/"
+website: https://centurycitymall.com.ph/

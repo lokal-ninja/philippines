@@ -1,11 +1,11 @@
 id: 404540134
-type: way
+type: node
 latitude: 14.64574
 longitude: 121.02947
 postcode: "1104"
 city: Quezon City
-street: "Examiner Street"
-housenumber: 11
+street: Examiner Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

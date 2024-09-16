@@ -1,11 +1,11 @@
 id: 1126166164
-type: way
+type: node
 latitude: 9.33687
 longitude: 123.29167
 postcode: "6201"
 city: Sibulan
-street: "Dumaguete North Road"
-housenumber: 
+street: Dumaguete North Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

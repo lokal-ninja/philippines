@@ -1,11 +1,11 @@
 id: 190919228
-type: way
+type: node
 latitude: 16.42561
 longitude: 120.59308
 postcode: "2600"
 city: Baguio
-street: "Camdas Subdivision"
-housenumber: 1
+street: Camdas Subdivision
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

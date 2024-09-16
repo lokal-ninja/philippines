@@ -1,11 +1,11 @@
 id: 231977422
-type: way
+type: node
 latitude: 10.29687
 longitude: 123.89939
 postcode: "6000"
 city: Cebu City
-street: "Colon Street"
-housenumber: 
+street: Colon Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

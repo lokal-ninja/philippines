@@ -1,11 +1,11 @@
 id: 240601383
-type: way
+type: node
 latitude: 14.07129
 longitude: 121.32493
 postcode: "4000"
 city: San Pablo
-street: "Lauro Dizon Street"
-housenumber: 
-phone: "+63 49 562 3838"
+street: Lauro Dizon Street
+housenumber: ""
+phone: +63 49 562 3838
 opening_hours: ""
 website: ""

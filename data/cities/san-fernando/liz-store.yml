@@ -4,8 +4,8 @@ latitude: 10.16125
 longitude: 123.70712
 postcode: "6018"
 city: San Fernando
-street: "11th Street"
-housenumber: 13
+street: 11th Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

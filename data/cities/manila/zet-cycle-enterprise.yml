@@ -1,11 +1,11 @@
 id: 303023609
-type: way
+type: node
 latitude: 14.57863
 longitude: 121.01307
 postcode: "1009"
 city: Manila
-street: "Manuel Roxas Street"
-housenumber: 2423
+street: Manuel Roxas Street
+housenumber: "2423"
 phone: ""
 opening_hours: ""
 website: ""

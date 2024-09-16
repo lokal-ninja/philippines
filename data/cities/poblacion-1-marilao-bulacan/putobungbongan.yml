@@ -1,11 +1,11 @@
 id: 570971125
-type: way
+type: node
 latitude: 14.75473
 longitude: 120.94942
 postcode: "3019"
 city: Poblacion 1 Marilao, Bulacan
-street: "Sandico"
-housenumber: 
+street: Sandico
+housenumber: ""
 phone: ""
-opening_hours: "11:00-20:00"
+opening_hours: 11:00-20:00
 website: ""

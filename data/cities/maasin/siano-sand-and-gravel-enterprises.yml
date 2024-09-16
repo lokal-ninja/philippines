@@ -1,11 +1,11 @@
 id: 1312203271
-type: way
+type: node
 latitude: 10.13301
 longitude: 124.80861
 postcode: "6600"
 city: Maasin
-street: "Purok Kulohan"
-housenumber: 
+street: Purok Kulohan
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

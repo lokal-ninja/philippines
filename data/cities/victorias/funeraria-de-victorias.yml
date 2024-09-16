@@ -1,11 +1,11 @@
 id: 799145060
-type: way
+type: node
 latitude: 10.8995
 longitude: 123.06832
 postcode: "6119"
 city: Victorias
-street: "Osmeña Avenue"
-housenumber: 
+street: Osmeña Avenue
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

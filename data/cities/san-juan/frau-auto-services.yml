@@ -1,11 +1,11 @@
 id: 66812611
-type: way
+type: node
 latitude: 14.60474
 longitude: 121.03609
 postcode: ""
 city: San Juan
 street: ""
-housenumber: 308
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

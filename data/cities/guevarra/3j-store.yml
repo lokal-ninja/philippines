@@ -1,11 +1,11 @@
 id: 957387253
-type: way
+type: node
 latitude: 15.47634
 longitude: 120.71746
 postcode: "2314"
 city: Guevarra
-street: "La Paz - Victoria Road"
-housenumber: 
+street: La Paz - Victoria Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

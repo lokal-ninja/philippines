@@ -1,11 +1,11 @@
 id: 469475332
-type: way
+type: node
 latitude: 14.64518
 longitude: 121.00315
 postcode: "1115"
 city: Quezon CIty
-street: "Sergeant Rivera Street"
-housenumber: #157
+street: Sergeant Rivera Street
+housenumber: '#157'
 phone: ""
 opening_hours: ""
 website: ""

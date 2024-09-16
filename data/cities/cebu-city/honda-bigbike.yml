@@ -1,11 +1,11 @@
 id: 155748225
-type: way
+type: node
 latitude: 10.32711
 longitude: 123.90581
 postcode: "6000"
 city: Cebu City
-street: "Salinas Drive"
-housenumber: 
+street: Salinas Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

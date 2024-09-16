@@ -1,11 +1,11 @@
 id: 264885052
-type: way
+type: node
 latitude: 14.56016
 longitude: 121.04605
 postcode: "1212"
 city: Makati
-street: "Sergeant Fabian Yabut Street"
-housenumber: 8222
+street: Sergeant Fabian Yabut Street
+housenumber: "8222"
 phone: "09750918393"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

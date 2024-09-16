@@ -1,11 +1,11 @@
 id: 795125645
-type: way
+type: node
 latitude: 14.72526
 longitude: 121.04583
 postcode: "1117"
 city: Quezon City
-street: "Job"
-housenumber: 
+street: Job
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

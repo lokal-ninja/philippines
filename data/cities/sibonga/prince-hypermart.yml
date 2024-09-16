@@ -1,11 +1,11 @@
 id: 977821261
-type: way
+type: node
 latitude: 10.01633
 longitude: 123.61913
 postcode: "6020"
 city: Sibonga
-street: "Natalio Bacalso Avenue"
-housenumber: 
+street: Natalio Bacalso Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

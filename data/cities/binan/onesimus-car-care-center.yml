@@ -1,11 +1,11 @@
 id: 234216512
-type: way
+type: node
 latitude: 14.32976
 longitude: 121.07502
 postcode: "4024"
 city: Biñan
-street: "General Malvar"
-housenumber: 
+street: General Malvar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

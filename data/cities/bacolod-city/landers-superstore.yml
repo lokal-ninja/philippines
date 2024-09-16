@@ -1,11 +1,11 @@
 id: 1160313649
-type: way
+type: node
 latitude: 10.66441
 longitude: 122.96271
 postcode: "6100"
 city: Bacolod City
-street: "Upper East Avenue"
-housenumber: 
+street: Upper East Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

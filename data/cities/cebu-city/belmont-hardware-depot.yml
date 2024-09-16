@@ -1,11 +1,11 @@
 id: 231981843
-type: way
+type: node
 latitude: 10.29475
 longitude: 123.90357
 postcode: "6000"
 city: Cebu City
-street: "Legaspi Street"
-housenumber: 
+street: Legaspi Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

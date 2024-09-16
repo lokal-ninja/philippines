@@ -1,11 +1,11 @@
 id: 506001337
-type: way
+type: node
 latitude: 14.49658
 longitude: 121.0128
 postcode: "1709"
 city: Parañaque
-street: "Eriberta Court"
-housenumber: 25
+street: Eriberta Court
+housenumber: "25"
 phone: "+639173117480"
 opening_hours: ""
 website: ""

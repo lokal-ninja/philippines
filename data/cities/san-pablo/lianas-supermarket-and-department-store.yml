@@ -1,11 +1,11 @@
 id: 28295485
-type: way
+type: node
 latitude: 14.06727
 longitude: 121.32454
 postcode: "4000"
 city: San Pablo
-street: "Miguel Leonor Street"
-housenumber: 2
+street: Miguel Leonor Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

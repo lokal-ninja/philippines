@@ -1,11 +1,11 @@
 id: 551935960
-type: way
+type: node
 latitude: 6.11681
 longitude: 125.17984
 postcode: "9500"
 city: General Santos
-street: "San Miguel Street"
-housenumber: 
+street: San Miguel Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

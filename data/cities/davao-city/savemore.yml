@@ -1,11 +1,11 @@
 id: 416959805
-type: way
+type: node
 latitude: 7.06096
 longitude: 125.55907
 postcode: "8000"
 city: Davao City
-street: "MacArthur Highway"
-housenumber: 
+street: MacArthur Highway
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

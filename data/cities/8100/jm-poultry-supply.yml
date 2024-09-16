@@ -3,9 +3,9 @@ type: node
 latitude: 7.45039
 longitude: 125.80369
 postcode: ""
-city: 8100
+city: "8100"
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

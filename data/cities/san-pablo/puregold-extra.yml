@@ -1,11 +1,11 @@
 id: 42014913
-type: way
+type: node
 latitude: 14.0672
 longitude: 121.32563
 postcode: "4000"
 city: San Pablo
-street: "Marcos Paulino Avenue"
-housenumber: 
+street: Marcos Paulino Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

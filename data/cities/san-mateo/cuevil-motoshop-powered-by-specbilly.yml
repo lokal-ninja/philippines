@@ -1,11 +1,11 @@
 id: 787848803
-type: way
+type: node
 latitude: 14.66561
 longitude: 121.14221
 postcode: "1850"
 city: San Mateo
 street: ""
-housenumber: 15
-phone: "+63 950 879 9266"
-opening_hours: "Mo-Su 09:00-00:00"
+housenumber: "15"
+phone: +63 950 879 9266
+opening_hours: Mo-Su 09:00-00:00
 website: ""

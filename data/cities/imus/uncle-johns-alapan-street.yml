@@ -1,11 +1,11 @@
 id: 167082108
-type: way
+type: node
 latitude: 14.42589
 longitude: 120.91566
 postcode: "4103"
 city: Imus
-street: "Alapan Street"
-housenumber: 
+street: Alapan Street
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

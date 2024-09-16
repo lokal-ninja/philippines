@@ -1,11 +1,11 @@
 id: 231044515
-type: way
+type: node
 latitude: 14.60413
 longitude: 121.10604
 postcode: "1900"
 city: Cainta
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

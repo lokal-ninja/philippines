@@ -1,11 +1,11 @@
 id: 230285584
-type: way
+type: node
 latitude: 14.5606
 longitude: 121.13456
 postcode: "1920"
 city: Taytay
-street: "Rizal Avenue"
-housenumber: 
+street: Rizal Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

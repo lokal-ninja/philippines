@@ -1,11 +1,11 @@
 id: 602891096
-type: way
+type: node
 latitude: 14.54842
 longitude: 121.1182
 postcode: "1920"
 city: taytay
-street: "Mexico"
-housenumber: 
+street: Mexico
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

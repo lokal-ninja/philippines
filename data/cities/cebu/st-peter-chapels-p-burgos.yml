@@ -1,11 +1,11 @@
 id: 240075771
-type: way
+type: node
 latitude: 10.2957
 longitude: 123.90378
 postcode: "6000"
 city: Cebu
-street: "P.Burgos Street"
-housenumber: 
-phone: "+63 928 346 5341;+63 926 156 1512;+63 32 253 6174;+63 32 412 1404"
+street: P.Burgos Street
+housenumber: ""
+phone: +63 928 346 5341;+63 926 156 1512;+63 32 253 6174;+63 32 412 1404
 opening_hours: ""
-website: "https://www.stpeter.com.ph/"
+website: https://www.stpeter.com.ph/

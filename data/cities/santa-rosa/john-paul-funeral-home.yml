@@ -1,11 +1,11 @@
 id: 853101021
-type: way
+type: node
 latitude: 14.31023
 longitude: 121.11148
 postcode: "4026"
 city: Santa Rosa
-street: "Rizal Boulevard"
-housenumber: 583
+street: Rizal Boulevard
+housenumber: "583"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 34988574
-type: way
+type: node
 latitude: 7.08322
 longitude: 125.6115
 postcode: "8000"
 city: Davao City
-street: "Pryce Park Drive"
-housenumber: 
+street: Pryce Park Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

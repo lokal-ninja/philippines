@@ -1,11 +1,11 @@
 id: 1033825029
-type: way
+type: node
 latitude: 13.94794
 longitude: 121.58588
 postcode: "4301"
 city: Lucena
-street: "Old Manila South Road"
-housenumber: 
+street: Old Manila South Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

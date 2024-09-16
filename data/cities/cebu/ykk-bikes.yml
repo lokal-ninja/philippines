@@ -4,8 +4,8 @@ latitude: 10.29574
 longitude: 123.90111
 postcode: ""
 city: Cebu
-street: "Legaspi Street"
-housenumber: 70
+street: Legaspi Street
+housenumber: "70"
 phone: ""
-opening_hours: "09:00-16:00"
+opening_hours: 09:00-16:00
 website: ""

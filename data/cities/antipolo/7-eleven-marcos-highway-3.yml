@@ -1,11 +1,11 @@
 id: 770231727
-type: way
+type: node
 latitude: 14.62477
 longitude: 121.13209
 postcode: "1871"
 city: Antipolo
-street: "Marcos Highway"
-housenumber: 
+street: Marcos Highway
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

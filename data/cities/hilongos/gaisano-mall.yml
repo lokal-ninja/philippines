@@ -1,11 +1,11 @@
 id: 997933710
-type: way
+type: node
 latitude: 10.37091
 longitude: 124.74579
 postcode: "6524"
 city: Hilongos
-street: "Western"
-housenumber: 
+street: Western
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

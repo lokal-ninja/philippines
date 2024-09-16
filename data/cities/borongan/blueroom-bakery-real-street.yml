@@ -1,11 +1,11 @@
 id: 1255869570
-type: way
+type: node
 latitude: 11.60728
 longitude: 125.43313
 postcode: "6800"
 city: Borongan
-street: "Real Street"
-housenumber: 
+street: Real Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

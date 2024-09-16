@@ -1,11 +1,11 @@
 id: 1185729753
-type: way
+type: node
 latitude: 10.56642
 longitude: 123.71634
 postcode: "6042"
 city: Asturias
-street: "F. Noel Street"
-housenumber: 
+street: F. Noel Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

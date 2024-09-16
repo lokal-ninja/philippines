@@ -1,11 +1,11 @@
 id: 419646155
-type: way
+type: node
 latitude: 13.79691
 longitude: 121.06598
 postcode: "4200"
 city: Batangas City
-street: "Diversion Road"
-housenumber: 
-phone: "+63 43 723 7386"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.toyotabatangas.com.ph/"
+street: Diversion Road
+housenumber: ""
+phone: +63 43 723 7386
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.toyotabatangas.com.ph/

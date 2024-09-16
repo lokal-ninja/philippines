@@ -1,11 +1,11 @@
 id: 109516995
-type: way
+type: node
 latitude: 14.63749
 longitude: 121.02521
 postcode: ""
 city: Quezon City
-street: "West Avenue"
-housenumber: 1
+street: West Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

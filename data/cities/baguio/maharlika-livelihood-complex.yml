@@ -1,11 +1,11 @@
 id: 190914339
-type: way
+type: node
 latitude: 16.41452
 longitude: 120.59455
 postcode: "2600"
 city: Baguio
-street: "Harrison Road"
-housenumber: 
+street: Harrison Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

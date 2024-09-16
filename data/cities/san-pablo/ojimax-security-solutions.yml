@@ -1,11 +1,11 @@
 id: 116434446
-type: way
+type: node
 latitude: 14.07532
 longitude: 121.32428
 postcode: "4000"
 city: San Pablo
-street: "Apolinario Mabini Extension"
-housenumber: 4
+street: Apolinario Mabini Extension
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

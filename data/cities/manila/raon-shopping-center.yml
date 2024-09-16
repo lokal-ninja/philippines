@@ -1,11 +1,11 @@
 id: 97073856
-type: way
+type: node
 latitude: 14.60106
 longitude: 120.98417
 postcode: "1001"
 city: Manila
-street: "Quezon Boulevard"
-housenumber: 601
+street: Quezon Boulevard
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

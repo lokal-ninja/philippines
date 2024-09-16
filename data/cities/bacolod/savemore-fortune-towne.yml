@@ -1,11 +1,11 @@
 id: 308686808
-type: way
+type: node
 latitude: 10.66991
 longitude: 122.98753
 postcode: "6100"
 city: Bacolod
-street: "Sofia Gonzaga St"
-housenumber: 
+street: Sofia Gonzaga St
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-08:00"
+opening_hours: Mo-Su 08:00-08:00
 website: ""

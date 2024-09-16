@@ -1,11 +1,11 @@
 id: 1000087528
-type: way
+type: node
 latitude: 10.37385
 longitude: 124.74984
 postcode: "6524"
 city: Hilongos
-street: "JP Rizal Street"
-housenumber: 
+street: JP Rizal Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

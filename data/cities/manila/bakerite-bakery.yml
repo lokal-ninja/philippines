@@ -1,11 +1,11 @@
 id: 175211555
-type: way
+type: node
 latitude: 14.59832
 longitude: 120.98548
 postcode: ""
 city: Manila
-street: "F. R. Hidalgo Street"
-housenumber: 921
-phone: "+63 2 523 1290"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-18:00"
-website: "https://www.bakeritebakery.com/"
+street: F. R. Hidalgo Street
+housenumber: "921"
+phone: +63 2 523 1290
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-18:00
+website: https://www.bakeritebakery.com/

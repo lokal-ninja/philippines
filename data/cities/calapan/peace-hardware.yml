@@ -1,11 +1,11 @@
 id: 985411989
-type: way
+type: node
 latitude: 13.41002
 longitude: 121.17899
 postcode: ""
 city: Calapan
-street: "J. P. Rizal Street"
-housenumber: 131
-phone: "+63 43 288-4660; +63 43 441-0043"
+street: J. P. Rizal Street
+housenumber: "131"
+phone: +63 43 288-4660; +63 43 441-0043
 opening_hours: ""
 website: ""

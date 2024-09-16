@@ -1,11 +1,11 @@
 id: 1185590093
-type: way
+type: node
 latitude: 10.27983
 longitude: 123.97092
 postcode: ""
 city: Lapu-Lapu
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+63323840101"
-opening_hours: "Mo-Sa 08:30-17:00"
-website: "https://www.toyotalapulapu.com.ph/"
+opening_hours: Mo-Sa 08:30-17:00
+website: https://www.toyotalapulapu.com.ph/
