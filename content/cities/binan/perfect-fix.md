@@ -1,5 +1,5 @@
 ---
-title: "perfect Fix"
+title: "Perfect Fix"
 url: /binan/perfect-fix/
-shop: shop
+shop: computer
 ---

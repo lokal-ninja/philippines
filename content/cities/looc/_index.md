@@ -1,6 +1,6 @@
 ---
 title: Looc
 url: /looc/
-latitude: 12.26
-longitude: 121.992
+latitude: 12.263
+longitude: 121.997
 ---
