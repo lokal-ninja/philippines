@@ -1,6 +1,6 @@
 ---
 title: Zamboanguita
 url: /zamboanguita/
-latitude: 9.102
-longitude: 123.199
+latitude: 9.103
+longitude: 123.2
 ---
