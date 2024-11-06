@@ -1,6 +1,6 @@
 ---
 title: Taal
 url: /taal/
-latitude: 13.88
-longitude: 120.964
+latitude: 13.883
+longitude: 120.946
 ---

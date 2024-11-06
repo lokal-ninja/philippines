@@ -1,6 +1,6 @@
 ---
 title: Carmen
 url: /carmen/
-latitude: 7.408
+latitude: 7.407
 longitude: 124.81
 ---

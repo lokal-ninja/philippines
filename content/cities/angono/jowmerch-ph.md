@@ -1,5 +1,5 @@
 ---
 title: "JowMerch.PH"
 url: /angono/jowmerch-ph/
-shop: general
+shop: shop
 ---
