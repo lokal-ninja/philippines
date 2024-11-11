@@ -1,5 +1,5 @@
 ---
 title: "Yokohama"
 url: /pasay/yokohama/
-shop: shop
+shop: tyres
 ---
