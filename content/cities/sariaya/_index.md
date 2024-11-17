@@ -1,6 +1,6 @@
 ---
 title: Sariaya
 url: /sariaya/
-latitude: 13.963
-longitude: 121.525
+latitude: 13.937
+longitude: 121.488
 ---
