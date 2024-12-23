@@ -1,6 +1,6 @@
 ---
 title: Catanauan
 url: /catanauan/
-latitude: 13.592
-longitude: 122.32
+latitude: 13.593
+longitude: 122.322
 ---

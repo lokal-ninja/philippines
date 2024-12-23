@@ -1,6 +1,6 @@
 ---
 title: Tandag
 url: /tandag/
-latitude: 9.078
-longitude: 126.198
+latitude: 9.079
+longitude: 126.199
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pulilan
 url: /pulilan/
-latitude: 14.902
-longitude: 120.855
+latitude: 14.936
+longitude: 120.843
 ---
