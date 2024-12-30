@@ -1,6 +1,6 @@
 ---
 title: Lubao, Pampanga
 url: /lubao-pampanga/
-latitude: 14.955
-longitude: 120.587
+latitude: 14.956
+longitude: 120.586
 ---

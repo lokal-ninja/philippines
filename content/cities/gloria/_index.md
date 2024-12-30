@@ -1,6 +1,6 @@
 ---
 title: Gloria
 url: /gloria/
-latitude: 12.911
-longitude: 121.462
+latitude: 12.909
+longitude: 121.467
 ---
