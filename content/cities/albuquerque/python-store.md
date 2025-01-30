@@ -1,5 +1,5 @@
 ---
 title: "Python Store"
 url: /albuquerque/python-store/
-shop: department store
+shop: gift
 ---

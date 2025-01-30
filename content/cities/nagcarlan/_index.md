@@ -1,6 +1,6 @@
 ---
 title: Nagcarlan
 url: /nagcarlan/
-latitude: 14.138
-longitude: 121.417
+latitude: 14.111
+longitude: 121.415
 ---
