@@ -1,5 +1,5 @@
 ---
-title: "MR.DIY"
+title: "Mr. DIY"
 url: /laoag/mr-diy/
 shop: doityourself
 ---
