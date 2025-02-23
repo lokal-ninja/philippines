@@ -1,6 +1,6 @@
 ---
 title: Alcala
 url: /alcala/
-latitude: 17.897
+latitude: 17.896
 longitude: 121.685
 ---

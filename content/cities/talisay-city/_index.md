@@ -1,6 +1,6 @@
 ---
 title: Talisay City
 url: /talisay-city/
-latitude: 10.267
-longitude: 123.843
+latitude: 10.259
+longitude: 123.818
 ---

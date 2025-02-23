@@ -1,6 +1,6 @@
 ---
 title: Minglanilla
 url: /minglanilla/
-latitude: 10.256
-longitude: 123.812
+latitude: 10.241
+longitude: 123.79
 ---

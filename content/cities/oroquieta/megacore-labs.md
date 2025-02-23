@@ -1,5 +1,5 @@
 ---
-title: "MEGACORE LABS"
+title: "Megacore Labs"
 url: /oroquieta/megacore-labs/
 shop: hardware
 ---
