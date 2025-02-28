@@ -1,6 +1,6 @@
 ---
 title: Bansalan
 url: /bansalan/
-latitude: 6.787
-longitude: 125.212
+latitude: 6.786
+longitude: 125.214
 ---
