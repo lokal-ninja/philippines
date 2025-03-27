@@ -1,5 +1,5 @@
 ---
-title: "Dunkin"
+title: "Dunkin'"
 url: /tanza/dunkin/
 shop: bakery
 ---

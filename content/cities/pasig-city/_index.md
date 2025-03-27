@@ -1,6 +1,6 @@
 ---
 title: Pasig City
 url: /pasig-city/
-latitude: 14.54
-longitude: 121.103
+latitude: 14.578
+longitude: 121.074
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mendez
 url: /mendez/
-latitude: 14.118
-longitude: 120.895
+latitude: 14.135
+longitude: 120.902
 ---
