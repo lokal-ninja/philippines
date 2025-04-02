@@ -1,6 +1,6 @@
 ---
 title: Silang
 url: /silang/
-latitude: 14.213
-longitude: 120.968
+latitude: 14.174
+longitude: 121.002
 ---
