@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /imus/expressions/
-shop: books
+shop: office supplies
 ---
