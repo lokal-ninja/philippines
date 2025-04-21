@@ -1,6 +1,6 @@
 ---
 title: Tawala
 url: /tawala/
-latitude: 9.55
-longitude: 123.772
+latitude: 9.562
+longitude: 123.777
 ---

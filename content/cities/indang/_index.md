@@ -1,6 +1,6 @@
 ---
 title: Indang
 url: /indang/
-latitude: 14.196
-longitude: 120.878
+latitude: 14.202
+longitude: 120.873
 ---
