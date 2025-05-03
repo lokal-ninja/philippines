@@ -1,6 +1,6 @@
 ---
 title: Lucban
 url: /lucban/
-latitude: 14.117
-longitude: 121.556
+latitude: 14.115
+longitude: 121.555
 ---

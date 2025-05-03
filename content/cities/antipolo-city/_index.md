@@ -1,6 +1,6 @@
 ---
 title: Antipolo City
 url: /antipolo-city/
-latitude: 14.555
-longitude: 121.165
+latitude: 14.581
+longitude: 121.18
 ---

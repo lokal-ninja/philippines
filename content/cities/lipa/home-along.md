@@ -1,5 +1,5 @@
 ---
 title: "Home Along"
 url: /lipa/home-along/
-shop: houseware
+shop: electronics
 ---
