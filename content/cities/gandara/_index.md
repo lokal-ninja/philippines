@@ -1,6 +1,6 @@
 ---
 title: Gandara
 url: /gandara/
-latitude: 12.015
-longitude: 124.812
+latitude: 12.005
+longitude: 124.811
 ---

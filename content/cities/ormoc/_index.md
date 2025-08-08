@@ -1,6 +1,6 @@
 ---
 title: Ormoc
 url: /ormoc/
-latitude: 11.025
-longitude: 124.605
+latitude: 11.01
+longitude: 124.608
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maramag
 url: /maramag/
-latitude: 7.765
-longitude: 125.006
+latitude: 7.881
+longitude: 125.062
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tacloban
 url: /tacloban/
-latitude: 11.247
-longitude: 124.982
+latitude: 11.244
+longitude: 125.003
 ---

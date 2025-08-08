@@ -1,6 +1,6 @@
 ---
 title: Surigao
 url: /surigao/
-latitude: 9.79
-longitude: 125.497
+latitude: 9.789
+longitude: 125.492
 ---
