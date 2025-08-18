@@ -1,5 +1,5 @@
 ---
-title: "Robinson's Supermarket"
+title: "Robinsons Supermarket"
 url: /general-trias/robinsons-supermarket/
 shop: supermarket
 ---
