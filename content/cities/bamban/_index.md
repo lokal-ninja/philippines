@@ -1,6 +1,6 @@
 ---
 title: Bamban
 url: /bamban/
-latitude: 15.286
-longitude: 120.569
+latitude: 15.29
+longitude: 120.571
 ---

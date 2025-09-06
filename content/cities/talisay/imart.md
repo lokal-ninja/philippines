@@ -1,5 +1,5 @@
 ---
-title: "iMart"
+title: "Imart"
 url: /talisay/imart/
 shop: convenience
 ---

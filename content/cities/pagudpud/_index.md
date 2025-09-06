@@ -1,6 +1,6 @@
 ---
 title: Pagudpud
 url: /pagudpud/
-latitude: 18.57
-longitude: 120.811
+latitude: 18.56
+longitude: 120.787
 ---

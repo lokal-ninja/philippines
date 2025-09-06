@@ -1,6 +1,6 @@
 ---
 title: Pateros
 url: /pateros/
-latitude: 14.544
-longitude: 121.068
+latitude: 14.548
+longitude: 121.074
 ---
