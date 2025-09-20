@@ -1,6 +1,6 @@
 ---
 title: Banga
 url: /banga/
-latitude: 6.462
-longitude: 124.74
+latitude: 6.43
+longitude: 124.771
 ---
