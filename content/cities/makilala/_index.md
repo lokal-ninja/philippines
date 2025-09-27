@@ -1,6 +1,6 @@
 ---
 title: Makilala
 url: /makilala/
-latitude: 6.946
-longitude: 125.11
+latitude: 6.959
+longitude: 125.09
 ---
