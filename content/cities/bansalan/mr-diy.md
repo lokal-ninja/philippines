@@ -1,5 +1,5 @@
 ---
-title: "Mr. DIY"
+title: "MR.DIY"
 url: /bansalan/mr-diy/
-shop: department store
+shop: doityourself
 ---
