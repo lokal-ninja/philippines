@@ -1,5 +1,5 @@
 ---
 title: "Wine Story"
 url: /taguig/wine-story/
-shop: alcohol
+shop: wine
 ---
