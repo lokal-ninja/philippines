@@ -1,6 +1,6 @@
 ---
 title: Mahinog
 url: /mahinog/
-latitude: 9.192
-longitude: 124.781
+latitude: 9.152
+longitude: 124.795
 ---

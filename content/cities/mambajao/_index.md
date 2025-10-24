@@ -1,6 +1,6 @@
 ---
 title: Mambajao
 url: /mambajao/
-latitude: 9.254
-longitude: 124.716
+latitude: 9.243
+longitude: 124.738
 ---
