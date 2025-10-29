@@ -1,6 +1,6 @@
 ---
 title: Guagua
 url: /guagua/
-latitude: 14.975
-longitude: 120.617
+latitude: 14.966
+longitude: 120.634
 ---

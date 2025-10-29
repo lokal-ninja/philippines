@@ -1,6 +1,6 @@
 ---
 title: Calamba
 url: /calamba/
-latitude: 14.205
-longitude: 121.155
+latitude: 14.192
+longitude: 121.139
 ---
