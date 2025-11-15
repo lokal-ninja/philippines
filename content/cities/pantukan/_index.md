@@ -1,6 +1,6 @@
 ---
 title: Pantukan
 url: /pantukan/
-latitude: 7.14
+latitude: 7.139
 longitude: 125.893
 ---

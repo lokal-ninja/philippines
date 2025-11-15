@@ -1,6 +1,6 @@
 ---
 title: Malaybalay
 url: /malaybalay/
-latitude: 8.15
-longitude: 125.126
+latitude: 8.159
+longitude: 125.123
 ---
