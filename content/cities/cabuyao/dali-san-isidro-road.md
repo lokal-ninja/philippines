@@ -1,5 +1,5 @@
 ---
 title: "Dali"
-url: /san-pedro/dali-rizal-street/
+url: /cabuyao/dali-san-isidro-road/
 shop: convenience
 ---

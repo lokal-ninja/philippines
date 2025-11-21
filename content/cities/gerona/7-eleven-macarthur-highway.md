@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /gerona/7-eleven-2/
+url: /gerona/7-eleven-macarthur-highway/
 shop: convenience
 ---

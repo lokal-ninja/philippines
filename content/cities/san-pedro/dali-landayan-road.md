@@ -1,5 +1,5 @@
 ---
 title: "Dali"
-url: /calamba/dali-national-highway-2/
+url: /san-pedro/dali-landayan-road/
 shop: convenience
 ---

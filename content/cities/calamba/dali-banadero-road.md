@@ -1,5 +1,5 @@
 ---
 title: "Dali"
-url: /cabuyao/dali-3/
+url: /calamba/dali-banadero-road/
 shop: convenience
 ---
