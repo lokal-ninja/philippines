@@ -1,5 +1,5 @@
 ---
 title: "RRL Clean Rice"
 url: /mandaluyong/rrl-clean-rice/
-shop: supermarket
+shop: shop
 ---
