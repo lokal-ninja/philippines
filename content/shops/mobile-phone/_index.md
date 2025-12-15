@@ -1,5 +1,5 @@
 ---
 title: mobile phone
 url: /mobile-phone/
-icon: other
+icon: mobile_phone
 ---

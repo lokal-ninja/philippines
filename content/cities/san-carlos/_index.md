@@ -1,6 +1,6 @@
 ---
 title: San Carlos
 url: /san-carlos/
-latitude: 10.479
-longitude: 123.409
+latitude: 15.931
+longitude: 120.348
 ---
