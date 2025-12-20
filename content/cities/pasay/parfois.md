@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /pasay/parfois/
-shop: shoes
+shop: boutique
 ---

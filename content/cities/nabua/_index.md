@@ -1,6 +1,6 @@
 ---
 title: Nabua
 url: /nabua/
-latitude: 13.377
-longitude: 123.372
+latitude: 13.415
+longitude: 123.39
 ---
