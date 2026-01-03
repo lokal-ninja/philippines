@@ -1,5 +1,5 @@
 ---
 title: "Theo's Store"
 url: /koronadal-city/theos-store/
-shop: variety store
+shop: convenience
 ---
