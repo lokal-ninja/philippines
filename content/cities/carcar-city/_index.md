@@ -1,6 +1,6 @@
 ---
-title: Carcar City
+title: carcar city
 url: /carcar-city/
-latitude: 10.108
-longitude: 123.656
+latitude: 10.088
+longitude: 123.671
 ---

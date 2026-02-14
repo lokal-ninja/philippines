@@ -1,6 +1,6 @@
 ---
 title: Palo
 url: /palo/
-latitude: 11.171
-longitude: 124.999
+latitude: 11.159
+longitude: 124.99
 ---

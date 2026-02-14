@@ -1,6 +1,6 @@
 ---
 title: Malolos
 url: /malolos/
-latitude: 14.857
-longitude: 120.813
+latitude: 14.84
+longitude: 120.811
 ---

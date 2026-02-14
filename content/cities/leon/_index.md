@@ -1,6 +1,6 @@
 ---
 title: Leon
 url: /leon/
-latitude: 10.827
-longitude: 122.376
+latitude: 10.779
+longitude: 122.39
 ---

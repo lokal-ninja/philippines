@@ -1,6 +1,6 @@
 ---
 title: Urdaneta City
 url: /urdaneta-city/
-latitude: 15.975
-longitude: 120.562
+latitude: 15.988
+longitude: 120.573
 ---
