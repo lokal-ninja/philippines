@@ -1,5 +1,5 @@
 ---
 title: "Alberto"
 url: /las-pinas/alberto/
-shop: boutique
+shop: clothes
 ---

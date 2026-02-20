@@ -1,6 +1,6 @@
 ---
 title: Lambunao
 url: /lambunao/
-latitude: 11.058
-longitude: 122.477
+latitude: 11.054
+longitude: 122.473
 ---
