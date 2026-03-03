@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /paranaque/bonjour/
-shop: supermarket
+shop: convenience
 ---
