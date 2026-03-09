@@ -1,6 +1,6 @@
 ---
 title: Plaridel
 url: /plaridel/
-latitude: 14.865
-longitude: 120.86
+latitude: 14.89
+longitude: 120.867
 ---
