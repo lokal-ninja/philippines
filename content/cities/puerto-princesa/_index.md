@@ -1,6 +1,6 @@
 ---
 title: Puerto Princesa
 url: /puerto-princesa/
-latitude: 9.741
-longitude: 118.741
+latitude: 9.776
+longitude: 118.748
 ---
