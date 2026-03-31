@@ -1,6 +1,6 @@
 ---
 title: Magpet
 url: /magpet/
-latitude: 7.104
-longitude: 125.112
+latitude: 7.1
+longitude: 125.118
 ---

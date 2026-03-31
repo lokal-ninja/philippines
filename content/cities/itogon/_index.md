@@ -1,6 +1,6 @@
 ---
 title: Itogon
 url: /itogon/
-latitude: 16.414
-longitude: 120.637
+latitude: 16.415
+longitude: 120.633
 ---

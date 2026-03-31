@@ -1,6 +1,6 @@
 ---
 title: Naval
 url: /naval/
-latitude: 11.56
-longitude: 124.395
+latitude: 11.562
+longitude: 124.393
 ---
