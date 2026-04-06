@@ -1,6 +1,6 @@
 ---
 title: Calumpit
 url: /calumpit/
-latitude: 14.915
-longitude: 120.766
+latitude: 14.913
+longitude: 120.767
 ---

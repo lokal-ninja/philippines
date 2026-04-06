@@ -1,6 +1,6 @@
 ---
 title: Bacarra
 url: /bacarra/
-latitude: 18.252
-longitude: 120.609
+latitude: 18.254
+longitude: 120.619
 ---
