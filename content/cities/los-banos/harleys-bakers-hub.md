@@ -1,5 +1,5 @@
 ---
-title: "HARLEY'S BAKER'S HUB"
+title: "Harley's Baker's Hub"
 url: /los-banos/harleys-bakers-hub/
-shop: bakery
+shop: shop
 ---
