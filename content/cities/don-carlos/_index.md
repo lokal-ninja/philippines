@@ -1,6 +1,6 @@
 ---
 title: Don Carlos
 url: /don-carlos/
-latitude: 7.679
-longitude: 124.995
+latitude: 7.685
+longitude: 124.919
 ---
