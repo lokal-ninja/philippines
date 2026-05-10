@@ -1,6 +1,6 @@
 ---
 title: M'lang
 url: /mlang/
-latitude: 6.908
-longitude: 124.949
+latitude: 6.947
+longitude: 124.881
 ---
