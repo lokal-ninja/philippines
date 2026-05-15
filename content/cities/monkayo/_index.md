@@ -1,6 +1,6 @@
 ---
 title: Monkayo
 url: /monkayo/
-latitude: 7.826
-longitude: 126.055
+latitude: 7.831
+longitude: 126.059
 ---

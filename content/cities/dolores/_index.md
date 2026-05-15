@@ -1,6 +1,6 @@
 ---
 title: Dolores
 url: /dolores/
-latitude: 14.022
-longitude: 121.409
+latitude: 14.014
+longitude: 121.394
 ---

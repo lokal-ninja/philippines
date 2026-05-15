@@ -1,6 +1,6 @@
 ---
 title: Miag-ao
 url: /miag-ao/
-latitude: 10.641
-longitude: 122.235
+latitude: 10.64
+longitude: 122.237
 ---
