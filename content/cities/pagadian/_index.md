@@ -1,6 +1,6 @@
 ---
 title: Pagadian
 url: /pagadian/
-latitude: 7.823
-longitude: 123.438
+latitude: 7.825
+longitude: 123.441
 ---

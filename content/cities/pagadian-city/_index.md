@@ -1,6 +1,6 @@
 ---
 title: Pagadian City
 url: /pagadian-city/
-latitude: 7.841
-longitude: 123.428
+latitude: 7.823
+longitude: 123.438
 ---
