@@ -2,5 +2,5 @@
 title: Katipunan
 url: /katipunan/
 latitude: 8.512
-longitude: 123.259
+longitude: 123.263
 ---

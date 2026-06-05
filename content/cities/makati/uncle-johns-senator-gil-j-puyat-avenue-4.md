@@ -1,5 +1,0 @@
----
-title: "Uncle John's"
-url: /makati/uncle-johns-senator-gil-j-puyat-avenue-4/
-shop: convenience
----
