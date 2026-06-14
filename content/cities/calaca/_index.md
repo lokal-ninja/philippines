@@ -1,6 +1,6 @@
 ---
 title: Calaca
 url: /calaca/
-latitude: 13.929
+latitude: 13.927
 longitude: 120.813
 ---

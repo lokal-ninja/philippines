@@ -1,5 +1,5 @@
 ---
-title: "Mr. DIY"
+title: "MR.DIY"
 url: /los-banos/mr-diy/
-shop: hardware
+shop: doityourself
 ---
