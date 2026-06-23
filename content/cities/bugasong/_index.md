@@ -1,6 +1,6 @@
 ---
 title: Bugasong
 url: /bugasong/
-latitude: 11.02
-longitude: 122.053
+latitude: 11.017
+longitude: 122.052
 ---

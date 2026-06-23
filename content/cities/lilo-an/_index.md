@@ -1,6 +1,6 @@
 ---
 title: Lilo-an
 url: /lilo-an/
-latitude: 10.362
-longitude: 123.996
+latitude: 10.359
+longitude: 124.001
 ---
