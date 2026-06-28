@@ -1,6 +1,6 @@
 ---
 title: Bongao
 url: /bongao/
-latitude: 5.027
-longitude: 119.777
+latitude: 5.042
+longitude: 119.745
 ---
