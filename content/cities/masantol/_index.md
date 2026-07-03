@@ -1,6 +1,6 @@
 ---
 title: Masantol
 url: /masantol/
-latitude: 14.894
-longitude: 120.706
+latitude: 14.891
+longitude: 120.704
 ---

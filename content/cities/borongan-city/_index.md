@@ -1,6 +1,6 @@
 ---
 title: Borongan City
 url: /borongan-city/
-latitude: 11.61
+latitude: 11.613
 longitude: 125.433
 ---

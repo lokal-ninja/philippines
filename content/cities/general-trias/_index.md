@@ -1,6 +1,6 @@
 ---
 title: General Trias
 url: /general-trias/
-latitude: 14.383
-longitude: 120.879
+latitude: 14.291
+longitude: 120.908
 ---

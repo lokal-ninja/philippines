@@ -1,6 +1,6 @@
 ---
 title: Mabini
 url: /mabini/
-latitude: 13.75
-longitude: 120.941
+latitude: 13.751
+longitude: 120.94
 ---
