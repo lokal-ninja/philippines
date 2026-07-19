@@ -1,6 +1,6 @@
 ---
 title: Bayugan
 url: /bayugan/
-latitude: 8.715
-longitude: 125.747
+latitude: 8.71
+longitude: 125.757
 ---
