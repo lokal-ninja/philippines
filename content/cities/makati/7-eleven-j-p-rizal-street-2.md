@@ -1,5 +1,0 @@
----
-title: "7-Eleven"
-url: /makati/7-eleven-j-p-rizal-street-2/
-shop: convenience
----

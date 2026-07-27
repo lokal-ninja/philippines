@@ -1,5 +1,0 @@
----
-title: "M Lhuillier"
-url: /san-fernando/m-lhuillier/
-shop: pawnbroker
----
