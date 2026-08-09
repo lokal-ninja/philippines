@@ -1,0 +1,5 @@
+---
+title: "MC Home Depot"
+url: /imus/mc-home-depot/
+shop: hardware
+---

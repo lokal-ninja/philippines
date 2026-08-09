@@ -1,0 +1,5 @@
+---
+title: "Pretty Pink Salon"
+url: /mandaluyong/pretty-pink-salon/
+shop: hairdresser
+---
