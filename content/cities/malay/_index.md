@@ -1,6 +1,6 @@
 ---
 title: Malay
 url: /malay/
-latitude: 11.964
-longitude: 121.923
+latitude: 11.951
+longitude: 121.931
 ---

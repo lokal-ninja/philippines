@@ -1,6 +1,6 @@
 ---
 title: Guimbal
 url: /guimbal/
-latitude: 10.71
-longitude: 122.312
+latitude: 10.664
+longitude: 122.32
 ---
