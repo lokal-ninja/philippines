@@ -1,6 +1,6 @@
 ---
 title: Catarman
 url: /catarman/
-latitude: 9.211
-longitude: 124.64
+latitude: 9.202
+longitude: 124.635
 ---

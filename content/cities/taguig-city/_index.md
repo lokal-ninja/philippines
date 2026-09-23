@@ -1,6 +1,6 @@
 ---
 title: Taguig City
 url: /taguig-city/
-latitude: 14.526
-longitude: 121.057
+latitude: 14.535
+longitude: 121.059
 ---

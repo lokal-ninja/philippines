@@ -1,6 +1,6 @@
 ---
 title: Zamboanga
 url: /zamboanga/
-latitude: 6.906
-longitude: 122.075
+latitude: 6.907
+longitude: 122.078
 ---
