@@ -1,6 +1,6 @@
 ---
 title: Bacnotan
 url: /bacnotan/
-latitude: 16.725
-longitude: 120.352
+latitude: 16.723
+longitude: 120.35
 ---

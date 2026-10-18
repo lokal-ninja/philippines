@@ -1,6 +1,6 @@
 ---
 title: San Antonio
 url: /san-antonio/
-latitude: 15.363
-longitude: 120.832
+latitude: 14.948
+longitude: 120.089
 ---

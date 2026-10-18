@@ -1,6 +1,6 @@
 ---
 title: Batac
 url: /batac/
-latitude: 18.055
-longitude: 120.564
+latitude: 18.172
+longitude: 120.594
 ---
