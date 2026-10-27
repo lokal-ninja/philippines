@@ -1,6 +1,6 @@
 ---
 title: Maragondon
 url: /maragondon/
-latitude: 14.255
-longitude: 120.777
+latitude: 14.272
+longitude: 120.738
 ---

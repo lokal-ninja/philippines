@@ -1,6 +1,6 @@
 ---
 title: Lipa
 url: /lipa/
-latitude: 13.942
-longitude: 121.153
+latitude: 13.946
+longitude: 121.155
 ---
