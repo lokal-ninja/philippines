@@ -1,6 +1,6 @@
 ---
 title: Imelda
 url: /imelda/
-latitude: 7.643
-longitude: 122.935
+latitude: 7.669
+longitude: 122.964
 ---

@@ -1,6 +1,6 @@
 ---
 title: Romblon
 url: /romblon/
-latitude: 12.577
-longitude: 122.269
+latitude: 12.576
+longitude: 122.268
 ---
