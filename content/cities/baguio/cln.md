@@ -1,5 +1,5 @@
 ---
 title: "CLN"
 url: /baguio/cln/
-shop: clothes
+shop: boutique
 ---
