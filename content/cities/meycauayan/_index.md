@@ -1,6 +1,6 @@
 ---
 title: Meycauayan
 url: /meycauayan/
-latitude: 14.735
-longitude: 120.962
+latitude: 14.765
+longitude: 120.992
 ---
