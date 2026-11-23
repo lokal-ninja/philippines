@@ -1,6 +1,6 @@
 ---
 title: Moncada
 url: /moncada/
-latitude: 15.737
-longitude: 120.574
+latitude: 15.73
+longitude: 120.572
 ---

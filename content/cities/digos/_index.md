@@ -1,6 +1,6 @@
 ---
 title: Digos
 url: /digos/
-latitude: 6.766
-longitude: 125.347
+latitude: 6.738
+longitude: 125.364
 ---

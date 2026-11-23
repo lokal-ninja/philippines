@@ -1,6 +1,6 @@
 ---
 title: Banna
 url: /banna/
-latitude: 17.982
+latitude: 17.981
 longitude: 120.657
 ---
